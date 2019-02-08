@@ -32,27 +32,35 @@
 
 Критерий исключения один: не соответствует PICO-формуле или не является РКИ или СО~~,— поэтому в Rayyan не будем даже указывать.~~ Апробируем список стандартных критериев исключения Rayyan, потому что он выглядит адекватным (полужирным выделяем критерии, обоснованные в контексте этого обзора):
 
-* background article,
-* foreign language,
+* **background article**,
+* **foreign language**,
 * **wrong drug**,
 * **wrong outcome**,
 * **wrong population**,
-* wrong publication type,
+* **wrong publication type**,
 * **wrong study design**,
-* wrong study duration.
+* **wrong study duration**.
 
 При этом _wrong drug_ разумеем, естественно, в более общем смысле как «не то вмешательство».
 
+Также здесь:
+
+* _background article_ соответствует старому `шаг 1 - фаза 0-1 [Records Excluded Step 1 Animal or Cadaver or Biomech or In Vitro or In Silico or Healthy] (исследования на животных, трупах, стендовые, in vitro, in silico или на здоровых лицах)`;
+* _wrong publication type_ — не статьи в научных журналах (комментарии и письма расцениваем как статьи в научных журналах);
+* _foreign language_ — не английский и не русский в аннотации или полном тексте.
+
+Остальные, считаю, самоочевидны с учетом PICO-формулы и наложенного ограничения по дизайну (иначе не велик смысл в использовании стандартного набора критериев, если каждый из них все равно явно переопределять).
+
 При этом применять критерии будем, по старому опыту, пошагово. Градация будет тоже в целом соответствовать старой:
 
-1. wrong publication type,
-1. background article,
+1. **wrong publication type**,
+1. **background article**,
 1. **wrong population**,
 1. **wrong drug**,
 1. **wrong study design**,
 1. **wrong outcome**,
-1. wrong study duration,
-1. foreign language.
+1. **wrong study duration**,
+1. **foreign language**.
 
 Итак, явный порядок действий при скрининге для ясности:
 
