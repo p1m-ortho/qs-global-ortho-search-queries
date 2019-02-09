@@ -49,7 +49,7 @@
 
 * **background article**,
 * **foreign language**,
-* **wrong drug**,
+* wrong drug,
 * **wrong outcome**,
 * **wrong population**,
 * **wrong publication type**,
