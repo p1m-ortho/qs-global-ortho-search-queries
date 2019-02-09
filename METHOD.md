@@ -57,7 +57,7 @@
 
 * **background article**,
 * **foreign language**,
-* wrong drug,
+* ~~wrong drug~~,
 * **wrong outcome**,
 * **wrong population**,
 * **wrong publication type**,
@@ -81,7 +81,7 @@
 1. **wrong publication type**,
 1. **background article**,
 1. **wrong population**,
-1. **wrong drug**,
+1. ~~wrong drug~~,
 1. **wrong study design**,
 1. **wrong outcome**,
 1. **wrong study duration**,
