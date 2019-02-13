@@ -1,0 +1,69 @@
+Recent queries in pubmed
+Search,Query,Items found,Time
+#67,"Search hasabstract english[la] (vertebroplast*[tw] OR vertebroplasty[MeSH Terms]) AND (co[MeSH Subheading] OR ae[MeSH Subheading] OR Long Term Adverse Effects[MeSH Terms] OR Postoperative Complications[MeSH Terms] OR Intraoperative Complications[MeSH Terms] OR Death[MeSH Terms] OR Hemorrhage[MeSH Terms] OR Embolism[MeSH Terms] OR spinal cord compression[MeSH Terms] OR Hypersensitivity[MeSH Terms] OR death[Text Word] OR hypersensitivity[Text Word] OR spinal cord compression[Text Word] OR embol*[tw] OR hemor*[Text Word] OR haemor*[Text Word] OR complication*[Text Word] OR adverse*[Text Word] OR lethal*[Text Word] OR mortal*[Text Word] OR allerg*[Text Word] OR anaphyla*[Text Word] OR fatal*[Text Word] OR mortality[MeSH Terms]) AND (""1600/01/01""[Date - Create] : ""2019/02/12""[Date - Create])",2088,16:48:11
+#66,"Search (vertebroplast*[tw] OR vertebroplasty[MeSH Terms]) AND (co[MeSH Subheading] OR ae[MeSH Subheading] OR Long Term Adverse Effects[MeSH Terms] OR Postoperative Complications[MeSH Terms] OR Intraoperative Complications[MeSH Terms] OR Death[MeSH Terms] OR Hemorrhage[MeSH Terms] OR Embolism[MeSH Terms] OR spinal cord compression[MeSH Terms] OR Hypersensitivity[MeSH Terms] OR death[Text Word] OR hypersensitivity[Text Word] OR spinal cord compression[Text Word] OR embol*[tw] OR hemor*[Text Word] OR haemor*[Text Word] OR complication*[Text Word] OR adverse*[Text Word] OR lethal*[Text Word] OR mortal*[Text Word] OR allerg*[Text Word] OR anaphyla*[Text Word] OR fatal*[Text Word] OR mortality[MeSH Terms]) AND (""1600/01/01""[Date - Create] : ""2019/02/12""[Date - Create])",2748,16:43:52
+#65,"Search (vertebroplast*[tw] OR vertebroplasty[MeSH Terms]) AND (co[MeSH Subheading] OR ae[MeSH Subheading] OR Long Term Adverse Effects[MeSH Terms] OR Postoperative Complications[MeSH Terms] OR Intraoperative Complications[MeSH Terms] OR Death[MeSH Terms] OR Hemorrhage[MeSH Terms] OR Embolism[MeSH Terms] OR spinal cord compression[MeSH Terms] OR Hypersensitivity[MeSH Terms] OR death[Text Word] OR hypersensitivity[Text Word] OR spinal cord compression[Text Word] OR embol*[tw] OR hemor*[Text Word] OR haemor*[Text Word] OR complication*[Text Word] OR adverse*[Text Word] OR lethal*[Text Word] OR mortal*[Text Word] OR allerg*[Text Word] OR anaphyla*[Text Word] OR fatal*[Text Word] OR mortality[MeSH Terms]) AND (""0001/01/01""[Date - Create] : ""2019/02/11""[Date - Create])",2748,16:38:09
+#64,"Search (vertebroplast*[tw] OR vertebroplasty[MeSH Terms] AND (co[MeSH Subheading] OR ae[MeSH Subheading] OR Long Term Adverse Effects[MeSH Terms] OR Postoperative Complications[MeSH Terms] OR Intraoperative Complications[MeSH Terms] OR Death[MeSH Terms] OR Hemorrhage[MeSH Terms] OR Embolism[MeSH Terms] OR spinal cord compression[MeSH Terms] OR Hypersensitivity[MeSH Terms] OR death[Text Word] OR hypersensitivity[Text Word] OR spinal cord compression[Text Word] OR embol*[tw] OR hemor*[Text Word] OR haemor*[Text Word] OR complication*[Text Word] OR adverse*[Text Word] OR lethal*[Text Word] OR mortal*[Text Word] OR allerg*[Text Word] OR anaphyla*[Text Word] OR fatal*[Text Word] OR mortality[MeSH Terms]) AND (""0001/01/01""[Date - Create] : ""2019/02/11""[Date - Create])",2748,16:35:49
+#63,"Search (vertebroplast*[Title] OR vertebroplasty[MeSH Terms] AND (co[MeSH Subheading] OR ae[MeSH Subheading] OR Long Term Adverse Effects[MeSH Terms] OR Postoperative Complications[MeSH Terms] OR Intraoperative Complications[MeSH Terms] OR Death[MeSH Terms] OR Hemorrhage[MeSH Terms] OR Embolism[MeSH Terms] OR spinal cord compression[MeSH Terms] OR Hypersensitivity[MeSH Terms] OR death[Text Word] OR hypersensitivity[Text Word] OR spinal cord compression[Text Word] OR embol* OR hemor*[Text Word] OR haemor*[Text Word] OR complication*[Text Word] OR adverse*[Text Word] OR lethal*[Text Word] OR mortal*[Text Word] OR allerg*[Text Word] OR anaphyla*[Text Word] OR fatal*[Text Word] OR mortality[MeSH Terms]) AND (""0001/01/01""[Date - Create] : ""2019/02/11""[Date - Create])",2320,16:31:42
+#62,"Search (vertebroplast*[Title] OR vertebroplasty[MeSH Terms]) AND (co[MeSH Subheading] OR ae[MeSH Subheading] OR Long Term Adverse Effects[MeSH Terms] OR Postoperative Complications[MeSH Terms] OR Intraoperative Complications[MeSH Terms] OR Death[MeSH Terms] OR Hemorrhage[MeSH Terms] OR Embolism[MeSH Terms] OR spinal cord compression[MeSH Terms] OR Hypersensitivity[MeSH Terms] OR death[Text Word] OR hypersensitivity[Text Word] OR spinal cord compression[Text Word] OR embol* OR hemor*[Text Word] OR haemor*[Text Word] OR complication*[Text Word] OR adverse*[Text Word] OR lethal*[Text Word] OR mortal*[Text Word] OR allerg*[Text Word]) OR anaphyla*[Text Word] OR fatal*[Text Word] OR mortality[MeSH Terms]) AND (""0001/01/01""[Date - Create] : ""2019/02/11""[Date - Create])",507071,16:29:32
+#61,"Search (((((((((((((((((((((((((vertebroplast*[Title]) OR vertebroplasty[MeSH Terms]) AND co[MeSH Subheading]) OR ae[MeSH Subheading]) OR Long Term Adverse Effects[MeSH Terms]) OR Postoperative Complications[MeSH Terms]) OR Intraoperative Complications[MeSH Terms]) OR Death[MeSH Terms]) OR Hemorrhage[MeSH Terms]) OR Embolism[MeSH Terms]) OR spinal cord compression[MeSH Terms]) OR Hypersensitivity[MeSH Terms]) OR death[Text Word]) OR hypersensitivity[Text Word]) OR spinal cord compression[Text Word]) OR embol*) OR ((hemor*[Text Word] OR haemor*[Text Word]))) OR complication*[Text Word]) OR adverse*[Text Word]) OR lethal*[Text Word]) OR mortal*[Text Word]) OR allerg*[Text Word]) OR anaphyla*[Text Word]) OR fatal*[Text Word]) OR mortality[MeSH Terms]) AND (""0001/01/01""[Date - Create] : ""2019/02/11""[Date - Create])",6576072,16:24:42
+#60,"Search #10 #59 #5",2320,16:07:12
+#59,"Search (#26 or #58 or #49)",6663498,16:06:27
+#58,"Search (#56 or #57 or #42)",5222227,16:05:55
+#57,"Search adverse*[Text Word]",1975836,16:05:00
+#56,"Search complication*[Text Word]",2882271,16:04:42
+#55,"Search adverse[Text Word]",1945840,16:04:28
+#54,"Search #10 #53 #5",2316,16:02:16
+#53,"Search (#26 or #52 or #49)",6548279,16:01:46
+#52,"Search (#11 or #12 or #42)",2483373,16:01:13
+#51,"Search #10 #50 #5",2037,15:44:05
+#50,"Search (#26 or #42 or #49)",6059561,15:43:22
+#49,"Search (#43 or #44 or #45 or #46 or #47 or #48)",1586412,15:42:31
+#48,"Search mortality[MeSH Terms]",354149,15:41:33
+#47,"Search fatal*[Text Word]",186176,15:41:18
+#46,"Search anaphyla*[Text Word]",35516,15:39:34
+#45,"Search allerg*[Text Word]",206421,15:39:20
+#44,"Search mortal*[Text Word]",1047642,15:38:38
+#43,"Search lethal*[Text Word]",145283,15:38:24
+#42,"Search (#27 or #28 or #29 or #36 or #41)",1367714,15:38:02
+#41,"Search (hemor*[Text Word] OR haemor*[Text Word])",369160,15:36:44
+#39,"Search hemorrhage",389775,15:35:01
+#38,"Search (hemorrhag* or haemorrhag*)",355735,15:34:57
+#40,"Search hemorrhag*",329215,15:34:17
+#37,"Search (hemorrhage or haemorrhage)",389775,15:33:06
+#36,"Search embol*",158193,15:32:45
+#35,"Search embolism",92310,15:32:34
+#34,"Search death",790389,15:32:23
+#23,"Search spinal cord compression",16947,15:32:08
+#33,"Search hypersensitivity",359550,15:31:53
+#32,"Search (hemorrhage[Text Word] OR haemorrhage[Text Word])",284170,15:31:27
+#31,"Search (hemorrage[Text Word] OR haemorrage[Text Word])",243,15:30:54
+#30,"Search embolism[Text Word]",92102,15:30:39
+#29,"Search spinal cord compression[Text Word]",13297,15:30:13
+#28,"Search hypersensitivity[Text Word]",158364,15:29:55
+#27,"Search death[Text Word]",730947,15:28:59
+#26,"Search (#14 or #15 or #16 or #17 or #19 or #20 or #21 or #22 or #24 or #25)",4641468,15:28:41
+#25,"Search Hypersensitivity[MeSH Terms]",328249,15:26:31
+#24,"Search spinal cord compression[MeSH Terms]",10901,15:22:56
+#22,"Search Embolism[MeSH Terms]",57632,15:22:16
+#21,"Search Hemorrhage[MeSH Terms]",312736,15:20:11
+#20,"Search Death[MeSH Terms]",141089,15:19:02
+#19,"Search Intraoperative Complications[MeSH Terms]",49810,15:17:42
+#18,"Search Intraoperative Complications",93242,15:17:23
+#17,"Search Postoperative Complications[MeSH Terms]",510822,15:16:56
+#16,"Search Long Term Adverse Effects[MeSH Terms]",433,15:16:08
+#15,"Search ae[MeSH Subheading]",2059216,15:15:58
+#14,"Search co[MeSH Subheading]",2018099,15:15:47
+#8,"Search ((vertebroplast*[Title]) NOT vertebroplasty[Title]) AND (""1600/01/01""[Date - Create] : ""2019/02/11""[Date - Create])",10,15:12:01
+#12,"Search adverse[Title/Abstract]",444832,15:11:30
+#11,"Search complication*[Title/Abstract]",897526,15:10:42
+#10,"Search (#2 or #9)",3226,15:10:26
+#9,"Search vertebroplasty[MeSH Terms]",2322,15:09:55
+#4,"Search (""1600/01/01""[Date - Create] : ""2019/02/11""[Date - Create])",29365732,14:26:41
+#6,"Search (""1600/01/01""[Date - Create] : ""1700/01/01""[Date - Create])",0,14:25:32
+#5,"Search (""0001/01/01""[Date - Create] : ""2019/02/11""[Date - Create])",29365736,14:24:36
+#3,"Search (#2 not #1)",10,13:48:34
+#2,"Search vertebroplast*[Title]",2003,13:44:53
+#1,"Search vertebroplasty[Title]",1993,13:44:40
+
+
