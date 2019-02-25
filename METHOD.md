@@ -120,13 +120,34 @@ Thoracolumbar [TIAB] OR thoraco-lumbar [TIAB] OR thoraco lumbar [TIAB]
 
 ### Частота и структура взрывных переломов (PubMed, на скорую руку)
 
-Возвращает 217 записей.
+Возвращает 217 записей. Список PMID см. `pubmed_result_217.txt`.
 
 Пошаговую стратегию для конструктора с количествами см. в `pubmed-1.txt` (сделал настолько на скорую руку, что там остались даже старые запросы еще в начале истории).
 
 ```
 ((((((((((((((("Arbeitsgemeinschaft fur Osteosynthesefragen"[Title/Abstract]) OR "Association for Osteosynthesis"[Title/Abstract]) OR "Arbeitsgemeinschaft fur Osteosynthesefragen"[Title/Abstract]) OR "Association for the Study of Internal Fixation"[Title/Abstract]) OR AOSpine[Title/Abstract]) OR AO[Title/Abstract]) OR A2[Title/Abstract]) OR A3[Title/Abstract]) OR A4[Title/Abstract]) OR burst[Title/Abstract]) OR compression[Title/Abstract])) AND ((((((((spinal injuries[MeSH Terms]) OR fractures, bone[mh:noexp]) OR in[sh]) OR fracture*[Title]) OR injur*[Title])) AND (((((thoracic vertebrae[mh]) OR lumbar vertebrae[mh]) OR thoraco*[ti]) OR thoracic[ti]) OR lumbar[ti])) AND ((((((((((((demograph*[Title]) OR stats[Title]) OR statistic*[Title]) OR prevalence[Title]) OR occurrence[Title]) OR frequency[Title]) OR morbidity[Title]) OR incidence[Title]) OR distribut*[Title]) OR epidemiol*[Title]) OR ep[MeSH Subheading]) OR demography[MeSH Terms])))) AND 1600/01/01:2019/02/23[mhda])
 ```
+
+Выгружу в Рэйан, проскриню (в одиночку).
+
+[Традиционный пошаговый алгоритм скрининга](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/6ea77c71cf970dbec212c514c26a62cfbdbcea2e/METHOD.md#алгоритм-скрининга), критерии возьму стандартные рэйановские в следующих порядке и интерпретации:
+
+1. `wrong publication type`: не статьи в научных журналах (комментарии и письма расцениваем как статьи в научных журналах);
+1. `background article`: исследования на животных, трупах, стендовые, in vitro, in silico или на здоровых лицах;
+1. `wrong population`: детская популяция или популяция не пересекается с PICO (применяется, только если определена в PICO, иначе не применяется);
+1. `wrong drug`: вмешательства не пересекаются с PICO (применяется, только если определены в PICO, иначе не применяется);
+1. `wrong study design`: не СО
+([Shojania 2001](https://pubmed.gov/11525102)) и не РКИ ([Cochrane Handbook 5.1, box 6.3a](https://handbook-5-1.cochrane.org/chapter_6/box_6_3_a_cochrane_definitions_and_criteria_for_randomized.htm));
+1. `wrong outcome`: исходы не пересекаются с PICO (применяется, только если определены в PICO, иначе не применяется);
+1. `wrong study duration`: точки оценки результатов не пересекаются с PICO (применяется, только если определены в PICO, иначе не применяется);
+1. `foreign language`: не английский и не русский в аннотации или полном тексте.
+
+PICO:
+
+```
+```
+
+-----
 
 Расширенная (нормальная вообще-то) версия, где везде стоит [tiab].
 
