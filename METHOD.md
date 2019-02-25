@@ -127,3 +127,15 @@ Thoracolumbar [TIAB] OR thoraco-lumbar [TIAB] OR thoraco lumbar [TIAB]
 ```
 ((((((((((((((("Arbeitsgemeinschaft fur Osteosynthesefragen"[Title/Abstract]) OR "Association for Osteosynthesis"[Title/Abstract]) OR "Arbeitsgemeinschaft fur Osteosynthesefragen"[Title/Abstract]) OR "Association for the Study of Internal Fixation"[Title/Abstract]) OR AOSpine[Title/Abstract]) OR AO[Title/Abstract]) OR A2[Title/Abstract]) OR A3[Title/Abstract]) OR A4[Title/Abstract]) OR burst[Title/Abstract]) OR compression[Title/Abstract])) AND ((((((((spinal injuries[MeSH Terms]) OR fractures, bone[mh:noexp]) OR in[sh]) OR fracture*[Title]) OR injur*[Title])) AND (((((thoracic vertebrae[mh]) OR lumbar vertebrae[mh]) OR thoraco*[ti]) OR thoracic[ti]) OR lumbar[ti])) AND ((((((((((((demograph*[Title]) OR stats[Title]) OR statistic*[Title]) OR prevalence[Title]) OR occurrence[Title]) OR frequency[Title]) OR morbidity[Title]) OR incidence[Title]) OR distribut*[Title]) OR epidemiol*[Title]) OR ep[MeSH Subheading]) OR demography[MeSH Terms])))) AND 1600/01/01:2019/02/23[mhda])
 ```
+
+Расширенная (нормальная вообще-то) версия, где везде стоит [tiab].
+
+```
+((((((((((((((("Arbeitsgemeinschaft fur Osteosynthesefragen"[Title/Abstract]) OR "Association for Osteosynthesis"[Title/Abstract]) OR "Arbeitsgemeinschaft fur Osteosynthesefragen"[Title/Abstract]) OR "Association for the Study of Internal Fixation"[Title/Abstract]) OR AOSpine[Title/Abstract]) OR AO[Title/Abstract]) OR A2[Title/Abstract]) OR A3[Title/Abstract]) OR A4[Title/Abstract]) OR burst[Title/Abstract]) OR compression[Title/Abstract])) AND ((((((((spinal injuries[MeSH Terms]) OR fractures, bone[mh:noexp]) OR in[sh]) OR fracture*[Title/Abstract]) OR injur*[Title/Abstract])) AND (((((thoracic vertebrae[mh]) OR lumbar vertebrae[mh]) OR thoraco*[tiab]) OR thoracic[tiab]) OR lumbar[tiab])) AND ((((((((((((demograph*[Title/Abstract]) OR stats[Title/Abstract]) OR statistic*[Title/Abstract]) OR prevalence[Title/Abstract]) OR occurrence[Title/Abstract]) OR frequency[Title/Abstract]) OR morbidity[Title/Abstract]) OR incidence[Title/Abstract]) OR distribut*[Title/Abstract]) OR epidemiol*[Title/Abstract]) OR ep[MeSH Subheading]) OR demography[MeSH Terms])))) AND 1600/01/01:2019/02/23[mhda])
+```
+
+И совсем расширенная, где везде [tw].
+
+```
+((((((((((((((("Arbeitsgemeinschaft fur Osteosynthesefragen"[tw]) OR "Association for Osteosynthesis"[tw]) OR "Arbeitsgemeinschaft fur Osteosynthesefragen"[tw]) OR "Association for the Study of Internal Fixation"[tw]) OR AOSpine[tw]) OR AO[tw]) OR A2[tw]) OR A3[tw]) OR A4[tw]) OR burst[tw]) OR compression[tw])) AND ((((((((spinal injuries[MeSH Terms]) OR fractures, bone[mh:noexp]) OR in[sh]) OR fracture*[tw]) OR injur*[tw])) AND (((((thoracic vertebrae[mh]) OR lumbar vertebrae[mh]) OR thoraco*[tw]) OR thoracic[tw]) OR lumbar[tw])) AND ((((((((((((demograph*[tw]) OR stats[tw]) OR statistic*[tw]) OR prevalence[tw]) OR occurrence[tw]) OR frequency[tw]) OR morbidity[tw]) OR incidence[tw]) OR distribut*[tw]) OR epidemiol*[tw]) OR ep[MeSH Subheading]) OR demography[MeSH Terms])))) AND 1600/01/01:2019/02/23[mhda])
+```
