@@ -142,6 +142,8 @@ Thoracolumbar [TIAB] OR thoraco-lumbar [TIAB] OR thoraco lumbar [TIAB]
 1. `wrong study duration`: точки оценки результатов не пересекаются с PICO (применяется, только если определены в PICO, иначе не применяется);
 1. `foreign language`: не английский и не русский в аннотации или полном тексте.
 
+PICO подготовлю в [традиционном PICO-конструкторе](http://pussia.today/request-a-search).
+
 PICO:
 
 ```
