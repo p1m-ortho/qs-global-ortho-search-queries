@@ -115,3 +115,15 @@ Thoracolumbar [TIAB] OR thoraco-lumbar [TIAB] OR thoraco lumbar [TIAB]
 17.02.19, 00:19 - Павел: По моим ощущениям, частота должна быть где-то 1/200. Возможными вариантами могут быть нестандартная структура фразы в сочетании с использованием синонимов, например: «Pedicle screw fixation candidates: burst v non-burst».
 17.02.19, 00:23 - Павел: Вопрос теперь, скорее, в том, зачем нам эти цифры. Ну получим мы некую популяционную встречаемость таких случаев. Дальше что? Установить априори некую точку отсева, до которой мы еще будем считать запрос приемлемым, а после нее — нет? Абсурд.
 ```
+
+## Разное
+
+### Частота и структура взрывных переломов (PubMed, на скорую руку)
+
+Возвращает 217 записей.
+
+Пошаговую стратегию для конструктора с количествами см. в `pubmed-1.txt` (сделал настолько на скорую руку, что там остались даже старые запросы еще в начале истории).
+
+```
+ (((((((((((((((""Arbeitsgemeinschaft fur Osteosynthesefragen""[Title/Abstract]) OR ""Association for Osteosynthesis""[Title/Abstract]) OR ""Arbeitsgemeinschaft fur Osteosynthesefragen""[Title/Abstract]) OR ""Association for the Study of Internal Fixation""[Title/Abstract]) OR AOSpine[Title/Abstract]) OR AO[Title/Abstract]) OR A2[Title/Abstract]) OR A3[Title/Abstract]) OR A4[Title/Abstract]) OR burst[Title/Abstract]) OR compression[Title/Abstract])) AND ((((((((spinal injuries[MeSH Terms]) OR fractures, bone[mh:noexp]) OR in[sh]) OR fracture*[Title]) OR injur*[Title])) AND (((((thoracic vertebrae[mh]) OR lumbar vertebrae[mh]) OR thoraco*[ti]) OR thoracic[ti]) OR lumbar[ti])) AND ((((((((((((demograph*[Title]) OR stats[Title]) OR statistic*[Title]) OR prevalence[Title]) OR occurrence[Title]) OR frequency[Title]) OR morbidity[Title]) OR incidence[Title]) OR distribut*[Title]) OR epidemiol*[Title]) OR ep[MeSH Subheading]) OR demography[MeSH Terms])))) AND 1600/01/01:2019/02/23[mhda])
+```
