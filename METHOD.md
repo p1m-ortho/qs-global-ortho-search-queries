@@ -178,3 +178,11 @@ PICO:
 Систематический гроб — это теперь [systematic[sb]](https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) так выглядит (с декабря 2018):
 
 `(((systematic review[ti] OR systematic literature review[ti] OR systematic scoping review[ti] OR systematic narrative review[ti] OR systematic qualitative review[ti] OR systematic evidence review[ti] OR systematic quantitative review[ti] OR systematic meta-review[ti] OR systematic critical review[ti] OR systematic mixed studies review[ti] OR systematic mapping review[ti] OR systematic cochrane review[ti] OR systematic search and review[ti] OR systematic integrative review[ti]) NOT comment[pt] NOT (protocol[ti] OR protocols[ti])) NOT MEDLINE [subset]) OR (Cochrane Database Syst Rev[ta] AND review[pt]) OR systematic review[pt]`
+
+Перезапустил на момент коммита: 1458 записей.
+
+И понятно почему: меш-термины в запросе стоят без ограничений по MHDA, и с тех пор просто часть записей проиндексировали по заноченным мешам, и теперь они выночиваются. Так что надо добавить MHDA везде.
+
+Также _очень_ сильно смущает меня `NOT "case report"[Title]`, потому что весьма не редки статьи-наблюдения и обзорами литературы. Надо попробовать без него; вдруг не так сильно увеличит общее число записей.
+
+Итак, сейчас все проверим.
