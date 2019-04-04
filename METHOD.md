@@ -167,7 +167,7 @@ PICO:
 ((((((((((((((("Arbeitsgemeinschaft fur Osteosynthesefragen"[tw]) OR "Association for Osteosynthesis"[tw]) OR "Arbeitsgemeinschaft fur Osteosynthesefragen"[tw]) OR "Association for the Study of Internal Fixation"[tw]) OR AOSpine[tw]) OR AO[tw]) OR A2[tw]) OR A3[tw]) OR A4[tw]) OR burst[tw]) OR compression[tw])) AND ((((((((spinal injuries[MeSH Terms]) OR fractures, bone[mh:noexp]) OR in[sh]) OR fracture*[tw]) OR injur*[tw])) AND (((((thoracic vertebrae[mh]) OR lumbar vertebrae[mh]) OR thoraco*[tw]) OR thoracic[tw]) OR lumbar[tw])) AND ((((((((((((demograph*[tw]) OR stats[tw]) OR statistic*[tw]) OR prevalence[tw]) OR occurrence[tw]) OR frequency[tw]) OR morbidity[tw]) OR incidence[tw]) OR distribut*[tw]) OR epidemiol*[tw]) OR ep[MeSH Subheading]) OR demography[MeSH Terms])))) AND 1600/01/01:2019/02/23[mhda])
 ```
 
-## Взрывные и AO переломы/вывихи ГОП/ПОП, не клинические наблюдения, от 28.02.2019 (PubMed, MeSH + свободный текст, _не_ на скорую руку)
+## Взрывные и AO переломы/вывихи ГОП/ПОП, не клинические наблюдения, от 28.02.2019, последнее обновление 04.04.2019 (PubMed, MeSH + свободный текст, _не_ на скорую руку)
 
 Возвращает 1460 записей.
 
@@ -193,3 +193,7 @@ PICO:
 Итак, сейчас все проверим — готово.
 
 Вот и попробуем этот запрос применить для целей xt-ao-type-a.
+
+Перезапуск на 1461 от 04.04.2019:
+
+`((((((((((((((burst[Text Word]) OR ((a2[tw] OR a3[tw] OR a4[tw]))) OR AOSpine[Text Word]) OR AO[Text Word]) OR Arbeitsgemeinschaft fur Osteosynthesefragen[Text Word])) AND (((((((fractur*[Text Word]) OR injur*[Text Word]) OR (fractures, bone[mh:noexp] 1600/01/01:2019/04/02[mhda]))) OR dislocat*[Text Word])) AND (((((((thoracic[Text Word]) OR lumbar[Text Word]) OR (thoracic vertebrae[MeSH Terms] 1600/01/01:2019/04/02[mhda])) OR (lumbar vertebrae[MeSH Terms] 1600/01/01:2019/04/02[mhda])) OR thoraco*[Text Word])) OR ((t1[tw] OR t2[tw] OR t3[tw] OR t4[tw] OR t5[tw] OR t6[tw] OR t7[tw] OR t8[tw] OR t9[tw] OR t10[tw] OR t11[tw] OR t12[tw] OR th1[tw] OR th2[tw] OR th3[tw] OR th4[tw] OR th5[tw] OR th6[tw] OR th7[tw] OR th8[tw] OR th9[tw] OR th10[tw] OR th11[tw] OR th12[tw] OR d1[tw] OR d2[tw] OR d3[tw] OR d4[tw] OR d5[tw] OR d6[tw] OR d7[tw] OR d8[tw] OR d9[tw] OR d10[tw] OR d11[tw] OR d12[tw] OR l1[tw] OR l2[tw] OR l3[tw] OR l4[tw] OR l5[tw] OR l6[tw])))))) NOT (((case reports[Publication Type] 1600/01/01:2019/04/02[mhda]) OR "case report"[Title]) NOT ((((systematic review[ti] OR systematic literature review[ti] OR systematic scoping review[ti] OR systematic narrative review[ti] OR systematic qualitative review[ti] OR systematic evidence review[ti] OR systematic quantitative review[ti] OR systematic meta-review[ti] OR systematic critical review[ti] OR systematic mixed studies review[ti] OR systematic mapping review[ti] OR systematic cochrane review[ti] OR systematic search and review[ti] OR systematic integrative review[ti]) NOT (comment[pt] 1600/01/01:2019/04/02[mhda]) NOT (protocol[ti] OR protocols[ti])) NOT (MEDLINE [subset] 1600/01/01:2019/04/02[mhda])) OR (Cochrane Database Syst Rev[ta] AND (review[pt] 1600/01/01:2019/04/02[mhda])) OR (systematic review[pt] 1600/01/01:2019/04/02[mhda])))) NOT (((Animals[mh:noexp] not Humans[mh:noexp]) 1600/01/01:2019/04/02[mhda]))) AND 1600/01/01:2019/04/02[crdt]))))`
