@@ -467,7 +467,7 @@ protocols[ti])) NOT (MEDLINE [subset] 1600/01/01:2019/04/11[mhda])) OR (Cochrane
 ```
 ((1600/01/01:2019/04/11[crdt]
 AND
-(stable[tw] OR unstable[tw] OR compression[Text Word] OR burst[Text Word] OR flexion[tw] OR distraction[tw] OR (posterior[tw] (ligament*[tw] OR complex[tw])) OR PLC[tw] OR Chance[tw] OR dislocation[tw] OR translation[tw] or rotation[tw] OR a2[tw] OR a3[tw] OR a4[tw] OR TLICS[tw] OR "type A"[tw] OR AOSpine[Text Word] OR AO[Text Word] OR "Arbeitsgemeinschaft fur Osteosynthesefragen"[Text Word])
+(compression[Text Word] OR burst[Text Word] OR flexion[tw] OR distraction[tw] OR (posterior[tw] (ligament*[tw] OR complex[tw])) OR PLC[tw] OR Chance[tw] OR dislocation[tw] OR translation[tw] or rotation[tw] OR a2[tw] OR a3[tw] OR a4[tw] OR TLICS[tw] OR "type A"[tw] OR AOSpine[Text Word] OR AO[Text Word] OR "Arbeitsgemeinschaft fur Osteosynthesefragen"[Text Word])
 AND
 (fractur*[Text Word] OR injur*[Text Word] OR ((fractures, bone[mh:noexp]) 1600/01/01:2019/04/11[mhda]) OR dislocat*[Text Word]) 
 AND
@@ -500,3 +500,5 @@ protocols[ti])) NOT (MEDLINE [subset] 1600/01/01:2019/04/11[mhda])) OR (Cochrane
 Теперь возвращает 9061 записей.
 
 Попробовал убрать всю часть запроса, ограничивающую по типу перелома (чтобы не мучиться с ее уточнением), и получил 48753 записи. Не вариант.
+
+Конечно, все релевантные статьи все равно не захватим, потому что подход с сужением по типу перелома явно ограничен тем обстоятельством, отразили ли авторы тип в заголовке или аннотации (и велик шанс, что не отразили, хотя отразили его в материалах).
