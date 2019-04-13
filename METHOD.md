@@ -395,3 +395,69 @@ protocols[ti])) NOT (MEDLINE [subset] 1600/01/01:2019/04/11[mhda])) OR (Cochrane
 Возвращает 4468 (список PMID, отсортированный по убыванию по дате публикации, `pubmed_result_4468.txt` прилагаю). 4468 значит. Буду думать тогда, как еще по-умному сузить. 
 
 Вот так случайно выяснилось, что запрос работает _совсем_ не так, как ему положено. А всего-то хотел перевыгрузить из Пабмеда с сортировкой по дате публикации.
+
+Беру свои 100 неисключенных по SFMHSUSH v2 и изучаю список тех из них, что не вошли в 4468 (срываю сейчас маскирование по SFMHSUSH v2, ну и ладно):
+
+```
+(25320199[pmid] OR 22009840[pmid] OR 19411450[pmid] OR 1806079[pmid] OR 23728686[pmid] OR 24018981[pmid] OR 24326026[pmid] OR 25645322[pmid] OR 24563980[pmid] OR 21644092[pmid] OR 29151568[pmid] OR 28343026[pmid] OR 28035907[pmid] OR 27648675[pmid] OR 27584674[pmid] OR 27541493[pmid] OR 24919003[pmid] OR 24890141[pmid] OR 26455226[pmid] OR 24867898[pmid] OR 24358996[pmid] OR 24284240[pmid] OR 24136267[pmid] OR 23905953[pmid] OR 23740669[pmid] OR 23672907[pmid] OR 23263169[pmid] OR 21548257[pmid] OR 20646506[pmid] OR 19946295[pmid] OR 19718404[pmid] OR 19525832[pmid] OR 11569156[pmid] OR 11172655[pmid] OR 10851954[pmid] OR 7817241[pmid] OR 18563333[pmid] OR 19652568[pmid] OR 17077731[pmid] OR 16622372[pmid] OR 15699801[pmid] OR 15682000[pmid] OR 12728024[pmid] OR 7482020[pmid] OR 2218713[pmid] OR 17139218[pmid] OR 17109106[pmid] OR 17054237[pmid] OR 16703901[pmid] OR 16306834[pmid] OR 15690209[pmid] OR 15087804[pmid] OR 12810974[pmid] OR 11806392[pmid] OR 11154543[pmid] OR 2028330[pmid] OR 1428329[pmid] OR 19094653[pmid] OR 25568388[pmid] OR 29924040[pmid] OR 28777064[pmid] OR 20407345[pmid] OR 26202101[pmid] OR 25077910[pmid] OR 23996046[pmid] OR 22971486[pmid] OR 22844053[pmid] OR 22057820[pmid] OR 21067776[pmid] OR 20495932[pmid] OR 26051881[pmid] OR 27537586[pmid] OR 25396259[pmid] OR 20881467[pmid] OR 27262651[pmid] OR 24013718[pmid] OR 23676860[pmid] OR 28800928[pmid] OR 28739478[pmid] OR 26983411[pmid] OR 26907876[pmid] OR 25890296[pmid] OR 29419692[pmid] OR 29113901[pmid] OR 28803178[pmid] OR 28641907[pmid] OR 27757682[pmid] OR 27028069[pmid] OR 26414835[pmid] OR 25842559[pmid] OR 25150769[pmid] OR 23704968[pmid] OR 23053291[pmid] OR 20535041[pmid] OR 20023338[pmid] OR 11337622[pmid] OR 25648401[pmid] OR 24981907[pmid] OR 24981897[pmid] OR 17320622[pmid]) NOT ((1600/01/01:2019/04/11[crdt]
+AND
+(compression[Text Word] OR burst[Text Word] OR a2[tw] OR a3[tw] OR a4[tw] OR AOSpine[Text Word] OR AO[Text Word] OR "Arbeitsgemeinschaft fur Osteosynthesefragen"[Text Word])
+AND
+(fractur*[Text Word] OR injur*[Text Word] OR ((fractures, bone[mh:noexp]) 1600/01/01:2019/04/11[mhda]) OR dislocat*[Text Word]) 
+AND
+(thoracic[Text Word] OR lumbar[Text Word] OR ((thoracic vertebrae[MeSH Terms]) 1600/01/01:2019/04/11[mhda]) OR ((lumbar vertebrae[MeSH Terms]) 1600/01/01:2019/04/11[mhda]) OR thoraco*[Text Word] OR t1[tw] OR t2[tw] OR t3[tw] OR t4[tw] OR t5[tw] OR t6[tw] OR t7[tw] OR t8[tw] OR t9[tw] OR t10[tw] OR t11[tw] OR t12[tw] OR th1[tw] OR th2[tw] OR th3[tw] OR th4[tw] OR th5[tw] OR th6[tw] OR th7[tw] OR th8[tw] OR th9[tw] OR th10[tw] OR th11[tw] OR th12[tw] OR d1[tw] OR d2[tw] OR d3[tw] OR d4[tw] OR d5[tw] OR d6[tw] OR d7[tw] OR d8[tw] OR d9[tw] OR d10[tw] OR d11[tw] OR d12[tw] OR l1[tw] OR l2[tw] OR l3[tw] OR l4[tw] OR l5[tw] OR l6[tw]))
+NOT
+(
+    (
+        (((case reports[Publication Type]) 1600/01/01:2019/04/11[mhda]) OR "case report"[Title]
+        )
+        NOT
+        (
+        (((systematic review[ti] OR systematic literature review[ti] OR systematic scoping review[ti] OR 
+systematic narrative review[ti] OR systematic qualitative review[ti] OR systematic evidence review[ti] OR 
+systematic quantitative review[ti] OR systematic meta-review[ti] OR systematic critical review[ti] OR 
+systematic mixed studies review[ti] OR systematic mapping review[ti] OR systematic cochrane review[ti] OR 
+systematic search and review[ti] OR systematic integrative review[ti]) NOT (comment[pt] 1600/01/01:2019/04/11[mhda]) NOT (protocol[ti] OR 
+protocols[ti])) NOT (MEDLINE [subset] 1600/01/01:2019/04/11[mhda])) OR (Cochrane Database Syst Rev[ta] AND (review[pt] 1600/01/01:2019/04/11[mhda])) OR 
+((systematic review[pt]) 1600/01/01:2019/04/11[mhda])
+        )
+    )
+    OR
+    ((Animals[mh:noexp] NOT Humans[mh:noexp]) 1600/01/01:2019/04/11[mhda])
+))
+```
+
+Возвращает 32 записи.
+
+Также посмотрю те, что, наоборот, выдаются по новому запросу:
+
+```
+(25320199[pmid] OR 22009840[pmid] OR 19411450[pmid] OR 1806079[pmid] OR 23728686[pmid] OR 24018981[pmid] OR 24326026[pmid] OR 25645322[pmid] OR 24563980[pmid] OR 21644092[pmid] OR 29151568[pmid] OR 28343026[pmid] OR 28035907[pmid] OR 27648675[pmid] OR 27584674[pmid] OR 27541493[pmid] OR 24919003[pmid] OR 24890141[pmid] OR 26455226[pmid] OR 24867898[pmid] OR 24358996[pmid] OR 24284240[pmid] OR 24136267[pmid] OR 23905953[pmid] OR 23740669[pmid] OR 23672907[pmid] OR 23263169[pmid] OR 21548257[pmid] OR 20646506[pmid] OR 19946295[pmid] OR 19718404[pmid] OR 19525832[pmid] OR 11569156[pmid] OR 11172655[pmid] OR 10851954[pmid] OR 7817241[pmid] OR 18563333[pmid] OR 19652568[pmid] OR 17077731[pmid] OR 16622372[pmid] OR 15699801[pmid] OR 15682000[pmid] OR 12728024[pmid] OR 7482020[pmid] OR 2218713[pmid] OR 17139218[pmid] OR 17109106[pmid] OR 17054237[pmid] OR 16703901[pmid] OR 16306834[pmid] OR 15690209[pmid] OR 15087804[pmid] OR 12810974[pmid] OR 11806392[pmid] OR 11154543[pmid] OR 2028330[pmid] OR 1428329[pmid] OR 19094653[pmid] OR 25568388[pmid] OR 29924040[pmid] OR 28777064[pmid] OR 20407345[pmid] OR 26202101[pmid] OR 25077910[pmid] OR 23996046[pmid] OR 22971486[pmid] OR 22844053[pmid] OR 22057820[pmid] OR 21067776[pmid] OR 20495932[pmid] OR 26051881[pmid] OR 27537586[pmid] OR 25396259[pmid] OR 20881467[pmid] OR 27262651[pmid] OR 24013718[pmid] OR 23676860[pmid] OR 28800928[pmid] OR 28739478[pmid] OR 26983411[pmid] OR 26907876[pmid] OR 25890296[pmid] OR 29419692[pmid] OR 29113901[pmid] OR 28803178[pmid] OR 28641907[pmid] OR 27757682[pmid] OR 27028069[pmid] OR 26414835[pmid] OR 25842559[pmid] OR 25150769[pmid] OR 23704968[pmid] OR 23053291[pmid] OR 20535041[pmid] OR 20023338[pmid] OR 11337622[pmid] OR 25648401[pmid] OR 24981907[pmid] OR 24981897[pmid] OR 17320622[pmid]) AND ((1600/01/01:2019/04/11[crdt]
+AND
+(compression[Text Word] OR burst[Text Word] OR a2[tw] OR a3[tw] OR a4[tw] OR AOSpine[Text Word] OR AO[Text Word] OR "Arbeitsgemeinschaft fur Osteosynthesefragen"[Text Word])
+AND
+(fractur*[Text Word] OR injur*[Text Word] OR ((fractures, bone[mh:noexp]) 1600/01/01:2019/04/11[mhda]) OR dislocat*[Text Word]) 
+AND
+(thoracic[Text Word] OR lumbar[Text Word] OR ((thoracic vertebrae[MeSH Terms]) 1600/01/01:2019/04/11[mhda]) OR ((lumbar vertebrae[MeSH Terms]) 1600/01/01:2019/04/11[mhda]) OR thoraco*[Text Word] OR t1[tw] OR t2[tw] OR t3[tw] OR t4[tw] OR t5[tw] OR t6[tw] OR t7[tw] OR t8[tw] OR t9[tw] OR t10[tw] OR t11[tw] OR t12[tw] OR th1[tw] OR th2[tw] OR th3[tw] OR th4[tw] OR th5[tw] OR th6[tw] OR th7[tw] OR th8[tw] OR th9[tw] OR th10[tw] OR th11[tw] OR th12[tw] OR d1[tw] OR d2[tw] OR d3[tw] OR d4[tw] OR d5[tw] OR d6[tw] OR d7[tw] OR d8[tw] OR d9[tw] OR d10[tw] OR d11[tw] OR d12[tw] OR l1[tw] OR l2[tw] OR l3[tw] OR l4[tw] OR l5[tw] OR l6[tw]))
+NOT
+(
+    (
+        (((case reports[Publication Type]) 1600/01/01:2019/04/11[mhda]) OR "case report"[Title]
+        )
+        NOT
+        (
+        (((systematic review[ti] OR systematic literature review[ti] OR systematic scoping review[ti] OR 
+systematic narrative review[ti] OR systematic qualitative review[ti] OR systematic evidence review[ti] OR 
+systematic quantitative review[ti] OR systematic meta-review[ti] OR systematic critical review[ti] OR 
+systematic mixed studies review[ti] OR systematic mapping review[ti] OR systematic cochrane review[ti] OR 
+systematic search and review[ti] OR systematic integrative review[ti]) NOT (comment[pt] 1600/01/01:2019/04/11[mhda]) NOT (protocol[ti] OR 
+protocols[ti])) NOT (MEDLINE [subset] 1600/01/01:2019/04/11[mhda])) OR (Cochrane Database Syst Rev[ta] AND (review[pt] 1600/01/01:2019/04/11[mhda])) OR 
+((systematic review[pt]) 1600/01/01:2019/04/11[mhda])
+        )
+    )
+    OR
+    ((Animals[mh:noexp] NOT Humans[mh:noexp]) 1600/01/01:2019/04/11[mhda])
+))
+```
+
+Должно быть 68 — так и есть.
