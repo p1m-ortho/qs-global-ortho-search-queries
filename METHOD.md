@@ -167,7 +167,7 @@ PICO:
 ((((((((((((((("Arbeitsgemeinschaft fur Osteosynthesefragen"[tw]) OR "Association for Osteosynthesis"[tw]) OR "Arbeitsgemeinschaft fur Osteosynthesefragen"[tw]) OR "Association for the Study of Internal Fixation"[tw]) OR AOSpine[tw]) OR AO[tw]) OR A2[tw]) OR A3[tw]) OR A4[tw]) OR burst[tw]) OR compression[tw])) AND ((((((((spinal injuries[MeSH Terms]) OR fractures, bone[mh:noexp]) OR in[sh]) OR fracture*[tw]) OR injur*[tw])) AND (((((thoracic vertebrae[mh]) OR lumbar vertebrae[mh]) OR thoraco*[tw]) OR thoracic[tw]) OR lumbar[tw])) AND ((((((((((((demograph*[tw]) OR stats[tw]) OR statistic*[tw]) OR prevalence[tw]) OR occurrence[tw]) OR frequency[tw]) OR morbidity[tw]) OR incidence[tw]) OR distribut*[tw]) OR epidemiol*[tw]) OR ep[MeSH Subheading]) OR demography[MeSH Terms])))) AND 1600/01/01:2019/02/23[mhda])
 ```
 
-## Взрывные и AO переломы/вывихи ГОП/ПОП, не клинические наблюдения, от 28.02.2019, последнее обновление 04.04.2019 (PubMed, MeSH + свободный текст, _не_ на скорую руку)
+## Взрывные и AO переломы/вывихи ГОП/ПОП, не клинические наблюдения, от 28.02.2019, последнее обновление 13.04.2019 (PubMed, MeSH + свободный текст, _не_ на скорую руку)
 
 Возвращает 1460 записей.
 
@@ -197,3 +197,201 @@ PICO:
 Перезапуск на 1461 от 04.04.2019:
 
 `((((((((((((((burst[Text Word]) OR ((a2[tw] OR a3[tw] OR a4[tw]))) OR AOSpine[Text Word]) OR AO[Text Word]) OR Arbeitsgemeinschaft fur Osteosynthesefragen[Text Word])) AND (((((((fractur*[Text Word]) OR injur*[Text Word]) OR (fractures, bone[mh:noexp] 1600/01/01:2019/04/02[mhda]))) OR dislocat*[Text Word])) AND (((((((thoracic[Text Word]) OR lumbar[Text Word]) OR (thoracic vertebrae[MeSH Terms] 1600/01/01:2019/04/02[mhda])) OR (lumbar vertebrae[MeSH Terms] 1600/01/01:2019/04/02[mhda])) OR thoraco*[Text Word])) OR ((t1[tw] OR t2[tw] OR t3[tw] OR t4[tw] OR t5[tw] OR t6[tw] OR t7[tw] OR t8[tw] OR t9[tw] OR t10[tw] OR t11[tw] OR t12[tw] OR th1[tw] OR th2[tw] OR th3[tw] OR th4[tw] OR th5[tw] OR th6[tw] OR th7[tw] OR th8[tw] OR th9[tw] OR th10[tw] OR th11[tw] OR th12[tw] OR d1[tw] OR d2[tw] OR d3[tw] OR d4[tw] OR d5[tw] OR d6[tw] OR d7[tw] OR d8[tw] OR d9[tw] OR d10[tw] OR d11[tw] OR d12[tw] OR l1[tw] OR l2[tw] OR l3[tw] OR l4[tw] OR l5[tw] OR l6[tw])))))) NOT (((case reports[Publication Type] 1600/01/01:2019/04/02[mhda]) OR "case report"[Title]) NOT ((((systematic review[ti] OR systematic literature review[ti] OR systematic scoping review[ti] OR systematic narrative review[ti] OR systematic qualitative review[ti] OR systematic evidence review[ti] OR systematic quantitative review[ti] OR systematic meta-review[ti] OR systematic critical review[ti] OR systematic mixed studies review[ti] OR systematic mapping review[ti] OR systematic cochrane review[ti] OR systematic search and review[ti] OR systematic integrative review[ti]) NOT (comment[pt] 1600/01/01:2019/04/02[mhda]) NOT (protocol[ti] OR protocols[ti])) NOT (MEDLINE [subset] 1600/01/01:2019/04/02[mhda])) OR (Cochrane Database Syst Rev[ta] AND (review[pt] 1600/01/01:2019/04/02[mhda])) OR (systematic review[pt] 1600/01/01:2019/04/02[mhda])))) NOT (((Animals[mh:noexp] not Humans[mh:noexp]) 1600/01/01:2019/04/02[mhda]))) AND 1600/01/01:2019/04/02[crdt]))))`
+
+Почему-то перезапуск того же от 13.04.2018 возвращает 1463, а не 1462.
+
+Выяснил, что это за счет вот этой записи:
+
+```
+PMID- 30104626
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190408
+LR  - 20190408
+IS  - 1935-3456 (Electronic)
+IS  - 1933-0219 (Linking)
+VI  - 11
+IP  - 6
+DP  - 2018 Nov
+TI  - Dietary DHA amplifies LXA4 circuits in tissues and lymph node PMN and is
+      protective in immune-driven dry eye disease.
+PG  - 1674-1683
+LID - 10.1038/s41385-018-0070-z [doi]
+AB  - Recently identified regulatory PMN control immune-driven dry eye disease (DED) in
+      females by producing the arachidonic acid (omega-6)-derived specialized
+      pro-resolving mediator (SPM), LXA4, in lymph nodes. Dietary omega-3
+      docosahexaenoic acid (DHA) is protective in DED but mechanisms of action remain
+      elusive. DHA is converted to omega-3 SPMs by PMN via the same lipoxygenases (LOX)
+      that generate LXA4. We investigated if dietary DHA amplifies SPM formation and
+      affects T effector cell function and/or regulatory PMN in DED. DED was induced in
+      mice on a DHA-enriched or omega-3-deficient diet. DHA deficiency amplified DED
+      with marked sex-specific differences. Dietary DHA protection against dry eye
+      disease correlated with increased PMN levels in lymph nodes, ocular tissues, and 
+      unexpectedly, selective amplification of LXA4 tissue levels. Dietary DHA
+      increased 12/15-LOX and decreased 5-LOX expression in lymph nodes and isolated
+      lymph node PMN, which correlated with amplified LXA4 formation. Acute DHA
+      treatment rescued DHA-deficient females from exaggerated DED by amplifying lymph 
+      node LXA4 formation, increasing Treg and decreasing TH1 and TH17 effector cells. 
+      Our results identify DHA regulation of LXA4 producing PMN in ocular tissues and
+      lymph nodes in health and immune disease as novel mechanism and determinant for
+      T-cell responses to routine ocular injury or stress signals.
+FAU - Gao, Yuan
+AU  - Gao Y
+AD  - Southwest Hospital/Southwest Eye Hospital, Third Military Medical University,
+      Chongqing, 400038, China.
+AD  - Key Lab of Visual Damage and Regeneration & Restoration of Chongqing, Chongqing, 
+      400038, China.
+AD  - Vision Science Program, University of California Berkeley, Berkeley, CA, 94720,
+      USA.
+AD  - School of Optometry, University of California Berkeley, Berkeley, CA, 94720, USA.
+FAU - Su, John
+AU  - Su J
+AD  - Vision Science Program, University of California Berkeley, Berkeley, CA, 94720,
+      USA.
+FAU - Zhang, Yibing
+AU  - Zhang Y
+AD  - Vision Science Program, University of California Berkeley, Berkeley, CA, 94720,
+      USA.
+FAU - Chan, Allison
+AU  - Chan A
+AD  - Vision Science Program, University of California Berkeley, Berkeley, CA, 94720,
+      USA.
+FAU - Sin, Jun Hyung
+AU  - Sin JH
+AD  - Vision Science Program, University of California Berkeley, Berkeley, CA, 94720,
+      USA.
+FAU - Wu, Di
+AU  - Wu D
+AD  - Vision Science Program, University of California Berkeley, Berkeley, CA, 94720,
+      USA.
+FAU - Min, Kyungi
+AU  - Min K
+AD  - Vision Science Program, University of California Berkeley, Berkeley, CA, 94720,
+      USA.
+FAU - Gronert, Karsten
+AU  - Gronert K
+AD  - Vision Science Program, University of California Berkeley, Berkeley, CA, 94720,
+      USA. kgronert@berkeley.edu.
+AD  - School of Optometry, University of California Berkeley, Berkeley, CA, 94720, USA.
+      kgronert@berkeley.edu.
+AD  - Infectious Disease and Immunity Program, University of California Berkeley,
+      Berkeley, CA, 94720, USA. kgronert@berkeley.edu.
+LA  - eng
+GR  - P30 EY003176/EY/NEI NIH HHS/United States
+GR  - R01 EY022208/EY/NEI NIH HHS/United States
+GR  - R01 EY026082/EY/NEI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20180813
+PL  - United States
+TA  - Mucosal Immunol
+JT  - Mucosal immunology
+JID - 101299742
+RN  - 0 (Lipoxins)
+RN  - 0 (lipoxin A4)
+RN  - 25167-62-8 (Docosahexaenoic Acids)
+SB  - IM
+MH  - Animals
+MH  - Cells, Cultured
+MH  - *Diet
+MH  - Docosahexaenoic Acids/deficiency/metabolism
+MH  - Dry Eye Syndromes/*immunology
+MH  - Eye/*immunology
+MH  - Female
+MH  - Humans
+MH  - Lipoxins/*metabolism
+MH  - Lymph Nodes/*immunology
+MH  - Male
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Neutrophils/*immunology
+MH  - T-Lymphocytes, Regulatory/*immunology
+PMC - PMC6279588
+MID - NIHMS980902
+EDAT- 2018/08/15 06:00
+MHDA- 2019/04/09 06:00
+CRDT- 2018/08/15 06:00
+PHST- 2018/03/30 00:00 [received]
+PHST- 2018/07/10 00:00 [accepted]
+PHST- 2018/07/02 00:00 [revised]
+PHST- 2018/08/15 06:00 [pubmed]
+PHST- 2019/04/09 06:00 [medline]
+PHST- 2018/08/15 06:00 [entrez]
+AID - 10.1038/s41385-018-0070-z [doi]
+AID - 10.1038/s41385-018-0070-z [pii]
+PST - ppublish
+SO  - Mucosal Immunol. 2018 Nov;11(6):1674-1683. doi: 10.1038/s41385-018-0070-z. Epub
+      2018 Aug 13.
+```
+
+Проверяю запрос: заменяю круглые скобки на фигурные, добавляю автоотступы (спасибо, например, [HTML Formatter](https://htmlformatter.com/)), проверяю.
+
+Что-то малопонятное за счет того, что запрос был изначально автособран в поисковом конструкторе Пабмеда. Перепишу начисто руками.
+
+Итак, тот же запрос начисто руками:
+
+```
+(1600/01/01:2019/04/02[crdt]
+AND
+(compression[Text Word] OR burst[Text Word] OR a2[tw] OR a3[tw] OR a4[tw] OR AOSpine[Text Word] OR AO[Text Word] OR "Arbeitsgemeinschaft fur Osteosynthesefragen"[Text Word])
+AND
+(fractur*[Text Word] OR injur*[Text Word] OR ((fractures, bone[mh:noexp]) 1600/01/01:2019/04/02[mhda]) OR dislocat*[Text Word]) 
+AND
+(thoracic[Text Word] OR lumbar[Text Word] OR ((thoracic vertebrae[MeSH Terms]) 1600/01/01:2019/04/02[mhda]) OR ((lumbar vertebrae[MeSH Terms]) 1600/01/01:2019/04/02[mhda]) OR thoraco*[Text Word] OR t1[tw] OR t2[tw] OR t3[tw] OR t4[tw] OR t5[tw] OR t6[tw] OR t7[tw] OR t8[tw] OR t9[tw] OR t10[tw] OR t11[tw] OR t12[tw] OR th1[tw] OR th2[tw] OR th3[tw] OR th4[tw] OR th5[tw] OR th6[tw] OR th7[tw] OR th8[tw] OR th9[tw] OR th10[tw] OR th11[tw] OR th12[tw] OR d1[tw] OR d2[tw] OR d3[tw] OR d4[tw] OR d5[tw] OR d6[tw] OR d7[tw] OR d8[tw] OR d9[tw] OR d10[tw] OR d11[tw] OR d12[tw] OR l1[tw] OR l2[tw] OR l3[tw] OR l4[tw] OR l5[tw] OR l6[tw]))
+NOT
+(
+    (
+        (((case reports[Publication Type]) 1600/01/01:2019/04/02[mhda]) OR "case report"[Title]
+        )
+        NOT
+        (
+        (((systematic review[ti] OR systematic literature review[ti] OR systematic scoping review[ti] OR 
+systematic narrative review[ti] OR systematic qualitative review[ti] OR systematic evidence review[ti] OR 
+systematic quantitative review[ti] OR systematic meta-review[ti] OR systematic critical review[ti] OR 
+systematic mixed studies review[ti] OR systematic mapping review[ti] OR systematic cochrane review[ti] OR 
+systematic search and review[ti] OR systematic integrative review[ti]) NOT (comment[pt] 1600/01/01:2019/04/02[mhda]) NOT (protocol[ti] OR 
+protocols[ti])) NOT (MEDLINE [subset] 1600/01/01:2019/04/02[mhda])) OR (Cochrane Database Syst Rev[ta] AND (review[pt] 1600/01/01:2019/04/02[mhda])) OR 
+((systematic review[pt]) 1600/01/01:2019/04/02[mhda])
+        )
+    )
+    OR
+    ((Animals[mh:noexp] NOT Humans[mh:noexp]) 1600/01/01:2019/04/02[mhda])
+)
+```
+
+Возвращает 4466 вместо 1462. Проверяю еще раз вручную.
+
+Да нет, вроде все верно в запросе. Сейчас, только обновлю еще под 13.04.2019:
+
+```
+(1600/01/01:2019/04/11[crdt]
+AND
+(compression[Text Word] OR burst[Text Word] OR a2[tw] OR a3[tw] OR a4[tw] OR AOSpine[Text Word] OR AO[Text Word] OR "Arbeitsgemeinschaft fur Osteosynthesefragen"[Text Word])
+AND
+(fractur*[Text Word] OR injur*[Text Word] OR ((fractures, bone[mh:noexp]) 1600/01/01:2019/04/11[mhda]) OR dislocat*[Text Word]) 
+AND
+(thoracic[Text Word] OR lumbar[Text Word] OR ((thoracic vertebrae[MeSH Terms]) 1600/01/01:2019/04/11[mhda]) OR ((lumbar vertebrae[MeSH Terms]) 1600/01/01:2019/04/11[mhda]) OR thoraco*[Text Word] OR t1[tw] OR t2[tw] OR t3[tw] OR t4[tw] OR t5[tw] OR t6[tw] OR t7[tw] OR t8[tw] OR t9[tw] OR t10[tw] OR t11[tw] OR t12[tw] OR th1[tw] OR th2[tw] OR th3[tw] OR th4[tw] OR th5[tw] OR th6[tw] OR th7[tw] OR th8[tw] OR th9[tw] OR th10[tw] OR th11[tw] OR th12[tw] OR d1[tw] OR d2[tw] OR d3[tw] OR d4[tw] OR d5[tw] OR d6[tw] OR d7[tw] OR d8[tw] OR d9[tw] OR d10[tw] OR d11[tw] OR d12[tw] OR l1[tw] OR l2[tw] OR l3[tw] OR l4[tw] OR l5[tw] OR l6[tw]))
+NOT
+(
+    (
+        (((case reports[Publication Type]) 1600/01/01:2019/04/11[mhda]) OR "case report"[Title]
+        )
+        NOT
+        (
+        (((systematic review[ti] OR systematic literature review[ti] OR systematic scoping review[ti] OR 
+systematic narrative review[ti] OR systematic qualitative review[ti] OR systematic evidence review[ti] OR 
+systematic quantitative review[ti] OR systematic meta-review[ti] OR systematic critical review[ti] OR 
+systematic mixed studies review[ti] OR systematic mapping review[ti] OR systematic cochrane review[ti] OR 
+systematic search and review[ti] OR systematic integrative review[ti]) NOT (comment[pt] 1600/01/01:2019/04/11[mhda]) NOT (protocol[ti] OR 
+protocols[ti])) NOT (MEDLINE [subset] 1600/01/01:2019/04/11[mhda])) OR (Cochrane Database Syst Rev[ta] AND (review[pt] 1600/01/01:2019/04/11[mhda])) OR 
+((systematic review[pt]) 1600/01/01:2019/04/11[mhda])
+        )
+    )
+    OR
+    ((Animals[mh:noexp] NOT Humans[mh:noexp]) 1600/01/01:2019/04/11[mhda])
+)
+```
+
+Возвращает 4468 (список PMID, отсортированный по убыванию по дате публикации, `pubmed_result_4468.txt` прилагаю). 4468 значит. Буду думать тогда, как еще по-умному сузить. 
+
+Вот так случайно выяснилось, что запрос работает _совсем_ не так, как ему положено. А всего-то хотел перевыгрузить из Пабмеда с сортировкой по дате публикации.
