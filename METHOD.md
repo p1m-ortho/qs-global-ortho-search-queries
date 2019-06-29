@@ -24,7 +24,49 @@
 
 ## Методы
 
-## PubMed. Свободный текст + MeSH
+См. [журналы в приложениях](#приложение-журналы).
+
+## Результаты
+
+Текущий вид запроса (актуален на 29 июня 2019, при запуске 29 июня 2019 вернул 1451 запись):
+
+```
+(
+    (
+        (
+            burst[tiab] OR a2[tiab] OR a3[tiab] OR a4[tiab] OR AOSpine[tiab] OR AO[tiab] OR Arbeitsgemeinschaft fur Osteosynthesefragen[tiab]
+        )
+        AND
+        (
+            fractur*[tiab] OR injur*[tiab] OR ("Fractures, Bone"[mh:noexp] 1600/01/01:2019/06/27[mhda]) OR dislocat*[tiab] OR in[sh]
+        )
+        AND
+        (
+            thoracic[tiab] OR lumbar[tiab] OR ("Thoracic Vertebrae"[MeSH Terms] 1600/01/01:2019/06/27[mhda]) OR ("Lumbar Vertebrae"[MeSH Terms] 1600/01/01:2019/06/27[mhda]) OR thoraco*[tiab] OR t1[tiab] OR t2[tiab] OR t3[tiab] OR t4[tiab] OR t5[tiab] OR t6[tiab] OR t7[tiab] OR t8[tiab] OR t9[tiab] OR t10[tiab] OR t11[tiab] OR t12[tiab] OR th1[tiab] OR th2[tiab] OR th3[tiab] OR th4[tiab] OR th5[tiab] OR th6[tiab] OR th7[tiab] OR th8[tiab] OR th9[tiab] OR th10[tiab] OR th11[tiab] OR th12[tiab] OR d1[tiab] OR d2[tiab] OR d3[tiab] OR d4[tiab] OR d5[tiab] OR d6[tiab] OR d7[tiab] OR d8[tiab] OR d9[tiab] OR d10[tiab] OR d11[tiab] OR d12[tiab] OR l1[tiab] OR l2[tiab] OR l3[tiab] OR l4[tiab] OR l5[tiab] OR l6[tiab]
+        )
+        NOT
+        (
+            (
+                (case reports[Publication Type] 1600/01/01:2019/04/02[mhda]) OR "case report"[ti]
+            )
+            NOT
+            (
+                (((systematic review[ti] OR systematic literature review[ti] OR systematic scoping review[ti] OR systematic narrative review[ti] OR systematic qualitative review[ti] OR systematic evidence review[ti] OR systematic quantitative review[ti] OR systematic meta-review[ti] OR systematic critical review[ti] OR systematic mixed studies review[ti] OR systematic mapping review[ti] OR systematic cochrane review[ti] OR systematic search and review[ti] OR systematic integrative review[ti]) NOT (comment[pt] 1600/01/01:2019/04/02[mhda]) NOT (protocol[ti] OR protocols[ti])) NOT (MEDLINE [subset] 1600/01/01:2019/04/02[mhda])) OR (Cochrane Database Syst Rev[ta] AND (review[pt] 1600/01/01:2019/04/02[mhda])) OR (systematic review[pt] 1600/01/01:2019/04/02[mhda])
+            )
+        )
+        NOT
+        (
+            (Animals[mh:noexp] not Humans[mh:noexp]) 1600/01/01:2019/04/02[mhda]
+        )
+    )
+    AND
+    (
+        1600/01/01:2019/06/27[crdt]
+    )
+)
+```
+
+## Приложение. PubMed. Свободный текст + MeSH
 
 `pubmed.txt` прилагается.
 
@@ -36,7 +78,7 @@
 
 См. https://github.com/p1m-ortho/xt-ao-type-a/blob/master/xt-ao-type-a.Rmd на момент коммита.
 
-## Обсуждение
+### Обсуждение
 
 Необходимо пояснить, что #0 — это буфер обмена Пабмеда. Туда можно просто складывать записи из разных мест. В частности здесь я сложил сюда 296 записей, которые уже ранее отскринил по старому запросу про хирургию переломов позвонков (тот самый, который SFMHSUSH SSB HSSS v2).
 
@@ -54,7 +96,7 @@
 
 ~~То есть, логически рассуждая, _все_ такие записи из нового запроса, которые удовлетворяют также и шагам SFMHSUSH SSB HSSS v2, _должны_ также оказаться и в области пересечения. А значит, те 137 записей, которые _за границами_ пересечения, _должны_ оказаться несовпавшими по какому-либо из шагов SFMHSUSH SSB HSSS v2 (кроме 9-го, естественно).~~ Глупости.
 
-## Чем на могут быть полезны… (обсуждение)
+## Приложение. Чем на могут быть полезны… (обсуждение)
 
 ### Abudou 2013
 
@@ -116,7 +158,7 @@ Thoracolumbar [TIAB] OR thoraco-lumbar [TIAB] OR thoraco lumbar [TIAB]
 17.02.19, 00:23 - Павел: Вопрос теперь, скорее, в том, зачем нам эти цифры. Ну получим мы некую популяционную встречаемость таких случаев. Дальше что? Установить априори некую точку отсева, до которой мы еще будем считать запрос приемлемым, а после нее — нет? Абсурд.
 ```
 
-## Разное
+## Приложение. Журналы
 
 ### Частота и структура взрывных переломов (PubMed, на скорую руку)
 
@@ -167,7 +209,7 @@ PICO:
 ((((((((((((((("Arbeitsgemeinschaft fur Osteosynthesefragen"[tw]) OR "Association for Osteosynthesis"[tw]) OR "Arbeitsgemeinschaft fur Osteosynthesefragen"[tw]) OR "Association for the Study of Internal Fixation"[tw]) OR AOSpine[tw]) OR AO[tw]) OR A2[tw]) OR A3[tw]) OR A4[tw]) OR burst[tw]) OR compression[tw])) AND ((((((((spinal injuries[MeSH Terms]) OR fractures, bone[mh:noexp]) OR in[sh]) OR fracture*[tw]) OR injur*[tw])) AND (((((thoracic vertebrae[mh]) OR lumbar vertebrae[mh]) OR thoraco*[tw]) OR thoracic[tw]) OR lumbar[tw])) AND ((((((((((((demograph*[tw]) OR stats[tw]) OR statistic*[tw]) OR prevalence[tw]) OR occurrence[tw]) OR frequency[tw]) OR morbidity[tw]) OR incidence[tw]) OR distribut*[tw]) OR epidemiol*[tw]) OR ep[MeSH Subheading]) OR demography[MeSH Terms])))) AND 1600/01/01:2019/02/23[mhda])
 ```
 
-## Взрывные и AO переломы/вывихи ГОП/ПОП, не клинические наблюдения, от 28.02.2019, последнее обновление 13.04.2019 (PubMed, MeSH + свободный текст, _не_ на скорую руку)
+### Взрывные и AO переломы/вывихи ГОП/ПОП, не клинические наблюдения, от 28.02.2019, последнее обновление 13.04.2019 (PubMed, MeSH + свободный текст, _не_ на скорую руку)
 
 Возвращает 1460 записей.
 
@@ -586,7 +628,7 @@ AND
 
 Все равно все это много, не успеть сейчас скринить. Так что пока откладываю этот запрос. Буду писать по уже имеющимся работам (плюс-минус точечные поиски).
 
------
+### Взрывные и AO переломы/вывихи ГОП/ПОП, не клинические наблюдения, от 29.06.2019, последнее обновление 29.06.2019 (PubMed, MeSH + свободный текст, не на скорую руку, с кучей дебага и тестов)
 
 Подебажил-таки старый запрос, который возвращал выше в последний раз 1463 от 13.04.2018.
 
@@ -930,3 +972,229 @@ SO  - Brain Behav Immun. 2018 Mar;69:470-479. doi: 10.1016/j.bbi.2018.01.005. Ep
 И отдельно 18 записей, добавленных с 3 апреля по 27 июня 2019… Не получается: упорно выдает 22 записи. Разбираюсь.
 
 Так, [по диффу оказывается](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/34fcd6feb1f9967d0a342f9891e01a4e94d65d57#diff-9b879a60110fbfd1cf2c190a1c7bbb79), что [22 добавились](https://www.ncbi.nlm.nih.gov/pubmed/?term=31225742[pmid]%20or%2031220040[pmid]%20or%2031200369[pmid]%20or%2031192103[pmid]%20or%2031172730[pmid]%20or%2031157149[pmid]%20or%2031146081[pmid]%20or%2031143263[pmid]%20or%2031121605[pmid]%20or%2031121370[pmid]%20or%2031114508[pmid]%20or%2031105074[pmid]%20or%2031103754[pmid]%20or%2031088766[pmid]%20or%2031068193[pmid]%20or%2031053299[pmid]%20or%2031048604[pmid]%20or%2031037935[pmid]%20or%2031037344[pmid]%20or%2031000982[pmid]%20or%2030984504[pmid]%20or%2030969250[pmid]) и [4 удалились](https://www.ncbi.nlm.nih.gov/pubmed/?term=29310667[pmid]%20or%2029086918[pmid]%20or%2028538596[pmid]%20or%2027771900[pmid]) — [итого 26 записей](https://www.ncbi.nlm.nih.gov/pubmed/?term=31225742[pmid]%20or%2031220040[pmid]%20or%2031200369[pmid]%20or%2031192103[pmid]%20or%2031172730[pmid]%20or%2031157149[pmid]%20or%2031146081[pmid]%20or%2031143263[pmid]%20or%2031121605[pmid]%20or%2031121370[pmid]%20or%2031114508[pmid]%20or%2031105074[pmid]%20or%2031103754[pmid]%20or%2031088766[pmid]%20or%2031068193[pmid]%20or%2031053299[pmid]%20or%2031048604[pmid]%20or%2031037935[pmid]%20or%2031037344[pmid]%20or%2031000982[pmid]%20or%2030984504[pmid]%20or%2030969250[pmid]%20or%2029310667[pmid]%20or%2029086918[pmid]%20or%2028538596[pmid]%20or%2027771900[pmid]). Поэтому в итоге 1445 вместо 1427. Остается разобраться, что там это за записи.
+
+Все, разобрался — уже по [первой из 4 удаленных записей](https://pubmed.gov/29310667). По первой части запроса без операторов дополнения она выдается, значит проблема где-то там. И вот вижу, что она `(Animals[mh:noexp] not Humans[mh:noexp])`, а MHDA у нее — 2019/04/09 06:00. Поэтому она и исключена.
+
+С учетом этого корректирую запрос с обновлением на 29 июня 2019:
+
+```
+(
+    (
+        (
+            burst[tiab] OR a2[tiab] OR a3[tiab] OR a4[tiab] OR AOSpine[tiab] OR AO[tiab] OR Arbeitsgemeinschaft fur Osteosynthesefragen[tiab]
+        )
+        AND
+        (
+            fractur*[tiab] OR injur*[tiab] OR ("Fractures, Bone"[mh:noexp] 1600/01/01:2019/06/27[mhda]) OR dislocat*[tiab] OR in[sh]
+        )
+        AND
+        (
+            thoracic[tiab] OR lumbar[tiab] OR ("Thoracic Vertebrae"[MeSH Terms] 1600/01/01:2019/06/27[mhda]) OR ("Lumbar Vertebrae"[MeSH Terms] 1600/01/01:2019/06/27[mhda]) OR thoraco*[tiab] OR t1[tiab] OR t2[tiab] OR t3[tiab] OR t4[tiab] OR t5[tiab] OR t6[tiab] OR t7[tiab] OR t8[tiab] OR t9[tiab] OR t10[tiab] OR t11[tiab] OR t12[tiab] OR th1[tiab] OR th2[tiab] OR th3[tiab] OR th4[tiab] OR th5[tiab] OR th6[tiab] OR th7[tiab] OR th8[tiab] OR th9[tiab] OR th10[tiab] OR th11[tiab] OR th12[tiab] OR d1[tiab] OR d2[tiab] OR d3[tiab] OR d4[tiab] OR d5[tiab] OR d6[tiab] OR d7[tiab] OR d8[tiab] OR d9[tiab] OR d10[tiab] OR d11[tiab] OR d12[tiab] OR l1[tiab] OR l2[tiab] OR l3[tiab] OR l4[tiab] OR l5[tiab] OR l6[tiab]
+        )
+        NOT
+        (
+            (
+                (case reports[Publication Type] 1600/01/01:2019/04/02[mhda]) OR "case report"[ti]
+            )
+            NOT
+            (
+                (((systematic review[ti] OR systematic literature review[ti] OR systematic scoping review[ti] OR systematic narrative review[ti] OR systematic qualitative review[ti] OR systematic evidence review[ti] OR systematic quantitative review[ti] OR systematic meta-review[ti] OR systematic critical review[ti] OR systematic mixed studies review[ti] OR systematic mapping review[ti] OR systematic cochrane review[ti] OR systematic search and review[ti] OR systematic integrative review[ti]) NOT (comment[pt] 1600/01/01:2019/04/02[mhda]) NOT (protocol[ti] OR protocols[ti])) NOT (MEDLINE [subset] 1600/01/01:2019/04/02[mhda])) OR (Cochrane Database Syst Rev[ta] AND (review[pt] 1600/01/01:2019/04/02[mhda])) OR (systematic review[pt] 1600/01/01:2019/04/02[mhda])
+            )
+        )
+        NOT
+        (
+            (Animals[mh:noexp] not Humans[mh:noexp]) 1600/01/01:2019/04/02[mhda]
+        )
+    )
+    AND
+    (
+        1600/01/01:2019/06/27[crdt]
+    )
+)
+```
+
+То есть MHDA со всеми дополняющими операторами оставляю прежними, и меняю только CRDT. Впредь поступать нужно будет абсолютно так же: MHDA при операторах дополнения навсегда останутся такими, какими были установлены в первый раз.
+
+Возвратил 1451 запись.
+
+И запрос на добавившиеся 24 записи (странно, кстати, почему не 22):
+
+```
+(
+    (
+        (
+            burst[tiab] OR a2[tiab] OR a3[tiab] OR a4[tiab] OR AOSpine[tiab] OR AO[tiab] OR Arbeitsgemeinschaft fur Osteosynthesefragen[tiab]
+        )
+        AND
+        (
+            fractur*[tiab] OR injur*[tiab] OR ("Fractures, Bone"[mh:noexp] 1600/01/01:2019/06/27[mhda]) OR dislocat*[tiab] OR in[sh]
+        )
+        AND
+        (
+            thoracic[tiab] OR lumbar[tiab] OR ("Thoracic Vertebrae"[MeSH Terms] 1600/01/01:2019/06/27[mhda]) OR ("Lumbar Vertebrae"[MeSH Terms] 1600/01/01:2019/06/27[mhda]) OR thoraco*[tiab] OR t1[tiab] OR t2[tiab] OR t3[tiab] OR t4[tiab] OR t5[tiab] OR t6[tiab] OR t7[tiab] OR t8[tiab] OR t9[tiab] OR t10[tiab] OR t11[tiab] OR t12[tiab] OR th1[tiab] OR th2[tiab] OR th3[tiab] OR th4[tiab] OR th5[tiab] OR th6[tiab] OR th7[tiab] OR th8[tiab] OR th9[tiab] OR th10[tiab] OR th11[tiab] OR th12[tiab] OR d1[tiab] OR d2[tiab] OR d3[tiab] OR d4[tiab] OR d5[tiab] OR d6[tiab] OR d7[tiab] OR d8[tiab] OR d9[tiab] OR d10[tiab] OR d11[tiab] OR d12[tiab] OR l1[tiab] OR l2[tiab] OR l3[tiab] OR l4[tiab] OR l5[tiab] OR l6[tiab]
+        )
+        NOT
+        (
+            (
+                (case reports[Publication Type] 1600/01/01:2019/04/02[mhda]) OR "case report"[ti]
+            )
+            NOT
+            (
+                (((systematic review[ti] OR systematic literature review[ti] OR systematic scoping review[ti] OR systematic narrative review[ti] OR systematic qualitative review[ti] OR systematic evidence review[ti] OR systematic quantitative review[ti] OR systematic meta-review[ti] OR systematic critical review[ti] OR systematic mixed studies review[ti] OR systematic mapping review[ti] OR systematic cochrane review[ti] OR systematic search and review[ti] OR systematic integrative review[ti]) NOT (comment[pt] 1600/01/01:2019/04/02[mhda]) NOT (protocol[ti] OR protocols[ti])) NOT (MEDLINE [subset] 1600/01/01:2019/04/02[mhda])) OR (Cochrane Database Syst Rev[ta] AND (review[pt] 1600/01/01:2019/04/02[mhda])) OR (systematic review[pt] 1600/01/01:2019/04/02[mhda])
+            )
+        )
+        NOT
+        (
+            (Animals[mh:noexp] not Humans[mh:noexp]) 1600/01/01:2019/04/02[mhda]
+        )
+    )
+    AND
+    (
+        2019/04/03:2019/06/27[crdt]
+    )
+)
+```
+
+Действительно возвращает 24 записи.
+
+Проверяем, что за 2 записи по сравнению с 22 — вот они:
+
+```
+PMID- 31198811
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20190618
+IS  - 2322-2522 (Print)
+IS  - 2322-2522 (Linking)
+VI  - 7
+IP  - 2
+DP  - 2019 Apr
+TI  - Prone Positioning for Management of Fat Embolism Syndrome in a Patient with Spine
+      Fracture; An Unusual Scenario and Review of Literature.
+PG  - 192-195
+LID - 10.29252/beat-070217 [doi]
+AB  - Fat embolism syndrome is a rare but fatal complication seen commonly in patients 
+      with polytrauma. Its earliest manifestation is hypoxemia due to deposition of fat
+      globules in pulmonary circulation which can progress to severe acute respiratory 
+      distress syndrome, the treatment of which is mainly supportive. We describe the
+      case of a 17-year-old male who was admitted in our intensive care unit (ICU) for 
+      severe hypoxemia due to fat embolism. He had burst fracture of 5th lumbar
+      vertebra with canal compromise along with other fractures. Failing conventional
+      ventilation, the patient was placed in prone position taking proper precautions
+      in positioning giving due consideration to his unstable lumbar spine. There was
+      no neurological insult and in the next two days, he was weaned off from the
+      ventilator. Though prone position is relatively contraindicated in patients with 
+      unstable spine, we employed early prone positioning taking adequate precautions, 
+      the benefit of which we believe outweighed the risk.
+FAU - Tyagi, Abhay
+AU  - Tyagi A
+AD  - Department of Anesthesiology, Critical Care and Pain Medicine, All India
+      Institute of Medical Sciences, New Delhi, India.
+FAU - Aggarwal, Richa
+AU  - Aggarwal R
+AD  - Department of Critical Care, JPNATC, All India Institute of Medical Sciences, New
+      Delhi, India.
+FAU - Soni, Kapil Dev
+AU  - Soni KD
+AD  - Department of Critical Care, JPNATC, All India Institute of Medical Sciences, New
+      Delhi, India.
+FAU - Trikha, Anjan
+AU  - Trikha A
+AD  - Department of Anesthesiology, Critical Care and Pain Medicine, All India
+      Institute of Medical Sciences, New Delhi, India.
+LA  - eng
+PT  - Case Reports
+PL  - Iran
+TA  - Bull Emerg Trauma
+JT  - Bulletin of emergency and trauma
+JID - 101614018
+PMC - PMC6555215
+OTO - NOTNLM
+OT  - ARDS
+OT  - Fat embolism
+OT  - Prone position
+OT  - Trauma
+COIS- The authors declare there is no conflict of interest
+EDAT- 2019/06/15 06:00
+MHDA- 2019/06/15 06:01
+CRDT- 2019/06/15 06:00
+PHST- 2019/06/15 06:00 [entrez]
+PHST- 2019/06/15 06:00 [pubmed]
+PHST- 2019/06/15 06:01 [medline]
+AID - 10.29252/beat-070217 [doi]
+PST - ppublish
+SO  - Bull Emerg Trauma. 2019 Apr;7(2):192-195. doi: 10.29252/beat-070217.
+
+PMID- 31058034
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20190508
+IS  - 2168-8184 (Print)
+IS  - 2168-8184 (Linking)
+VI  - 11
+IP  - 2
+DP  - 2019 Feb 28
+TI  - A Case of Delayed Paraplegia Following Missed Diagnosis on Computed Tomography.
+PG  - e4151
+LID - 10.7759/cureus.4151 [doi]
+AB  - There are many proposed classification systems for traumatic thoracolumbar
+      fractures (TLF). More recently published are the AO Spine Classification System
+      and the Thoraco-Lumbar Injury Classification System (TLICS). There has been a
+      paucity of high-level evidence to link these classification system subtypes with 
+      clinical outcomes and/or management strategies. Previously, post-traumatic burst 
+      fractures or two column injuries identified on computed tomography (CT) scan have
+      been deemed stable injuries. The addition of magnetic resonance imaging (MRI)
+      evaluation for concomitant ligamentous injuries in cases of incomplete burst
+      fractures has been widely debated without high-level evidence. In this report, we
+      present a case of an incomplete burst fracture at L1, AO-A3, which did not
+      receive an MRI and presented with delayed paraplegia four weeks later.
+FAU - Clifton, William
+AU  - Clifton W
+AD  - Neurosurgery, Mayo Clinic, Jacksonville, USA.
+FAU - Rahmathulla, Gazanfar
+AU  - Rahmathulla G
+AD  - Neurosurgery, University of Florida College of Medicine, Jacksonville, USA.
+LA  - eng
+PT  - Case Reports
+DEP - 20190228
+PL  - United States
+TA  - Cureus
+JT  - Cureus
+JID - 101596737
+PMC - PMC6488344
+OTO - NOTNLM
+OT  - fracture
+OT  - plc
+OT  - spine
+OT  - tlics
+OT  - trauma
+OT  - vertebral body
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2019/05/07 06:00
+MHDA- 2019/05/07 06:01
+CRDT- 2019/05/07 06:00
+PHST- 2019/05/07 06:00 [entrez]
+PHST- 2019/05/07 06:00 [pubmed]
+PHST- 2019/05/07 06:01 [medline]
+AID - 10.7759/cureus.4151 [doi]
+PST - epublish
+SO  - Cureus. 2019 Feb 28;11(2):e4151. doi: 10.7759/cureus.4151.
+```
+
+И с ними понятно, почему они не выдались по запросу на 1445: они оба в [выдаются по вот этой части запроса на 1445](https://www.ncbi.nlm.nih.gov/pubmed/?term=(+(+(case+reports%5BPublication+Type%5D+1600%2F01%2F01%3A2019%2F06%2F27%5Bmhda%5D)+OR+%22case+report%22%5Bti%5D+)+NOT+(+(((systematic+review%5Bti%5D+OR+systematic+literature+review%5Bti%5D+OR+systematic+scoping+review%5Bti%5D+OR+systematic+narrative+review%5Bti%5D+OR+systematic+qualitative+review%5Bti%5D+OR+systematic+evidence+review%5Bti%5D+OR+systematic+quantitative+review%5Bti%5D+OR+systematic+meta-review%5Bti%5D+OR+systematic+critical+review%5Bti%5D+OR+systematic+mixed+studies+review%5Bti%5D+OR+systematic+mapping+review%5Bti%5D+OR+systematic+cochrane+review%5Bti%5D+OR+systematic+search+and+review%5Bti%5D+OR+systematic+integrative+review%5Bti%5D)+NOT+(comment%5Bpt%5D+1600%2F01%2F01%3A2019%2F06%2F27%5Bmhda%5D)+NOT+(protocol%5Bti%5D+OR+protocols%5Bti%5D))+NOT+(MEDLINE+%5Bsubset%5D+1600%2F01%2F01%3A2019%2F06%2F27%5Bmhda%5D))+OR+(Cochrane+Database+Syst+Rev%5Bta%5D+AND+(review%5Bpt%5D+1600%2F01%2F01%3A2019%2F06%2F27%5Bmhda%5D))+OR+(systematic+review%5Bpt%5D+1600%2F01%2F01%3A2019%2F06%2F27%5Bmhda%5D)+)+)+(31198811%5Bpmid%5D+or+31058034%5Bpmid%5D)):
+
+```
+        (
+            (
+                (case reports[Publication Type] 1600/01/01:2019/06/27[mhda]) OR "case report"[ti]
+            )
+            NOT
+            (
+                (((systematic review[ti] OR systematic literature review[ti] OR systematic scoping review[ti] OR systematic narrative review[ti] OR systematic qualitative review[ti] OR systematic evidence review[ti] OR systematic quantitative review[ti] OR systematic meta-review[ti] OR systematic critical review[ti] OR systematic mixed studies review[ti] OR systematic mapping review[ti] OR systematic cochrane review[ti] OR systematic search and review[ti] OR systematic integrative review[ti]) NOT (comment[pt] 1600/01/01:2019/06/27[mhda]) NOT (protocol[ti] OR protocols[ti])) NOT (MEDLINE [subset] 1600/01/01:2019/06/27[mhda])) OR (Cochrane Database Syst Rev[ta] AND (review[pt] 1600/01/01:2019/06/27[mhda])) OR (systematic review[pt] 1600/01/01:2019/06/27[mhda])
+            )
+        )
+```
+
+В связи с чем успешно и дополняют множество 1445.
+
+Итак, корректные запросы — выше, с числами результатов 1427 (добавленные до 2 апреля 2019 включительно), 1451 (добавленные до 27 июня 2019 включительно) и 24 (добавленные с 3 апреля по 27 июня 2019 включительно).
