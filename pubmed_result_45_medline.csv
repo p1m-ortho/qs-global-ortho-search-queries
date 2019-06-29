@@ -1,5 +1,5 @@
-
-PMID- 30747696
+MEDLINE,Соответствует семантике соответствующего фрагмента запроса?,Обоснование,Относится к вертебрологии?
+"PMID- 30747696
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20190219
@@ -89,9 +89,8 @@ PHST- 2019/02/13 06:00 [entrez]
 PHST- 2019/02/13 06:00 [pubmed]
 PHST- 2019/03/21 06:00 [medline]
 PST - ppublish
-SO  - Am Surg. 2018 Oct 1;84(10):1691-1695.
-
-PMID- 30170393
+SO  - Am Surg. 2018 Oct 1;84(10):1691-1695.",Шлак,"Вошла за счет мешей `Thoracotomy`, `Thoracic Injuries` и `Aorta/*injuries`. `Thoracotomy`: [подходит смутно](https://meshb.nlm.nih.gov/record/ui?ui=D013908). `Thoracic Injuries`: [не подходит](https://meshb.nlm.nih.gov/record/ui?ui=D013898). `Aorta/*injuries`: подмеш `injuries` подходит вообще-то, но это как раз то, что я забыл учесть в запросе."
+"PMID- 30170393
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20180907
@@ -210,9 +209,8 @@ PHST- 2018/09/08 06:00 [medline]
 AID - 10.1097/MD.0000000000011955 [doi]
 AID - 00005792-201808310-00025 [pii]
 PST - ppublish
-SO  - Medicine (Baltimore). 2018 Aug;97(35):e11955. doi: 10.1097/MD.0000000000011955.
-
-PMID- 30104626
+SO  - Medicine (Baltimore). 2018 Aug;97(35):e11955. doi: 10.1097/MD.0000000000011955.",Шлак,"Вошла за счет меша `Thoracic Injuries`, который [не подходит](https://meshb.nlm.nih.gov/record/ui?ui=D013898)".
+"PMID- 30104626
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20190408
@@ -330,9 +328,8 @@ AID - 10.1038/s41385-018-0070-z [doi]
 AID - 10.1038/s41385-018-0070-z [pii]
 PST - ppublish
 SO  - Mucosal Immunol. 2018 Nov;11(6):1674-1683. doi: 10.1038/s41385-018-0070-z. Epub
-      2018 Aug 13.
-
-PMID- 29410173
+      2018 Aug 13.",Шлак,"Вошла за счет вещества `lipoxin A4`, что явно не нужно."
+"PMID- 29410173
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20180514
@@ -434,9 +431,8 @@ AID - S1878-8750(18)30209-2 [pii]
 AID - 10.1016/j.wneu.2018.01.166 [doi]
 PST - ppublish
 SO  - World Neurosurg. 2018 Apr;112:e823-e829. doi: 10.1016/j.wneu.2018.01.166. Epub
-      2018 Feb 1.
-
-PMID- 29366930
+      2018 Feb 1."
+"PMID- 29366930
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20190423
@@ -568,9 +564,8 @@ AID - S0889-1591(18)30004-7 [pii]
 AID - 10.1016/j.bbi.2018.01.005 [doi]
 PST - ppublish
 SO  - Brain Behav Immun. 2018 Mar;69:470-479. doi: 10.1016/j.bbi.2018.01.005. Epub 2018
-      Jan 31.
-
-PMID- 28981094
+      Jan 31."
+"PMID- 28981094
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20180608
@@ -698,9 +693,8 @@ PHST- 2018/06/09 06:00 [medline]
 AID - cddis2017473 [pii]
 AID - 10.1038/cddis.2017.473 [doi]
 PST - epublish
-SO  - Cell Death Dis. 2017 Oct 5;8(10):e3075. doi: 10.1038/cddis.2017.473.
-
-PMID- 28407019
+SO  - Cell Death Dis. 2017 Oct 5;8(10):e3075. doi: 10.1038/cddis.2017.473."
+"PMID- 28407019
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20170421
@@ -817,9 +811,8 @@ AID - 10.1371/journal.pone.0175567 [doi]
 AID - PONE-D-16-33697 [pii]
 PST - epublish
 SO  - PLoS One. 2017 Apr 13;12(4):e0175567. doi: 10.1371/journal.pone.0175567.
-      eCollection 2017.
-
-PMID- 28010624
+      eCollection 2017."
+"PMID- 28010624
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20170126
@@ -856,9 +849,8 @@ PHST- 2016/12/25 06:00 [pubmed]
 PHST- 2017/01/27 06:00 [medline]
 AID - 10.1080/00015458.2016.1181369 [doi]
 PST - ppublish
-SO  - Acta Chir Belg. 2016 Oct;116(5):336. doi: 10.1080/00015458.2016.1181369.
-
-PMID- 27978846
+SO  - Acta Chir Belg. 2016 Oct;116(5):336. doi: 10.1080/00015458.2016.1181369."
+"PMID- 27978846
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20180306
@@ -966,9 +958,8 @@ PHST- 2018/03/07 06:00 [medline]
 AID - 10.1186/s13054-016-1577-x [doi]
 AID - 10.1186/s13054-016-1577-x [pii]
 PST - epublish
-SO  - Crit Care. 2016 Dec 15;20(1):400. doi: 10.1186/s13054-016-1577-x.
-
-PMID- 27397493
+SO  - Crit Care. 2016 Dec 15;20(1):400. doi: 10.1186/s13054-016-1577-x."
+"PMID- 27397493
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20171106
@@ -1098,9 +1089,8 @@ AID - S1742-7061(16)30323-3 [pii]
 AID - 10.1016/j.actbio.2016.07.007 [doi]
 PST - ppublish
 SO  - Acta Biomater. 2016 Sep 15;42:316-328. doi: 10.1016/j.actbio.2016.07.007. Epub
-      2016 Jul 7.
-
-PMID- 27372945
+      2016 Jul 7."
+"PMID- 27372945
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20180111
@@ -1208,9 +1198,8 @@ AID - 10.1007/s00586-016-4596-z [doi]
 AID - 10.1007/s00586-016-4596-z [pii]
 PST - ppublish
 SO  - Eur Spine J. 2017 May;26(5):1541-1549. doi: 10.1007/s00586-016-4596-z. Epub 2016 
-      Jul 2.
-
-PMID- 27050883
+      Jul 2."
+"PMID- 27050883
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20170626
@@ -1329,9 +1318,8 @@ PHST- 2017/06/27 06:00 [medline]
 AID - 10.1097/TA.0000000000001079 [doi]
 PST - ppublish
 SO  - J Trauma Acute Care Surg. 2016 Sep;81(3):409-19. doi:
-      10.1097/TA.0000000000001079.
-
-PMID- 26341869
+      10.1097/TA.0000000000001079."
+"PMID- 26341869
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20160125
@@ -1520,9 +1508,8 @@ AID - WNL.0000000000001996 [pii]
 AID - 10.1212/WNL.0000000000001996 [doi]
 PST - ppublish
 SO  - Neurology. 2015 Oct 6;85(14):1224-32. doi: 10.1212/WNL.0000000000001996. Epub
-      2015 Sep 4.
-
-PMID- 24516049
+      2015 Sep 4."
+"PMID- 24516049
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20141118
@@ -1606,9 +1593,8 @@ PHST- 2014/11/19 06:00 [medline]
 AID - JCanResTher_2013_9_7_133_122508 [pii]
 AID - 10.4103/0973-1482.122508 [doi]
 PST - ppublish
-SO  - J Cancer Res Ther. 2013 Nov;9 Suppl:S135-41. doi: 10.4103/0973-1482.122508.
-
-PMID- 23469596
+SO  - J Cancer Res Ther. 2013 Nov;9 Suppl:S135-41. doi: 10.4103/0973-1482.122508."
+"PMID- 23469596
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20131230
@@ -1695,9 +1681,8 @@ PHST- 2013/03/09 06:00 [entrez]
 PHST- 2013/03/09 06:00 [pubmed]
 PHST- 2014/01/01 06:00 [medline]
 PST - ppublish
-SO  - Zhongguo Zhong Xi Yi Jie He Za Zhi. 2012 Dec;32(12):1607-10.
-
-PMID- 23468432
+SO  - Zhongguo Zhong Xi Yi Jie He Za Zhi. 2012 Dec;32(12):1607-10."
+"PMID- 23468432
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20140218
@@ -1804,9 +1789,8 @@ PHST- 2014/02/19 06:00 [medline]
 AID - 10.1002/alr.21158 [doi]
 PST - ppublish
 SO  - Int Forum Allergy Rhinol. 2013 Jun;3(6):439-49. doi: 10.1002/alr.21158. Epub 2013
-      Mar 6.
-
-PMID- 23224427
+      Mar 6."
+"PMID- 23224427
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20130507
@@ -1901,9 +1885,8 @@ PHST- 2013/05/08 06:00 [medline]
 AID - 10.1007/s00402-012-1663-8 [doi]
 PST - ppublish
 SO  - Arch Orthop Trauma Surg. 2013 Mar;133(3):381-7. doi: 10.1007/s00402-012-1663-8.
-      Epub 2012 Dec 7.
-
-PMID- 22957532
+      Epub 2012 Dec 7."
+"PMID- 22957532
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20130108
@@ -2006,9 +1989,8 @@ PHST- 2013/01/09 06:00 [medline]
 AID - 10.3171/2012.8.JNS111734 [doi]
 PST - ppublish
 SO  - J Neurosurg. 2012 Nov;117(5):890-6. doi: 10.3171/2012.8.JNS111734. Epub 2012 Sep 
-      7.
-
-PMID- 22894570
+      7."
+"PMID- 22894570
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20130711
@@ -2024,7 +2006,7 @@ PG  - 350-9
 LID - 10.1089/ten.TEA.2012.0274 [doi]
 AB  - In this study, we tested the hypothesis that a surface functionalization delivery
       platform incorporating heparin onto strontium alginate microbeads surfaces would 
-      convert this "naive carriers" into "mini-reservoirs" for localized in vivo
+      convert this ”naive carriers” into ”mini-reservoirs” for localized in vivo
       delivery of recombinant human bone morphogenetic protein-2 (rhBMP-2) that will
       induce functional bone regeneration. In vitro evaluation confirmed that (1)
       heparin incorporation could immobilize and prolong rhBMP-2 release for
@@ -2102,9 +2084,8 @@ PHST- 2013/07/13 06:00 [medline]
 AID - 10.1089/ten.TEA.2012.0274 [doi]
 PST - ppublish
 SO  - Tissue Eng Part A. 2013 Feb;19(3-4):350-9. doi: 10.1089/ten.TEA.2012.0274. Epub
-      2012 Nov 7.
-
-PMID- 22406532
+      2012 Nov 7."
+"PMID- 22406532
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20120706
@@ -2248,9 +2229,8 @@ PHST- 2012/07/07 06:00 [medline]
 AID - 59262 [pii]
 AID - 10.1172/JCI59262 [doi]
 PST - ppublish
-SO  - J Clin Invest. 2012 Apr;122(4):1459-68. doi: 10.1172/JCI59262. Epub 2012 Mar 12.
-
-PMID- 22205391
+SO  - J Clin Invest. 2012 Apr;122(4):1459-68. doi: 10.1172/JCI59262. Epub 2012 Mar 12."
+"PMID- 22205391
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20120802
@@ -2269,7 +2249,7 @@ AB  - Lipoxins are formed by leukocytes during cell-cell interactions with epith
       lipoxin receptors formyl peptide receptor 2 (FPR2)/ALX and CysLT1. Furthermore,
       LXA(4) inhibits recruitment of neutrophils, by attenuating chemotaxis, adhesion, 
       and transmigration across vascular endothelial cells. LXA(4) thus appears to
-      serve as an endogenous "stop signal" for immune cell-mediated tissue injury
+      serve as an endogenous ”stop signal” for immune cell-mediated tissue injury
       (Serhan CN; Annu Rev Immunol 25: 101-137, 2007). The role of LXA(4) has not been 
       addressed in salivary epithelium, and little is known about its effects on
       vascular endothelium. Here, we determined that interleukin-1beta (IL-1beta) and
@@ -2367,9 +2347,8 @@ AID - ajpcell.00259.2011 [pii]
 AID - 10.1152/ajpcell.00259.2011 [doi]
 PST - ppublish
 SO  - Am J Physiol Cell Physiol. 2012 Apr 1;302(7):C968-78. doi:
-      10.1152/ajpcell.00259.2011. Epub 2011 Dec 28.
-
-PMID- 21712086
+      10.1152/ajpcell.00259.2011. Epub 2011 Dec 28."
+"PMID- 21712086
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20111202
@@ -2472,9 +2451,8 @@ AID - S0891-5849(11)00354-6 [pii]
 AID - 10.1016/j.freeradbiomed.2011.05.038 [doi]
 PST - ppublish
 SO  - Free Radic Biol Med. 2011 Sep 15;51(6):1175-83. doi:
-      10.1016/j.freeradbiomed.2011.05.038. Epub 2011 Jun 12.
-
-PMID- 21068598
+      10.1016/j.freeradbiomed.2011.05.038. Epub 2011 Jun 12."
+"PMID- 21068598
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20101210
@@ -2543,9 +2521,8 @@ PHST- 2010/12/14 06:00 [medline]
 AID - 10.1097/HP.0b013e3181e850da [doi]
 AID - 00004032-201012000-00020 [pii]
 PST - ppublish
-SO  - Health Phys. 2010 Dec;99(6):800-5. doi: 10.1097/HP.0b013e3181e850da.
-
-PMID- 19350476
+SO  - Health Phys. 2010 Dec;99(6):800-5. doi: 10.1097/HP.0b013e3181e850da."
+"PMID- 19350476
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20091202
@@ -2638,9 +2615,8 @@ PHST- 2009/12/16 06:00 [medline]
 AID - 10.1055/s-0029-1214393 [doi]
 PST - ppublish
 SO  - Laryngorhinootologie. 2009 Sep;88(9):592-8. doi: 10.1055/s-0029-1214393. Epub
-      2009 Apr 6.
-
-PMID- 18762104
+      2009 Apr 6."
+"PMID- 18762104
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20090130
@@ -2712,9 +2688,8 @@ PHST- 2008/09/03 09:00 [entrez]
 AID - S0363-5023(08)00326-2 [pii]
 AID - 10.1016/j.jhsa.2008.03.010 [doi]
 PST - ppublish
-SO  - J Hand Surg Am. 2008 Sep;33(7):1100-7. doi: 10.1016/j.jhsa.2008.03.010.
-
-PMID- 18092159
+SO  - J Hand Surg Am. 2008 Sep;33(7):1100-7. doi: 10.1016/j.jhsa.2008.03.010."
+"PMID- 18092159
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20080919
@@ -2802,9 +2777,8 @@ PHST- 2007/12/20 09:00 [entrez]
 AID - 10.1007/s00256-007-0426-z [doi]
 PST - ppublish
 SO  - Skeletal Radiol. 2008 Apr;37(4):307-12. doi: 10.1007/s00256-007-0426-z. Epub 2007
-      Dec 19.
-
-PMID- 17621257
+      Dec 19."
+"PMID- 17621257
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20080229
@@ -2908,9 +2882,8 @@ PHST- 2008/03/01 09:00 [medline]
 PHST- 2007/07/11 09:00 [entrez]
 AID - 10.1097/shk.0b013e3180556a0b [doi]
 PST - ppublish
-SO  - Shock. 2008 Jan;29(1):25-31. doi: 10.1097/shk.0b013e3180556a0b.
-
-PMID- 17507816
+SO  - Shock. 2008 Jan;29(1):25-31. doi: 10.1097/shk.0b013e3180556a0b."
+"PMID- 17507816
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20070719
@@ -2981,9 +2954,8 @@ PHST- 2007/05/18 09:00 [entrez]
 AID - 10.1097/01.rli.0000262756.65849.12 [doi]
 AID - 00004424-200706000-00015 [pii]
 PST - ppublish
-SO  - Invest Radiol. 2007 Jun;42(6):435-41. doi: 10.1097/01.rli.0000262756.65849.12.
-
-PMID- 15573078
+SO  - Invest Radiol. 2007 Jun;42(6):435-41. doi: 10.1097/01.rli.0000262756.65849.12."
+"PMID- 15573078
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20050104
@@ -3078,9 +3050,8 @@ AID - S0022522304012292 [pii]
 AID - 10.1016/j.jtcvs.2004.08.019 [doi]
 PST - ppublish
 SO  - J Thorac Cardiovasc Surg. 2004 Dec;128(6):925-32. doi:
-      10.1016/j.jtcvs.2004.08.019.
-
-PMID- 15173946
+      10.1016/j.jtcvs.2004.08.019."
+"PMID- 15173946
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20050331
@@ -3168,9 +3139,8 @@ PHST- 2004/06/03 05:00 [entrez]
 AID - 10.1007/s00423-004-0472-0 [doi]
 PST - ppublish
 SO  - Langenbecks Arch Surg. 2004 Nov;389(6):475-84. doi: 10.1007/s00423-004-0472-0.
-      Epub 2004 May 28.
-
-PMID- 14710378
+      Epub 2004 May 28."
+"PMID- 14710378
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20040430
@@ -3232,9 +3202,8 @@ PHST- 2004/05/01 05:00 [medline]
 PHST- 2004/01/08 05:00 [entrez]
 AID - S1043067903000881 [pii]
 PST - ppublish
-SO  - Semin Thorac Cardiovasc Surg. 2003 Oct;15(4):365-77.
-
-PMID- 12709576
+SO  - Semin Thorac Cardiovasc Surg. 2003 Oct;15(4):365-77."
+"PMID- 12709576
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20030612
@@ -3322,9 +3291,8 @@ PHST- 2003/04/24 05:00 [entrez]
 AID - 10.1177/15353702-0322805-13 [doi]
 PST - ppublish
 SO  - Exp Biol Med (Maywood). 2003 May;228(5):499-505. doi:
-      10.1177/15353702-0322805-13.
-
-PMID- 11938858
+      10.1177/15353702-0322805-13."
+"PMID- 11938858
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20021203
@@ -3409,9 +3377,8 @@ PHST- 2002/04/10 10:00 [pubmed]
 PHST- 2002/12/04 04:00 [medline]
 PHST- 2002/04/10 10:00 [entrez]
 PST - ppublish
-SO  - Zhongguo Zhong Xi Yi Jie He Za Zhi. 2000 Dec;20(12):896-8.
-
-PMID- 11745518
+SO  - Zhongguo Zhong Xi Yi Jie He Za Zhi. 2000 Dec;20(12):896-8."
+"PMID- 11745518
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20020312
@@ -3487,9 +3454,8 @@ PHST- 2002/03/13 10:01 [medline]
 PHST- 2001/12/18 10:00 [entrez]
 AID - 10.1002/jbm.1066 [pii]
 PST - ppublish
-SO  - J Biomed Mater Res. 2001;58(6):658-65.
-
-PMID- 11208485
+SO  - J Biomed Mater Res. 2001;58(6):658-65."
+"PMID- 11208485
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20010802
@@ -3667,9 +3633,8 @@ PHST- 2001/08/03 10:01 [medline]
 PHST- 2001/02/24 11:00 [entrez]
 AID - 1737 [pii]
 PST - ppublish
-SO  - Med Sci Monit. 2001 Jan-Feb;7(1):1-16.
-
-PMID- 10508185
+SO  - Med Sci Monit. 2001 Jan-Feb;7(1):1-16."
+"PMID- 10508185
 OWN - NLM
 STAT- MEDLINE
 DCOM- 19991119
@@ -3785,9 +3750,8 @@ PHST- 1999/10/03 00:01 [medline]
 PHST- 1999/10/03 00:00 [entrez]
 AID - 10.1093/intimm/11.10.1673 [doi]
 PST - ppublish
-SO  - Int Immunol. 1999 Oct;11(10):1673-83. doi: 10.1093/intimm/11.10.1673.
-
-PMID- 10191746
+SO  - Int Immunol. 1999 Oct;11(10):1673-83. doi: 10.1093/intimm/11.10.1673."
+"PMID- 10191746
 OWN - NLM
 STAT- MEDLINE
 DCOM- 19990416
@@ -3857,9 +3821,8 @@ PHST- 1999/04/07 00:00 [pubmed]
 PHST- 1999/04/07 00:01 [medline]
 PHST- 1999/04/07 00:00 [entrez]
 PST - ppublish
-SO  - Acta Orthop Scand. 1999 Feb;70(1):37-41.
-
-PMID- 9594898
+SO  - Acta Orthop Scand. 1999 Feb;70(1):37-41."
+"PMID- 9594898
 OWN - NLM
 STAT- MEDLINE
 DCOM- 19980610
@@ -3920,9 +3883,8 @@ PHST- 1998/05/22 00:01 [medline]
 PHST- 1998/05/22 00:00 [entrez]
 AID - S0003497598000903 [pii]
 PST - ppublish
-SO  - Ann Thorac Surg. 1998 May;65(5):1471-4.
-
-PMID- 8948341
+SO  - Ann Thorac Surg. 1998 May;65(5):1471-4."
+"PMID- 8948341
 OWN - NLM
 STAT- MEDLINE
 DCOM- 19961224
@@ -4015,9 +3977,8 @@ PHST- 1996/10/01 00:01 [medline]
 PHST- 1996/10/01 00:00 [entrez]
 AID - S0360301696003781 [pii]
 PST - ppublish
-SO  - Int J Radiat Oncol Biol Phys. 1996 Oct 1;36(3):573-84.
-
-PMID- 8377050
+SO  - Int J Radiat Oncol Biol Phys. 1996 Oct 1;36(3):573-84."
+"PMID- 8377050
 OWN - NLM
 STAT- MEDLINE
 DCOM- 19931021
@@ -4088,9 +4049,8 @@ PHST- 1993/01/01 00:00 [pubmed]
 PHST- 1993/01/01 00:01 [medline]
 PHST- 1993/01/01 00:00 [entrez]
 PST - ppublish
-SO  - J Orthop Trauma. 1993;7(4):375-80.
-
-PMID- 2912760
+SO  - J Orthop Trauma. 1993;7(4):375-80."
+"PMID- 2912760
 OWN - NLM
 STAT- MEDLINE
 DCOM- 19890303
@@ -4162,9 +4122,8 @@ PHST- 1989/02/01 00:01 [medline]
 PHST- 1989/02/01 00:00 [entrez]
 AID - 0014-4886(89)90078-2 [pii]
 PST - ppublish
-SO  - Exp Neurol. 1989 Feb;103(2):165-72.
-
-PMID- 2643628
+SO  - Exp Neurol. 1989 Feb;103(2):165-72."
+"PMID- 2643628
 OWN - NLM
 STAT- MEDLINE
 DCOM- 19890309
@@ -4248,9 +4207,8 @@ PHST- 1989/02/01 00:01 [medline]
 PHST- 1989/02/01 00:00 [entrez]
 AID - 10.1172/JCI113895 [doi]
 PST - ppublish
-SO  - J Clin Invest. 1989 Feb;83(2):380-5. doi: 10.1172/JCI113895.
-
-PMID- 6296757
+SO  - J Clin Invest. 1989 Feb;83(2):380-5. doi: 10.1172/JCI113895."
+"PMID- 6296757
 OWN - NLM
 STAT- MEDLINE
 DCOM- 19830317
@@ -4314,9 +4272,8 @@ PHST- 1982/12/17 00:00 [pubmed]
 PHST- 1982/12/17 00:01 [medline]
 PHST- 1982/12/17 00:00 [entrez]
 PST - ppublish
-SO  - Pharm Weekbl Sci. 1982 Dec 17;4(6):165-71.
-
-PMID- 345933
+SO  - Pharm Weekbl Sci. 1982 Dec 17;4(6):165-71."
+"PMID- 345933
 OWN - NLM
 STAT- MEDLINE
 DCOM- 19780508
@@ -4370,9 +4327,8 @@ PHST- 1977/11/01 00:00 [pubmed]
 PHST- 1977/11/01 00:01 [medline]
 PHST- 1977/11/01 00:00 [entrez]
 PST - ppublish
-SO  - Ann Chir. 1977 Nov;31(11):929-37.
-
-PMID- 5635605
+SO  - Ann Chir. 1977 Nov;31(11):929-37."
+"PMID- 5635605
 OWN - NLM
 STAT- MEDLINE
 DCOM- 19680324
@@ -4409,4 +4365,4 @@ PHST- 1968/01/01 00:00 [pubmed]
 PHST- 1968/01/01 00:01 [medline]
 PHST- 1968/01/01 00:00 [entrez]
 PST - ppublish
-SO  - Br J Surg. 1968 Jan;55(1):77-8.
+SO  - Br J Surg. 1968 Jan;55(1):77-8."
