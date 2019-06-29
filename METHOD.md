@@ -784,3 +784,53 @@ SO  - Brain Behav Immun. 2018 Mar;69:470-479. doi: 10.1016/j.bbi.2018.01.005. Ep
 Если хоть что-то есть, то придется оставить Text Word, потому что это и более обоснованно, и с несколькими добавляющимися записями можно мириться, тем более что желающие смогут легко проверить, добавились ли эти записи в результатах запроса по этой причине или нет.
 
 Если же явно будет видно, что все это — сплошной мусор, а вхождения — сплошь в неподходящих местах, то можно будет на Title/Abstract заменить.
+
+Итак, просмотрел 45, в результате чего сделал важные добавления к запросу: плавающий `in[sh]` и `trauma*[tiab]` — явные упущения, которые требовали исправления.
+
+Но вот что Text Word вместо Title/Abstract — полезное исправление в нашем случае, я не убедился: по моей оценке (см. прилагающийся `pubmed_result_45_medline.csv`), 3 из 45 записей соответствуют семантике запроса (из них [Sadiqi 2017](https://pubmed.gov/27372945), кстати, небезызвестна нам по запросу про шкалы оценки результатов при ПСМТ, про который можно почитать в [соответствующем экспорте из СТМЗ 3](https://github.com/p1m-ortho/xc-led-dzhanelidze-proms-and-croms/commit/e2492c5898964b9712cfeb12c0f42053ae0339e4)), и по исправленному запросу они выдаются.
+
+Более того, те две добавлявшиеся записи ([30104626](https://pubmed.gov/30104626) и [29366930](https://pubmed.gov/29366930)) тоже были среди этих 45, а значит велик шанс, что с TIAB количество записей в выдаче уже будет остававться неизменным.
+
+В итоге исправленный запрос (также синтактически несущественные правки по оформлению):
+
+```
+(
+    (
+        (
+            burst[tiab] OR a2[tiab] OR a3[tiab] OR a4[tiab] OR AOSpine[tiab] OR AO[tiab] OR Arbeitsgemeinschaft fur Osteosynthesefragen[tiab]
+        )
+        AND
+        (
+            fractur*[tiab] OR injur*[tiab] OR ("Fractures, Bone"[mh:noexp] 1600/01/01:2019/04/02[mhda]) OR dislocat*[tiab] OR in[sh] OR traum*[tiab]
+        )
+        AND
+        (
+            thoracic[tiab] OR lumbar[tiab] OR ("Thoracic Vertebrae"[MeSH Terms] 1600/01/01:2019/04/02[mhda]) OR ("Lumbar Vertebrae"[MeSH Terms] 1600/01/01:2019/04/02[mhda]) OR thoraco*[tiab] OR t1[tiab] OR t2[tiab] OR t3[tiab] OR t4[tiab] OR t5[tiab] OR t6[tiab] OR t7[tiab] OR t8[tiab] OR t9[tiab] OR t10[tiab] OR t11[tiab] OR t12[tiab] OR th1[tiab] OR th2[tiab] OR th3[tiab] OR th4[tiab] OR th5[tiab] OR th6[tiab] OR th7[tiab] OR th8[tiab] OR th9[tiab] OR th10[tiab] OR th11[tiab] OR th12[tiab] OR d1[tiab] OR d2[tiab] OR d3[tiab] OR d4[tiab] OR d5[tiab] OR d6[tiab] OR d7[tiab] OR d8[tiab] OR d9[tiab] OR d10[tiab] OR d11[tiab] OR d12[tiab] OR l1[tiab] OR l2[tiab] OR l3[tiab] OR l4[tiab] OR l5[tiab] OR l6[tiab]
+        )
+        NOT
+        (
+            (
+                (case reports[Publication Type] 1600/01/01:2019/04/02[mhda]) OR "case report"[ti]
+            )
+            NOT
+            (
+                (((systematic review[ti] OR systematic literature review[ti] OR systematic scoping review[ti] OR systematic narrative review[ti] OR systematic qualitative review[ti] OR systematic evidence review[ti] OR systematic quantitative review[ti] OR systematic meta-review[ti] OR systematic critical review[ti] OR systematic mixed studies review[ti] OR systematic mapping review[ti] OR systematic cochrane review[ti] OR systematic search and review[ti] OR systematic integrative review[ti]) NOT (comment[pt] 1600/01/01:2019/04/02[mhda]) NOT (protocol[ti] OR protocols[ti])) NOT (MEDLINE [subset] 1600/01/01:2019/04/02[mhda])) OR (Cochrane Database Syst Rev[ta] AND (review[pt] 1600/01/01:2019/04/02[mhda])) OR (systematic review[pt] 1600/01/01:2019/04/02[mhda])
+            )
+        )
+        NOT
+        (
+            (Animals[mh:noexp] not Humans[mh:noexp]) 1600/01/01:2019/04/02[mhda]
+        )
+    )
+    AND
+    (
+        1600/01/01:2019/04/02[crdt]
+    )
+)
+```
+
+Выдает 1442 записи, такие что:
+
+* включают 13 не выдававшихся по запросу на 1464 (добавляю в коммит);
+* не включают 35 из 45 записей, не выдававшихся по 1419, но выдававшихся по 1464 (добавляю в коммит);
+* включают 23 не выдававшихся по запросу на 1419 (добавляю в коммит).

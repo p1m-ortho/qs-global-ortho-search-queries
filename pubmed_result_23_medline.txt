@@ -1,0 +1,1900 @@
+
+PMID- 30747696
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190219
+LR  - 20190320
+IS  - 1555-9823 (Electronic)
+IS  - 0003-1348 (Linking)
+VI  - 84
+IP  - 10
+DP  - 2018 Oct 1
+TI  - Treatment Effect or Effective Treatment? Cardiac Compression Fraction and
+      End-tidal Carbon Dioxide Are Higher in Patients Resuscitative Endovascular
+      Balloon Occlusion of the Aorta Compared with Resuscitative Thoracotomy and
+      Open-Chest Cardiac Massage.
+PG  - 1691-1695
+AB  - The purpose of this study is to compare end-tidal carbon dioxide (EtCO(2)) during
+      resuscitation of open-chest cardiac massage (OCCM) with aortic cross-clamp (ACC) 
+      versus receiving resuscitative endovascular balloon occlusion of the aorta
+      (REBOA) with closed-chest compressions (CCCs). Patients who received REBOA were
+      compared with patients receiving OCCM for traumatic arrest using continuous vital
+      sign monitoring and videography. Thirty-three patients were enrolled in the REBOA
+      group and 18 patients were enrolled in the OCCM group. Of the total patients,
+      86.3 per cent were male with a mean age of 36.2 +/- 13.9 years. Ninety-four
+      percent of patients suffered penetrating trauma in the OCCM group compared with
+      30.3 per cent of the REBOA group (P = <0.001). Before aortic occlusion (AO),
+      there was no difference in initial EtCO(2) values, but mean, median, peak, and
+      final EtCO(2) values were lower in OCCM (P < 0.005). During CPR after AO, the
+      initial, mean, and median values were higher with REBOA (P = 0.015, 0.036, and
+      0.038). The rate of return of spontaneous circulation was higher in REBOA versus 
+      OCCM (20/33 [60.1%] vs 5/18 [33.3%]; P = 0.04), and REBOA patients survived to
+      operative intervention more frequently (P = 0.038). REBOA patients had greater
+      total cardiac compression fraction (CCF) before AO than OCCM (85.3 +/- 12.7% vs
+      35.2 +/- 18.6%, P < 0.0001) and after AO (88.3 +/- 7.8% vs 71.9 +/- 24.4%, P =
+      0.0052). REBOA patients have higher EtCO(2) and cardiac compression fraction
+      before and after AO compared with patients who receive OCCM.
+FAU - Teeter, William A
+AU  - Teeter WA
+AD  - R Adams Cowley Shock Trauma Center, Baltimore, Maryland, USA.
+FAU - Bradley, Matthew J
+AU  - Bradley MJ
+FAU - Romagnoli, Anna
+AU  - Romagnoli A
+FAU - Hu, Peter
+AU  - Hu P
+FAU - Li, Yao
+AU  - Li Y
+FAU - Stein, Deborah M
+AU  - Stein DM
+FAU - Scalea, Thomas M
+AU  - Scalea TM
+FAU - Brenner, Megan
+AU  - Brenner M
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Observational Study
+PL  - United States
+TA  - Am Surg
+JT  - The American surgeon
+JID - 0370522
+RN  - 142M471B3J (Carbon Dioxide)
+SB  - IM
+MH  - Adult
+MH  - Aorta/*injuries
+MH  - Balloon Occlusion/*methods
+MH  - Capnography/methods
+MH  - Carbon Dioxide/*blood
+MH  - Cardiopulmonary Resuscitation/instrumentation/*methods
+MH  - Constriction
+MH  - Embolization, Therapeutic/instrumentation/methods
+MH  - Endovascular Procedures/methods
+MH  - Female
+MH  - Heart Arrest/therapy
+MH  - Heart Massage/methods
+MH  - Hemorrhage/*prevention & control
+MH  - Humans
+MH  - Male
+MH  - Pilot Projects
+MH  - Prospective Studies
+MH  - Thoracic Injuries/complications/therapy
+MH  - Thoracotomy/methods
+MH  - Wounds, Nonpenetrating/complications/therapy
+MH  - Wounds, Penetrating/complications/therapy
+EDAT- 2019/02/13 06:00
+MHDA- 2019/03/21 06:00
+CRDT- 2019/02/13 06:00
+PHST- 2019/02/13 06:00 [entrez]
+PHST- 2019/02/13 06:00 [pubmed]
+PHST- 2019/03/21 06:00 [medline]
+PST - ppublish
+SO  - Am Surg. 2018 Oct 1;84(10):1691-1695.
+
+PMID- 29513915
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20180307
+IS  - 1573-6598 (Electronic)
+IS  - 0894-9867 (Linking)
+VI  - 31
+IP  - 1
+DP  - 2018 Feb
+TI  - Negative Cognitions Prior to Trauma Predict Acute Posttraumatic Stress Disorder
+      Symptomatology.
+PG  - 14-24
+LID - 10.1002/jts.22255 [doi]
+AB  - Based on emotional processing theory, preexisting negative cognitions may
+      contribute to the development of posttraumatic stress disorder (PTSD) symptoms.
+      The present study prospectively examined the association between preexisting
+      PTSD-related cognitions and subsequent acute PTSD symptoms, and the potential
+      mediators of this association. We also compared the effect of preexisting
+      depressive cognitions and preexisting PTSD-related cognitions on PTSD symptoms.
+      In the current study, 810 Taiwanese undergraduates completed a baseline survey
+      (T1), of which 73.1% (n = 592) participated in a second survey two months later
+      (T2). Of those who completed both surveys, 97 experienced a trauma at least one
+      week before T2; this group comprised the final sample. Hierarchical regression
+      showed that preexisting PTSD-related cognitions (beta = .38, p < .001, sr(2) =
+      .117), but not preexisting depressive cognitions (beta = .11, p = .315, sr(2) =
+      .011), were a significant and substantial predictor of acute PTSD symptoms after 
+      we controlled for established pretrauma risk factors (i.e., gender, prior trauma,
+      and prior psychological problems). Multiple mediation analysis revealed that
+      negative appraisal of symptoms (a1 b1 = 0.90, 95% CI [0.16, 2.18], PM = .251) and
+      trauma-related rumination (a3 b3 = 1.23, 95% CI [0.23, 2.86], PM = .341), but not
+      trauma memory disorganization (a2 b2 = 0.65, 95% CI [-0.17, 1.92], PM = .182),
+      significantly mediated between preexisting PTSD-related cognitions and acute PTSD
+      symptoms. Our findings highlight the role of preexisting negative cognitions in
+      acute PTSD symptomatology. The development of PTSD symptoms is likely determined 
+      by the interaction of risk factors before and after trauma.
+CI  - Copyright (c) 2018 International Society for Traumatic Stress Studies.
+FAU - Su, Yi-Jen
+AU  - Su YJ
+AD  - Graduate Institute of Behavioral Sciences, Chang Gung University, Taoyuan,
+      Taiwan.
+AD  - Department of Psychiatry, Chang Gung Memorial Hospital, Linkou, Taoyuan, Taiwan.
+FAU - Chen, Sue-Huei
+AU  - Chen SH
+AD  - Department of Psychology, National Taiwan University, Taipei, Taiwan.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Trauma Stress
+JT  - Journal of traumatic stress
+JID - 8809259
+EDAT- 2018/03/08 06:00
+MHDA- 2018/03/08 06:00
+CRDT- 2018/03/08 06:00
+PHST- 2017/02/21 00:00 [received]
+PHST- 2017/10/07 00:00 [revised]
+PHST- 2017/11/13 00:00 [accepted]
+PHST- 2018/03/08 06:00 [entrez]
+PHST- 2018/03/08 06:00 [pubmed]
+PHST- 2018/03/08 06:00 [medline]
+AID - 10.1002/jts.22255 [doi]
+PST - ppublish
+SO  - J Trauma Stress. 2018 Feb;31(1):14-24. doi: 10.1002/jts.22255.
+
+PMID- 28451485
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20181113
+IS  - 2192-5682 (Print)
+IS  - 2192-5682 (Linking)
+VI  - 7
+IP  - 1 Suppl
+DP  - 2017 Apr
+TI  - Anterior Cervical Infection: Presentation and Incidence of an Uncommon
+      Postoperative Complication.
+PG  - 12S-16S
+LID - 10.1177/2192568216687546 [doi]
+AB  - STUDY DESIGN: Retrospective multi-institutional case series. OBJECTIVE: The
+      anterior cervical discectomy and fusion (ACDF) affords the surgeon the
+      flexibility to treat a variety of cervical pathologies, with the majority being
+      for degenerative and traumatic indications. Limited data in the literature
+      describe the presentation and true incidence of postoperative surgical site
+      infections. METHODS: A retrospective multicenter case series study was conducted 
+      involving 21 high-volume surgical centers from the AOSpine North America Clinical
+      Research Network, selected for their excellence in spine care and clinical
+      research infrastructure and experience. Medical records for 17 625 patients who
+      received cervical spine surgery (levels from C2 to C7) between January 1, 2005,
+      and December 31, 2011, inclusive, were reviewed to identify the occurrence of 21 
+      predefined treatment complications. Patients who underwent an ACDF were
+      identified in the database and reviewed for the occurrence of postoperative
+      anterior cervical infections. RESULTS: A total of 8887 patients were identified
+      from a retrospective database analysis of 21 centers providing data for
+      postoperative anterior cervical infections (17/21, 81% response rate). A total of
+      6 postoperative infections after ACDF were identified for a mean rate of 0.07%
+      (range 0% to 0.39%). The mean age of patients identified was 57.5 (SD = 11.6,
+      66.7% female). The mean body mass index was 22.02. Of the total infections, half 
+      were smokers (n = 3). Two patients presented with myelopathy, and 3 patients
+      presented with radiculopathic-type complaints. The mean length of stay was 4.7
+      days. All patients were treated aggressively with surgery for management of this 
+      complication, with improvement in all patients. There were no mortalities.
+      CONCLUSION: The incidence of postoperative infection in ACDF is exceedingly low. 
+      The management has historically been urgent irrigation and debridement of the
+      surgical site. However, due to the rarity of this occurrence, guidance for
+      management is limited to retrospective series.
+FAU - Ghobrial, George M
+AU  - Ghobrial GM
+AD  - Thomas Jefferson University, Philadelphia, PA, USA.
+FAU - Harrop, James S
+AU  - Harrop JS
+AD  - Thomas Jefferson University, Philadelphia, PA, USA.
+FAU - Sasso, Rick C
+AU  - Sasso RC
+AD  - Indiana University, Indianapolis, IN, USA.
+AD  - Indiana Spine Group, Indianapolis, IN, USA.
+FAU - Tannoury, Chadi A
+AU  - Tannoury CA
+AD  - Boston University Medical Center, Boston, MA, USA.
+FAU - Tannoury, Tony
+AU  - Tannoury T
+AD  - Boston University Medical Center, Boston, MA, USA.
+FAU - Smith, Zachary A
+AU  - Smith ZA
+AD  - Northwestern University, Feinberg School of Medicine, Chicago, IL, USA.
+FAU - Hsu, Wellington K
+AU  - Hsu WK
+AD  - Northwestern University, Feinberg School of Medicine, Chicago, IL, USA.
+FAU - Arnold, Paul M
+AU  - Arnold PM
+AD  - Kansas University Medical Center, Kansas City, KS, USA.
+FAU - Fehlings, Michael G
+AU  - Fehlings MG
+AD  - Toronto Western Hospital, Toronto, Ontario, Canada.
+FAU - Mroz, Thomas E
+AU  - Mroz TE
+AD  - Cleveland Clinic, Cleveland, OH, USA.
+FAU - De Giacomo, Anthony F
+AU  - De Giacomo AF
+AD  - Boston University, Boston, MA, USA.
+FAU - Jobse, Bruce C
+AU  - Jobse BC
+AD  - Boston University Medical Center, Boston, MA, USA.
+FAU - Rahman, Ra'Kerry K
+AU  - Rahman RK
+AD  - Springfield Clinic, LLC, Springfield, IL, USA.
+AD  - Southern Illinois University, Springfield, IL, USA.
+FAU - Thompson, Sara E
+AU  - Thompson SE
+AD  - Northwestern University, Feinberg School of Medicine, Chicago, IL, USA.
+FAU - Riew, K Daniel
+AU  - Riew KD
+AD  - Columbia University, New York, NY, USA.
+AD  - New York-Presbyterian/The Allen Hospital, New York, NY, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20170401
+PL  - England
+TA  - Global Spine J
+JT  - Global spine journal
+JID - 101596156
+PMC - PMC5400186
+OTO - NOTNLM
+OT  - cerebrospinal fluid leak
+OT  - complications
+OT  - durotomy
+OT  - lumbar spine
+OT  - thoracolumbar
+OT  - trauma
+COIS- Declaration of Conflicting Interests: The author(s) declared the following
+      potential conflicts of interest with respect to the research, authorship, and/or 
+      publication of this article: Tony Tannoury reports grants from AOSpine North
+      America during the conduct of the study; Wellington K. Hsu reports grants from
+      AOSpine North America during the conduct of the study, personal fees from
+      Medtronic, personal fees from Stryker, personal fees from Bacterin, personal fees
+      from Graftys, personal fees from Ceramtec, personal fees from Relievant, personal
+      fees from Bioventus, personal fees from Globus, personal fees from SpineSmith,
+      outside the submitted work; Michael G. Fehlings reports grants from AOSpine North
+      America during the conduct of the study; Thomas E. Mroz reports other from AO
+      Spine during the conduct of the study, personal fees from Stryker, personal fees 
+      from Ceramtec, other from Pearl Diver, outside the submitted work; Bruce C. Jobse
+      reports grants from AOSpine North America during the conduct of the study; Sara
+      E. Thompson reports grants from AOSpine North America during the conduct of the
+      study; K. Daniel Riew reports personal fees from AOSpine International, other
+      from Global Spine Journal, other from Spine Journal, other from Neurosurgery,
+      personal fees from Multiple Entities for defense, plantiff, grants from AOSpine, 
+      grants from Cerapedics, grants from Medtronic, personal fees from AOSpine,
+      personal fees from NASS, personal fees from Biomet, personal fees from Medtronic,
+      nonfinancial support from Broadwater, outside the submitted work; George M.
+      Ghobrial reports grants from AOSpine North America, during the conduct of the
+      study; James S. Harrop reports grants from AOSpine North America, during the
+      conduct of the study; personal fees from Depuy spine, personal fees from Tejin,
+      Asterias, Bioventus, outside the submitted work; Rick C. Sasso reports grants
+      from AOSpine North America, during the conduct of the study; personal fees from
+      medtronic, grants from medtronic, grants from K2, outside the submitted work;
+      Chadi A. Tannoury reports grants from AOSpine North America, during the conduct
+      of the study; Zachary A. Smith reports grants from AOSpine North America, during 
+      the conduct of the study; Paul M. Arnold reports grants from AOSpine North
+      America, during the conduct of the study; other from Z-Plasty, other from
+      Medtronic Sofamore Danek, other from Stryker Spine, other from FzioMed, other
+      from AOSpine North America, other from Life Spine, other from Integra Life, other
+      from Spine Wave, other from MIEMS, other from Cerapedics, other from AOSpine
+      North America, outside the submitted work; Anthony F. De Giacomo reports grants
+      from AOSpine North America, during the conduct of the study; Ra'Kerry K. Rahman
+      reports grants from AOSpine North America, during the conduct of the study; in
+      addition, Dr. Rahman has a patent Deformity System & Pedicle Screws pending.
+EDAT- 2017/04/30 06:00
+MHDA- 2017/04/30 06:01
+CRDT- 2017/04/29 06:00
+PHST- 2017/04/29 06:00 [entrez]
+PHST- 2017/04/30 06:00 [pubmed]
+PHST- 2017/04/30 06:01 [medline]
+AID - 10.1177/2192568216687546 [doi]
+AID - 10.1177_2192568216687546 [pii]
+PST - ppublish
+SO  - Global Spine J. 2017 Apr;7(1 Suppl):12S-16S. doi: 10.1177/2192568216687546. Epub 
+      2017 Apr 1.
+
+PMID- 28010624
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170126
+LR  - 20170126
+IS  - 0001-5458 (Print)
+IS  - 0001-5458 (Linking)
+VI  - 116
+IP  - 5
+DP  - 2016 Oct
+TI  - AOSpine Master Series, Volume 6: Thoraco-Lumbar Trauma.
+PG  - 336
+LID - 10.1080/00015458.2016.1181369 [doi]
+FAU - Gillet, Philippe
+AU  - Gillet P
+AD  - a Chirurgie de l'appareil locomoteur, Centre Hospitalier Universitaire , 4000
+      Liege , Belgique.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Acta Chir Belg
+JT  - Acta chirurgica Belgica
+JID - 0370571
+SB  - IM
+MH  - *Book Reviews as Topic
+MH  - Humans
+MH  - Lumbar Vertebrae/injuries
+MH  - Spinal Injuries/*diagnosis/therapy
+MH  - Thoracic Vertebrae/injuries
+EDAT- 2016/12/25 06:00
+MHDA- 2017/01/27 06:00
+CRDT- 2016/12/25 06:00
+PHST- 2016/12/25 06:00 [entrez]
+PHST- 2016/12/25 06:00 [pubmed]
+PHST- 2017/01/27 06:00 [medline]
+AID - 10.1080/00015458.2016.1181369 [doi]
+PST - ppublish
+SO  - Acta Chir Belg. 2016 Oct;116(5):336. doi: 10.1080/00015458.2016.1181369.
+
+PMID- 27792109
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180326
+LR  - 20181202
+IS  - 1528-1159 (Electronic)
+IS  - 0362-2436 (Linking)
+VI  - 42
+IP  - 11
+DP  - 2017 Jun 1
+TI  - Comparison of Three Surgical Approaches for Thoracic Spinal Tuberculosis in
+      Adult: Minimum 5-Year Follow Up.
+PG  - 808-817
+LID - 10.1097/BRS.0000000000001955 [doi]
+AB  - STUDY DESIGN: Retrospective study. OBJECTIVE: To assess the minimum 5-year follow
+      up outcomes of the surgical management of adults with thoracic tuberculosis by
+      comparing posterior only (PO), anterior only (AO), and combined posterior and
+      anterior (AP) surgical approaches. SUMMARY OF BACKGROUND DATA: Surgeons use
+      multiple methods to treat spinal tuberculosis, including an anterior, posterior, 
+      and combined anterior and posterior approach. However, there are a few reports
+      comparing the mid- and long-term outcomes of these surgical methods. METHODS: The
+      medical records for 184 patients treated for thoracic tuberculosis between
+      January 2003 and November 2010 were retrospectively reviewed. Among them, 62
+      patients were treated with a single-stage posterior debridement and interbody
+      fusion with instrumentation (Group A), 65 patients with posterior
+      instrumentation, anterior debridement, and bone graft in a single or two-stage
+      procedure (Group B), and 57 patients with anterior debridement and strut grafting
+      with instrumentation (Group C). Operative time, blood loss, Visual Analog Scale
+      for pain, complications, recovery of neurological function, Cobb angle,
+      correction rate, and loss angle were compared among all groups. RESULTS: Groups
+      A, B, and C were followed for 72.7 +/- 3.8 months, 74.3 +/- 4.2 months, and 73.6 
+      +/- 4.5 months, respectively. The operative time, blood loss, and rate of
+      complications for Group A were significantly less than Groups B and C (P < 0.05).
+      The correction rate and loss angle were superior in Groups A and B compared with 
+      C, whereas the Visual Analog Scale for pain and fusion time showed no
+      statistically significant difference among the groups (P > 0.05). CONCLUSION: For
+      patients with thoracic tuberculosis, use of the AO approach should be limited.
+      Although the AP approach produced satisfactory outcomes, it remains more
+      traumatic. Therefore, the PO approach is recommended, not only because it
+      achieves good results, but because it has reduced complications, operative time, 
+      and blood loss. LEVEL OF EVIDENCE: 3.
+FAU - Wang, Long-Jie
+AU  - Wang LJ
+AD  - Department of Spine Surgery, Xiangya Hospital of Central-South University,
+      Changsha, Hunan, China.
+FAU - Zhang, Hong-Qi
+AU  - Zhang HQ
+FAU - Tang, Ming-Xing
+AU  - Tang MX
+FAU - Gao, Qi-le
+AU  - Gao QL
+FAU - Zhou, Zhen-Hai
+AU  - Zhou ZH
+FAU - Yin, Xin-Hua
+AU  - Yin XH
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - Spine (Phila Pa 1976)
+JT  - Spine
+JID - 7610646
+SB  - IM
+MH  - Adult
+MH  - Blood Loss, Surgical
+MH  - Bone Transplantation/adverse effects/*methods
+MH  - Debridement/adverse effects/*methods
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Operative Time
+MH  - Postoperative Complications/etiology
+MH  - Retrospective Studies
+MH  - Spinal Fusion/adverse effects/*methods
+MH  - Thoracic Vertebrae/*surgery
+MH  - Treatment Outcome
+MH  - Tuberculosis, Spinal/*surgery
+MH  - Young Adult
+EDAT- 2016/10/30 06:00
+MHDA- 2018/03/27 06:00
+CRDT- 2016/10/30 06:00
+PHST- 2016/10/30 06:00 [pubmed]
+PHST- 2018/03/27 06:00 [medline]
+PHST- 2016/10/30 06:00 [entrez]
+AID - 10.1097/BRS.0000000000001955 [doi]
+PST - ppublish
+SO  - Spine (Phila Pa 1976). 2017 Jun 1;42(11):808-817. doi:
+      10.1097/BRS.0000000000001955.
+
+PMID- 27372945
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180111
+LR  - 20181202
+IS  - 1432-0932 (Electronic)
+IS  - 0940-6719 (Linking)
+VI  - 26
+IP  - 5
+DP  - 2017 May
+TI  - Universal disease-specific outcome instruments for spine trauma: a global
+      perspective on relevant parameters to evaluate clinical and functional outcomes
+      of thoracic and lumbar spine trauma patients.
+PG  - 1541-1549
+LID - 10.1007/s00586-016-4596-z [doi]
+AB  - PURPOSE: Besides a patient reported outcome measure, the AOSpine Knowledge Forum 
+      Trauma aims to develop a new concept of a surgeon reported outcome measure (SROM)
+      for spine trauma patients. This study aims to identify parameters that spine
+      surgeons consider relevant to evaluate clinical and functional outcomes of
+      thoracic and lumbar spine trauma patients. METHODS: An international
+      cross-sectional web-based survey was conducted among spine surgeons from the five
+      AOSpine International world regions. They were asked to evaluate the relevance of
+      a compilation of 16 clinical and radiological parameters for thoracic and lumbar 
+      spine trauma patients, both for the short term (3 months-2 years) and long term
+      (>/=2 years), on a five-point scale. The responses were analyzed using
+      descriptive statistics, frequency analysis, and Kruskal-Wallis test. RESULTS: Out
+      of the 279 invited members of AOSpine International and the International Spinal 
+      Cord Society, 118 (42.3 %) participated in this study. Of the 16 surveyed
+      parameters, 5 were identified as relevant by at least 70 % of the participants.
+      Neurological status was identified as most relevant. In contrast, five parameters
+      were not deemed relevant for any spine region or time period, except for
+      comorbidity. Only minor differences were observed when analyzing the responses
+      according to each world region, spine surgeons' clinical experience, or
+      professional background. CONCLUSIONS: Including a large and representative sample
+      of spine trauma experts, this study identified parameters to evaluate clinical
+      and functional outcomes of thoracic and lumbar spine trauma patients. The results
+      form the basis for the development of a SROM for this specific patient
+      population.
+FAU - Sadiqi, Said
+AU  - Sadiqi S
+AD  - Department of Orthopaedics, University Medical Center Utrecht, HP G05.228, P.O.
+      Box 85500, 3508 GA, Utrecht, The Netherlands. s.sadiqi-3@umcutrecht.nl.
+FAU - Verlaan, Jorrit-Jan
+AU  - Verlaan JJ
+AD  - Department of Orthopaedics, University Medical Center Utrecht, HP G05.228, P.O.
+      Box 85500, 3508 GA, Utrecht, The Netherlands.
+FAU - Mechteld Lehr, A
+AU  - Mechteld Lehr A
+AD  - Department of Orthopaedics, University Medical Center Utrecht, HP G05.228, P.O.
+      Box 85500, 3508 GA, Utrecht, The Netherlands.
+FAU - Dvorak, Marcel F
+AU  - Dvorak MF
+AD  - Department of Orthopaedics, University of British Columbia, Vancouver, BC,
+      Canada.
+FAU - Kandziora, Frank
+AU  - Kandziora F
+AD  - Center for Spinal Surgery, BGU-Hospital, Frankfurt, Germany.
+FAU - Rajasekaran, S
+AU  - Rajasekaran S
+AD  - Department of Orthopaedic and Spine Surgery, Ganga Hospital, Coimbatore, India.
+FAU - Schnake, Klaus J
+AU  - Schnake KJ
+AD  - Center for Spinal Surgery, Schon Klinik Nurnberg Furth, Furth, Germany.
+FAU - Vaccaro, Alexander R
+AU  - Vaccaro AR
+AD  - Department of Orthopaedics, Thomas Jefferson University, Philadelphia, PA, USA.
+FAU - Oner, F Cumhur
+AU  - Oner FC
+AD  - Department of Orthopaedics, University Medical Center Utrecht, HP G05.228, P.O.
+      Box 85500, 3508 GA, Utrecht, The Netherlands.
+LA  - eng
+PT  - Journal Article
+DEP - 20160702
+PL  - Germany
+TA  - Eur Spine J
+JT  - European spine journal : official publication of the European Spine Society, the 
+      European Spinal Deformity Society, and the European Section of the Cervical Spine
+      Research Society
+JID - 9301980
+SB  - IM
+MH  - Cross-Sectional Studies
+MH  - Humans
+MH  - *Lumbar Vertebrae/injuries/surgery
+MH  - *Outcome Assessment (Health Care)/methods/standards
+MH  - Severity of Illness Index
+MH  - *Spinal Injuries/diagnosis/surgery
+MH  - Surgeons
+MH  - *Thoracic Vertebrae/injuries/surgery
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - *Clinical and radiological parameters
+OT  - *Clinician perspective
+OT  - *Expert survey
+OT  - *Outcome instrument
+OT  - *Spine trauma
+EDAT- 2016/07/04 06:00
+MHDA- 2018/01/13 06:00
+CRDT- 2016/07/04 06:00
+PHST- 2015/11/19 00:00 [received]
+PHST- 2016/04/29 00:00 [accepted]
+PHST- 2016/04/28 00:00 [revised]
+PHST- 2016/07/04 06:00 [pubmed]
+PHST- 2018/01/13 06:00 [medline]
+PHST- 2016/07/04 06:00 [entrez]
+AID - 10.1007/s00586-016-4596-z [doi]
+AID - 10.1007/s00586-016-4596-z [pii]
+PST - ppublish
+SO  - Eur Spine J. 2017 May;26(5):1541-1549. doi: 10.1007/s00586-016-4596-z. Epub 2016 
+      Jul 2.
+
+PMID- 26135121
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160311
+LR  - 20190108
+IS  - 1749-799X (Electronic)
+IS  - 1749-799X (Linking)
+VI  - 10
+DP  - 2015 Jul 2
+TI  - Comparison of three surgical approaches for cervicothoracic spinal tuberculosis: 
+      a retrospective case-control study.
+PG  - 100
+LID - 10.1186/s13018-015-0238-0 [doi]
+AB  - STUDY DESIGN: This is a retrospective case-control study. OBJECTIVES: The
+      surgical approaches to cervicothoracic spinal tuberculosis (CTSTB) were
+      controversial. The aim of this research is to retrospectively compare the
+      efficacy and feasibility of anterior-only (AO) approach, combined anterior and
+      posterior (AP) surgeries, and posterior-only (PO) approach for the treatment of
+      CTSTB. METHODS: AO approach was undertaken in 20 patients (group A), AP fusion
+      was carried out in 18 patients (group B), and PO surgery was performed in 21
+      patients (group C). Surgery duration, intraoperative blood loss, length of
+      hospitalization, neurological status, kyphosis angle correction, loss of
+      correction, and complications of the three groups were compared. RESULTS: Three
+      surgical approaches all improved the kyphosis deformity and neurological function
+      significantly (P < 0.05). The mean loss of correction in group A in the final
+      follow-up was higher than in groups B and C (P < 0.05), and the difference
+      between groups B and C was not significant (P > 0.05). The mean operation time,
+      blood loss, and hospitalization days in group B were greater than in groups A and
+      C. Complications were most prevalent in group A, more in group B, and the least
+      in group C. CONCLUSION: The AO approach surgery should be limitedly used for
+      severe CTSTB. The AP approach had got satisfactory clinical and radiographic
+      outcomes, but with larger trauma and more complications, which should be
+      reservedly performed for mild CTSTB. Compared to traditional surgery, PO surgery 
+      can significantly improve clinical results and obviously relieve postoperative
+      complications.
+FAU - Zeng, Hao
+AU  - Zeng H
+AD  - Department of Spine Surgery, The Xiangya Hospital of Central South University,
+      87# Xiangya Road, Changsha, Hunan, 410008, People's Republic of China.
+      1985008521@qq.com.
+FAU - Shen, Xiongjie
+AU  - Shen X
+AD  - Department of Spine Surgery, Hunan Provincial People's Hospital, Changsha, Hunan,
+      410005, People's Republic of China. 2621132371@qq.com.
+FAU - Luo, Chengke
+AU  - Luo C
+AD  - Department of Spine Surgery, The Xiangya Hospital of Central South University,
+      87# Xiangya Road, Changsha, Hunan, 410008, People's Republic of China.
+      chengkeluovip@163.com.
+FAU - Xu, Zhengquan
+AU  - Xu Z
+AD  - Department of Spine Surgery, The Xiangya Hospital of Central South University,
+      87# Xiangya Road, Changsha, Hunan, 410008, People's Republic of China.
+      xzq19xzq88@163.com.
+FAU - Zhang, Yupeng
+AU  - Zhang Y
+AD  - Department of Spine Surgery, The Xiangya Hospital of Central South University,
+      87# Xiangya Road, Changsha, Hunan, 410008, People's Republic of China.
+      zyp19zyp89@163.com.
+FAU - Liu, Zheng
+AU  - Liu Z
+AD  - Department of Spine Surgery, The Xiangya Hospital of Central South University,
+      87# Xiangya Road, Changsha, Hunan, 410008, People's Republic of China.
+      liuzhengsdsb@163.com.
+FAU - Wang, Xiyang
+AU  - Wang X
+AD  - Department of Spine Surgery, The Xiangya Hospital of Central South University,
+      87# Xiangya Road, Changsha, Hunan, 410008, People's Republic of China.
+      wqlwqwxy@163.com.
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150702
+PL  - England
+TA  - J Orthop Surg Res
+JT  - Journal of orthopaedic surgery and research
+JID - 101265112
+SB  - IM
+MH  - Cervical Vertebrae/*surgery
+MH  - China/epidemiology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Orthopedic Procedures/*methods/statistics & numerical data
+MH  - Postoperative Complications/epidemiology
+MH  - Retrospective Studies
+MH  - Thoracic Vertebrae/*surgery
+MH  - Treatment Outcome
+MH  - Tuberculosis, Spinal/*surgery
+PMC - PMC4490609
+EDAT- 2015/07/03 06:00
+MHDA- 2016/03/12 06:00
+CRDT- 2015/07/03 06:00
+PHST- 2015/03/11 00:00 [received]
+PHST- 2015/06/13 00:00 [accepted]
+PHST- 2015/07/03 06:00 [entrez]
+PHST- 2015/07/03 06:00 [pubmed]
+PHST- 2016/03/12 06:00 [medline]
+AID - 10.1186/s13018-015-0238-0 [doi]
+AID - 10.1186/s13018-015-0238-0 [pii]
+PST - epublish
+SO  - J Orthop Surg Res. 2015 Jul 2;10:100. doi: 10.1186/s13018-015-0238-0.
+
+PMID- 25604705
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20150121
+LR  - 20190108
+IS  - 2000-8066 (Print)
+IS  - 2000-8066 (Linking)
+VI  - 6
+DP  - 2015
+TI  - Accounting for sex differences in PTSD: A multi-variable mediation model.
+PG  - 26068
+LID - 10.3402/ejpt.v6.26068 [doi]
+AB  - BACKGROUND: Approximately twice as many females as males are diagnosed with
+      posttraumatic stress disorder (PTSD). However, little is known about why females 
+      report more PTSD symptoms than males. Prior studies have generally focused on few
+      potential mediators at a time and have often used methods that were not ideally
+      suited to test for mediation effects. Prior research has identified a number of
+      individual risk factors that may contribute to sex differences in PTSD severity, 
+      although these cannot fully account for the increased symptom levels in females
+      when examined individually. OBJECTIVE: The present study is the first to
+      systematically test the hypothesis that a combination of pre-, peri-, and
+      posttraumatic risk factors more prevalent in females can account for sex
+      differences in PTSD severity. METHOD: The study was a quasi-prospective
+      questionnaire survey assessing PTSD and related variables in 73.3% of all Danish 
+      bank employees exposed to bank robbery during the period from April 2010 to April
+      2011. Participants filled out questionnaires 1 week (T1, N=450) and 6 months
+      after the robbery (T2, N=368; 61.1% females). Mediation was examined using an
+      analysis designed specifically to test a multiple mediator model. RESULTS:
+      Females reported more PTSD symptoms than males and higher levels of neuroticism, 
+      depression, physical anxiety sensitivity, peritraumatic fear, horror, and
+      helplessness (the A2 criterion), tonic immobility, panic, dissociation, negative 
+      posttraumatic cognitions about self and the world, and feeling let down. These
+      variables were included in the model as potential mediators. The combination of
+      risk factors significantly mediated the association between sex and PTSD
+      severity, accounting for 83% of the association. CONCLUSION: The findings suggest
+      that females report more PTSD symptoms because they experience higher levels of
+      associated risk factors. The results are relevant to other trauma populations and
+      to other trauma-related psychiatric disorders more prevalent in females, such as 
+      depression and anxiety.
+FAU - Christiansen, Dorte M
+AU  - Christiansen DM
+AD  - Department of Psychology, University of Aarhus, Aarhus C, Demark; National Centre
+      for Psychotraumatology, University of Southern Denmark, Odense M, Denmark;
+      dochristiansen@health.sdu.dk.
+FAU - Hansen, Maj
+AU  - Hansen M
+AD  - Institute of Psychology, University of Southern Denmark, Odense M, Denmark.
+LA  - eng
+PT  - Journal Article
+DEP - 20150119
+PL  - United States
+TA  - Eur J Psychotraumatol
+JT  - European journal of psychotraumatology
+JID - 101559025
+PMC - PMC4300366
+OTO - NOTNLM
+OT  - Posttraumatic stress disorder
+OT  - gender differences
+OT  - interpersonal violence
+OT  - multiple mediators
+OT  - predictors
+OT  - risk factors
+OT  - robbery
+EDAT- 2015/01/22 06:00
+MHDA- 2015/01/22 06:01
+CRDT- 2015/01/22 06:00
+PHST- 2014/09/19 00:00 [received]
+PHST- 2014/12/04 00:00 [revised]
+PHST- 2014/12/13 00:00 [accepted]
+PHST- 2015/01/22 06:00 [entrez]
+PHST- 2015/01/22 06:00 [pubmed]
+PHST- 2015/01/22 06:01 [medline]
+AID - 26068 [pii]
+AID - 10.3402/ejpt.v6.26068 [doi]
+PST - epublish
+SO  - Eur J Psychotraumatol. 2015 Jan 19;6:26068. doi: 10.3402/ejpt.v6.26068.
+      eCollection 2015.
+
+PMID- 27437973
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171031
+LR  - 20171031
+IS  - 1809-4546 (Electronic)
+IS  - 0100-6991 (Linking)
+VI  - 42 Suppl 1
+DP  - 2015
+TI  - ANALYSIS OF OTORHINOLARYNGOLOGY, ORTHOPEDICS AND THORACIC SURGERY JOURNALS.
+PG  - 62-4
+LID - 10.1590/0100-69912015S01022 [doi]
+LID - S0100-69912015000800062 [pii]
+AB  - OBJECTIVES: To perform an extensive analysis of journals in Medicine III - CAPES,
+      and specifically those in the areas of Otorhinolaryngology, Orthopedics and
+      Traumatology and Chest Surgery. METHOD: An active search for the impact factors
+      in the Journal Citation Reports, Scimago, their indexation in Scielo, Lilacs,
+      Scopus and Google Scholar, and their stratification in WebQualis was done.
+      RESULTS: Forty-four journals with measured impact factors ranging from 3.006 to
+      0.128 were detected in the area of Otorhinolaryngology; however, only 26 of them 
+      (60%) had a Qualis measured by CAPES; in the stratification, no journal was
+      detected in A1, three were A2 and nine B1. Three journals were located for Chest 
+      Surgery, with only one of them having a measured Qualis (A2) with a mean of 3.61.
+      Sixty-seven journals were detected for Orthopedics and Traumatology, with an
+      impact factor ranging from 4.699 to 0.156; Qualis was measured in only 38 of them
+      (60%); there were three journal stratified as A1, seven as A2 and 25 as B1.
+      CONCLUSION: The search for journals of higher impact induces authors to not
+      publish in journals related to their area and facing more difficulties than
+      investigators from other areas. OBJETIVOS: Realizar analise ampla dos periodicos 
+      da Medicina III - CAPES e, especificamente, os pertencentes a
+      Otorrinolaringologia, Ortopedia e Traumatologia, e Cirurgia Toracica. METODO:
+      Busca ativa do fator de impacto dos periodicos das areas citadas no Journal
+      Citation Report e Scimago, sua indexacao no Scielo, Lilacs, Scopus, Google
+      Scholar e sua estratificacao no WebQualis. RESULTADOS: Para a
+      Otorrinolaringologia foram encontrados 44 periodicos, cujo fator de impacto
+      variou de 3.006 a 0.128; entretanto, apenas 26 deles (60%) tinham Qualis medido
+      pela CAPES; nas estratificacoes encontrou-se nenhuma revista em A1, tres em A2 e 
+      nove em B1. Para a Cirurgia Toracica foram localizados tres periodicos, sendo que
+      apenas um tinha Qualis medido (A2) com media de 3.61. Os resultados da busca para
+      a Ortopedia e Traumatologia permitiu encontrar 67 periodicos, cuja variacao do
+      fator de impacto foi de 4.699 a 0.156; apenas 38 deles (60%) tinham Qualis
+      medido; tres periodicos tinham estratificacao A1, sete A2 e 25 em B1. CONCLUSAO: 
+      A busca por revistas de maior impacto faz com que muitos especialistas deixem de 
+      publicar em revistas de sua area enfrentando mais dificuldades que pesquisadores 
+      das outras areas.
+FAU - Lima, Wilma Terezinha Anselmo
+AU  - Lima WT
+AD  - Department of Otolaryngology, Faculty of Medicine of Ribeirao Preto - FMRP,
+      University of Sao Paulo, Ribeirao Preto, SP, Brazil.
+LA  - eng
+LA  - por
+PT  - Journal Article
+PL  - Brazil
+TA  - Rev Col Bras Cir
+JT  - Revista do Colegio Brasileiro de Cirurgioes
+JID - 7809515
+SB  - IM
+MH  - Brazil
+MH  - Education, Medical, Graduate
+MH  - *Orthopedics
+MH  - *Otolaryngology
+MH  - *Periodicals as Topic
+MH  - *Thoracic Surgery
+EDAT- 2015/01/01 00:00
+MHDA- 2017/11/01 06:00
+CRDT- 2016/07/21 06:00
+PHST- 2015/02/19 00:00 [received]
+PHST- 2015/09/12 00:00 [accepted]
+PHST- 2016/07/21 06:00 [entrez]
+PHST- 2015/01/01 00:00 [pubmed]
+PHST- 2017/11/01 06:00 [medline]
+AID - S0100-69912015000800062 [pii]
+AID - 10.1590/0100-69912015S01022 [doi]
+PST - ppublish
+SO  - Rev Col Bras Cir. 2015;42 Suppl 1:62-4. doi: 10.1590/0100-69912015S01022.
+
+PMID- 23468432
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140218
+LR  - 20181113
+IS  - 2042-6984 (Electronic)
+IS  - 2042-6976 (Linking)
+VI  - 3
+IP  - 6
+DP  - 2013 Jun
+TI  - Sinonasal epithelial wound resealing in an in vitro model: inhibition of wound
+      closure with IL-4 exposure.
+PG  - 439-49
+LID - 10.1002/alr.21158 [doi]
+AB  - BACKGROUND: Prolonged healing and persistent inflammation following surgery for
+      rhinosinusitis impacts patient satisfaction and healthcare resources. Cytokines
+      interleukin (IL)-4, IL-5, and IL-13 are important mediators in T-helper 2 (Th2)
+      inflammatory rhinosinusitis. Decreased wound healing has been demonstrated with
+      Th2 cytokine exposure, but this has not been extensively studied in sinonasal
+      epithelium. We hypothesized that in vitro exposure of primary sinonasal
+      epithelial cell cultures to Th2 inflammatory cytokine IL-4 and IL-13 would impair
+      wound resealing and decrease expression of annexin A2 at the wound edge. METHODS:
+      Following 24-hour exposure to IL-4, IL-5, or IL-13 vs controls, sterile linear
+      mechanical wounds were created in primary sinonasal epithelial cultures (n = 12
+      wounds per condition). Wounds were followed for 36 hours or until complete
+      closure, and residual wound areas were calculated by image analysis. Group
+      differences in annexin A2 were assessed by immunofluorescence labeling, confocal 
+      microscopy, and Western blots. RESULTS: Significant wound closure differences
+      were identified across cytokine exposure groups (p < 0.001). Mean percentage
+      wound closure at the completion of the 36-hour time course was 98.41% +/- 3.43%
+      for control wounds vs 85.02% +/- 18.46% for IL-4 exposed wounds. IL-13 did not
+      significantly impair sinonasal epithelial wound resealing in vitro. Annexin A2
+      protein levels were decreased in IL-4 treated wounds when compared to control
+      wounds (p < 0.01). CONCLUSION: Th2 cytokine IL-4 decreases sinonasal epithelial
+      wound closure in vitro. Annexin A2 is also diminished with IL-4 exposure. This
+      supports the hypothesis that IL-4 exposure impairs sinonasal epithelial wound
+      healing and may contribute to prolonged healing in Th2 inflammatory
+      rhinosinusitis.
+CI  - (c) 2013 ARS-AAOA, LLC.
+FAU - Wise, Sarah K
+AU  - Wise SK
+AD  - Department of Otolaryngology-Head and Neck Surgery, Emory University, Atlanta, GA
+      30308, USA. skmille@emory.edu
+FAU - Den Beste, Kyle A
+AU  - Den Beste KA
+FAU - Hoddeson, Elizabeth K
+AU  - Hoddeson EK
+FAU - Parkos, Charles A
+AU  - Parkos CA
+FAU - Nusrat, Asma
+AU  - Nusrat A
+LA  - eng
+GR  - DK072564/DK/NIDDK NIH HHS/United States
+GR  - KL2 TR000455/TR/NCATS NIH HHS/United States
+GR  - T35-HL007473/HL/NHLBI NIH HHS/United States
+GR  - DK061379/DK/NIDDK NIH HHS/United States
+GR  - R01 DK072564/DK/NIDDK NIH HHS/United States
+GR  - KL2 RR025009/RR/NCRR NIH HHS/United States
+GR  - UL1 TR000454/TR/NCATS NIH HHS/United States
+GR  - T35 HL007473/HL/NHLBI NIH HHS/United States
+GR  - UL1 RR025008/RR/NCRR NIH HHS/United States
+GR  - R01 DK061379/DK/NIDDK NIH HHS/United States
+GR  - DK059888/DK/NIDDK NIH HHS/United States
+GR  - R01 DK059888/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20130306
+PL  - United States
+TA  - Int Forum Allergy Rhinol
+JT  - International forum of allergy & rhinology
+JID - 101550261
+RN  - 0 (Annexin A2)
+RN  - 0 (Cytokines)
+RN  - 0 (Interleukin-13)
+RN  - 0 (Interleukin-5)
+RN  - 0 (Tumor Necrosis Factor-alpha)
+RN  - 207137-56-2 (Interleukin-4)
+SB  - IM
+MH  - Annexin A2/*metabolism
+MH  - Blotting, Western
+MH  - Case-Control Studies
+MH  - Cytokines/*pharmacology
+MH  - Epithelial Cells/*metabolism
+MH  - Epithelium/injuries/metabolism
+MH  - Fluorescent Antibody Technique
+MH  - Humans
+MH  - Interleukin-13/pharmacology
+MH  - Interleukin-4/pharmacology
+MH  - Interleukin-5/pharmacology
+MH  - Microscopy, Confocal
+MH  - Nasal Cavity/*metabolism
+MH  - Tumor Necrosis Factor-alpha/pharmacology
+MH  - Wound Healing/*physiology
+PMC - PMC3686916
+MID - NIHMS438821
+EDAT- 2013/03/08 06:00
+MHDA- 2014/02/19 06:00
+CRDT- 2013/03/08 06:00
+PHST- 2012/08/21 00:00 [received]
+PHST- 2012/12/11 00:00 [revised]
+PHST- 2013/01/10 00:00 [accepted]
+PHST- 2013/03/08 06:00 [entrez]
+PHST- 2013/03/08 06:00 [pubmed]
+PHST- 2014/02/19 06:00 [medline]
+AID - 10.1002/alr.21158 [doi]
+PST - ppublish
+SO  - Int Forum Allergy Rhinol. 2013 Jun;3(6):439-49. doi: 10.1002/alr.21158. Epub 2013
+      Mar 6.
+
+PMID- 23637669
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20130503
+LR  - 20181113
+IS  - 1663-7976 (Print)
+IS  - 1663-7976 (Linking)
+VI  - 1
+IP  - 2
+DP  - 2010 Aug
+TI  - Accuracy and reliability of MRI quantitative measurements to assess spinal cord
+      compression in cervical spondylotic myelopathy: a prospective study.
+PG  - 56-7
+LID - 10.1055/s-0028-1100916 [doi]
+AB  - STUDY TYPE: Reliability study Introduction: Cervical spondylotic myelopathy (CSM)
+      is the most common spinal cord disorder in persons more than 55 years old.
+      Despite multiple neuroimaging approaches proposed to quantify the spinal cord
+      compromise in CSM patients, magnetic resonance imaging (MRI) remains the
+      procedure of choice by providing helpful information for clinical decision
+      making, determining optimal subpopulations for treatment, and selecting the
+      optimal treatment strategies. However, the validity, reliability, and accuracy of
+      the MRI quantitative measurements have not yet been addressed. OBJECTIVE: To
+      assess the intra- and inter-observer reliability of MRI quantitative measurements
+      of the spinal cord compromise in CSM patients. METHODS: Seventeen CSM patients
+      (13 male) of mean age 54.5 years old were selected from the AOSpine North America
+      database. The patients had different combinations of stenotic levels (1-4 levels)
+      and the clinical severity (range mJOA baseline: 8-18). Asymptomatic or previous
+      surgically treated CSM, active infection, neoplastic disease, rheumatoid
+      arthritis, ankylosing spondylitis, trauma, or concomitant lumbar stenosis were
+      excluded. The patients underwent preoperative MRI using 1.5T (15 patients) and 3T
+      (two patients) scanner, including mid-sagittal T1-weighted, axial and
+      mid-sagittal T2-weighted series. MRI data were analyzed (Mango 2.0 software;
+      Multi-Image Analysis GUI) by four blind raters in three different sessions. Four 
+      measurements were analysed: transverse area (TA) (Figure 1), compression ratio
+      (CR) (Figure 2), maximal canal compromise (MCC), and maximal spinal cord
+      compression (MSCC) (Figure 3). The differences for each measurement were
+      evaluated using mixed-effect ANOVA models (ratter, session, ratter x session).
+      The intra- and inter-rater reliability was evaluated with intraclass correlation 
+      coefficients (ICC) (Figure 4). Figure 1 Transverse area (TA)Figure 2 Compression 
+      ratio (CR = AP/W)Figure 3 Maximal canal compromise (MCC), and maximal spinal cord
+      compression (MSCC). MCC(%) = 1-[Dx/(Da+Db)/2] x 100%; MSCC(%) = 1-[dx/(da+db)/2] 
+      x 100%Figure 4 Intraclass correlation coefficients (ICC) Results: The principal
+      findings were: (i) for TA (71.48 +/- 12.99mm2), the intra-rater agreement was
+      0.97 (95% CI, range 0.94-0.99) and the inter-rater agreement was 0.76 (95% CI,
+      range 0.49-0.90); (ii) for CR (0.35 +/- 0.04%), 0.94 (95% CI, range 0.88-0.98),
+      and 0.79 (95% CI, range 0.57-0.91) respectively; (iii) for MCC (83.21 +/- 2.08%),
+      0.95 (95% CI, range 0.89-0.98), and 0.64 (95% CI, range 0.28-0.85) respectively; 
+      and (iv) for MSCC (82.87 +/- 1.52%), 0.93 (95% CI, range 0.86-0.97), and 0.84
+      (95% CI, range 0.65-0.93) respectively. CONCLUSIONS: Our data suggest that three 
+      out of four measurements (TA, CR and MSCC) have acceptable intra- and
+      interreliability coefficients (ICC > 0.75). However, for the maximal canal
+      compromise measure, although the intrareliability was acceptable, the inter-rater
+      reliability was not acceptable (0.64). Based on this study, we recommend that
+      three MRI measures: transverse area, compression ratio and maximal spinal cord
+      compression should be used in the imaging assessment of the spinal cord in CSM
+      patients.
+FAU - Karpova, Alina
+AU  - Karpova A
+AD  - Toronto Western Hospital, Spinal Surgery Program, University of Toronto, Canada.
+FAU - Craciunas, Sorin
+AU  - Craciunas S
+FAU - Chua, Soo-Yong
+AU  - Chua SY
+FAU - Rabin, Doron
+AU  - Rabin D
+FAU - Smith, Sean
+AU  - Smith S
+FAU - Fehlings, Michael G
+AU  - Fehlings MG
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Evid Based Spine Care J
+JT  - Evidence-based spine-care journal
+JID - 101546672
+PMC - PMC3623104
+EDAT- 2010/08/01 00:00
+MHDA- 2010/08/01 00:01
+CRDT- 2013/05/03 06:00
+PHST- 2013/05/03 06:00 [entrez]
+PHST- 2010/08/01 00:00 [pubmed]
+PHST- 2010/08/01 00:01 [medline]
+AID - 10.1055/s-0028-1100916 [doi]
+AID - 01056 [pii]
+PST - ppublish
+SO  - Evid Based Spine Care J. 2010 Aug;1(2):56-7. doi: 10.1055/s-0028-1100916.
+
+PMID- 19350476
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20091202
+LR  - 20090827
+IS  - 1438-8685 (Electronic)
+IS  - 0935-8943 (Linking)
+VI  - 88
+IP  - 9
+DP  - 2009 Sep
+TI  - [Anatomical course of the chorda tympani nerve in middle ear surgery: clinical
+      classification and relevance for postoperative gustatory dysfunction].
+PG  - 592-8
+LID - 10.1055/s-0029-1214393 [doi]
+AB  - BACKGROUND: The anatomical course of the Chorda tympani nerve (CTN) in the middle
+      ear is known to be very variable, which becomes most obvious during middle ear
+      operations. As well, postoperative gustatory dysfunction belongs to the most
+      frequent complications after otosurgical interventions. The aim of this study was
+      to develop a clinical classification of the intraoperatively visible course of
+      the CTN and to demonstrate a possible correlation of its anatomic course with the
+      prevalence of actual postoperative taste disorders. METHODS: Only cases of
+      first-time ear surgery all operated by one experienced otosurgeon were assessed. 
+      Preoperatively, gustatory testing with standardised chemical solutions (sweet,
+      sour, salty, bitter) was performed. During surgery the course of the CTN was
+      classified at first sight by 3 topografical criteria: The angle (A), the height
+      (H) and the depth (D) of the nerve's emergence from the lateral tympanic wall. In
+      cases of postoperative taste dysfunction the patients were followed-up on a
+      regular basis. RESULTS: 103 patients were included in the study. The angle of the
+      nerve;s emergence from the tympanic bone was below 30 degrees in 59 (A1), between
+      30 degrees and 60 degrees in 41 (A2) and within 60 degrees and 90 degrees in 3
+      cases (A3). The height of emergence was 33 times in the superior (H1), 61 times
+      in the middle (H2) and 9 times in the inferior third (H3) of the posterior meatal
+      wall. The depth of emergence lay within the plain of the tympanic sulcus in 26
+      individuals (D1), 44 times medially to this plain without overlapping bone (D2)
+      and 33 times medially but covered by a bony spur (D3). The CTN was preserved in
+      92 procedures. Postoperatively, gustatory function was diminished in 7% of the
+      cases. CONCLUSION: This study confirms the high diversity of the surgical anatomy
+      of the CTN. According to the proposed classification the A1-H1-D2/3-situation
+      belongs to the CTN-constellations observed most frequently. It is this very
+      anatomical situation, that apparently tends to be associated with postoperative
+      taste deficits quite regularly due to inevitable intraoperative manipulations.
+      Taking into account the results of this study an otosurgeon might be able to
+      anticipate the potential risk for the CTN by judging the AHD-status
+      intraoperatively and - therefore - reduce taste disorders postoperatively.
+      Additionally, the probability of a postoperative gustatory dysfunction depends
+      upon the kind of underlying middle ear disease as well.
+CI  - Georg Thieme Verlag KG Stuttgart * New York.
+FAU - Ott, Ingo
+AU  - Ott I
+AD  - Klinik fur Hals-Nasen-Ohren-Heilkunde, Kopf-, Hals- und plastische
+      Gesichtschirurgie, Klinikum Bad Hersfeld, Bad Hersfeld.
+      Ingo.Ott@Klinikum-Darmstadt.de
+FAU - Tebben, H
+AU  - Tebben H
+FAU - Losenhausen, H
+AU  - Losenhausen H
+FAU - Issing, P R
+AU  - Issing PR
+LA  - ger
+PT  - English Abstract
+PT  - Journal Article
+TT  - Verlauf der Chorda tympani bei Operationen des Mittelohres: Klinische Einteilung 
+      und ihre Bedeutung fur postoperative Schmeckstorungen.
+DEP - 20090406
+PL  - Germany
+TA  - Laryngorhinootologie
+JT  - Laryngo- rhino- otologie
+JID - 8912371
+SB  - IM
+MH  - Adult
+MH  - Ageusia/*physiopathology
+MH  - Cholesteatoma, Middle Ear/*surgery
+MH  - Chorda Tympani Nerve/*injuries/*pathology/physiopathology
+MH  - Ear, Middle/*innervation
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Otitis Media, Suppurative/*surgery
+MH  - Otosclerosis/*surgery
+MH  - Postoperative Complications/*physiopathology
+MH  - Risk Factors
+MH  - Statistics as Topic
+MH  - Taste Threshold/physiology
+EDAT- 2009/04/08 09:00
+MHDA- 2009/12/16 06:00
+CRDT- 2009/04/08 09:00
+PHST- 2009/04/08 09:00 [entrez]
+PHST- 2009/04/08 09:00 [pubmed]
+PHST- 2009/12/16 06:00 [medline]
+AID - 10.1055/s-0029-1214393 [doi]
+PST - ppublish
+SO  - Laryngorhinootologie. 2009 Sep;88(9):592-8. doi: 10.1055/s-0029-1214393. Epub
+      2009 Apr 6.
+
+PMID- 17507816
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070719
+LR  - 20151119
+IS  - 0020-9996 (Print)
+IS  - 0020-9996 (Linking)
+VI  - 42
+IP  - 6
+DP  - 2007 Jun
+TI  - Finger A2 pulley lesions in rock climbers: detection and characterization with
+      magnetic resonance imaging at 3 Tesla--initial results.
+PG  - 435-41
+AB  - OBJECTIVES: To evaluate magnetic resonance imaging (MRI) at 3 T in the diagnosis 
+      and characterization of lesions of the finger flexor A2 pulley in patients with
+      clinically suspected A2 pulley lesions. MATERIALS AND METHODS: Eight consecutive 
+      patients with clinically suspected lesions of the A2 pulley were included in this
+      retrospective study. 3 T MRI was performed with T1-weighted, T2-weighted fat
+      suppressed, and T1-weighted fat suppressed contrast enhanced sequences. The A2
+      pulley of all the fingers visible on the images were analyzed and pulley lesions 
+      characterized. RESULTS: All asymptomatic pulleys were normal at MRI. In the 8
+      symptomatic fingers 7 pulleys were abnormal at MRI. With the clinical examination
+      as gold standard, sensitivity, specificity, positive predictive value, and
+      negative predictive value of MRI were 87.5%, 100%, 100%, and 95.2% respectively. 
+      Characterization of the different pulley lesion was possible. CONCLUSION: MRI at 
+      3 T allows reliable direct visualization and characterization of traumatic A2
+      pulley lesions.
+FAU - Guntern, Daniel
+AU  - Guntern D
+AD  - Department of Radiology, CHUV, Lausanne, Switzerland. daniel.guntern@chuv.ch
+FAU - Goncalves-Matoso, Vasco
+AU  - Goncalves-Matoso V
+FAU - Gray, Anne
+AU  - Gray A
+FAU - Picht, Carmen
+AU  - Picht C
+FAU - Schnyder, Pierre
+AU  - Schnyder P
+FAU - Theumann, Nicolas
+AU  - Theumann N
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Invest Radiol
+JT  - Investigative radiology
+JID - 0045377
+RN  - 0 (Contrast Media)
+RN  - K2I13DR72L (Gadolinium DTPA)
+SB  - IM
+MH  - Adult
+MH  - Contrast Media
+MH  - Female
+MH  - Finger Injuries/*diagnosis
+MH  - Gadolinium DTPA
+MH  - Humans
+MH  - Magnetic Resonance Imaging/*methods
+MH  - Male
+MH  - Mountaineering/*injuries
+MH  - Predictive Value of Tests
+MH  - Retrospective Studies
+MH  - Sensitivity and Specificity
+MH  - Tendon Injuries/*diagnosis
+EDAT- 2007/05/18 09:00
+MHDA- 2007/07/20 09:00
+CRDT- 2007/05/18 09:00
+PHST- 2007/05/18 09:00 [pubmed]
+PHST- 2007/07/20 09:00 [medline]
+PHST- 2007/05/18 09:00 [entrez]
+AID - 10.1097/01.rli.0000262756.65849.12 [doi]
+AID - 00004424-200706000-00015 [pii]
+PST - ppublish
+SO  - Invest Radiol. 2007 Jun;42(6):435-41. doi: 10.1097/01.rli.0000262756.65849.12.
+
+PMID- 15173946
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050331
+LR  - 20181113
+IS  - 1435-2443 (Print)
+IS  - 1435-2443 (Linking)
+VI  - 389
+IP  - 6
+DP  - 2004 Nov
+TI  - Surgical trauma: hyperinflammation versus immunosuppression?
+PG  - 475-84
+AB  - BACKGROUND: Experimental and clinical studies have brought evidence that surgical
+      trauma markedly affects the immune system, including both the specific and the
+      non-specific immune response. MATERIALS AND METHODS: This report reviews the
+      present knowledge on the mechanisms of surgical trauma-induced immune dysfunction
+      and outlines experimental and clinical approaches to find effective treatment
+      strategies. RESULTS: Major surgical trauma induces an early hyperinflammatory
+      response, which is characterized by (1) pro-inflammatory tumour necrosis factor
+      alpha (TNF), interleukin (IL)-1, and IL-6 cytokine release and (2) neutrophil
+      activation and microvascular adherence, as well as (3) uncontrolled
+      polymorphonuclear (PMN) and macrophage oxidative burst. The massive and
+      continuous IL-6 release induces an acute phase response, but, more importantly,
+      also accounts for the up-regulation of major anti-inflammatory mediators, such as
+      prostaglandin (PG) E2, IL-10 and transforming growth factor (TGF)-ss. This
+      results in surgical, trauma-induced, immunosuppression, as indicated by (1)
+      monocyte deactivation, reflected by the lack of monocytic TNF- production upon
+      lipopolysaccharide (LPS) stimulation, and (2) a shift of the Th1/Th2 ratio
+      towards a Th2-dominated cytokine pattern. The imbalance between pro-inflammatory 
+      and anti-inflammatory cytokines and immuno-competent cells determines the
+      phenotype of disease and should help the physician to compose the therapeutic
+      strategy. In fact, recent clinical studies have shown that both the initial
+      uncontrolled hyperinflammation and the continued cell-mediated immunosuppression 
+      represent primary targets to counteract post-surgery immune dysfunction. The
+      balance between inflammatory and anti-inflammatory forces may be restored by
+      interferon gamma (IFN-gamma) to counteract monocyte deactivation; the
+      anti-inflammatory PGE2 may be inhibited by indomethacin to attenuate
+      immunosuppression; or the initial hyperinflammation may be targeted by
+      administration of anti-inflammatory substances, such as granulocyte
+      colony-stimulating factor (G-CSF), hydoxyethyl starch, or pentoxifylline.
+      CONCLUSIONS: When drawing up the therapeutic regimen the physician should not
+      consider hyperinflammation versus immunosuppression, but hyperinflammation and
+      immunosuppression, aiming at restoring an appropriate mediator- and immune
+      cell-associated balance.
+FAU - Menger, Michael D
+AU  - Menger MD
+AD  - Institute for Clinical and Experimental Surgery, University of Saarland, 66421
+      Homburg-Saar, Germany. exmdme@uniklinik-saarland.de
+FAU - Vollmar, Brigitte
+AU  - Vollmar B
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20040528
+PL  - Germany
+TA  - Langenbecks Arch Surg
+JT  - Langenbeck's archives of surgery
+JID - 9808285
+RN  - 0 (Cytokines)
+RN  - 0 (Interleukins)
+RN  - 0 (Tumor Necrosis Factor-alpha)
+RN  - 130068-27-8 (Interleukin-10)
+RN  - 82115-62-6 (Interferon-gamma)
+SB  - IM
+MH  - Cytokines/*immunology
+MH  - Humans
+MH  - Immune Tolerance/immunology/*physiology
+MH  - Immunity, Cellular
+MH  - Inflammation/*immunology/physiopathology
+MH  - Interferon-gamma/immunology
+MH  - Interleukin-10/immunology
+MH  - Interleukins/immunology
+MH  - *Surgical Procedures, Operative
+MH  - T-Lymphocytes, Helper-Inducer/immunology
+MH  - Tumor Necrosis Factor-alpha/immunology
+MH  - Wounds and Injuries/*immunology
+RF  - 105
+EDAT- 2004/06/03 05:00
+MHDA- 2005/04/01 09:00
+CRDT- 2004/06/03 05:00
+PHST- 2004/02/13 00:00 [received]
+PHST- 2004/02/18 00:00 [accepted]
+PHST- 2004/06/03 05:00 [pubmed]
+PHST- 2005/04/01 09:00 [medline]
+PHST- 2004/06/03 05:00 [entrez]
+AID - 10.1007/s00423-004-0472-0 [doi]
+PST - ppublish
+SO  - Langenbecks Arch Surg. 2004 Nov;389(6):475-84. doi: 10.1007/s00423-004-0472-0.
+      Epub 2004 May 28.
+
+PMID- 12217937
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20021126
+LR  - 20190513
+IS  - 0735-0414 (Print)
+IS  - 0735-0414 (Linking)
+VI  - 37
+IP  - 5
+DP  - 2002 Sep-Oct
+TI  - Harmful drinking in military veterans with post-traumatic stress disorder:
+      association with the D2 dopamine receptor A1 allele.
+PG  - 451-6
+AB  - AIMS: The frequency of the Taq I A alleles (A1 and A2) of the D2 dopamine
+      receptor (DRD2) gene was examined in Caucasian post-traumatic stress disorder
+      (PTSD) patients and controls. RESULTS: In 91 PTSD patients, the frequency of the 
+      A1 allele was higher (P = 6.12 x 10(-3)) than in the 51 controls. In the 38 PTSD 
+      harmful drinkers (>or=60 g alcohol/day), A1 allelic frequency was higher (P =
+      3.91 x 10(-2)) than in the 53 non-harmful drinkers (<60 g alcohol/day), the
+      former being also higher (P = 3.76 x 10(-4)) than in controls. However, there was
+      no difference between non-harmful drinkers and controls. Based on DRD2 allelic
+      association, the 35 PTSD patients with the A1(+) (A1A1, A1A2) allele consumed
+      more than twice the daily amount of alcohol than the 56 patients with the A1(-)
+      (A2A2) allele (P = 1.94 x 10(-3)). When the hourly rate of alcohol consumed was
+      compared, A1(+) allelic patients consumed twice the rate of the A1(-) allelic
+      patients (P < 10(-7)). CONCLUSION: The DRD2 A1 allele was associated with PTSD.
+      However, this association was found only in the harmful drinkers. PTSD patients
+      with the A1(+) allele consumed more alcohol than patients with the A1(-) allele. 
+      The importance of determining alcohol consumption in DRD2 association studies
+      with PTSD is suggested.
+FAU - Young, R McD
+AU  - Young RM
+AD  - Discipline of Psychiatry, Southern Clinical Division, School of Medicine, The
+      University of Queensland, Brisbane, Queensland, Australia.
+FAU - Lawford, B R
+AU  - Lawford BR
+FAU - Noble, E P
+AU  - Noble EP
+FAU - Kann, B
+AU  - Kann B
+FAU - Wilkie, A
+AU  - Wilkie A
+FAU - Ritchie, T
+AU  - Ritchie T
+FAU - Arnold, L
+AU  - Arnold L
+FAU - Shadforth, S
+AU  - Shadforth S
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Alcohol Alcohol
+JT  - Alcohol and alcoholism (Oxford, Oxfordshire)
+JID - 8310684
+RN  - 0 (Receptors, Dopamine D2)
+SB  - IM
+MH  - Adult
+MH  - Alcoholism/complications/*genetics/psychology
+MH  - *Alleles
+MH  - Analysis of Variance
+MH  - Chi-Square Distribution
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Receptors, Dopamine D2/*genetics
+MH  - Stress Disorders, Post-Traumatic/complications/*genetics/psychology
+MH  - *Veterans/psychology/statistics & numerical data
+EDAT- 2002/09/10 10:00
+MHDA- 2002/11/28 04:00
+CRDT- 2002/09/10 10:00
+PHST- 2002/09/10 10:00 [pubmed]
+PHST- 2002/11/28 04:00 [medline]
+PHST- 2002/09/10 10:00 [entrez]
+AID - 10.1093/alcalc/37.5.451 [doi]
+PST - ppublish
+SO  - Alcohol Alcohol. 2002 Sep-Oct;37(5):451-6. doi: 10.1093/alcalc/37.5.451.
+
+PMID- 10191746
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19990416
+LR  - 20161124
+IS  - 0001-6470 (Print)
+IS  - 0001-6470 (Linking)
+VI  - 70
+IP  - 1
+DP  - 1999 Feb
+TI  - The external spinal fixator does not reduce anterior column motion under axial
+      compressive loads. A mechanical in vitro study.
+PG  - 37-41
+AB  - We performed an in vitro study to investigate the effect of external spinal
+      fixation on anterior column motion under physiological axial compression loading.
+      The AO external spinal fixator (ESF) was applied to 5 human cadaveric lumbar
+      spine specimens (L3-S1) at levels L4 to S1. All specimens were tested in 4
+      configurations: i) intact, ii) ESF in a neutral position, iii) ESF in distraction
+      (12 mm), and iv) ESF in compression (8-12 mm). Cyclic sinusoidal axial
+      compressive loads from 60 to 600 N were applied for 10 cycles in each test
+      condition. The axial displacement of the load application point was recorded as
+      an indicator of anterior column axial translation. The axial motion with the
+      fixator in distraction was significantly greater than all other conditions,
+      including intact. Compression of the fixator resulted in the least axial
+      displacement. External fixation in the neutral position did not significantly
+      affect the overall axial translation, when compared to the intact state. In
+      conclusion, the external spinal fixator did not significantly reduce anterior
+      column axial translation and, in distraction, this motion exceeded that of the
+      intact specimen. Since pain relief is frequently observed during distraction of
+      the painful segment/s with the external fixator, the mechanical basis of the pain
+      relief is not well understood.
+FAU - Lund, T
+AU  - Lund T
+AD  - M.E. Muller Institute for Biomechanics, University of Berne, Switzerland.
+FAU - Rathonyi, G
+AU  - Rathonyi G
+FAU - Schlenzka, D
+AU  - Schlenzka D
+FAU - Oxland, T R
+AU  - Oxland TR
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Acta Orthop Scand
+JT  - Acta orthopaedica Scandinavica
+JID - 0370352
+SB  - IM
+MH  - Adult
+MH  - Analysis of Variance
+MH  - Cadaver
+MH  - Compressive Strength
+MH  - External Fixators/*standards
+MH  - Humans
+MH  - Lumbar Vertebrae/*injuries
+MH  - Materials Testing
+MH  - Middle Aged
+MH  - Pain/etiology
+MH  - Radiography
+MH  - *Range of Motion, Articular
+MH  - Sacrum/*injuries
+MH  - Spinal Fractures/diagnostic imaging/etiology/*physiopathology/*surgery
+MH  - Time Factors
+MH  - Walking/physiology
+EDAT- 1999/04/07 00:00
+MHDA- 1999/04/07 00:01
+CRDT- 1999/04/07 00:00
+PHST- 1999/04/07 00:00 [pubmed]
+PHST- 1999/04/07 00:01 [medline]
+PHST- 1999/04/07 00:00 [entrez]
+PST - ppublish
+SO  - Acta Orthop Scand. 1999 Feb;70(1):37-41.
+
+PMID- 24710991
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20140409
+LR  - 20140408
+IS  - 0268-8921 (Print)
+IS  - 0268-8921 (Linking)
+VI  - 13
+IP  - 4
+DP  - 1998 Dec
+TI  - Muscular trauma treated with a ga-Al-as diode laser: in vivo experimental study.
+PG  - 293-8
+LID - 10.1007/s101030050011 [doi]
+AB  - The aim of the study was to verify in an experimental model the effects of laser 
+      therapy performed with Ga-Al-As diode lasers (780 nm, 2500 mW) on traumatised
+      muscles. Forty adult New Zealand male rabbits were divided into four groups (A,
+      B, C and D) of ten animals each. Each group of animals was further divided into
+      two subgroups of five animals each. The animals were submitted to muscular trauma
+      for 7 min by clamping the posterior muscles of the left thigh under general
+      anaesthesia. Four days later, the rabbits in the B1, B2, C1, C2, D1 and D2
+      subgroups started daily laser therapy. The parameters utilised were: 150 J/cm(2) 
+      energy density, 3 W, 50 Hz in group B; 250 J/cm(2), 3 W, 100 Hz in group C; and
+      800 J/cm(2), 3 W, 0 Hz (continuous output) in group D. The animals in subgroups
+      A1 and A2 were used as untreated controls and allowed to heal spontaneously. In
+      order to prepare samples for histological, histochemical and histomorphometrical 
+      studies, dissection of the posterior muscle of the thigh was performed under
+      general anaesthesia and before sacrifice, after five days of laser therapy in the
+      subgroups B1, C1 and D1 and after ten days of laser therapy in subgroups B2, C2
+      and D2. The samples of untreated subgroups A1 and A2 were subjected to the same
+      procedure and at the same times as the corresponding laser-treated groups. The
+      following parameters were analysed on muscular samples: qualitative histological 
+      aspect (lactate dehydrogenase (LDH), cytochrome oxidase, acid phosphatase and
+      alkaline phosphatase concentration with histoenzymatic methods) and quantitative 
+      histomorphometric evaluation of muscular damage and tissue repair. Blood samples 
+      were drawn from each subgroup before the trauma and again before sacrifice to
+      measure the creatine phosphokinase (CK) and LDH levels. The results obtained in
+      the tables are shown. Analysis of the results showed a better qualitative and
+      quantitative healing process in traumatised muscles treated with Ga-Al-As diode
+      laser therapy than in spontaneously healed ones. The results obtained with laser 
+      therapy were confirmed as haematic, histoenzymatic and histomorphometric values. 
+      According to these results, there is a positive relationship between the
+      biostimulation properties of the laser and the healing of traumatised muscular
+      tissue.
+FAU - Morrone, G
+AU  - Morrone G
+AD  - Experimental Surgery Dept, Rizzoli Orthopaedic Institute and
+      Surgical-Anesthesiological Science Department, University of Bologna, Bologna,
+      Italy, IT.
+FAU - Guzzardella, G A
+AU  - Guzzardella GA
+FAU - Orienti, L
+AU  - Orienti L
+FAU - Giavaresi, G
+AU  - Giavaresi G
+FAU - Fini, M
+AU  - Fini M
+FAU - Rocca, M
+AU  - Rocca M
+FAU - Torricelli, P
+AU  - Torricelli P
+FAU - Martini, L
+AU  - Martini L
+FAU - Giardino, R
+AU  - Giardino R
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Lasers Med Sci
+JT  - Lasers in medical science
+JID - 8611515
+EDAT- 1998/12/01 00:00
+MHDA- 1998/12/01 00:01
+CRDT- 2014/04/09 06:00
+PHST- 2014/04/09 06:00 [entrez]
+PHST- 1998/12/01 00:00 [pubmed]
+PHST- 1998/12/01 00:01 [medline]
+AID - 10.1007/s101030050011 [doi]
+PST - ppublish
+SO  - Lasers Med Sci. 1998 Dec;13(4):293-8. doi: 10.1007/s101030050011.
+
+PMID- 8969397
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19970313
+LR  - 20180518
+IS  - 1053-0770 (Print)
+IS  - 1053-0770 (Linking)
+VI  - 10
+IP  - 7
+DP  - 1996 Dec
+TI  - A study of the effects of extracorporeal circulation on the immunologic system of
+      humans.
+PG  - 893-8
+AB  - OBJECTIVES: The objectives of this study were to quantify the immunosuppressive
+      effects of cardiopulmonary bypass (CPB) and to identify mechanisms responsible
+      for the postoperative immunosuppression of patients undergoing cardiac surgery.
+      DESIGN: A prospective study from 20 consecutive patients. SETTING: The same team 
+      operated on all patients in a major teaching hospital, and the immunologic tests 
+      were performed in the hospital's hematology laboratory. PARTICIPANTS: Twenty
+      patients were studied who had consented to participate in the study.
+      INTERVENTIONS: All patients underwent valve replacement under general anesthesia.
+      MEASUREMENT AND MAIN RESULTS: The changes in the white blood cell count (WBC), in
+      the B, T, T4, T8 lymphocytes, the concentrations of C-reactive protein (CRP),
+      a1-antitrypsin (A1AT), a2-macroglobulin (A2MG), C3, C4 immunoglobulin A (IgA),
+      IgM, IgG, Kappa (K), and lambda (L) chains were studied. The postoperative immune
+      response was expressed with (1) increased mean axillary temperature (37.5 degrees
+      +/- 0.62 degrees) in the first postoperative 24 hours; (2) increase of WBC (p <
+      0.001) and T8 (p < 0.01); (3) reduction of C3 (p = 0.01) and A2MG (p < 0.01); (4)
+      reduction of IgA (p < 0.001) and IgG, K, L chains (p < 0.01); and (5) reduction
+      of T (p < 0.01) and T4 (p < 0.01). In the first 24 hours postoperatively, B cells
+      were increased (81%) together with CRP (p < 0.01) and A1AT. CONCLUSIONS: The
+      observed immune alterations were mostly of no immunologic origin and were related
+      to hemodilution and inflammation together with an immunosuppressive effect of
+      trauma and stress.
+FAU - Siminelakis, S
+AU  - Siminelakis S
+AD  - Department of Anesthesia, Hippokration General Hospital of Athens, Greece.
+FAU - Bossinakou, I
+AU  - Bossinakou I
+FAU - Antoniou, F
+AU  - Antoniou F
+FAU - Pallanza, Z
+AU  - Pallanza Z
+FAU - Tolios, J
+AU  - Tolios J
+FAU - Vasilogiannakopoulou, D
+AU  - Vasilogiannakopoulou D
+FAU - Kasapli, M
+AU  - Kasapli M
+FAU - Parigori, P
+AU  - Parigori P
+FAU - Chlapoutakis, E
+AU  - Chlapoutakis E
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Cardiothorac Vasc Anesth
+JT  - Journal of cardiothoracic and vascular anesthesia
+JID - 9110208
+RN  - 0 (Complement C3)
+RN  - 0 (alpha 1-Antitrypsin)
+SB  - IM
+MH  - Aged
+MH  - Complement Activation
+MH  - Complement C3/analysis
+MH  - *Extracorporeal Circulation
+MH  - Female
+MH  - Humans
+MH  - Immune System/*physiopathology
+MH  - Leukocyte Count
+MH  - Lymphocytes/physiology
+MH  - Male
+MH  - Middle Aged
+MH  - Prospective Studies
+MH  - alpha 1-Antitrypsin/analysis
+EDAT- 1996/12/01 00:00
+MHDA- 1996/12/01 00:01
+CRDT- 1996/12/01 00:00
+PHST- 1996/12/01 00:00 [pubmed]
+PHST- 1996/12/01 00:01 [medline]
+PHST- 1996/12/01 00:00 [entrez]
+AID - S1053-0770(96)80052-8 [pii]
+PST - ppublish
+SO  - J Cardiothorac Vasc Anesth. 1996 Dec;10(7):893-8.
+
+PMID- 8857906
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19961113
+LR  - 20141120
+IS  - 0004-0010 (Print)
+IS  - 0004-0010 (Linking)
+VI  - 131
+IP  - 10
+DP  - 1996 Oct
+TI  - Reduced inflammatory response in minimal invasive surgery of pneumothorax.
+PG  - 1079-82
+AB  - OBJECTIVE: To elucidate whether thoracoscopy for surgical therapy of pneumothorax
+      leads to a reduction of inflammatory responses in comparison with standard
+      thoracotomy. DESIGN: A prospective randomized study PATIENTS: Eleven patients (9 
+      men and 2 women; median age, 28 years; range, 21-44 years) were treated by
+      thoracotomy; 10 patients (9 men and 1 woman; median age, 26 years; range, 21-28
+      years) were managed thoracoscopically. The plasma concentrations of the following
+      were determined: polymorphonuclear granulocyte elastase and C-reactive protein as
+      inflammatory parameters and prostanoids (prostacyclin, thromboxane A2,
+      prostaglandin F2 alpha, prostaglandin M, and prostaglandin E2) as vasoactive
+      parameters. Blood sampling was performed perioperatively and on day 3 after
+      surgery. RESULTS: The thoracoscopy group revealed a shorter hospital stay (5 vs 7
+      days; P < .05) and a significantly reduced need for intravenous pain medication
+      within 48 hours (1 vs 3 requirements; P < .01) vs the thoracotomy group. The
+      release of inflammatory (C-reactive protein, P < .01) and vasoactive
+      (prostacyclin and thromboxane A2, P < .01) mediators was less during thoracoscopy
+      compared with standard thoracotomy. CONCLUSIONS: The thoracoscopic procedure is
+      less invasive when performing wedge resection of apical blebs. With intracavitary
+      management being equivalent to the conventional technique, the curtailed
+      morbidity after thoracoscopic surgery is considered to be related to the minimal 
+      trauma associated with the access to lung tissue and the reduced handling of lung
+      tissue.
+FAU - Gebhard, F T
+AU  - Gebhard FT
+AD  - Department of Surgery, German Military Hospital, Ulm, Germany.
+FAU - Becker, H P
+AU  - Becker HP
+FAU - Gerngross, H
+AU  - Gerngross H
+FAU - Bruckner, U B
+AU  - Bruckner UB
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Arch Surg
+JT  - Archives of surgery (Chicago, Ill. : 1960)
+JID - 9716528
+RN  - 0 (Inflammation Mediators)
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - *Endoscopy
+MH  - Female
+MH  - Humans
+MH  - Inflammation Mediators/blood
+MH  - Male
+MH  - Minimally Invasive Surgical Procedures
+MH  - Pneumonectomy
+MH  - Pneumothorax/*surgery
+MH  - Prospective Studies
+MH  - Thoracoscopy
+MH  - Thoracotomy
+EDAT- 1996/10/01 00:00
+MHDA- 1996/10/01 00:01
+CRDT- 1996/10/01 00:00
+PHST- 1996/10/01 00:00 [pubmed]
+PHST- 1996/10/01 00:01 [medline]
+PHST- 1996/10/01 00:00 [entrez]
+PST - ppublish
+SO  - Arch Surg. 1996 Oct;131(10):1079-82.
+
+PMID- 8377050
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19931021
+LR  - 20161123
+IS  - 0890-5339 (Print)
+IS  - 0890-5339 (Linking)
+VI  - 7
+IP  - 4
+DP  - 1993
+TI  - Biomechanical testing of a new design for Schanz pedicle screws.
+PG  - 375-80
+AB  - Standard 5-mm AO Schanz pedicle screws were biomechanically compared with a new
+      design, featuring 6-mm threads with a 5-mm core diameter continuous with the
+      shaft. One each of the two screw designs was surgically inserted into the
+      matching pedicles of 32 cadaveric vertebrae. The pull-out strengths of the screws
+      were then determined by recording the peak force values during extraction under
+      servohydraulic displacement control. The screws were also tested in three-point
+      bending, varying the inner load point with respect to the shaft thread junction, 
+      within a clinically anticipated range. The mean pull-out strength for the 6-mm
+      screw was 597 N, which was significantly greater than the mean strength of 405 N 
+      for the 5 mm screw (p = 0.002). The 6-mm screw was also stronger in three-point
+      bending, and failed at the point of inner load application, with no evidence of a
+      stress-raising effect at the shaft/thread junction. In contrast, the 5-mm screw
+      withstood lower loads, and failed at the shaft/thread junction, regardless of the
+      point of loading. Pedicle screw breakage and pull-out are the recognized modes of
+      failure of spinal implants, which are dependent on pedicle screw fixation. The
+      results suggest distinct biomechanical advantages for the 6-mm screw, which
+      should be used whenever clinically feasible.
+FAU - Willett, K
+AU  - Willett K
+AD  - Orthopaedic Biomechanics Research Laboratory, Sunnybrook Health Science Centre,
+      University of Toronto, Ontario, Canada.
+FAU - Hearn, T C
+AU  - Hearn TC
+FAU - Cuncins, A V
+AU  - Cuncins AV
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - J Orthop Trauma
+JT  - Journal of orthopaedic trauma
+JID - 8807705
+SB  - IM
+SB  - S
+MH  - Absorptiometry, Photon
+MH  - Aged
+MH  - Biomechanical Phenomena
+MH  - Bone Screws/classification/*standards
+MH  - Female
+MH  - Fracture Fixation, Internal/*instrumentation/methods
+MH  - Humans
+MH  - Lumbar Vertebrae/*injuries/physiology
+MH  - Male
+MH  - Materials Testing
+MH  - Prosthesis Design
+MH  - Prosthesis Failure
+MH  - Radionuclide Imaging
+MH  - Spinal Fractures/diagnostic imaging/physiopathology/*surgery
+MH  - Stress, Mechanical
+MH  - Tensile Strength
+MH  - Thoracic Vertebrae/*injuries/physiology
+MH  - Weight-Bearing
+EDAT- 1993/01/01 00:00
+MHDA- 1993/01/01 00:01
+CRDT- 1993/01/01 00:00
+PHST- 1993/01/01 00:00 [pubmed]
+PHST- 1993/01/01 00:01 [medline]
+PHST- 1993/01/01 00:00 [entrez]
+PST - ppublish
+SO  - J Orthop Trauma. 1993;7(4):375-80.
+
+PMID- 2028333
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19910613
+LR  - 20090709
+IS  - 0362-2436 (Print)
+IS  - 0362-2436 (Linking)
+VI  - 16
+IP  - 3 Suppl
+DP  - 1991 Mar
+TI  - Application and results of the AO internal fixation system in nontraumatic
+      indications.
+PG  - S162-9
+AB  - The AO internal skeletal fixation system (ISFS) permits posterior spine fixation 
+      to be restricted to the vertebrae immediately adjacent to the lesion and allows
+      manipulation of each instrumented vertebra in three planes. In a prospective
+      study to assess the value of this fixation for adult spinal disorders, 68
+      patients were reviewed. The device was used in spondylolisthesis, postlaminectomy
+      instability, post-traumatic kyphosis, degenerative scoliosis, spinal stenosis,
+      tumors, and infections. A total of 322 transpedicular screws have been inserted
+      without neurologic complication. Satisfactory results were achieved in 88% of the
+      patients, and only four pseudarthroses (6%) occurred. The ISFS provides rigid
+      stabilization to enhance bone graft consolidation and to allow rapid
+      postoperative mobilization in a light external orthosis.
+FAU - Marchesi, D G
+AU  - Marchesi DG
+AD  - Department of Orthopaedic Surgery, University of Bern, Inselspital, Switzerland.
+FAU - Thalgott, J S
+AU  - Thalgott JS
+FAU - Aebi, M
+AU  - Aebi M
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Spine (Phila Pa 1976)
+JT  - Spine
+JID - 7610646
+SB  - IM
+MH  - Bone Screws
+MH  - Female
+MH  - Humans
+MH  - *Internal Fixators
+MH  - Kyphosis/surgery
+MH  - Lumbar Vertebrae/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Prospective Studies
+MH  - Scoliosis/surgery
+MH  - Spinal Diseases/*surgery
+MH  - Spinal Fusion/*instrumentation
+MH  - Spinal Neoplasms/surgery
+MH  - Spinal Stenosis/surgery
+MH  - Spondylolisthesis/surgery
+EDAT- 1991/03/01 00:00
+MHDA- 1991/03/01 00:01
+CRDT- 1991/03/01 00:00
+PHST- 1991/03/01 00:00 [pubmed]
+PHST- 1991/03/01 00:01 [medline]
+PHST- 1991/03/01 00:00 [entrez]
+PST - ppublish
+SO  - Spine (Phila Pa 1976). 1991 Mar;16(3 Suppl):S162-9.
+
+PMID- 2988020
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19850717
+LR  - 20171121
+IS  - 0090-6980 (Print)
+IS  - 0090-6980 (Linking)
+VI  - 29
+IP  - 3
+DP  - 1985 Mar
+TI  - Lipoxygenase products: leukotrienes C4, D4, A4's breakdown products and 12-HPETE 
+      influence platelet aggregation in vivo.
+PG  - 459-65
+AB  - Clinical and pathological observations of diseases concomitant which leukotriene 
+      release show consistently an involvement of platelet activation. This effect was 
+      hitherto believed to be due to tissue trauma. The aim of the present study was to
+      elucidate whether lipoxygenase products such as leukotrienes C4, D4, 12-HPETE and
+      the breakdown products of leukotriene A4 have a direct pro-aggregatory property
+      of their own. Platelet aggregation was induced by intravascular excitation of
+      fluoresceiniso-thiocyanate-dextran in arterioles of the hamster cheek pouch.
+      "Time to aggregate appearance" was assessed prior and after parenteral
+      application of the studied compounds. LTA4's breakdown products were found to
+      have anti-aggregatory properties, whereas LTC4, D4 and 12-HPETE enhanced platelet
+      aggregability.
+FAU - Herrmann, K S
+AU  - Herrmann KS
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Prostaglandins
+JT  - Prostaglandins
+JID - 0320271
+RN  - 0 (Arachidonic Acids)
+RN  - 0 (Leukotriene A4)
+RN  - 0 (Leukotrienes)
+RN  - 0 (SRS-A)
+RN  - 67675-13-2 (12-HPETE)
+SB  - IM
+MH  - Animals
+MH  - Arachidonic Acids/*metabolism
+MH  - Cricetinae
+MH  - Humans
+MH  - Leukotriene A4
+MH  - *Leukotrienes
+MH  - Mesocricetus
+MH  - Platelet Aggregation/*drug effects
+MH  - SRS-A/*metabolism
+MH  - Vasoconstriction
+EDAT- 1985/03/01 00:00
+MHDA- 1985/03/01 00:01
+CRDT- 1985/03/01 00:00
+PHST- 1985/03/01 00:00 [pubmed]
+PHST- 1985/03/01 00:01 [medline]
+PHST- 1985/03/01 00:00 [entrez]
+AID - 0090-6980(85)90103-0 [pii]
+PST - ppublish
+SO  - Prostaglandins. 1985 Mar;29(3):459-65.
+
+PMID- 345933
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19780508
+LR  - 20091111
+IS  - 0003-3944 (Print)
+IS  - 0003-3944 (Linking)
+VI  - 31
+IP  - 11
+DP  - 1977 Nov
+TI  - [Traumatic rupture of the diaphragm in road accidents. (Burst diaphragm and
+      thoraco-abdominal contusions). Report of 19 cases (author's transl)].
+PG  - 929-37
+FAU - Rives, J
+AU  - Rives J
+FAU - Vaille, L
+AU  - Vaille L
+FAU - Drouard, F
+AU  - Drouard F
+FAU - Hibon, J
+AU  - Hibon J
+LA  - fre
+PT  - English Abstract
+PT  - Journal Article
+PT  - Review
+TT  - Les ruptures traumatiques du diaphragme dans les accidents du trafic. (Eclatement
+      du diaphragme et contusions thoraco-abdominales). A propos de 19 observations.
+PL  - France
+TA  - Ann Chir
+JT  - Annales de chirurgie
+JID - 0140722
+SB  - IM
+MH  - Abdominal Injuries
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Contusions
+MH  - Diaphragm/pathology
+MH  - Female
+MH  - *Hernia, Diaphragmatic, Traumatic/diagnosis/pathology/surgery
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Prognosis
+MH  - Rupture
+MH  - Thoracic Injuries
+RF  - 56
+EDAT- 1977/11/01 00:00
+MHDA- 1977/11/01 00:01
+CRDT- 1977/11/01 00:00
+PHST- 1977/11/01 00:00 [pubmed]
+PHST- 1977/11/01 00:01 [medline]
+PHST- 1977/11/01 00:00 [entrez]
+PST - ppublish
+SO  - Ann Chir. 1977 Nov;31(11):929-37.
