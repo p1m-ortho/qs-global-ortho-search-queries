@@ -1,0 +1,4412 @@
+
+PMID- 30747696
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190219
+LR  - 20190320
+IS  - 1555-9823 (Electronic)
+IS  - 0003-1348 (Linking)
+VI  - 84
+IP  - 10
+DP  - 2018 Oct 1
+TI  - Treatment Effect or Effective Treatment? Cardiac Compression Fraction and
+      End-tidal Carbon Dioxide Are Higher in Patients Resuscitative Endovascular
+      Balloon Occlusion of the Aorta Compared with Resuscitative Thoracotomy and
+      Open-Chest Cardiac Massage.
+PG  - 1691-1695
+AB  - The purpose of this study is to compare end-tidal carbon dioxide (EtCO(2)) during
+      resuscitation of open-chest cardiac massage (OCCM) with aortic cross-clamp (ACC) 
+      versus receiving resuscitative endovascular balloon occlusion of the aorta
+      (REBOA) with closed-chest compressions (CCCs). Patients who received REBOA were
+      compared with patients receiving OCCM for traumatic arrest using continuous vital
+      sign monitoring and videography. Thirty-three patients were enrolled in the REBOA
+      group and 18 patients were enrolled in the OCCM group. Of the total patients,
+      86.3 per cent were male with a mean age of 36.2 +/- 13.9 years. Ninety-four
+      percent of patients suffered penetrating trauma in the OCCM group compared with
+      30.3 per cent of the REBOA group (P = <0.001). Before aortic occlusion (AO),
+      there was no difference in initial EtCO(2) values, but mean, median, peak, and
+      final EtCO(2) values were lower in OCCM (P < 0.005). During CPR after AO, the
+      initial, mean, and median values were higher with REBOA (P = 0.015, 0.036, and
+      0.038). The rate of return of spontaneous circulation was higher in REBOA versus 
+      OCCM (20/33 [60.1%] vs 5/18 [33.3%]; P = 0.04), and REBOA patients survived to
+      operative intervention more frequently (P = 0.038). REBOA patients had greater
+      total cardiac compression fraction (CCF) before AO than OCCM (85.3 +/- 12.7% vs
+      35.2 +/- 18.6%, P < 0.0001) and after AO (88.3 +/- 7.8% vs 71.9 +/- 24.4%, P =
+      0.0052). REBOA patients have higher EtCO(2) and cardiac compression fraction
+      before and after AO compared with patients who receive OCCM.
+FAU - Teeter, William A
+AU  - Teeter WA
+AD  - R Adams Cowley Shock Trauma Center, Baltimore, Maryland, USA.
+FAU - Bradley, Matthew J
+AU  - Bradley MJ
+FAU - Romagnoli, Anna
+AU  - Romagnoli A
+FAU - Hu, Peter
+AU  - Hu P
+FAU - Li, Yao
+AU  - Li Y
+FAU - Stein, Deborah M
+AU  - Stein DM
+FAU - Scalea, Thomas M
+AU  - Scalea TM
+FAU - Brenner, Megan
+AU  - Brenner M
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Observational Study
+PL  - United States
+TA  - Am Surg
+JT  - The American surgeon
+JID - 0370522
+RN  - 142M471B3J (Carbon Dioxide)
+SB  - IM
+MH  - Adult
+MH  - Aorta/*injuries
+MH  - Balloon Occlusion/*methods
+MH  - Capnography/methods
+MH  - Carbon Dioxide/*blood
+MH  - Cardiopulmonary Resuscitation/instrumentation/*methods
+MH  - Constriction
+MH  - Embolization, Therapeutic/instrumentation/methods
+MH  - Endovascular Procedures/methods
+MH  - Female
+MH  - Heart Arrest/therapy
+MH  - Heart Massage/methods
+MH  - Hemorrhage/*prevention & control
+MH  - Humans
+MH  - Male
+MH  - Pilot Projects
+MH  - Prospective Studies
+MH  - Thoracic Injuries/complications/therapy
+MH  - Thoracotomy/methods
+MH  - Wounds, Nonpenetrating/complications/therapy
+MH  - Wounds, Penetrating/complications/therapy
+EDAT- 2019/02/13 06:00
+MHDA- 2019/03/21 06:00
+CRDT- 2019/02/13 06:00
+PHST- 2019/02/13 06:00 [entrez]
+PHST- 2019/02/13 06:00 [pubmed]
+PHST- 2019/03/21 06:00 [medline]
+PST - ppublish
+SO  - Am Surg. 2018 Oct 1;84(10):1691-1695.
+
+PMID- 30170393
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180907
+LR  - 20190329
+IS  - 1536-5964 (Electronic)
+IS  - 0025-7974 (Linking)
+VI  - 97
+IP  - 35
+DP  - 2018 Aug
+TI  - Pelvic fractures in severely injured children: Results from the TraumaRegister
+      DGU.
+PG  - e11955
+LID - 10.1097/MD.0000000000011955 [doi]
+AB  - Injuries in the pelvic region in children and adolescents are very rare and often
+      associated with a high energy trauma. Aim of this prospective multicenter study
+      was, by analyzing the data from the TraumaRegister Deutsche Gesellschaft fur
+      Unfallchirurgie (TR-DGU), to evaluate any correlation between the severity of
+      pelvic fractures and resulting mortality in different age groups.These study
+      findings are based on a large pool of data retrieved from the prospectively-setup
+      pelvic trauma registry established by the German Trauma Society (DGU) and the
+      German Section of the Association for Osteosynthesis/Association for the Study of
+      Internal Fixation (AO/ASIF) International in 1991. The registry provides data on 
+      all patients suffering pelvic fractures within a 14-year time frame at any 1 of
+      the 23 level 1 trauma centers contributing to the registry. The analysis covers 4
+      age groups ranging from 0 to 17 years, covering different factors regarding
+      pelvic fractures and their treatment.We identified a total of 9684 patients
+      including 1433 pelvic fractures in children aged </=17 years. Those patients were
+      divided into 4 subgroups according to the patients' age (groups A-D) and
+      according to the fracture severity (group 1 = Abbreviated Injury Scale (AIS)
+      score pelvis </=2, and group 2 = AIS pelvis >/=3). The mortality in group 1 was
+      8.8% with a RISC (Revised Injury Severity Score) II of 8.6%, standard mortality
+      rate (SMR) of 1.02 and 7.2% in group 2 with an RISC II of 9.9% (SMR 0.73). In
+      pelvic factures of Type A (Tile classification of pelvic fractures), an SMR of
+      0.76 was recorded, in Type B fractures the SMR was 0.65, and in Type C fractures 
+      0.79. Severe pelvic injuries (AIS pelvis >/=2) were associated with a higher rate
+      of whole body computer tomograph (CT) scans (1-5 years: 80%, 6-10 years 81.8%,
+      11-14 years 84.7%, and 15-17 years 85.6%). The rate of pelvic surgery rose with
+      the pelvic injury's severity (AIS 2: 7.6%, AIS 3: 35%, AIS 4: 65.6%, AIS 5
+      61.5%). We observed higher rates of preclinical and initial clinical hypotension 
+      defined as Riva-Rocci (RR) <90 mmHG) as well as of preclinical fluid application 
+      in all age groups. The presence of a pelvic injury was associated with a higher
+      rate of severe abdominal injuries with an AIS of >/=3 (25.1% vs. 14.6%) and of
+      severe thorax injuries with an AIS>/=3 (43.6% vs. 28.6%).We have been able to
+      analyze an enormous number of pelvic fractures in children and adolescents
+      including different age groups by relying on data from the TR-DGU. Mortality
+      seems to be associated with the severity of the pelvic injury, but is lower than 
+      the RISC II score's prognosis.
+FAU - Zwingmann, Jorn
+AU  - Zwingmann J
+AD  - Department of Orthopedic and Trauma Surgery, University of Freiburg Medical
+      Center, Hugstetter Strasse 55, Freiburg.
+FAU - Lefering, Rolf
+AU  - Lefering R
+AD  - Institute for Research in Operative Medicine (IFOM), University of
+      Witten/Herdecke, Cologne.
+FAU - Maier, Dirk
+AU  - Maier D
+AD  - Department of Orthopedic and Trauma Surgery, University of Freiburg Medical
+      Center, Hugstetter Strasse 55, Freiburg.
+FAU - Hohloch, Lisa
+AU  - Hohloch L
+AD  - Department of Orthopedic and Trauma Surgery, University of Freiburg Medical
+      Center, Hugstetter Strasse 55, Freiburg.
+FAU - Eberbach, Helge
+AU  - Eberbach H
+AD  - Department of Orthopedic and Trauma Surgery, University of Freiburg Medical
+      Center, Hugstetter Strasse 55, Freiburg.
+FAU - Neumann, Mirjam
+AU  - Neumann M
+AD  - Department of Orthopedic and Trauma Surgery, University of Freiburg Medical
+      Center, Hugstetter Strasse 55, Freiburg.
+FAU - Strohm, Peter C
+AU  - Strohm PC
+AD  - Clinic for Orthopaedics and Trauma Surgery, Klinikum Bamberg, Germany.
+FAU - Sudkamp, Norbert P
+AU  - Sudkamp NP
+AD  - Department of Orthopedic and Trauma Surgery, University of Freiburg Medical
+      Center, Hugstetter Strasse 55, Freiburg.
+FAU - Hammer, Thorsten
+AU  - Hammer T
+AD  - Department of Orthopedic and Trauma Surgery, University of Freiburg Medical
+      Center, Hugstetter Strasse 55, Freiburg.
+LA  - eng
+PT  - Evaluation Studies
+PT  - Journal Article
+PT  - Multicenter Study
+PL  - United States
+TA  - Medicine (Baltimore)
+JT  - Medicine
+JID - 2985248R
+SB  - AIM
+SB  - IM
+MH  - Abdominal Injuries/mortality
+MH  - Adolescent
+MH  - Child
+MH  - Child, Preschool
+MH  - Female
+MH  - Fractures, Bone/*mortality
+MH  - Germany/epidemiology
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - Injury Severity Score
+MH  - Male
+MH  - Pelvic Bones/*injuries
+MH  - Prospective Studies
+MH  - Registries
+MH  - Thoracic Injuries/mortality
+PMC - PMC6392518
+EDAT- 2018/09/02 06:00
+MHDA- 2018/09/08 06:00
+CRDT- 2018/09/02 06:00
+PHST- 2018/09/02 06:00 [entrez]
+PHST- 2018/09/02 06:00 [pubmed]
+PHST- 2018/09/08 06:00 [medline]
+AID - 10.1097/MD.0000000000011955 [doi]
+AID - 00005792-201808310-00025 [pii]
+PST - ppublish
+SO  - Medicine (Baltimore). 2018 Aug;97(35):e11955. doi: 10.1097/MD.0000000000011955.
+
+PMID- 30104626
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190408
+LR  - 20190408
+IS  - 1935-3456 (Electronic)
+IS  - 1933-0219 (Linking)
+VI  - 11
+IP  - 6
+DP  - 2018 Nov
+TI  - Dietary DHA amplifies LXA4 circuits in tissues and lymph node PMN and is
+      protective in immune-driven dry eye disease.
+PG  - 1674-1683
+LID - 10.1038/s41385-018-0070-z [doi]
+AB  - Recently identified regulatory PMN control immune-driven dry eye disease (DED) in
+      females by producing the arachidonic acid (omega-6)-derived specialized
+      pro-resolving mediator (SPM), LXA4, in lymph nodes. Dietary omega-3
+      docosahexaenoic acid (DHA) is protective in DED but mechanisms of action remain
+      elusive. DHA is converted to omega-3 SPMs by PMN via the same lipoxygenases (LOX)
+      that generate LXA4. We investigated if dietary DHA amplifies SPM formation and
+      affects T effector cell function and/or regulatory PMN in DED. DED was induced in
+      mice on a DHA-enriched or omega-3-deficient diet. DHA deficiency amplified DED
+      with marked sex-specific differences. Dietary DHA protection against dry eye
+      disease correlated with increased PMN levels in lymph nodes, ocular tissues, and 
+      unexpectedly, selective amplification of LXA4 tissue levels. Dietary DHA
+      increased 12/15-LOX and decreased 5-LOX expression in lymph nodes and isolated
+      lymph node PMN, which correlated with amplified LXA4 formation. Acute DHA
+      treatment rescued DHA-deficient females from exaggerated DED by amplifying lymph 
+      node LXA4 formation, increasing Treg and decreasing TH1 and TH17 effector cells. 
+      Our results identify DHA regulation of LXA4 producing PMN in ocular tissues and
+      lymph nodes in health and immune disease as novel mechanism and determinant for
+      T-cell responses to routine ocular injury or stress signals.
+FAU - Gao, Yuan
+AU  - Gao Y
+AD  - Southwest Hospital/Southwest Eye Hospital, Third Military Medical University,
+      Chongqing, 400038, China.
+AD  - Key Lab of Visual Damage and Regeneration & Restoration of Chongqing, Chongqing, 
+      400038, China.
+AD  - Vision Science Program, University of California Berkeley, Berkeley, CA, 94720,
+      USA.
+AD  - School of Optometry, University of California Berkeley, Berkeley, CA, 94720, USA.
+FAU - Su, John
+AU  - Su J
+AD  - Vision Science Program, University of California Berkeley, Berkeley, CA, 94720,
+      USA.
+FAU - Zhang, Yibing
+AU  - Zhang Y
+AD  - Vision Science Program, University of California Berkeley, Berkeley, CA, 94720,
+      USA.
+FAU - Chan, Allison
+AU  - Chan A
+AD  - Vision Science Program, University of California Berkeley, Berkeley, CA, 94720,
+      USA.
+FAU - Sin, Jun Hyung
+AU  - Sin JH
+AD  - Vision Science Program, University of California Berkeley, Berkeley, CA, 94720,
+      USA.
+FAU - Wu, Di
+AU  - Wu D
+AD  - Vision Science Program, University of California Berkeley, Berkeley, CA, 94720,
+      USA.
+FAU - Min, Kyungi
+AU  - Min K
+AD  - Vision Science Program, University of California Berkeley, Berkeley, CA, 94720,
+      USA.
+FAU - Gronert, Karsten
+AU  - Gronert K
+AD  - Vision Science Program, University of California Berkeley, Berkeley, CA, 94720,
+      USA. kgronert@berkeley.edu.
+AD  - School of Optometry, University of California Berkeley, Berkeley, CA, 94720, USA.
+      kgronert@berkeley.edu.
+AD  - Infectious Disease and Immunity Program, University of California Berkeley,
+      Berkeley, CA, 94720, USA. kgronert@berkeley.edu.
+LA  - eng
+GR  - P30 EY003176/EY/NEI NIH HHS/United States
+GR  - R01 EY022208/EY/NEI NIH HHS/United States
+GR  - R01 EY026082/EY/NEI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20180813
+PL  - United States
+TA  - Mucosal Immunol
+JT  - Mucosal immunology
+JID - 101299742
+RN  - 0 (Lipoxins)
+RN  - 0 (lipoxin A4)
+RN  - 25167-62-8 (Docosahexaenoic Acids)
+SB  - IM
+MH  - Animals
+MH  - Cells, Cultured
+MH  - *Diet
+MH  - Docosahexaenoic Acids/deficiency/metabolism
+MH  - Dry Eye Syndromes/*immunology
+MH  - Eye/*immunology
+MH  - Female
+MH  - Humans
+MH  - Lipoxins/*metabolism
+MH  - Lymph Nodes/*immunology
+MH  - Male
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Neutrophils/*immunology
+MH  - T-Lymphocytes, Regulatory/*immunology
+PMC - PMC6279588
+MID - NIHMS980902
+EDAT- 2018/08/15 06:00
+MHDA- 2019/04/09 06:00
+CRDT- 2018/08/15 06:00
+PHST- 2018/03/30 00:00 [received]
+PHST- 2018/07/10 00:00 [accepted]
+PHST- 2018/07/02 00:00 [revised]
+PHST- 2018/08/15 06:00 [pubmed]
+PHST- 2019/04/09 06:00 [medline]
+PHST- 2018/08/15 06:00 [entrez]
+AID - 10.1038/s41385-018-0070-z [doi]
+AID - 10.1038/s41385-018-0070-z [pii]
+PST - ppublish
+SO  - Mucosal Immunol. 2018 Nov;11(6):1674-1683. doi: 10.1038/s41385-018-0070-z. Epub
+      2018 Aug 13.
+
+PMID- 29410173
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180514
+LR  - 20180514
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 112
+DP  - 2018 Apr
+TI  - Knowledge and Attitude Regarding Radiation Exposure Among Spine Surgeons in Latin
+      America.
+PG  - e823-e829
+LID - S1878-8750(18)30209-2 [pii]
+LID - 10.1016/j.wneu.2018.01.166 [doi]
+AB  - BACKGROUND: Spine surgeons are exposed to high amounts of radiation from
+      fluoroscopic procedures during their lifetime. In this study, we evaluated spine 
+      surgeons' knowledge of and attitude regarding radiation exposure during spine
+      surgery. METHODS: We developed a questionnaire including questions about
+      surgeons' characteristics and knowledge of and attitude regarding radiation
+      exposure during spine surgery. A survey was performed with the members of AOSpine
+      Latin America. The main variables studied were specialty, years of experience,
+      surgeon's position during fluoroscopy, and practices to reduce the patient's and 
+      surgeon's radiation exposure during surgery. The results were analyzed and
+      compared among different specialties, levels of experience, and countries of
+      origin. RESULTS: The questionnaire was answered by 371 members of AOSpine Latin
+      America from different countries. The sample was mostly from orthopedic surgeons 
+      (57.1%) and surgeons in practice for longer than 10 years (54.2%). Thyroid lead
+      protection was used by 64.2% of the spine surgeons, lead glasses by 20.2%, and
+      lead gloves by 7%. A dosimeter badge was never or only rarely used by 75.7%. The 
+      correct answer for surgeon position during lateral lumbar fluoroscopy was
+      reported by only one-third of the surgeons. The reported rate of thyroid
+      protector use was higher in surgeons from Brazil and Colombia compared with
+      surgeons from Mexico and Argentina (P < 0.001), whereas the use of pulsed-mode
+      fluoroscopy was higher in Mexico and Argentina compared with Brazil and Colombia 
+      (P < 0.0001). CONCLUSIONS: Future efforts toward implementing educational
+      programs in Latin America focused on safety strategies are needed to minimize
+      intraoperative radiation exposure.
+CI  - Copyright (c) 2018 Elsevier Inc. All rights reserved.
+FAU - Falavigna, Asdrubal
+AU  - Falavigna A
+AD  - Department of Neurosurgery, University of Caxias do Sul, Caxias do Sul, Brazil;
+      Laboratory of Clinical Studies and Basic Models on Spinal Cord Pathologies,
+      University of Caxias do Sul, Caxias do Sul, Brazil. Electronic address:
+      asdrubalmd@gmail.com.
+FAU - Ramos, Miguel Bertelli
+AU  - Ramos MB
+AD  - Laboratory of Clinical Studies and Basic Models on Spinal Cord Pathologies,
+      University of Caxias do Sul, Caxias do Sul, Brazil.
+FAU - Iutaka, Alexandre Sadao
+AU  - Iutaka AS
+AD  - Hospital Israelita Albert Einstein, Sao Paulo, Brazil.
+FAU - Menezes, Cristiano Magalhaes
+AU  - Menezes CM
+AD  - Instituto Columna, Belo Horizonte, Brazil.
+FAU - Emmerich, Juan
+AU  - Emmerich J
+AD  - School of Medicine, National University of La Plata, La Plata, Argentina.
+FAU - Taboada, Nestor
+AU  - Taboada N
+AD  - UNIMEC, Barranquilla, Colombia.
+FAU - Riew, K Daniel
+AU  - Riew KD
+AD  - Department of Orthopedic Surgery, Columbia University, New York, New York, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20180201
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+SB  - IM
+MH  - Cross-Sectional Studies
+MH  - *Health Knowledge, Attitudes, Practice
+MH  - Humans
+MH  - Latin America
+MH  - *Neurosurgeons
+MH  - Occupational Exposure/prevention & control
+MH  - *Orthopedic Surgeons
+MH  - *Radiation Exposure/prevention & control
+MH  - Radiation Injuries/prevention & control
+MH  - Surveys and Questionnaires
+OTO - NOTNLM
+OT  - Attitude
+OT  - Knowledge
+OT  - Neurosurgeon
+OT  - Orthopedic surgeon
+OT  - Patient safety
+OT  - Radiation exposure
+OT  - Spine
+EDAT- 2018/02/08 06:00
+MHDA- 2018/05/15 06:00
+CRDT- 2018/02/08 06:00
+PHST- 2018/01/07 00:00 [received]
+PHST- 2018/01/21 00:00 [revised]
+PHST- 2018/01/22 00:00 [accepted]
+PHST- 2018/02/08 06:00 [pubmed]
+PHST- 2018/05/15 06:00 [medline]
+PHST- 2018/02/08 06:00 [entrez]
+AID - S1878-8750(18)30209-2 [pii]
+AID - 10.1016/j.wneu.2018.01.166 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2018 Apr;112:e823-e829. doi: 10.1016/j.wneu.2018.01.166. Epub
+      2018 Feb 1.
+
+PMID- 29366930
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190423
+LR  - 20190423
+IS  - 1090-2139 (Electronic)
+IS  - 0889-1591 (Linking)
+VI  - 69
+DP  - 2018 Mar
+TI  - Sustained reversal of central neuropathic pain induced by a single intrathecal
+      injection of adenosine A2A receptor agonists.
+PG  - 470-479
+LID - S0889-1591(18)30004-7 [pii]
+LID - 10.1016/j.bbi.2018.01.005 [doi]
+AB  - Central neuropathic pain is a debilitating outcome of spinal cord injury (SCI)
+      and current treatments to alleviate this pain condition are ineffective. A
+      growing body of literature suggests that activating adenosine A2A receptors
+      (A2ARs) decreases the production of proinflammatory cytokines and increases the
+      production of anti-inflammatory cytokines. Here, the effect of administering
+      intrathecal A2AR agonists on central neuropathic pain was measured using hindpaw 
+      mechanical allodynia in a rat model of SCI termed spinal neuropathic avulsion
+      pain (SNAP). Other models of SCI cause extensive damage to the spinal cord,
+      resulting in paralysis and health problems. SNAP rats with unilateral low
+      thoracic (T13)/high lumbar (L1) dorsal root avulsion develop below-level
+      bilateral allodynia, without concomitant motor or health problems. A single
+      intrathecal injection of the A2AR agonist
+      2-p-(2-carboxyethyl)phenethylamino-5'-N-ethylcarboxamido adenosine HCl (CGS21680)
+      reversed SCI-induced allodynia for at least 6weeks. The reversal is likely in
+      part mediated by interleukin (IL)-10, as intrathecally administering neutralizing
+      IL-10 antibodies 1week after CGS21680 abolished the anti-allodynic effect of
+      CGS21680. Dorsal spinal cord tissue from the ipsilateral site of SCI (T13/L1) was
+      assayed 1 and 6weeks after CGS21680 for IL-10, CD11b, and tumor necrosis factor
+      (TNF) gene expression. CGS21680 treatment did not change IL-10 gene expression
+      but did significantly decrease CD11b and TNF gene expression at both timepoints. 
+      A second A2AR agonist,
+      4-(3-(6-amino-9-(5-cyclopropylcarbamoyl-3,4-dihydroxytetrahydrofuran-2-yl)-9H-pur
+      in-2-yl)prop-2-ynyl)piperidine-1-carboxylic acid methyl ester (ATL313), was also 
+      able to significantly prevent and reverse SCI-induced allodynia for several weeks
+      after a single intrathecal injection, providing converging lines of evidence of
+      A2AR involvement. The enduring pain reversal after a single intrathecal injection
+      of A2AR agonists suggests that A2AR agonists could be exciting new candidates for
+      treating SCI-induced central neuropathic pain.
+CI  - Copyright (c) 2018 Elsevier Inc. All rights reserved.
+FAU - Kwilasz, Andrew J
+AU  - Kwilasz AJ
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States. Electronic address:
+      andrew.kwilasz@colorado.edu.
+FAU - Ellis, Amanda
+AU  - Ellis A
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States.
+FAU - Wieseler, Julie
+AU  - Wieseler J
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States.
+FAU - Loram, Lisa
+AU  - Loram L
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States.
+FAU - Favret, Jacob
+AU  - Favret J
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States.
+FAU - McFadden, Andrew
+AU  - McFadden A
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States.
+FAU - Springer, Kendra
+AU  - Springer K
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States.
+FAU - Falci, Scott
+AU  - Falci S
+AD  - Craig Hospital, 3425 S Clarkson St, Englewood, CO 80113, United States.
+FAU - Rieger, Jayson
+AU  - Rieger J
+AD  - PBM Capital Group, Charlottesville, VA 22902, United States.
+FAU - Maier, Steven F
+AU  - Maier SF
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States.
+FAU - Watkins, Linda R
+AU  - Watkins LR
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20180131
+PL  - Netherlands
+TA  - Brain Behav Immun
+JT  - Brain, behavior, and immunity
+JID - 8800478
+RN  - 0 (Adenosine A2 Receptor Agonists)
+RN  - 0 (Antibodies, Neutralizing)
+RN  - 0 (Phenethylamines)
+RN  - 120225-54-9 (2-(4-(2-carboxyethyl)phenethylamino)-5'-N-ethylcarboxamidoadenosine)
+RN  - 130068-27-8 (Interleukin-10)
+RN  - K72T3FS567 (Adenosine)
+SB  - IM
+MH  - Adenosine/*analogs & derivatives/therapeutic use
+MH  - Adenosine A2 Receptor Agonists/*therapeutic use
+MH  - Animals
+MH  - Antibodies, Neutralizing/pharmacology
+MH  - Hyperalgesia/*drug therapy/etiology/physiopathology
+MH  - Interleukin-10/immunology
+MH  - Male
+MH  - Neuralgia/*drug therapy/etiology/physiopathology
+MH  - Phenethylamines/*therapeutic use
+MH  - Rats
+MH  - Rats, Sprague-Dawley
+MH  - Spinal Cord Injuries/*complications/physiopathology
+OTO - NOTNLM
+OT  - *ATL313
+OT  - *Avulsion
+OT  - *CGS21680
+OT  - *Mechanical allodynia
+OT  - *Rats
+OT  - *Spinal cord injury
+EDAT- 2018/01/26 06:00
+MHDA- 2019/04/24 06:00
+CRDT- 2018/01/26 06:00
+PHST- 2016/06/28 00:00 [received]
+PHST- 2018/01/09 00:00 [revised]
+PHST- 2018/01/11 00:00 [accepted]
+PHST- 2018/01/26 06:00 [pubmed]
+PHST- 2019/04/24 06:00 [medline]
+PHST- 2018/01/26 06:00 [entrez]
+AID - S0889-1591(18)30004-7 [pii]
+AID - 10.1016/j.bbi.2018.01.005 [doi]
+PST - ppublish
+SO  - Brain Behav Immun. 2018 Mar;69:470-479. doi: 10.1016/j.bbi.2018.01.005. Epub 2018
+      Jan 31.
+
+PMID- 28981094
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180608
+LR  - 20181113
+IS  - 2041-4889 (Electronic)
+VI  - 8
+IP  - 10
+DP  - 2017 Oct 5
+TI  - Tat-protein disulfide-isomerase A3: a possible candidate for preventing ischemic 
+      damage in the spinal cord.
+PG  - e3075
+LID - 10.1038/cddis.2017.473 [doi]
+AB  - In the present study, we searched for possible candidates that can prevent
+      ischemic damage in the rabbit spinal cord. For this study, we used
+      two-dimensional gel electrophoresis followed by matrix-assisted laser
+      desorption/ionization time-of-flight mass spectrometry, in sham- and
+      ischemia-operated animals. As the level of protein disulfide-isomerase A3 (PDIA3)
+      significantly decreased 3 h after ischemia/reperfusion, we further investigated
+      its possible role against ischemic damage using an in vitro spinal cord cell line
+      and in vivo spinal cord ischemic model. The administration of Tat-PDIA3
+      significantly reduced the hydrogen peroxide-induced formation of reactive oxygen 
+      species and cell death, based on terminal deoxynucleotidyl transferase-mediated
+      biotinylated dUTP nick end labeling and a colorimetric WST-1 assay. Further,
+      Tat-PDIA3 significantly ameliorated the ischemia-induced deficits in motor
+      function, based on Tarlov's criteria, 24-72 h after ischemia/reperfusion, as well
+      as the degeneration of motor neurons in the ventral horn 72 h after
+      ischemia/reperfusion. Tat-PDIA3 administration also reduced the ischemia-induced 
+      activation of microglia and lipid peroxidation in the motor neurons 72 h after
+      ischemia/reperfusion. PDIA3 also potentially ameliorated the ischemia-induced
+      increase in oxidative markers in serum and decreased the activity of
+      Cu,Zn-superoxide dismutase, Mn-superoxide dismutase, and glutathione peroxidase
+      in spinal cord homogenates, 24 h and 72 h after ischemia/reperfusion. These
+      results suggest that Tat-PDIA3 could be used to protect spinal cord neurons from 
+      ischemic damage, due to its modulatory action on the oxidative/anti-oxidative
+      balance. Tat-PDIA3 could be applicable to protects neurons from the ischemic
+      damage induced by thoracoabdominal aorta obstruction.
+FAU - Yoo, Dae Young
+AU  - Yoo DY
+AD  - Department of Anatomy and Cell Biology, College of Veterinary Medicine, and
+      Research Institute for Veterinary Science, Seoul National University, Seoul,
+      South Korea.
+FAU - Cho, Su Bin
+AU  - Cho SB
+AD  - Department of Biomedical Sciences, and Research Institute for Bioscience and
+      Biotechnology, Hallym University, Chuncheon, South Korea.
+FAU - Jung, Hyo Young
+AU  - Jung HY
+AD  - Department of Anatomy and Cell Biology, College of Veterinary Medicine, and
+      Research Institute for Veterinary Science, Seoul National University, Seoul,
+      South Korea.
+FAU - Kim, Woosuk
+AU  - Kim W
+AD  - Department of Anatomy and Cell Biology, College of Veterinary Medicine, and
+      Research Institute for Veterinary Science, Seoul National University, Seoul,
+      South Korea.
+FAU - Choi, Goang-Min
+AU  - Choi GM
+AD  - Departments of Thoracic and Cardiovascular Surgery, Chuncheon Sacred Heart
+      Hospital, College of Medicine, Hallym University, Chuncheon, South Korea.
+FAU - Won, Moo-Ho
+AU  - Won MH
+AUID- ORCID: 0000-0002-7178-6501
+AD  - Department of Neurobiology, School of Medicine, Kangwon National University,
+      Chuncheon, South Korea.
+FAU - Kim, Dae Won
+AU  - Kim DW
+AD  - Department of Biochemistry and Molecular Biology, Research Institute of Oral
+      Sciences, College of Dentistry, Gangneung-Wonju National University, Gangneung,
+      Korea.
+FAU - Hwang, In Koo
+AU  - Hwang IK
+AUID- ORCID: 0000-0002-0533-4638
+AD  - Department of Anatomy and Cell Biology, College of Veterinary Medicine, and
+      Research Institute for Veterinary Science, Seoul National University, Seoul,
+      South Korea.
+FAU - Choi, Soo Young
+AU  - Choi SY
+AD  - Department of Biomedical Sciences, and Research Institute for Bioscience and
+      Biotechnology, Hallym University, Chuncheon, South Korea.
+FAU - Moon, Seung Myung
+AU  - Moon SM
+AD  - Department of Neurosurgery, Dongtan Sacred Heart Hospital, College of Medicine,
+      Hallym University, Hwaseong, South Korea.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20171005
+PL  - England
+TA  - Cell Death Dis
+JT  - Cell death & disease
+JID - 101524092
+RN  - 0 (Gene Products, tat)
+RN  - 0 (Reactive Oxygen Species)
+RN  - BBX060AN9V (Hydrogen Peroxide)
+RN  - EC 1.11.1.9 (Glutathione Peroxidase)
+RN  - EC 1.15.1.1 (Superoxide Dismutase)
+RN  - EC 5.3.4.1 (Protein Disulfide-Isomerases)
+RN  - EC 5.3.4.1. (PDIA3 protein, human)
+SB  - IM
+MH  - Animals
+MH  - Disease Models, Animal
+MH  - Gene Products, tat/administration & dosage/*genetics
+MH  - Glutathione Peroxidase/genetics
+MH  - Humans
+MH  - Hydrogen Peroxide/chemistry
+MH  - Lipid Peroxidation/drug effects
+MH  - Microglia/drug effects
+MH  - Motor Neurons/chemistry/drug effects
+MH  - Protein Disulfide-Isomerases/administration & dosage/*genetics
+MH  - Rabbits
+MH  - Reactive Oxygen Species
+MH  - Reperfusion Injury/*genetics/pathology/therapy
+MH  - Spinal Cord/drug effects/pathology
+MH  - Spinal Cord Injuries/*drug therapy/genetics/pathology
+MH  - Superoxide Dismutase/genetics
+PMC - PMC5680594
+EDAT- 2017/10/06 06:00
+MHDA- 2018/06/09 06:00
+CRDT- 2017/10/06 06:00
+PHST- 2017/06/30 00:00 [received]
+PHST- 2017/08/17 00:00 [accepted]
+PHST- 2017/10/06 06:00 [entrez]
+PHST- 2017/10/06 06:00 [pubmed]
+PHST- 2018/06/09 06:00 [medline]
+AID - cddis2017473 [pii]
+AID - 10.1038/cddis.2017.473 [doi]
+PST - epublish
+SO  - Cell Death Dis. 2017 Oct 5;8(10):e3075. doi: 10.1038/cddis.2017.473.
+
+PMID- 28407019
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170421
+LR  - 20190208
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 12
+IP  - 4
+DP  - 2017
+TI  - Comparison between titanium mesh and autogenous iliac bone graft to restore
+      vertebral height through posterior approach for the treatment of thoracic and
+      lumbar spinal tuberculosis.
+PG  - e0175567
+LID - 10.1371/journal.pone.0175567 [doi]
+AB  - OBJECT: To compare the clinical efficacy of titanium mesh cages and autogenous
+      iliac bone graft to restore vertebral height through posterior approach in
+      patients with thoracic and lumbar spinal tuberculosis. METHOD: 59 patients with
+      spinal tuberculosis underwent interbody fusion and internal fixation through
+      posterior approach in our department from January 2011 to December 2013. In group
+      A, 34 patients obtained titanium mesh for the reconstruction of vertebral height,
+      among them 25 patients (group A1) suffered from single-segment spinal
+      tuberculosis, and 9 patients, (group A2) had multi-segment spinal tuberculosis.
+      In group B, 25 patients got autogenous iliac bone graft to restore vertebral
+      height, including 24 patients with single-segment spinal tuberculosis (group B1),
+      and 1 patient with multi-segment spinal tuberculosis (group B2). The clinical
+      efficacy was evaluated based on average operation time, blood loss, hospital
+      stays, hospitalization expenses, visual analog scale (VAS), Oswestry Disability
+      Index (ODI), erythrocyte sedimentation rate (ESR), C-Reactive protein (CRP),
+      neurological function recovery, bony fusion, intervertebral height, Cobb angle
+      and postoperative complications. RESULTS: Final follow-up time was an average of 
+      35.5 months ranging from 15 to 56 months. All patients were completely cured and 
+      obtained solid bone fusion. The bony fusion time was 9.4+/-6.1 months in group
+      A1, 10.2+/-2.7 months in group A2 and 8.7+/-3.6 months in group B1. There were no
+      significant difference among three groups (P>0.05). The Cobb correction and
+      restoration of intervertebral height significantly improved compared with those
+      in preoperation, but without significant difference among three groups (P>0.05). 
+      The loss of angular correction and intervertebral height in group A1 were found
+      to be less than those in group B1 (P<0.05), but with no significant difference
+      between group A1 and group A2, and between group A2 and group B1 (P>0.05).
+      Patients in group B1 got the most loss of angular correction and intervertebral
+      height. In addition, neurological function was revealed to be significantly
+      improved after surgery. There were significant differences of VAS, ODI, ESR and
+      CRP between preoperation and postoperation at the final follow-up time (P<0.05), 
+      with no significant difference among three groups (P>0.05). No statistically
+      significant difference was found when analyzing blood loss, hospital stays,
+      hospitalization expenses, and corrective cost among three groups (P>0.05).
+      Complications included cerebrospinal fluid leakage (2 cases in group A1 and group
+      A2), sinus formation (3 cases in group A1, group A2 and group B1), and
+      intervertebral infection (1 case in group B1), but no implant failure or donor
+      site complications was found in any patient. CONCLUSIONS: Titanium mesh cages
+      could obtain good clinical efficacy comparable to autogenous iliac bone graft
+      when treating single-segment spinal tuberculosis, and may be better than
+      autogenous iliac bone graft for treating multi-segment spinal tuberculosis.
+FAU - Gao, Yongjian
+AU  - Gao Y
+AD  - Department of Orthopedics, the First Affiliated Hospital of Chongqing Medical
+      University, Chongqing, P.R. China.
+FAU - Ou, Yunsheng
+AU  - Ou Y
+AUID- ORCID: http://orcid.org/0000-0001-8578-3523
+AD  - Department of Orthopedics, the First Affiliated Hospital of Chongqing Medical
+      University, Chongqing, P.R. China.
+FAU - Deng, Qianxing
+AU  - Deng Q
+AD  - Department of Orthopedics, the Fengdu people's Hospital of Chongqing, Chongqing, 
+      P.R. China.
+FAU - He, Bin
+AU  - He B
+AD  - Department of Orthopedics, the First Affiliated Hospital of Chongqing Medical
+      University, Chongqing, P.R. China.
+FAU - Du, Xing
+AU  - Du X
+AD  - Department of Orthopedics, the First Affiliated Hospital of Chongqing Medical
+      University, Chongqing, P.R. China.
+FAU - Li, Jianxiao
+AU  - Li J
+AD  - Department of Orthopedics, the First Affiliated Hospital of Chongqing Medical
+      University, Chongqing, P.R. China.
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20170413
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - D1JT611TNE (Titanium)
+SB  - IM
+MH  - Adult
+MH  - Bone Transplantation/*methods
+MH  - Female
+MH  - Fracture Fixation, Internal/*methods
+MH  - Humans
+MH  - Lumbar Vertebrae/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Reconstructive Surgical Procedures/instrumentation
+MH  - Spinal Fusion/*methods
+MH  - Surgical Mesh/statistics & numerical data
+MH  - Thoracic Vertebrae/*surgery
+MH  - Titanium
+MH  - Treatment Outcome
+MH  - Tuberculosis, Spinal/*surgery
+PMC - PMC5391077
+EDAT- 2017/04/14 06:00
+MHDA- 2017/04/22 06:00
+CRDT- 2017/04/14 06:00
+PHST- 2016/09/11 00:00 [received]
+PHST- 2017/03/28 00:00 [accepted]
+PHST- 2017/04/14 06:00 [entrez]
+PHST- 2017/04/14 06:00 [pubmed]
+PHST- 2017/04/22 06:00 [medline]
+AID - 10.1371/journal.pone.0175567 [doi]
+AID - PONE-D-16-33697 [pii]
+PST - epublish
+SO  - PLoS One. 2017 Apr 13;12(4):e0175567. doi: 10.1371/journal.pone.0175567.
+      eCollection 2017.
+
+PMID- 28010624
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170126
+LR  - 20170126
+IS  - 0001-5458 (Print)
+IS  - 0001-5458 (Linking)
+VI  - 116
+IP  - 5
+DP  - 2016 Oct
+TI  - AOSpine Master Series, Volume 6: Thoraco-Lumbar Trauma.
+PG  - 336
+LID - 10.1080/00015458.2016.1181369 [doi]
+FAU - Gillet, Philippe
+AU  - Gillet P
+AD  - a Chirurgie de l'appareil locomoteur, Centre Hospitalier Universitaire , 4000
+      Liege , Belgique.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Acta Chir Belg
+JT  - Acta chirurgica Belgica
+JID - 0370571
+SB  - IM
+MH  - *Book Reviews as Topic
+MH  - Humans
+MH  - Lumbar Vertebrae/injuries
+MH  - Spinal Injuries/*diagnosis/therapy
+MH  - Thoracic Vertebrae/injuries
+EDAT- 2016/12/25 06:00
+MHDA- 2017/01/27 06:00
+CRDT- 2016/12/25 06:00
+PHST- 2016/12/25 06:00 [entrez]
+PHST- 2016/12/25 06:00 [pubmed]
+PHST- 2017/01/27 06:00 [medline]
+AID - 10.1080/00015458.2016.1181369 [doi]
+PST - ppublish
+SO  - Acta Chir Belg. 2016 Oct;116(5):336. doi: 10.1080/00015458.2016.1181369.
+
+PMID- 27978846
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180306
+LR  - 20181113
+IS  - 1466-609X (Electronic)
+IS  - 1364-8535 (Linking)
+VI  - 20
+IP  - 1
+DP  - 2016 Dec 15
+TI  - Resuscitative endovascular balloon occlusion of the aorta versus aortic cross
+      clamping among patients with critical trauma: a nationwide cohort study in Japan.
+PG  - 400
+AB  - BACKGROUND: Measures of aortic occlusion (AO) for resuscitation in patients with 
+      severe torso trauma remain controversial. Our aim was to characterize the current
+      use of resuscitative endovascular balloon occlusion of the aorta (REBOA) and
+      resuscitative open aortic cross-clamping (ACC), and to evaluate whether REBOA
+      should be an alternative method to resuscitative open ACC. METHODS: This study
+      was a retrospective cohort study between 2004 and 2013 from a nationwide trauma
+      registry in Japan. Participants were selected who underwent either REBOA or ACC. 
+      Their characteristics, interventions, and outcomes were analyzed to compare REBOA
+      and ACC directly. The primary outcome was in-hospital mortality and the secondary
+      outcome was mortality in the emergency department. Logistic regression analysis
+      was performed to compare the outcomes between REBOA and ACC with adjustment for
+      severity; 1:1 propensity score matching was also performed. RESULTS: Of the
+      159,157 trauma patients, 903 were eligible based on the selection criteria.
+      Overall, 405/607 patients (67%) who had REBOA died compared to 210/233 patients
+      (90%) who had ACC. Patients with REBOA had higher revised trauma score (RTS)
+      (mean +/- SD, 5.2 +/- 2.0 vs. 4.2 +/- 2.2; P < 0.001) but higher Injury Severity 
+      Score (ISS) (median (interquartile); 34 (25) vs. 34 (20); P < 0.001), and higher 
+      probability of survival (0.43 +/- 0.36 vs. 0.27 +/- 0.30; P < 0.001) compared to 
+      those with ACC. REBOA had an odds ratio (OR) for in-hospital mortality of 0.309
+      (95% confidence interval (CI) = 0.190-0.502) adjusting for trauma and injury
+      severity score using a logistic regression model (n = 903). Similar associations 
+      were observed adjusting for RTS (OR = 0.224; 95% CI = 0.129-0.700) or adjusting
+      for ISS (OR, 0.188; 95% CI, 0.116 to 0.303). In the propensity score-matched
+      cohort (n = 304), REBOA was associated with lower mortality compared to ACC (OR, 
+      0.261; 95% CI, 0.130 to 0.523). Patients with REBOA had less severe chest
+      complications than those with ACC (Abbreviated Injury Scale thorax, 3.8 +/- 0.8
+      vs. 4.2 +/- 0.8; P < 0.001), although physiological severity and backgrounds were
+      similar in this population. CONCLUSIONS: Patients who underwent AO had a high
+      mortality. REBOA might be a favorable alternative method to resuscitative ACC for
+      severe torso trauma although some indication bias could still remain. Further
+      studies are needed to elucidate optimal indications.
+FAU - Abe, Toshikazu
+AU  - Abe T
+AD  - Department of Health Services Research, Faculty of Medicine, University of
+      Tsukuba, 1-1-1, Tennodai, Tsukuba, 305-8577, Japan. abetoshi111@gmail.com.
+AD  - Department of Emergency Medicine, Tsukuba Medical Center Hospital, 1-3-1,
+      Amakubo, Tsukuba, 305-8558, Japan. abetoshi111@gmail.com.
+FAU - Uchida, Masatoshi
+AU  - Uchida M
+AD  - Department of Health Services Research, Faculty of Medicine, University of
+      Tsukuba, 1-1-1, Tennodai, Tsukuba, 305-8577, Japan.
+FAU - Nagata, Isao
+AU  - Nagata I
+AD  - Department of Health Services Research, Faculty of Medicine, University of
+      Tsukuba, 1-1-1, Tennodai, Tsukuba, 305-8577, Japan.
+FAU - Saitoh, Daizoh
+AU  - Saitoh D
+AD  - Department of Traumatology and Emergency Medicine, National Defense Medical
+      College, 3-2, Namiki, Tokorozawa, Saitama, 359-8513, Japan.
+FAU - Tamiya, Nanako
+AU  - Tamiya N
+AD  - Department of Health Services Research, Faculty of Medicine, University of
+      Tsukuba, 1-1-1, Tennodai, Tsukuba, 305-8577, Japan.
+LA  - eng
+PT  - Journal Article
+DEP - 20161215
+PL  - England
+TA  - Crit Care
+JT  - Critical care (London, England)
+JID - 9801902
+SB  - IM
+EIN - Crit Care. 2017 Feb 22;21(1):41. PMID: 28222758
+MH  - Adult
+MH  - Aged
+MH  - Aorta/*surgery
+MH  - Balloon Occlusion/*standards
+MH  - Cohort Studies
+MH  - *Constriction
+MH  - Endovascular Procedures/methods
+MH  - Female
+MH  - Humans
+MH  - Injury Severity Score
+MH  - Japan
+MH  - Logistic Models
+MH  - Male
+MH  - Middle Aged
+MH  - Propensity Score
+MH  - Registries/statistics & numerical data
+MH  - Resuscitation/*methods
+MH  - Retrospective Studies
+MH  - Survival Analysis
+MH  - Thoracic Injuries/surgery/therapy
+MH  - Wounds and Injuries/surgery/therapy
+PMC - PMC5159991
+EDAT- 2016/12/17 06:00
+MHDA- 2018/03/07 06:00
+CRDT- 2016/12/17 06:00
+PHST- 2016/07/14 00:00 [received]
+PHST- 2016/11/25 00:00 [accepted]
+PHST- 2016/12/17 06:00 [entrez]
+PHST- 2016/12/17 06:00 [pubmed]
+PHST- 2018/03/07 06:00 [medline]
+AID - 10.1186/s13054-016-1577-x [doi]
+AID - 10.1186/s13054-016-1577-x [pii]
+PST - epublish
+SO  - Crit Care. 2016 Dec 15;20(1):400. doi: 10.1186/s13054-016-1577-x.
+
+PMID- 27397493
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171106
+LR  - 20181202
+IS  - 1878-7568 (Electronic)
+IS  - 1742-7061 (Linking)
+VI  - 42
+DP  - 2016 Sep 15
+TI  - Electrosprayed Montelukast/poly (lactic-co-glycolic acid) particle based coating:
+      A new therapeutic approach towards the prevention of in-stent restenosis.
+PG  - 316-328
+LID - S1742-7061(16)30323-3 [pii]
+LID - 10.1016/j.actbio.2016.07.007 [doi]
+AB  - UNLABELLED: Drug-eluting stents (DESs), have shown promising results in
+      prevention of in-stent restenosis after percutaneous coronary intervention (PCI).
+      The elevated level of leukotrienes (LTs) detected in injured arteries after PCI, 
+      together with the potential role of LTs in inflammatory cascades and structural
+      alterations in arterial wall provides the rationale for development of
+      therapeutic strategies for prevention of in-stent restenosis using LTs receptor
+      antagonists. Montelukast (MK) is a selective cysLT1 receptor antagonist, with
+      anti-inflammatory and anti-proliferative properties, which has been used for
+      treatment of various diseases. Here, we report on the fabrication of MK/PLGA
+      particles by electrospraying, aiming towards the development of particle based
+      coating of DESs. The electrosprayed particles incorporated with 3% and 6% w/w MK 
+      exhibited fairly spherical shape with smooth surfaces and narrow size
+      distribution. Sustained release of MK for up to 40days was obtained for both
+      formulations, with higher initial burst release and drug release rate for the
+      particles with higher drug loading. The LTD4 induced proliferation and migration 
+      of human coronary artery smooth muscle cells (HCASMCs) by 35% and 85%,
+      respectively, which was substantially antagonized using MK incorporated
+      particles. Nevertheless, MK antagonism preserved the normal proliferation and
+      migration of human coronary artery endothelial cells (HCAECs). Moreover, MK
+      antagonism inhibited the LTD4 induced phenotypic transition of HCASMCs from
+      contractile to synthetic type. The electrosprayed MK-PLGA particles can be
+      employed as a coating for DESs to inhibit the formation of neointimal hyperplasia
+      responsible for in-stent restenosis, yet preserve the healing rate of the stented
+      vessel. STATEMENT OF SIGNIFICANT: Montelukast (MK) is a selective cysLT1 receptor
+      antagonist, with anti-inflammatory and anti-proliferative properties. The LTD4
+      induced proliferation and migration of human coronary artery smooth muscle cells 
+      by 35% and 85%, respectively, which was substantially antagonized using MK
+      incorporated particles. MK antagonism preserved the normal proliferation and
+      migration of human coronary artery endothelial cells. The MK antagonism inhibited
+      the phenotypic transition of human coronary artery smooth muscle cells from
+      contractile to synthetic one induced by LTD4. The electrosprayed MK-PLGA
+      particles can be employed as coating for DESs to inhibit formation of neointimal 
+      hyperplasia, responsible for in-stent restenosis.
+CI  - Copyright (c) 2016 Acta Materialia Inc. Published by Elsevier Ltd. All rights
+      reserved.
+FAU - Zamani, Maedeh
+AU  - Zamani M
+AD  - Department of Mechanical Engineering, National University of Singapore, 2
+      Engineering Drive 3, Singapore 117576, Singapore. Electronic address:
+      maedeh.zamani@u.nus.edu.
+FAU - Prabhakaran, Molamma P
+AU  - Prabhakaran MP
+AD  - Department of Mechanical Engineering, National University of Singapore, 2
+      Engineering Drive 3, Singapore 117576, Singapore. Electronic address:
+      nanotechmpp@gmail.com.
+FAU - Varshosaz, Jaleh
+AU  - Varshosaz J
+AD  - Department of Pharmaceutics, Novel Drug Delivery Systems Research Centre and
+      School of Pharmacy, Isfahan University of Medical Sciences, Isfahan 81746-73461, 
+      Iran. Electronic address: varshosaz@pharm.mui.ac.ir.
+FAU - Mhaisalkar, Priyadarshini S
+AU  - Mhaisalkar PS
+AD  - School of Materials and Science Engineering, Nanyang Technological University, 50
+      Nanyang Avenue, Singapore 639798, Singapore. Electronic address:
+      smpriya@ntu.edu.sg.
+FAU - Ramakrishna, Seeram
+AU  - Ramakrishna S
+AD  - Department of Mechanical Engineering, National University of Singapore, 2
+      Engineering Drive 3, Singapore 117576, Singapore. Electronic address:
+      seeram@nus.edu.sg.
+LA  - eng
+PT  - Journal Article
+DEP - 20160707
+PL  - England
+TA  - Acta Biomater
+JT  - Acta biomaterialia
+JID - 101233144
+RN  - 0 (Acetates)
+RN  - 0 (Coated Materials, Biocompatible)
+RN  - 0 (Quinolines)
+RN  - 0 (Receptors, Leukotriene)
+RN  - 1SIA8062RS (Polylactic Acid-Polyglycolic Acid Copolymer)
+RN  - 26009-03-0 (Polyglycolic Acid)
+RN  - 33X04XA5AT (Lactic Acid)
+RN  - LRF7RW46ID (leukotriene D4 receptor)
+RN  - MHM278SD3E (montelukast)
+SB  - IM
+MH  - Acetates/pharmacology/*therapeutic use
+MH  - Calorimetry, Differential Scanning
+MH  - Cell Count
+MH  - Cell Movement/drug effects
+MH  - Cell Proliferation/drug effects
+MH  - Coated Materials, Biocompatible/*chemistry
+MH  - Coronary Restenosis/*drug therapy/pathology/*prevention & control
+MH  - Coronary Vessels/pathology
+MH  - Drug Liberation
+MH  - Endothelial Cells/drug effects/metabolism
+MH  - Flow Cytometry
+MH  - Humans
+MH  - Lactic Acid/*chemistry
+MH  - Myocytes, Smooth Muscle/drug effects/metabolism
+MH  - Phenotype
+MH  - Polyglycolic Acid/*chemistry
+MH  - Polylactic Acid-Polyglycolic Acid Copolymer
+MH  - Quinolines/pharmacology/*therapeutic use
+MH  - Receptors, Leukotriene/metabolism
+MH  - *Stents
+OTO - NOTNLM
+OT  - *Drug-eluting stents
+OT  - *Electrospraying
+OT  - *In-stent restenosis
+OT  - *Montelukast
+OT  - *Poly (lactic-co-glycolic acid)
+EDAT- 2016/07/12 06:00
+MHDA- 2017/11/07 06:00
+CRDT- 2016/07/12 06:00
+PHST- 2015/12/24 00:00 [received]
+PHST- 2016/06/06 00:00 [revised]
+PHST- 2016/07/06 00:00 [accepted]
+PHST- 2016/07/12 06:00 [entrez]
+PHST- 2016/07/12 06:00 [pubmed]
+PHST- 2017/11/07 06:00 [medline]
+AID - S1742-7061(16)30323-3 [pii]
+AID - 10.1016/j.actbio.2016.07.007 [doi]
+PST - ppublish
+SO  - Acta Biomater. 2016 Sep 15;42:316-328. doi: 10.1016/j.actbio.2016.07.007. Epub
+      2016 Jul 7.
+
+PMID- 27372945
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180111
+LR  - 20181202
+IS  - 1432-0932 (Electronic)
+IS  - 0940-6719 (Linking)
+VI  - 26
+IP  - 5
+DP  - 2017 May
+TI  - Universal disease-specific outcome instruments for spine trauma: a global
+      perspective on relevant parameters to evaluate clinical and functional outcomes
+      of thoracic and lumbar spine trauma patients.
+PG  - 1541-1549
+LID - 10.1007/s00586-016-4596-z [doi]
+AB  - PURPOSE: Besides a patient reported outcome measure, the AOSpine Knowledge Forum 
+      Trauma aims to develop a new concept of a surgeon reported outcome measure (SROM)
+      for spine trauma patients. This study aims to identify parameters that spine
+      surgeons consider relevant to evaluate clinical and functional outcomes of
+      thoracic and lumbar spine trauma patients. METHODS: An international
+      cross-sectional web-based survey was conducted among spine surgeons from the five
+      AOSpine International world regions. They were asked to evaluate the relevance of
+      a compilation of 16 clinical and radiological parameters for thoracic and lumbar 
+      spine trauma patients, both for the short term (3 months-2 years) and long term
+      (>/=2 years), on a five-point scale. The responses were analyzed using
+      descriptive statistics, frequency analysis, and Kruskal-Wallis test. RESULTS: Out
+      of the 279 invited members of AOSpine International and the International Spinal 
+      Cord Society, 118 (42.3 %) participated in this study. Of the 16 surveyed
+      parameters, 5 were identified as relevant by at least 70 % of the participants.
+      Neurological status was identified as most relevant. In contrast, five parameters
+      were not deemed relevant for any spine region or time period, except for
+      comorbidity. Only minor differences were observed when analyzing the responses
+      according to each world region, spine surgeons' clinical experience, or
+      professional background. CONCLUSIONS: Including a large and representative sample
+      of spine trauma experts, this study identified parameters to evaluate clinical
+      and functional outcomes of thoracic and lumbar spine trauma patients. The results
+      form the basis for the development of a SROM for this specific patient
+      population.
+FAU - Sadiqi, Said
+AU  - Sadiqi S
+AD  - Department of Orthopaedics, University Medical Center Utrecht, HP G05.228, P.O.
+      Box 85500, 3508 GA, Utrecht, The Netherlands. s.sadiqi-3@umcutrecht.nl.
+FAU - Verlaan, Jorrit-Jan
+AU  - Verlaan JJ
+AD  - Department of Orthopaedics, University Medical Center Utrecht, HP G05.228, P.O.
+      Box 85500, 3508 GA, Utrecht, The Netherlands.
+FAU - Mechteld Lehr, A
+AU  - Mechteld Lehr A
+AD  - Department of Orthopaedics, University Medical Center Utrecht, HP G05.228, P.O.
+      Box 85500, 3508 GA, Utrecht, The Netherlands.
+FAU - Dvorak, Marcel F
+AU  - Dvorak MF
+AD  - Department of Orthopaedics, University of British Columbia, Vancouver, BC,
+      Canada.
+FAU - Kandziora, Frank
+AU  - Kandziora F
+AD  - Center for Spinal Surgery, BGU-Hospital, Frankfurt, Germany.
+FAU - Rajasekaran, S
+AU  - Rajasekaran S
+AD  - Department of Orthopaedic and Spine Surgery, Ganga Hospital, Coimbatore, India.
+FAU - Schnake, Klaus J
+AU  - Schnake KJ
+AD  - Center for Spinal Surgery, Schon Klinik Nurnberg Furth, Furth, Germany.
+FAU - Vaccaro, Alexander R
+AU  - Vaccaro AR
+AD  - Department of Orthopaedics, Thomas Jefferson University, Philadelphia, PA, USA.
+FAU - Oner, F Cumhur
+AU  - Oner FC
+AD  - Department of Orthopaedics, University Medical Center Utrecht, HP G05.228, P.O.
+      Box 85500, 3508 GA, Utrecht, The Netherlands.
+LA  - eng
+PT  - Journal Article
+DEP - 20160702
+PL  - Germany
+TA  - Eur Spine J
+JT  - European spine journal : official publication of the European Spine Society, the 
+      European Spinal Deformity Society, and the European Section of the Cervical Spine
+      Research Society
+JID - 9301980
+SB  - IM
+MH  - Cross-Sectional Studies
+MH  - Humans
+MH  - *Lumbar Vertebrae/injuries/surgery
+MH  - *Outcome Assessment (Health Care)/methods/standards
+MH  - Severity of Illness Index
+MH  - *Spinal Injuries/diagnosis/surgery
+MH  - Surgeons
+MH  - *Thoracic Vertebrae/injuries/surgery
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - *Clinical and radiological parameters
+OT  - *Clinician perspective
+OT  - *Expert survey
+OT  - *Outcome instrument
+OT  - *Spine trauma
+EDAT- 2016/07/04 06:00
+MHDA- 2018/01/13 06:00
+CRDT- 2016/07/04 06:00
+PHST- 2015/11/19 00:00 [received]
+PHST- 2016/04/29 00:00 [accepted]
+PHST- 2016/04/28 00:00 [revised]
+PHST- 2016/07/04 06:00 [pubmed]
+PHST- 2018/01/13 06:00 [medline]
+PHST- 2016/07/04 06:00 [entrez]
+AID - 10.1007/s00586-016-4596-z [doi]
+AID - 10.1007/s00586-016-4596-z [pii]
+PST - ppublish
+SO  - Eur Spine J. 2017 May;26(5):1541-1549. doi: 10.1007/s00586-016-4596-z. Epub 2016 
+      Jul 2.
+
+PMID- 27050883
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170626
+LR  - 20180124
+IS  - 2163-0763 (Electronic)
+IS  - 2163-0755 (Linking)
+VI  - 81
+IP  - 3
+DP  - 2016 Sep
+TI  - The AAST prospective Aortic Occlusion for Resuscitation in Trauma and Acute Care 
+      Surgery (AORTA) registry: Data on contemporary utilization and outcomes of aortic
+      occlusion and resuscitative balloon occlusion of the aorta (REBOA).
+PG  - 409-19
+LID - 10.1097/TA.0000000000001079 [doi]
+AB  - INTRODUCTION: Aortic occlusion (AO) for resuscitation in traumatic shock remains 
+      controversial. Resuscitative endovascular balloon occlusion of the aorta (REBOA) 
+      offers an emerging alternative. METHODS: The American Association for the Surgery
+      of Trauma Aortic Occlusion for Resuscitation in Trauma and Acute Care Surgery
+      registry prospectively identified trauma patients requiring AO from eight ACS
+      Level 1 centers. Presentation, intervention, and outcome variables were collected
+      and analyzed to compare REBOA and open AO. RESULTS: From November 2013 to
+      February 2015, 114 AO patients were captured (REBOA, 46; open AO, 68); 80.7% were
+      male, and 62.3% were blunt injured. Aortic occlusion occurred in the emergency
+      department (73.7%) or the operating room (26.3%). Hemodynamic improvement after
+      AO was observed in 62.3% [REBOA, 67.4%; open OA, 61.8%); 36.0% achieving
+      stability (systolic blood pressure consistently >90 mm Hg, >5 minutes); REBOA, 22
+      of 46 (47.8%); open OA, 19 of 68 (27.9%); p =0.014]. Resuscitative endovascular
+      balloon occlusion of the aorta (REBOA) access was femoral cut-down (50%); US
+      guided (10.9%) and percutaneous without imaging (28.3%). Deployment was achieved 
+      in Zones I (78.6%), II (2.4%), and III (19.0%). A second AO attempt was required 
+      in 9.6% [REBOA, 2 of 46 (4.3%); open OA, 9 of 68 (13.2%)]. Complications of REBOA
+      were uncommon (pseudoaneurysm, 2.1%; embolism, 4.3%; limb ischemia, 0%). There
+      was no difference in time to successful AO between REBOA and open procedures
+      (REBOA, 6.6 +/- 5.6 minutes; open OA, 7.2 +/- 15.1; p = 0.842). Overall survival 
+      was 21.1% (24 of 114), with no significant difference between REBOA and open AO
+      with regard to mortality [REBOA, 28.2% (13 of 46); open OA, 16.1% (11 of 68); p =
+      0.120]. CONCLUSION: Resuscitative endovascular balloon occlusion of the aorta has
+      emerged as a viable alternative to open AO in centers that have developed this
+      capability. Further maturation of the American Association for the Surgery of
+      Trauma Aortic Occlusion for Resuscitation in Trauma and Acute Care Surgery
+      database is required to better elucidate optimal indications and outcomes. LEVEL 
+      OF EVIDENCE: Therapeutic/care management study, level IV.
+FAU - DuBose, Joseph J
+AU  - DuBose JJ
+AD  - From the David Grant Medical Center (J.J.D.), University of California-Davis,
+      Davis, California; Department of Surgery (T.M.S., M.B.), R Adams Cowley Shock
+      Trauma Center, University of Maryland Medical Center, Baltimore, Maryland; Los
+      Angeles County + University of Southern California Hospital (D.S., K.I.), Los
+      Angeles, California; San Antonio Military Medical Center (J.C.), United States
+      Army Institute of Surgical Research, San Antonio, Texas; University of Texas
+      Health Sciences Center-Houston (L.M., J.H.), Houston, Texas; Loma Linda
+      University Medical Center (D.T., C.N.A.), Loma Linda, California; University of
+      Calgary (A.K., J.X.), Calgary, Alberta, Canada; University of
+      Florida-Jacksonville (D.S.), Jacksonville, Florida; and East Carolina Medical
+      Center (N.P.), New Bern, North Carolina.
+FAU - Scalea, Thomas M
+AU  - Scalea TM
+FAU - Brenner, Megan
+AU  - Brenner M
+FAU - Skiada, Dimitra
+AU  - Skiada D
+FAU - Inaba, Kenji
+AU  - Inaba K
+FAU - Cannon, Jeremy
+AU  - Cannon J
+FAU - Moore, Laura
+AU  - Moore L
+FAU - Holcomb, John
+AU  - Holcomb J
+FAU - Turay, David
+AU  - Turay D
+FAU - Arbabi, Cassra N
+AU  - Arbabi CN
+FAU - Kirkpatrick, Andrew
+AU  - Kirkpatrick A
+FAU - Xiao, James
+AU  - Xiao J
+FAU - Skarupa, David
+AU  - Skarupa D
+FAU - Poulin, Nathaniel
+AU  - Poulin N
+CN  - AAST AORTA Study Group
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Observational Study
+PL  - United States
+TA  - J Trauma Acute Care Surg
+JT  - The journal of trauma and acute care surgery
+JID - 101570622
+SB  - AIM
+SB  - IM
+CIN - J Trauma Acute Care Surg. 2016 Sep;81(3):617. PMID: 27270852
+CIN - J Trauma Acute Care Surg. 2016 Sep;81(3):617-8. PMID: 27270851
+MH  - Adult
+MH  - *Aorta, Abdominal
+MH  - *Aorta, Thoracic
+MH  - *Balloon Occlusion
+MH  - *Endovascular Procedures
+MH  - Female
+MH  - Hemodynamics
+MH  - Hemorrhage/*etiology/*prevention & control
+MH  - Humans
+MH  - Male
+MH  - Prospective Studies
+MH  - Registries
+MH  - Resuscitation/*methods
+MH  - United States
+MH  - Wounds and Injuries/*complications
+EDAT- 2016/04/07 06:00
+MHDA- 2017/06/27 06:00
+CRDT- 2016/04/07 06:00
+PHST- 2016/04/07 06:00 [entrez]
+PHST- 2016/04/07 06:00 [pubmed]
+PHST- 2017/06/27 06:00 [medline]
+AID - 10.1097/TA.0000000000001079 [doi]
+PST - ppublish
+SO  - J Trauma Acute Care Surg. 2016 Sep;81(3):409-19. doi:
+      10.1097/TA.0000000000001079.
+
+PMID- 26341869
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160125
+LR  - 20181113
+IS  - 1526-632X (Electronic)
+IS  - 0028-3878 (Linking)
+VI  - 85
+IP  - 14
+DP  - 2015 Oct 6
+TI  - Claustrum damage and refractory status epilepticus following febrile illness.
+PG  - 1224-32
+LID - 10.1212/WNL.0000000000001996 [doi]
+AB  - OBJECTIVE: To characterize the clinical, EEG, and brain imaging findings in an
+      adult case series of patients with de novo refractory status epilepticus (SE)
+      occurring after a febrile illness. METHODS: A retrospective study (2010-2013) was
+      undertaken with the following inclusion criteria: (1) previously healthy adults
+      with refractory SE; (2) seizure onset 0-21 days after a febrile illness; (3)
+      lacking evidence of infectious agents in CSF; (4) no history of seizures (febrile
+      or afebrile) or previous or concomitant neurologic disorder. RESULTS: Among 155
+      refractory SE cases observed in the study period, 6 patients (17-35 years old)
+      fulfilled the inclusion criteria. Confusion and stupor were the most common
+      symptoms at disease onset, followed after a few days by acute repeated seizures
+      that were uncountable in all but one. Seizures consisted of focal motor/myoclonic
+      phenomena with subsequent generalization. Antiepileptic drugs failed in every
+      patient to control seizures, with all participants requiring intensive care unit 
+      admission. Barbiturate coma with burst-suppression pattern was applied in 4 out
+      of 6 patients for 5-14 days. One participant died in the acute phase. In each
+      patient, we observed a reversible bilateral claustrum MRI hyperintensity on
+      T2-weighted sequences, without restricted diffusion, time-related with SE. All
+      patients had negative multiple neural antibodies testing. Four out of 5 surviving
+      patients developed chronic epilepsy. CONCLUSIONS: This is a hypothesis-generating
+      study of a preliminary nature supporting the role of the claustrum in postfebrile
+      de novo SE; future prospective studies are needed to delineate the specificity of
+      this condition, its pathogenesis, and the etiology.
+CI  - (c) 2015 American Academy of Neurology.
+FAU - Meletti, Stefano
+AU  - Meletti S
+AD  - From the Department of Biomedical, Metabolic, and Neural Science (S.M., G.M.,
+      G.G.), University of Modena and Reggio Emilia, Modena; NOCSAE Hospital (S.M.,
+      G.M., G.G., A.C.), ASL Modena, Italy; Clinic of Neurology (J.S., P.H., V.M.,
+      D.B., M.B.) and Radiodiagnostic Institute (P.K.), University Hospital Ostrava;
+      the Neurological Department of Na Homolce Hospital (I.M.), Prague, Czech
+      Republic; and the Division of Neurology (N.S., N.P.), Bambino Gesu Children's
+      Hospital, IRCCS, Rome Italy. stefano.meletti@unimore.it.
+FAU - Slonkova, Jana
+AU  - Slonkova J
+AD  - From the Department of Biomedical, Metabolic, and Neural Science (S.M., G.M.,
+      G.G.), University of Modena and Reggio Emilia, Modena; NOCSAE Hospital (S.M.,
+      G.M., G.G., A.C.), ASL Modena, Italy; Clinic of Neurology (J.S., P.H., V.M.,
+      D.B., M.B.) and Radiodiagnostic Institute (P.K.), University Hospital Ostrava;
+      the Neurological Department of Na Homolce Hospital (I.M.), Prague, Czech
+      Republic; and the Division of Neurology (N.S., N.P.), Bambino Gesu Children's
+      Hospital, IRCCS, Rome Italy.
+FAU - Mareckova, Iva
+AU  - Mareckova I
+AD  - From the Department of Biomedical, Metabolic, and Neural Science (S.M., G.M.,
+      G.G.), University of Modena and Reggio Emilia, Modena; NOCSAE Hospital (S.M.,
+      G.M., G.G., A.C.), ASL Modena, Italy; Clinic of Neurology (J.S., P.H., V.M.,
+      D.B., M.B.) and Radiodiagnostic Institute (P.K.), University Hospital Ostrava;
+      the Neurological Department of Na Homolce Hospital (I.M.), Prague, Czech
+      Republic; and the Division of Neurology (N.S., N.P.), Bambino Gesu Children's
+      Hospital, IRCCS, Rome Italy.
+FAU - Monti, Giulia
+AU  - Monti G
+AD  - From the Department of Biomedical, Metabolic, and Neural Science (S.M., G.M.,
+      G.G.), University of Modena and Reggio Emilia, Modena; NOCSAE Hospital (S.M.,
+      G.M., G.G., A.C.), ASL Modena, Italy; Clinic of Neurology (J.S., P.H., V.M.,
+      D.B., M.B.) and Radiodiagnostic Institute (P.K.), University Hospital Ostrava;
+      the Neurological Department of Na Homolce Hospital (I.M.), Prague, Czech
+      Republic; and the Division of Neurology (N.S., N.P.), Bambino Gesu Children's
+      Hospital, IRCCS, Rome Italy.
+FAU - Specchio, Nicola
+AU  - Specchio N
+AD  - From the Department of Biomedical, Metabolic, and Neural Science (S.M., G.M.,
+      G.G.), University of Modena and Reggio Emilia, Modena; NOCSAE Hospital (S.M.,
+      G.M., G.G., A.C.), ASL Modena, Italy; Clinic of Neurology (J.S., P.H., V.M.,
+      D.B., M.B.) and Radiodiagnostic Institute (P.K.), University Hospital Ostrava;
+      the Neurological Department of Na Homolce Hospital (I.M.), Prague, Czech
+      Republic; and the Division of Neurology (N.S., N.P.), Bambino Gesu Children's
+      Hospital, IRCCS, Rome Italy.
+FAU - Hon, Petr
+AU  - Hon P
+AD  - From the Department of Biomedical, Metabolic, and Neural Science (S.M., G.M.,
+      G.G.), University of Modena and Reggio Emilia, Modena; NOCSAE Hospital (S.M.,
+      G.M., G.G., A.C.), ASL Modena, Italy; Clinic of Neurology (J.S., P.H., V.M.,
+      D.B., M.B.) and Radiodiagnostic Institute (P.K.), University Hospital Ostrava;
+      the Neurological Department of Na Homolce Hospital (I.M.), Prague, Czech
+      Republic; and the Division of Neurology (N.S., N.P.), Bambino Gesu Children's
+      Hospital, IRCCS, Rome Italy.
+FAU - Giovannini, Giada
+AU  - Giovannini G
+AD  - From the Department of Biomedical, Metabolic, and Neural Science (S.M., G.M.,
+      G.G.), University of Modena and Reggio Emilia, Modena; NOCSAE Hospital (S.M.,
+      G.M., G.G., A.C.), ASL Modena, Italy; Clinic of Neurology (J.S., P.H., V.M.,
+      D.B., M.B.) and Radiodiagnostic Institute (P.K.), University Hospital Ostrava;
+      the Neurological Department of Na Homolce Hospital (I.M.), Prague, Czech
+      Republic; and the Division of Neurology (N.S., N.P.), Bambino Gesu Children's
+      Hospital, IRCCS, Rome Italy.
+FAU - Marcian, Vaclav
+AU  - Marcian V
+AD  - From the Department of Biomedical, Metabolic, and Neural Science (S.M., G.M.,
+      G.G.), University of Modena and Reggio Emilia, Modena; NOCSAE Hospital (S.M.,
+      G.M., G.G., A.C.), ASL Modena, Italy; Clinic of Neurology (J.S., P.H., V.M.,
+      D.B., M.B.) and Radiodiagnostic Institute (P.K.), University Hospital Ostrava;
+      the Neurological Department of Na Homolce Hospital (I.M.), Prague, Czech
+      Republic; and the Division of Neurology (N.S., N.P.), Bambino Gesu Children's
+      Hospital, IRCCS, Rome Italy.
+FAU - Chiari, Annalisa
+AU  - Chiari A
+AD  - From the Department of Biomedical, Metabolic, and Neural Science (S.M., G.M.,
+      G.G.), University of Modena and Reggio Emilia, Modena; NOCSAE Hospital (S.M.,
+      G.M., G.G., A.C.), ASL Modena, Italy; Clinic of Neurology (J.S., P.H., V.M.,
+      D.B., M.B.) and Radiodiagnostic Institute (P.K.), University Hospital Ostrava;
+      the Neurological Department of Na Homolce Hospital (I.M.), Prague, Czech
+      Republic; and the Division of Neurology (N.S., N.P.), Bambino Gesu Children's
+      Hospital, IRCCS, Rome Italy.
+FAU - Krupa, Petr
+AU  - Krupa P
+AD  - From the Department of Biomedical, Metabolic, and Neural Science (S.M., G.M.,
+      G.G.), University of Modena and Reggio Emilia, Modena; NOCSAE Hospital (S.M.,
+      G.M., G.G., A.C.), ASL Modena, Italy; Clinic of Neurology (J.S., P.H., V.M.,
+      D.B., M.B.) and Radiodiagnostic Institute (P.K.), University Hospital Ostrava;
+      the Neurological Department of Na Homolce Hospital (I.M.), Prague, Czech
+      Republic; and the Division of Neurology (N.S., N.P.), Bambino Gesu Children's
+      Hospital, IRCCS, Rome Italy.
+FAU - Pietrafusa, Nicola
+AU  - Pietrafusa N
+AD  - From the Department of Biomedical, Metabolic, and Neural Science (S.M., G.M.,
+      G.G.), University of Modena and Reggio Emilia, Modena; NOCSAE Hospital (S.M.,
+      G.M., G.G., A.C.), ASL Modena, Italy; Clinic of Neurology (J.S., P.H., V.M.,
+      D.B., M.B.) and Radiodiagnostic Institute (P.K.), University Hospital Ostrava;
+      the Neurological Department of Na Homolce Hospital (I.M.), Prague, Czech
+      Republic; and the Division of Neurology (N.S., N.P.), Bambino Gesu Children's
+      Hospital, IRCCS, Rome Italy.
+FAU - Berankova, Dagmar
+AU  - Berankova D
+AD  - From the Department of Biomedical, Metabolic, and Neural Science (S.M., G.M.,
+      G.G.), University of Modena and Reggio Emilia, Modena; NOCSAE Hospital (S.M.,
+      G.M., G.G., A.C.), ASL Modena, Italy; Clinic of Neurology (J.S., P.H., V.M.,
+      D.B., M.B.) and Radiodiagnostic Institute (P.K.), University Hospital Ostrava;
+      the Neurological Department of Na Homolce Hospital (I.M.), Prague, Czech
+      Republic; and the Division of Neurology (N.S., N.P.), Bambino Gesu Children's
+      Hospital, IRCCS, Rome Italy.
+FAU - Bar, Michal
+AU  - Bar M
+AD  - From the Department of Biomedical, Metabolic, and Neural Science (S.M., G.M.,
+      G.G.), University of Modena and Reggio Emilia, Modena; NOCSAE Hospital (S.M.,
+      G.M., G.G., A.C.), ASL Modena, Italy; Clinic of Neurology (J.S., P.H., V.M.,
+      D.B., M.B.) and Radiodiagnostic Institute (P.K.), University Hospital Ostrava;
+      the Neurological Department of Na Homolce Hospital (I.M.), Prague, Czech
+      Republic; and the Division of Neurology (N.S., N.P.), Bambino Gesu Children's
+      Hospital, IRCCS, Rome Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20150904
+PL  - United States
+TA  - Neurology
+JT  - Neurology
+JID - 0401060
+RN  - 0 (Anticonvulsants)
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - Anticonvulsants/therapeutic use
+MH  - Basal Ganglia/*pathology
+MH  - Brain Injuries
+MH  - Electroencephalography/methods
+MH  - Female
+MH  - Humans
+MH  - Magnetic Resonance Imaging/methods
+MH  - Male
+MH  - Retrospective Studies
+MH  - Seizures/drug therapy/*pathology
+MH  - Status Epilepticus/drug therapy/*pathology
+MH  - Young Adult
+PMC - PMC4607596
+EDAT- 2015/09/06 06:00
+MHDA- 2016/01/26 06:00
+CRDT- 2015/09/06 06:00
+PHST- 2015/02/05 00:00 [received]
+PHST- 2015/06/08 00:00 [accepted]
+PHST- 2015/09/06 06:00 [entrez]
+PHST- 2015/09/06 06:00 [pubmed]
+PHST- 2016/01/26 06:00 [medline]
+AID - WNL.0000000000001996 [pii]
+AID - 10.1212/WNL.0000000000001996 [doi]
+PST - ppublish
+SO  - Neurology. 2015 Oct 6;85(14):1224-32. doi: 10.1212/WNL.0000000000001996. Epub
+      2015 Sep 4.
+
+PMID- 24516049
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141118
+LR  - 20140211
+IS  - 1998-4138 (Electronic)
+IS  - 1998-4138 (Linking)
+VI  - 9 Suppl
+DP  - 2013 Nov
+TI  - The potential therapeutic targets to bone pain induced by cancer metastasis.
+PG  - S135-41
+LID - 10.4103/0973-1482.122508 [doi]
+AB  - About 75-90% of patients with advanced metastatic cancer experience significant
+      cancer pain. Bone cancer pain is one of the most common pains experienced by
+      patients with advanced breast, prostate, or lung cancer. It is characterized by
+      significant skeletal remodeling, fractures, pain, and anemia, all of which reduce
+      the functional status, quality of life, and survival of the patient. Recent years
+      have seen great progress toward alleviating bone pain with the identification of 
+      a range of chemicals as well as receptors modulating cancer pain progression.
+      However, the complicated interactions among these factors and, sometimes, the
+      contradicting effects of the same factor in different pathways make it difficult 
+      to spot individual effective targets. The sheer quantity of the chemicals
+      involved and the limited understanding from animal models are the constraints in 
+      the development of effective therapies for cancer bone pain. In this review, key 
+      targets will be discussed along the pain transduction pathway, including
+      peripheral pain sensation, spinal cord transduction pathway, and the central
+      nervous system, to offer a logical and systematic study for the development of
+      combined anti-bone pain treatments.
+FAU - Wu, Jianguo
+AU  - Wu J
+FAU - Wei, Yibing
+AU  - Wei Y
+FAU - Shi, Jingsheng
+AU  - Shi J
+FAU - Chen, Feiyan
+AU  - Chen F
+FAU - Huang, Guangyong
+AU  - Huang G
+FAU - Chen, Jie
+AU  - Chen J
+FAU - Xia, Jun
+AU  - Xia J
+AD  - Department of Orthopedics, Huashan Hospital, Fudan University Shanghai Medical
+      College, Shanghai, China.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - India
+TA  - J Cancer Res Ther
+JT  - Journal of cancer research and therapeutics
+JID - 101249598
+RN  - 0 (Analgesics)
+RN  - 0 (Diphosphonates)
+RN  - 0 (Phospholipase A2 Inhibitors)
+RN  - 0 (RANK Ligand)
+RN  - 0 (Receptors, Dopamine D1)
+RN  - 0 (TNFSF11 protein, human)
+SB  - IM
+MH  - Analgesics/*therapeutic use
+MH  - Bone Neoplasms/*secondary
+MH  - Bone Remodeling
+MH  - Breast Neoplasms/pathology
+MH  - Central Nervous System/drug effects/surgery
+MH  - Diphosphonates/therapeutic use
+MH  - Female
+MH  - Humans
+MH  - Lung Neoplasms/pathology
+MH  - Male
+MH  - Nociception/*drug effects
+MH  - Nociceptors/drug effects/physiology
+MH  - Pain/*drug therapy
+MH  - Phospholipase A2 Inhibitors/therapeutic use
+MH  - Prostatic Neoplasms/pathology
+MH  - RANK Ligand/antagonists & inhibitors
+MH  - Receptors, Dopamine D1/antagonists & inhibitors
+EDAT- 2014/02/12 06:00
+MHDA- 2014/11/19 06:00
+CRDT- 2014/02/12 06:00
+PHST- 2014/02/12 06:00 [entrez]
+PHST- 2014/02/12 06:00 [pubmed]
+PHST- 2014/11/19 06:00 [medline]
+AID - JCanResTher_2013_9_7_133_122508 [pii]
+AID - 10.4103/0973-1482.122508 [doi]
+PST - ppublish
+SO  - J Cancer Res Ther. 2013 Nov;9 Suppl:S135-41. doi: 10.4103/0973-1482.122508.
+
+PMID- 23469596
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20131230
+LR  - 20171116
+IS  - 1003-5370 (Print)
+IS  - 1003-5370 (Linking)
+VI  - 32
+IP  - 12
+DP  - 2012 Dec
+TI  - [Effects of electro-acupuncture combined general anesthesia on myocardial injury 
+      of high blood sugar patients with coronary heart disease in the perioperative
+      phase].
+PG  - 1607-10
+AB  - OBJECTIVE: To investigate the effects of electro-acupuncture (EA) combined
+      general anesthesia on myocardial injury of high blood sugar patients with
+      coronary heart disease (CHD) in the perioperative phase. METHODS: Recruited were 
+      40 senile patients with glycosylated hemoglobin (HbA1c) more than 6.5%. They were
+      more than 60 years old. They received post-traumatic fracture reduction surgery
+      of four limbs. They were randomly assigned to two groups, Group N (treated by
+      general intravenous anesthesia) and Group D (treated by EA combined with general 
+      intravenous anesthesia), 20 in each group. All patients were maintained
+      anesthesia by propofol, fentanyl, and vecuronium. Prior to the induction of
+      anesthesia, patients in Group D received induction of EA at Neiguan (PC6) and
+      Baihui (DU20) for 20 min, which lasted to the end of the surgery. At before
+      intubation (T0), immediately after intubation (T1), 5 min (T2), immediately after
+      extubation (T3), 5 min (T4), 60 min (T5), 180 min (T6), the fast blood glucose
+      (FBG), plasma vasoactive substance TXB2 and 6-K-prostacycline (6-K-PGF1alpha)
+      were detected in the two groups. The glucose coefficient of variation (GluCV) and
+      the ratio of TXB2/6-K-PGF1alpha were calculated. The changes of ST-segment
+      elevation (mV, sampling 1 min after each time point, and the mean calculated) was
+      recorded. RESULTS: There was no statistical difference in all the tested values
+      between the two groups at T0 (P>0.05). The FBG, ST elevation, and the ratio of
+      TXB2/6-K-PGF1alpha were significantly higher at each time point than at T0 in
+      Group N (P<0.05), while there was no statistical difference in Group D (P>0.05). 
+      The ratio of TXB2/6-K-PGF1alpha and ST elevation were significantly higher in
+      Group N than in Group D (P<0.01). The TXB2 and 6-K-PGF1alpha were significantly
+      higher at each time point than at T0 in the two groups (P<0.05). The increment of
+      TXB2 was obviously lower in Group D than in Group N (P<0.05), but the increment
+      of 6-K-PGF1alpha was obviously higher in Group D than in Group N (P<0.05).
+      CONCLUSION: EA could reduce the perioperative stress response to the injury of
+      coronary vascular endothelial cells, and improve myocardial ischemia and CHD
+      patients' prognosis by regulating the central nervous system, the cardiovascular 
+      active substances, and anti-oxygen free radicals.
+FAU - Shen, Hua
+AU  - Shen H
+AD  - Department of Anesthesiology, Yueyang Hospital of Integrated Traditional Chinese 
+      and Western Medicine, Shanghai University of Traditional Chinese Medicine,
+      Shanghai 200437. shenhuans699@sina.com
+FAU - Chen, Yi-jing
+AU  - Chen YJ
+LA  - chi
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - China
+TA  - Zhongguo Zhong Xi Yi Jie He Za Zhi
+JT  - Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese
+      journal of integrated traditional and Western medicine
+JID - 9211576
+RN  - 0 (Blood Glucose)
+RN  - 0 (Glycated Hemoglobin A)
+RN  - 57576-52-0 (Thromboxane A2)
+RN  - DCR9Z582X0 (Epoprostenol)
+SB  - IM
+MH  - *Acupuncture Analgesia
+MH  - Aged
+MH  - Anesthesia, General
+MH  - Blood Glucose/analysis
+MH  - Coronary Disease/*metabolism/*surgery
+MH  - *Electroacupuncture
+MH  - Epoprostenol/metabolism
+MH  - Female
+MH  - Glycated Hemoglobin A/analysis
+MH  - Humans
+MH  - Intraoperative Period
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Ischemia
+MH  - Myocardium/metabolism
+MH  - Thromboxane A2/metabolism
+EDAT- 2013/03/09 06:00
+MHDA- 2014/01/01 06:00
+CRDT- 2013/03/09 06:00
+PHST- 2013/03/09 06:00 [entrez]
+PHST- 2013/03/09 06:00 [pubmed]
+PHST- 2014/01/01 06:00 [medline]
+PST - ppublish
+SO  - Zhongguo Zhong Xi Yi Jie He Za Zhi. 2012 Dec;32(12):1607-10.
+
+PMID- 23468432
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140218
+LR  - 20181113
+IS  - 2042-6984 (Electronic)
+IS  - 2042-6976 (Linking)
+VI  - 3
+IP  - 6
+DP  - 2013 Jun
+TI  - Sinonasal epithelial wound resealing in an in vitro model: inhibition of wound
+      closure with IL-4 exposure.
+PG  - 439-49
+LID - 10.1002/alr.21158 [doi]
+AB  - BACKGROUND: Prolonged healing and persistent inflammation following surgery for
+      rhinosinusitis impacts patient satisfaction and healthcare resources. Cytokines
+      interleukin (IL)-4, IL-5, and IL-13 are important mediators in T-helper 2 (Th2)
+      inflammatory rhinosinusitis. Decreased wound healing has been demonstrated with
+      Th2 cytokine exposure, but this has not been extensively studied in sinonasal
+      epithelium. We hypothesized that in vitro exposure of primary sinonasal
+      epithelial cell cultures to Th2 inflammatory cytokine IL-4 and IL-13 would impair
+      wound resealing and decrease expression of annexin A2 at the wound edge. METHODS:
+      Following 24-hour exposure to IL-4, IL-5, or IL-13 vs controls, sterile linear
+      mechanical wounds were created in primary sinonasal epithelial cultures (n = 12
+      wounds per condition). Wounds were followed for 36 hours or until complete
+      closure, and residual wound areas were calculated by image analysis. Group
+      differences in annexin A2 were assessed by immunofluorescence labeling, confocal 
+      microscopy, and Western blots. RESULTS: Significant wound closure differences
+      were identified across cytokine exposure groups (p < 0.001). Mean percentage
+      wound closure at the completion of the 36-hour time course was 98.41% +/- 3.43%
+      for control wounds vs 85.02% +/- 18.46% for IL-4 exposed wounds. IL-13 did not
+      significantly impair sinonasal epithelial wound resealing in vitro. Annexin A2
+      protein levels were decreased in IL-4 treated wounds when compared to control
+      wounds (p < 0.01). CONCLUSION: Th2 cytokine IL-4 decreases sinonasal epithelial
+      wound closure in vitro. Annexin A2 is also diminished with IL-4 exposure. This
+      supports the hypothesis that IL-4 exposure impairs sinonasal epithelial wound
+      healing and may contribute to prolonged healing in Th2 inflammatory
+      rhinosinusitis.
+CI  - (c) 2013 ARS-AAOA, LLC.
+FAU - Wise, Sarah K
+AU  - Wise SK
+AD  - Department of Otolaryngology-Head and Neck Surgery, Emory University, Atlanta, GA
+      30308, USA. skmille@emory.edu
+FAU - Den Beste, Kyle A
+AU  - Den Beste KA
+FAU - Hoddeson, Elizabeth K
+AU  - Hoddeson EK
+FAU - Parkos, Charles A
+AU  - Parkos CA
+FAU - Nusrat, Asma
+AU  - Nusrat A
+LA  - eng
+GR  - DK072564/DK/NIDDK NIH HHS/United States
+GR  - KL2 TR000455/TR/NCATS NIH HHS/United States
+GR  - T35-HL007473/HL/NHLBI NIH HHS/United States
+GR  - DK061379/DK/NIDDK NIH HHS/United States
+GR  - R01 DK072564/DK/NIDDK NIH HHS/United States
+GR  - KL2 RR025009/RR/NCRR NIH HHS/United States
+GR  - UL1 TR000454/TR/NCATS NIH HHS/United States
+GR  - T35 HL007473/HL/NHLBI NIH HHS/United States
+GR  - UL1 RR025008/RR/NCRR NIH HHS/United States
+GR  - R01 DK061379/DK/NIDDK NIH HHS/United States
+GR  - DK059888/DK/NIDDK NIH HHS/United States
+GR  - R01 DK059888/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20130306
+PL  - United States
+TA  - Int Forum Allergy Rhinol
+JT  - International forum of allergy & rhinology
+JID - 101550261
+RN  - 0 (Annexin A2)
+RN  - 0 (Cytokines)
+RN  - 0 (Interleukin-13)
+RN  - 0 (Interleukin-5)
+RN  - 0 (Tumor Necrosis Factor-alpha)
+RN  - 207137-56-2 (Interleukin-4)
+SB  - IM
+MH  - Annexin A2/*metabolism
+MH  - Blotting, Western
+MH  - Case-Control Studies
+MH  - Cytokines/*pharmacology
+MH  - Epithelial Cells/*metabolism
+MH  - Epithelium/injuries/metabolism
+MH  - Fluorescent Antibody Technique
+MH  - Humans
+MH  - Interleukin-13/pharmacology
+MH  - Interleukin-4/pharmacology
+MH  - Interleukin-5/pharmacology
+MH  - Microscopy, Confocal
+MH  - Nasal Cavity/*metabolism
+MH  - Tumor Necrosis Factor-alpha/pharmacology
+MH  - Wound Healing/*physiology
+PMC - PMC3686916
+MID - NIHMS438821
+EDAT- 2013/03/08 06:00
+MHDA- 2014/02/19 06:00
+CRDT- 2013/03/08 06:00
+PHST- 2012/08/21 00:00 [received]
+PHST- 2012/12/11 00:00 [revised]
+PHST- 2013/01/10 00:00 [accepted]
+PHST- 2013/03/08 06:00 [entrez]
+PHST- 2013/03/08 06:00 [pubmed]
+PHST- 2014/02/19 06:00 [medline]
+AID - 10.1002/alr.21158 [doi]
+PST - ppublish
+SO  - Int Forum Allergy Rhinol. 2013 Jun;3(6):439-49. doi: 10.1002/alr.21158. Epub 2013
+      Mar 6.
+
+PMID- 23224427
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130507
+LR  - 20161125
+IS  - 1434-3916 (Electronic)
+IS  - 0936-8051 (Linking)
+VI  - 133
+IP  - 3
+DP  - 2013 Mar
+TI  - X-treme CT analysis of cancellous bone at the rotator cuff insertion in human
+      individuals with osteoporosis: superficial versus deep quality.
+PG  - 381-7
+LID - 10.1007/s00402-012-1663-8 [doi]
+AB  - PURPOSE: Rotator cuff (RC) repair-especially in the elderly population-is
+      problematic since the patients suffer to a high extent from bone mineral density 
+      loss at the reattachment site. Therefore, the study was primarily driven by the
+      question whether it is possible to reach more or qualitatively better cancellous 
+      bone and thus a more stable postoperative result if anchors with greater length
+      are used for RC repair and/or the conventional anchors are screwed deeper into
+      the bone. In anatomical terms, the question is raised whether cancellous bone is 
+      of better quality close to or far off the RC enthesis. METHODS: Axial HRqCT scans
+      (X-tremeCT, Scanco Medical) of 36 human cadaveric humeral heads (75 +/- 11 years)
+      were performed to determine the ratio of bone volume to total volume (BV/TV),
+      trabecular thickness (Trab Th), number of trabecles (Trab N), trabecular
+      separation (Trab Sp) as well as non-metric indices such as connectivity density
+      (Conn Dens) and structure model index (SMI). Within the greater tuberosity (GT), 
+      6 volumes of interest (VOI) (A1, B1, C1, A2, B2, C2), in the lesser tuberosity
+      (LT) 2 VOIs (D1, D2) and one control VOI in the subchondral bone were set. The
+      analyzed bone cylinder of each VOI was divided into a superficial and a deep
+      portion. RESULTS: The parameters BV/TV, Trab N, Trab Th and Conn Dens in all
+      volumes of the GT and LT revealed higher values in the superficial portion
+      reaching different levels of significance (p < 0.001/<0.05). The only parameter
+      presenting a higher value in the deep portion was Trab Sp, but this was the case 
+      for all GT and LT regions. Interestingly, the difference between the superficial 
+      and deep portion reached significance for the non-metric parameter SMI in no
+      volume of the GT/LT, although the higher values were found superficially.
+      CONCLUSIONS: Our data show that cancellous bone presents with decreasing bone
+      quality when analyzing increasingly deeper portions of the bone cylinders of the 
+      GT and LT starting at the articular surface. This information seems to be crucial
+      for shoulder surgeons, especially when treating elderly patients. Our results
+      clearly prove that screwing in anchors to a deeper extent will not improve
+      stability, since the deeper bone stock is of worse quality.
+FAU - Kirchhoff, Chlodwig
+AU  - Kirchhoff C
+AD  - Department of Trauma Surgery, Klinikum Rechts der Isar, Technische Universitaet, 
+      Munich, Ismaningerstrasse 22, Munich, Germany. kirchhoff@lrz.tu-muenchen.de
+FAU - Kirchhoff, Sonja
+AU  - Kirchhoff S
+FAU - Sprecher, Christoph M
+AU  - Sprecher CM
+FAU - Ahrens, Philipp
+AU  - Ahrens P
+FAU - Imhoff, Andreas B
+AU  - Imhoff AB
+FAU - Hinterwimmer, Stefan
+AU  - Hinterwimmer S
+FAU - Milz, Stefan
+AU  - Milz S
+FAU - Braunstein, Volker
+AU  - Braunstein V
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20121207
+PL  - Germany
+TA  - Arch Orthop Trauma Surg
+JT  - Archives of orthopaedic and trauma surgery
+JID - 9011043
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Bone Density
+MH  - Cadaver
+MH  - Female
+MH  - Humans
+MH  - Humerus/*diagnostic imaging/surgery
+MH  - Image Processing, Computer-Assisted
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoporosis/*diagnostic imaging/surgery
+MH  - Rotator Cuff/*surgery
+MH  - *Rotator Cuff Injuries
+MH  - Tomography, X-Ray Computed
+EDAT- 2012/12/12 06:00
+MHDA- 2013/05/08 06:00
+CRDT- 2012/12/11 06:00
+PHST- 2012/07/11 00:00 [received]
+PHST- 2012/12/11 06:00 [entrez]
+PHST- 2012/12/12 06:00 [pubmed]
+PHST- 2013/05/08 06:00 [medline]
+AID - 10.1007/s00402-012-1663-8 [doi]
+PST - ppublish
+SO  - Arch Orthop Trauma Surg. 2013 Mar;133(3):381-7. doi: 10.1007/s00402-012-1663-8.
+      Epub 2012 Dec 7.
+
+PMID- 22957532
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130108
+LR  - 20161125
+IS  - 1933-0693 (Electronic)
+IS  - 0022-3085 (Linking)
+VI  - 117
+IP  - 5
+DP  - 2012 Nov
+TI  - Diaphragmatic height index: new diagnostic test for phrenic nerve dysfunction.
+PG  - 890-6
+LID - 10.3171/2012.8.JNS111734 [doi]
+AB  - OBJECT: The diaphragmatic height index (DHI) was developed to measure the
+      difference in diaphragm levels. The purpose of this study was to set definite DHI
+      values and test the accuracy of these values for use as a new diagnostic test for
+      phrenic nerve dysfunction. METHODS: All data for this study were obtained from
+      medical charts and retrospectively reviewed. RESULTS: One hundred sixty-five
+      patients with brachial plexus injury who had undergone nerve transfers between
+      2005 and 2008 were divided into Groups A and B. Group A consisted of 40 patients 
+      (mean age 28.0 years) who had sustained concomitant injury of the brachial plexus
+      and phrenic nerves. Patients in Group A1 had right phrenic nerve injury and those
+      in Group A2 had left phrenic nerve injury. Intraoperative direct electrical
+      stimulation of the phrenic nerve was considered the gold standard in assessing
+      nerve function in all patients with brachial plexus injury. Group B consisted of 
+      125 patients (mean age 28.7 years) with brachial plexus injury and normal phrenic
+      nerve function. Group C, the control group, consisted of 80 patients with
+      nonbrachial plexus injury (mean age 34.0 years) who had undergone other kinds of 
+      orthopedic operations between April and June 2009. Standard posteroanterior chest
+      radiographs were blindly interpreted using the Siriraj inhouse picture archiving 
+      and communication system in all 245 patients in the study. First, a reference
+      line (R line) was drawn along the inferior endplate of T-10. Then, 2 lines (lines
+      A and B) were drawn through the highest point of each diaphragm and parallel to
+      the R line. The difference between these 2 lines divided by the height of T-10
+      was defined as the DHI. The cutoff points of the DHI for diagnosing right and
+      left phrenic nerve dysfunction were analyzed with a receiver operating
+      characteristic curve. The accuracy of these DHI values was then evaluated. The
+      DHI in Group C was 0.64 +/- 0.44, slightly higher than the DHI in Group B, with
+      no significant difference. Diaphragmatic height indexes in Groups A1 and A2 were 
+      2.0 +/- 0.99 and -1.04 +/- 0.83, respectively, which were significantly different
+      from those in Groups B and C (p < 0.05). The cutoff point of the DHI for
+      diagnosing right phrenic nerve dysfunction was > 1.1, and that for left phrenic
+      nerve dysfunction was < 0.2. The sensitivity and specificity of right and left
+      DHI values were 90.5% and 86.3%, and 94.7 and 88.3%, respectively. CONCLUSIONS:
+      Data in this study show that diaphragm paralysis can be simply and reliably
+      predicted by the DHI. Diaphragmatic height index values > 1.1 and < 0.2 are
+      proposed as the new diagnostic test for right and left phrenic nerve dysfunction 
+      with a high degree of accuracy. This index is applicable in diagnosing phrenic
+      nerve dysfunction that occurs concomitantly with brachial plexus injury or from
+      other etiologies.
+FAU - Pornrattanamaneewong, Chaturong
+AU  - Pornrattanamaneewong C
+AD  - Department of Orthopaedic Surgery, Faculty of Medicine Siriraj Hospital, Mahidol 
+      University, Bangkok, Thailand.
+FAU - Limthongthang, Roongsak
+AU  - Limthongthang R
+FAU - Vathana, Torpon
+AU  - Vathana T
+FAU - Kaewpornsawan, Kamolporn
+AU  - Kaewpornsawan K
+FAU - Songcharoen, Panupan
+AU  - Songcharoen P
+FAU - Wongtrakul, Saichol
+AU  - Wongtrakul S
+LA  - eng
+PT  - Journal Article
+DEP - 20120907
+PL  - United States
+TA  - J Neurosurg
+JT  - Journal of neurosurgery
+JID - 0253357
+SB  - AIM
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Arm Injuries/pathology
+MH  - Brachial Plexus/injuries
+MH  - Brachial Plexus Neuropathies/diagnosis/diagnostic imaging
+MH  - Data Interpretation, Statistical
+MH  - Diaphragm/*anatomy & histology/diagnostic imaging/innervation
+MH  - Electric Stimulation
+MH  - Female
+MH  - Functional Laterality
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Nerve Tissue/transplantation
+MH  - Peripheral Nervous System Diseases/*diagnosis/diagnostic imaging
+MH  - Phrenic Nerve/*anatomy & histology/diagnostic imaging
+MH  - ROC Curve
+MH  - Radiography, Thoracic
+MH  - Reproducibility of Results
+MH  - Retrospective Studies
+MH  - Young Adult
+EDAT- 2012/09/11 06:00
+MHDA- 2013/01/09 06:00
+CRDT- 2012/09/11 06:00
+PHST- 2012/09/11 06:00 [entrez]
+PHST- 2012/09/11 06:00 [pubmed]
+PHST- 2013/01/09 06:00 [medline]
+AID - 10.3171/2012.8.JNS111734 [doi]
+PST - ppublish
+SO  - J Neurosurg. 2012 Nov;117(5):890-6. doi: 10.3171/2012.8.JNS111734. Epub 2012 Sep 
+      7.
+
+PMID- 22894570
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130711
+LR  - 20181202
+IS  - 1937-335X (Electronic)
+IS  - 1937-3341 (Linking)
+VI  - 19
+IP  - 3-4
+DP  - 2013 Feb
+TI  - Enhanced control of in vivo bone formation with surface functionalized alginate
+      microbeads incorporating heparin and human bone morphogenetic protein-2.
+PG  - 350-9
+LID - 10.1089/ten.TEA.2012.0274 [doi]
+AB  - In this study, we tested the hypothesis that a surface functionalization delivery
+      platform incorporating heparin onto strontium alginate microbeads surfaces would 
+      convert this "naive carriers" into "mini-reservoirs" for localized in vivo
+      delivery of recombinant human bone morphogenetic protein-2 (rhBMP-2) that will
+      induce functional bone regeneration. In vitro evaluation confirmed that (1)
+      heparin incorporation could immobilize and prolong rhBMP-2 release for
+      approximately 3 weeks; (2) a significant decrease (p<0.01) in rhBMP-2 burst
+      release is attainable depending on initial protein load; and (3) rhBMP-2 released
+      from surface functionalized microbeads retained bioactivity and stimulated higher
+      alkaline phosphatase activity in cultured C(2)C(12) cells when compared with
+      daily administration of fresh bolus rhBMP-2. Subsequently, surface functionalized
+      microbeads were used for in vivo delivery of rhBMP-2 at local sites of
+      posterolateral spinal fusion surgery in rats. The microbeads were loaded into the
+      pores of medical-grade polyepsilone caprolactone-tricalcium phosphate scaffolds
+      before implantation. Results revealed robust bone formation and a biomechanically
+      solid fusion after 6 weeks. When compared with a control group consisting of an
+      equivalent amount of rhBMP-2 that was directly adsorbed onto bare-surfaced
+      microbeads with no heparin, a 5.3-fold increase in bone volume fraction and a
+      2.6-fold increase in bending stiffness (flexion/extension) were observed. When
+      compared with collagen sponge carriers of rhBMP-2, a 1.5-fold and a 1.3-fold
+      increase in bone volume fraction and bending stiffness were observed,
+      respectively. More importantly, 3D micro-computed tomography images enabled the
+      visualization of a well-contained newly formed bone at ipsilateral implant sites 
+      with surface functionalized rhBMP-2 delivery. This was absent with collagen
+      sponge carriers where newly formed bone tissue was poorly contained and crossed
+      over the posterior midline to contralateral implants. These findings are
+      important because of complications with current rhBMP-2 delivery method,
+      including excessive, uncontrolled bone formation.
+FAU - Abbah, Sunny Akogwu
+AU  - Abbah SA
+AD  - Department of Orthopaedic Surgery, Yong Loo Lin School of Medicine, National
+      University of Singapore, Singapore, Singapore.
+FAU - Liu, Jing
+AU  - Liu J
+FAU - Goh, James Cho Hong
+AU  - Goh JC
+FAU - Wong, Hee-Kit
+AU  - Wong HK
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20121107
+PL  - United States
+TA  - Tissue Eng Part A
+JT  - Tissue engineering. Part A
+JID - 101466659
+RN  - 0 (Alginates)
+RN  - 0 (BMP2 protein, human)
+RN  - 0 (Bone Morphogenetic Protein 2)
+RN  - 0 (Capsules)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Hexuronic Acids)
+RN  - 8A5D83Q4RW (Glucuronic Acid)
+RN  - 9005-49-6 (Heparin)
+SB  - IM
+MH  - Alginates/*chemistry
+MH  - Animals
+MH  - Bone Morphogenetic Protein 2/*administration & dosage/chemistry
+MH  - Bone Regeneration/*drug effects/*physiology
+MH  - Capsules/administration & dosage/chemistry
+MH  - Delayed-Action Preparations/administration & dosage/chemical synthesis
+MH  - Glucuronic Acid/chemistry
+MH  - Heparin/*administration & dosage/chemistry
+MH  - Hexuronic Acids/chemistry
+MH  - Humans
+MH  - Lumbar Vertebrae/drug effects/*growth & development/pathology
+MH  - Male
+MH  - Rats
+MH  - Rats, Sprague-Dawley
+MH  - Spinal Fractures/*drug therapy/pathology
+PMC - PMC3542875
+EDAT- 2012/08/17 06:00
+MHDA- 2013/07/13 06:00
+CRDT- 2012/08/17 06:00
+PHST- 2012/08/17 06:00 [entrez]
+PHST- 2012/08/17 06:00 [pubmed]
+PHST- 2013/07/13 06:00 [medline]
+AID - 10.1089/ten.TEA.2012.0274 [doi]
+PST - ppublish
+SO  - Tissue Eng Part A. 2013 Feb;19(3-4):350-9. doi: 10.1089/ten.TEA.2012.0274. Epub
+      2012 Nov 7.
+
+PMID- 22406532
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120706
+LR  - 20181201
+IS  - 1558-8238 (Electronic)
+IS  - 0021-9738 (Linking)
+VI  - 122
+IP  - 4
+DP  - 2012 Apr
+TI  - Niacin and biosynthesis of PGD(2)by platelet COX-1 in mice and humans.
+PG  - 1459-68
+LID - 10.1172/JCI59262 [doi]
+LID - 59262 [pii]
+AB  - The clinical use of niacin to treat dyslipidemic conditions is limited by noxious
+      side effects, most commonly facial flushing. In mice, niacin-induced flushing
+      results from COX-1-dependent formation of PGD(2) and PGE(2) followed by
+      COX-2-dependent production of PGE(2). Consistent with this, niacin-induced
+      flushing in humans is attenuated when niacin is combined with an antagonist of
+      the PGD(2) receptor DP1. NSAID-mediated suppression of COX-2-derived PGI(2) has
+      negative cardiovascular consequences, yet little is known about the
+      cardiovascular biology of PGD(2). Here, we show that PGD(2) biosynthesis is
+      augmented during platelet activation in humans and, although vascular expression 
+      of DP1 is conserved between humans and mice, platelet DP1 is not present in mice.
+      Despite this, DP1 deletion in mice augmented aneurysm formation and the
+      hypertensive response to Ang II and accelerated atherogenesis and thrombogenesis.
+      Furthermore, COX inhibitors in humans, as well as platelet depletion, COX-1
+      knockdown, and COX-2 deletion in mice, revealed that niacin evoked platelet
+      COX-1-derived PGD(2) biosynthesis. Finally, ADP-induced spreading on fibrinogen
+      was augmented by niacin in washed human platelets, coincident with increased
+      thromboxane (Tx) formation. However, in platelet-rich plasma, where formation of 
+      both Tx and PGD(2) was increased, spreading was not as pronounced and was
+      inhibited by DP1 activation. Thus, PGD(2), like PGI(2), may function as a
+      homeostatic response to thrombogenic and hypertensive stimuli and may have
+      particular relevance as a constraint on platelets during niacin therapy.
+FAU - Song, Wen-Liang
+AU  - Song WL
+AD  - Institute for Translational Medicine and Therapeutics, University of Pennsylvania
+      Perelman School of Medicine, Philadelphia, Pennsylvania 19104, USA.
+FAU - Stubbe, Jane
+AU  - Stubbe J
+FAU - Ricciotti, Emanuela
+AU  - Ricciotti E
+FAU - Alamuddin, Naji
+AU  - Alamuddin N
+FAU - Ibrahim, Salam
+AU  - Ibrahim S
+FAU - Crichton, Irene
+AU  - Crichton I
+FAU - Prempeh, Maxwell
+AU  - Prempeh M
+FAU - Lawson, John A
+AU  - Lawson JA
+FAU - Wilensky, Robert L
+AU  - Wilensky RL
+FAU - Rasmussen, Lars Melholt
+AU  - Rasmussen LM
+FAU - Pure, Ellen
+AU  - Pure E
+FAU - FitzGerald, Garret A
+AU  - FitzGerald GA
+LA  - eng
+GR  - HL-62250/HL/NHLBI NIH HHS/United States
+GR  - P50 HL083799/HL/NHLBI NIH HHS/United States
+GR  - P01 HL062250/HL/NHLBI NIH HHS/United States
+GR  - HL-83799/HL/NHLBI NIH HHS/United States
+GR  - UL1-RR-024134/RR/NCRR NIH HHS/United States
+GR  - UL1 RR024134/RR/NCRR NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120312
+PL  - United States
+TA  - J Clin Invest
+JT  - The Journal of clinical investigation
+JID - 7802877
+RN  - 0 (Apolipoproteins E)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (HCAR2 protein, human)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Platelet Aggregation Inhibitors)
+RN  - 0 (Receptors, G-Protein-Coupled)
+RN  - 0 (Receptors, Immunologic)
+RN  - 0 (Receptors, LDL)
+RN  - 0 (Receptors, Nicotinic)
+RN  - 0 (Receptors, Prostaglandin)
+RN  - 0 (prostanoid D receptor 1, mouse)
+RN  - 57576-52-0 (Thromboxane A2)
+RN  - 58962-34-8 (6-Ketoprostaglandin F1 alpha)
+RN  - 61D2G4IYVH (Adenosine Diphosphate)
+RN  - 64700-71-6 (2,3-dinor-6-ketoprostaglandin F1alpha)
+RN  - EC 1.14.99.- (Ptgs2 protein, mouse)
+RN  - EC 1.14.99.1 (Cyclooxygenase 1)
+RN  - EC 1.14.99.1 (Cyclooxygenase 2)
+RN  - EC 1.14.99.1 (PTGS1 protein, human)
+RN  - EC 1.14.99.1 (Ptgs1 protein, mouse)
+RN  - RXY07S6CZ2 (Prostaglandin D2)
+RN  - XZF106QU24 (prostaglandin D2 receptor)
+SB  - AIM
+SB  - IM
+MH  - 6-Ketoprostaglandin F1 alpha/analogs & derivatives/biosynthesis/urine
+MH  - Adenosine Diphosphate/pharmacology
+MH  - Angioplasty, Balloon, Coronary/adverse effects
+MH  - Animals
+MH  - Aortic Aneurysm, Abdominal/chemically induced/genetics/metabolism
+MH  - Apolipoproteins E/deficiency
+MH  - Atherosclerosis/metabolism/prevention & control
+MH  - Blood Platelets/drug effects/*enzymology/ultrastructure
+MH  - Carotid Artery Thrombosis/etiology/metabolism/prevention & control
+MH  - Cyclooxygenase 1/blood/deficiency/genetics/*physiology
+MH  - Cyclooxygenase 2/deficiency/genetics
+MH  - Cyclooxygenase Inhibitors/pharmacology
+MH  - Double-Blind Method
+MH  - Endothelium, Vascular/injuries/metabolism
+MH  - Female
+MH  - Humans
+MH  - Hypertension/chemically induced/metabolism/prevention & control
+MH  - Male
+MH  - Membrane Proteins/blood/deficiency/genetics/*physiology
+MH  - Mice
+MH  - Mice, Knockout
+MH  - Platelet Activation/physiology
+MH  - Platelet Aggregation Inhibitors/pharmacology/therapeutic use
+MH  - Prostaglandin D2/*biosynthesis/physiology
+MH  - Receptors, G-Protein-Coupled/biosynthesis/blood
+MH  - Receptors, Immunologic/antagonists & inhibitors/physiology
+MH  - Receptors, LDL/deficiency
+MH  - Receptors, Nicotinic/biosynthesis/blood
+MH  - Receptors, Prostaglandin/antagonists & inhibitors/deficiency/genetics/physiology
+MH  - Thromboxane A2/biosynthesis
+PMC - PMC3314457
+EDAT- 2012/03/13 06:00
+MHDA- 2012/07/07 06:00
+CRDT- 2012/03/13 06:00
+PHST- 2011/06/02 00:00 [received]
+PHST- 2012/01/25 00:00 [accepted]
+PHST- 2012/03/13 06:00 [entrez]
+PHST- 2012/03/13 06:00 [pubmed]
+PHST- 2012/07/07 06:00 [medline]
+AID - 59262 [pii]
+AID - 10.1172/JCI59262 [doi]
+PST - ppublish
+SO  - J Clin Invest. 2012 Apr;122(4):1459-68. doi: 10.1172/JCI59262. Epub 2012 Mar 12.
+
+PMID- 22205391
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120802
+LR  - 20181201
+IS  - 1522-1563 (Electronic)
+IS  - 0363-6143 (Linking)
+VI  - 302
+IP  - 7
+DP  - 2012 Apr 1
+TI  - Lipoxin A4 inhibits immune cell binding to salivary epithelium and vascular
+      endothelium.
+PG  - C968-78
+LID - 10.1152/ajpcell.00259.2011 [doi]
+AB  - Lipoxins are formed by leukocytes during cell-cell interactions with epithelial
+      or endothelial cells. Native lipoxin A(4) (LXA(4)) binds to the G protein-coupled
+      lipoxin receptors formyl peptide receptor 2 (FPR2)/ALX and CysLT1. Furthermore,
+      LXA(4) inhibits recruitment of neutrophils, by attenuating chemotaxis, adhesion, 
+      and transmigration across vascular endothelial cells. LXA(4) thus appears to
+      serve as an endogenous "stop signal" for immune cell-mediated tissue injury
+      (Serhan CN; Annu Rev Immunol 25: 101-137, 2007). The role of LXA(4) has not been 
+      addressed in salivary epithelium, and little is known about its effects on
+      vascular endothelium. Here, we determined that interleukin-1beta (IL-1beta) and
+      tumor necrosis factor-alpha (TNF-alpha) receptor activation in vascular
+      endothelium and salivary epithelium upregulated the expression of adhesion
+      molecules that facilitates the binding of immune cells. We hypothesize that the
+      activation of the ALX/FPR2 and/or CysLT1 receptors by LXA(4) decreases this
+      cytokine-mediated upregulation of cell adhesion molecules that enhance lymphocyte
+      binding to both the vascular endothelium and salivary epithelium. In agreement
+      with this hypothesis, we observed that nanomolar concentrations of LXA(4) blocked
+      IL-1beta- and TNF-alpha-mediated upregulation of E-selectin and intercellular
+      cell adhesion molecule-1 (ICAM-1) on human umbilical vein endothelial cells
+      (HUVECs). Binding of Jurkat cells to stimulated HUVECs was abrogated by LXA(4).
+      Furthermore, LXA(4) preincubation with human submandibular gland cell line (HSG) 
+      also blocked TNF-alpha-mediated upregulation of vascular cell adhesion molecule-1
+      (VCAM-1) in these cells, and it reduced lymphocyte adhesion. These findings
+      suggest that ALX/FPR2 and/or CysLT1 receptor activation in endothelial and
+      epithelial cells blocks cytokine-induced adhesion molecule expression and
+      consequent binding of lymphocytes, a critical event in the pathogenesis of
+      Sjogren's syndrome (SS).
+FAU - Chinthamani, Sreedevi
+AU  - Chinthamani S
+AD  - Department of Oral Biology, School of Dental Medicine, University at Buffalo, The
+      State University of New York, 14214-3092, USA.
+FAU - Odusanwo, Olutayo
+AU  - Odusanwo O
+FAU - Mondal, Nandini
+AU  - Mondal N
+FAU - Nelson, Joel
+AU  - Nelson J
+FAU - Neelamegham, Sriram
+AU  - Neelamegham S
+FAU - Baker, Olga J
+AU  - Baker OJ
+LA  - eng
+GR  - R01-HL063014/HL/NHLBI NIH HHS/United States
+GR  - R21 DE019721/DE/NIDCR NIH HHS/United States
+GR  - R21-DE019721-01A1/DE/NIDCR NIH HHS/United States
+GR  - R01 HL063014/HL/NHLBI NIH HHS/United States
+GR  - R01 DE021697/DE/NIDCR NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20111228
+PL  - United States
+TA  - Am J Physiol Cell Physiol
+JT  - American journal of physiology. Cell physiology
+JID - 100901225
+RN  - 0 (Adaptor Proteins, Signal Transducing)
+RN  - 0 (E-Selectin)
+RN  - 0 (FPR2 protein, human)
+RN  - 0 (HSH2D protein, human)
+RN  - 0 (Interleukin-1beta)
+RN  - 0 (Lipoxins)
+RN  - 0 (Receptors, Formyl Peptide)
+RN  - 0 (Receptors, Interleukin-1)
+RN  - 0 (Receptors, Leukotriene)
+RN  - 0 (Receptors, Lipoxin)
+RN  - 0 (Receptors, Tumor Necrosis Factor)
+RN  - 0 (Tumor Necrosis Factor-alpha)
+RN  - 0 (Vascular Cell Adhesion Molecule-1)
+RN  - 0 (lipoxin A4)
+RN  - 126547-89-5 (Intercellular Adhesion Molecule-1)
+RN  - LRF7RW46ID (leukotriene D4 receptor)
+SB  - IM
+MH  - Adaptor Proteins, Signal Transducing/genetics/metabolism
+MH  - CD4-Positive T-Lymphocytes/cytology/immunology/*metabolism
+MH  - Cell Adhesion/genetics/physiology
+MH  - Cell Communication/genetics/*physiology
+MH  - Cells, Cultured
+MH  - E-Selectin/genetics/metabolism
+MH  - Endothelium, Vascular/cytology/*drug effects/immunology/metabolism
+MH  - Human Umbilical Vein Endothelial Cells/metabolism
+MH  - Humans
+MH  - Intercellular Adhesion Molecule-1/genetics/metabolism
+MH  - Interleukin-1beta/genetics/metabolism
+MH  - Jurkat Cells
+MH  - Lipoxins/*pharmacology
+MH  - Receptors, Formyl Peptide/genetics/metabolism
+MH  - Receptors, Interleukin-1/genetics/metabolism
+MH  - Receptors, Leukotriene/genetics/metabolism
+MH  - Receptors, Lipoxin/genetics/metabolism
+MH  - Receptors, Tumor Necrosis Factor/genetics/metabolism
+MH  - Submandibular Gland/cytology/*drug effects/immunology/metabolism
+MH  - Tumor Necrosis Factor-alpha/genetics/metabolism
+MH  - Up-Regulation/drug effects
+MH  - Vascular Cell Adhesion Molecule-1/genetics/metabolism
+PMC - PMC3330736
+EDAT- 2011/12/30 06:00
+MHDA- 2012/08/03 06:00
+CRDT- 2011/12/30 06:00
+PHST- 2011/12/30 06:00 [entrez]
+PHST- 2011/12/30 06:00 [pubmed]
+PHST- 2012/08/03 06:00 [medline]
+AID - ajpcell.00259.2011 [pii]
+AID - 10.1152/ajpcell.00259.2011 [doi]
+PST - ppublish
+SO  - Am J Physiol Cell Physiol. 2012 Apr 1;302(7):C968-78. doi:
+      10.1152/ajpcell.00259.2011. Epub 2011 Dec 28.
+
+PMID- 21712086
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20111202
+LR  - 20181113
+IS  - 1873-4596 (Electronic)
+IS  - 0891-5849 (Linking)
+VI  - 51
+IP  - 6
+DP  - 2011 Sep 15
+TI  - NRF2 deficiency reduces life span of mice administered thoracic irradiation.
+PG  - 1175-83
+LID - 10.1016/j.freeradbiomed.2011.05.038 [doi]
+AB  - Subsets of cancer survivors who have been subjected to thoracic irradiation face 
+      the prospect of developing pulmonary injury. Radiation-induced pulmonary fibrosis
+      is an insidious injury that presents 6 to 24 months after irradiation and
+      continues to progress over a period of years. TGF-beta and reactive oxygen
+      species contribute significantly to the pathogenesis of this injury. The
+      transcription factor NRF2 controls antioxidant gene expression and therefore
+      regulates the cellular oxidant burden. This work demonstrates an additional
+      paradigm for NRF2: suppression of TGF-beta-mediated signaling, assessed by
+      measuring expression of a surrogate TGF-beta1 target gene (PAI-1) in lung
+      fibroblasts. Thoracic irradiation of Nfe2l2(-/-) mice resulted in rapid
+      expression of PAI-1 and FSP-1 compared to irradiated wild-type mice. Examination 
+      of lung tissue 16 weeks after thoracic irradiation of Nfe2l2(-/-) mice revealed
+      the presence of distended alveoli and decreased numbers of alveoli compared to
+      wild-type mice. Suppression of NRF2 expression shortened life span in mice
+      administered 16 Gy to the thorax. Nfe2l2(+/-) and Nfe2l2(-/-) mice exhibited a
+      mean life span of 176 days compared to wild-type mice, which lived an average of 
+      212 days. These novel results identify NRF2 as a susceptibility factor for the
+      development of late tissue injury.
+CI  - Copyright (c) 2011 Elsevier Inc. All rights reserved.
+FAU - Travis, Elizabeth L
+AU  - Travis EL
+AD  - Department of Experimental Radiation Oncology, The University of Texas M.D.
+      Anderson Cancer Center, Houston, TX 77030, USA.
+FAU - Rachakonda, Girish
+AU  - Rachakonda G
+FAU - Zhou, Xinhui
+AU  - Zhou X
+FAU - Korhonen, Katrina
+AU  - Korhonen K
+FAU - Sekhar, Konjeti R
+AU  - Sekhar KR
+FAU - Biswas, Swati
+AU  - Biswas S
+FAU - Freeman, Michael L
+AU  - Freeman ML
+LA  - eng
+GR  - R01 CA115556-05/CA/NCI NIH HHS/United States
+GR  - R01CA104590/CA/NCI NIH HHS/United States
+GR  - R01 CA104590/CA/NCI NIH HHS/United States
+GR  - P30 CA68485/CA/NCI NIH HHS/United States
+GR  - R01 CA115556/CA/NCI NIH HHS/United States
+GR  - R01 CA104590-05/CA/NCI NIH HHS/United States
+GR  - P30 CA068485/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20110612
+PL  - United States
+TA  - Free Radic Biol Med
+JT  - Free radical biology & medicine
+JID - 8709159
+RN  - 0 (NF-E2-Related Factor 2)
+RN  - 0 (Plasminogen Activator Inhibitor 1)
+RN  - 0 (S100 Calcium-Binding Protein A4)
+RN  - 0 (S100 Proteins)
+RN  - 0 (S100a4 protein, mouse)
+RN  - 0 (Transforming Growth Factor beta)
+SB  - IM
+MH  - Animals
+MH  - Fibroblasts/*metabolism/pathology/radiation effects
+MH  - Humans
+MH  - Lung/pathology
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Knockout
+MH  - NF-E2-Related Factor 2/genetics/*metabolism
+MH  - Oxidation-Reduction/radiation effects
+MH  - Plasminogen Activator Inhibitor 1/genetics/*metabolism
+MH  - Radiation Injuries, Experimental/*metabolism/pathology
+MH  - Radiation Pneumonitis/etiology/*metabolism/pathology
+MH  - Radiation, Ionizing
+MH  - Radiotherapy/adverse effects
+MH  - S100 Calcium-Binding Protein A4
+MH  - S100 Proteins/genetics/metabolism
+MH  - Signal Transduction/genetics/radiation effects
+MH  - Transforming Growth Factor beta/metabolism
+PMC - PMC3156301
+MID - NIHMS304807
+EDAT- 2011/06/30 06:00
+MHDA- 2011/12/13 00:00
+CRDT- 2011/06/30 06:00
+PHST- 2011/02/03 00:00 [received]
+PHST- 2011/05/11 00:00 [revised]
+PHST- 2011/05/27 00:00 [accepted]
+PHST- 2011/06/30 06:00 [entrez]
+PHST- 2011/06/30 06:00 [pubmed]
+PHST- 2011/12/13 00:00 [medline]
+AID - S0891-5849(11)00354-6 [pii]
+AID - 10.1016/j.freeradbiomed.2011.05.038 [doi]
+PST - ppublish
+SO  - Free Radic Biol Med. 2011 Sep 15;51(6):1175-83. doi:
+      10.1016/j.freeradbiomed.2011.05.038. Epub 2011 Jun 12.
+
+PMID- 21068598
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20101210
+LR  - 20101111
+IS  - 1538-5159 (Electronic)
+IS  - 0017-9078 (Linking)
+VI  - 99
+IP  - 6
+DP  - 2010 Dec
+TI  - An analytic approach to double dosimetry algorithms in occupational dosimetry
+      using energy dependent organ dose conversion coefficients.
+PG  - 800-5
+LID - 10.1097/HP.0b013e3181e850da [doi]
+AB  - Personnel dose in diagnostic radiology is often underestimated. Typically the
+      effective dose E is estimated based on dosimeters worn underneath the protective 
+      clothing measuring the personal dose equivalent Hp(10). This one-spot-measurement
+      systematically neglects the exposure to the unshielded organs in the head and
+      neck region. In this paper, energy dependent double dosimetry algorithms in the
+      range of 30-80 keV are derived using organ dose conversion coefficients. The
+      doses of shielded organs are assigned to a single dosimeter in the anterior
+      thoracic region (chest) underneath the apron (Hp,c,u), and the doses of the
+      organs not shielded are assigned to another dosimeter placed on the front area of
+      the neck over the protective garment (Hp,n,o) with E = a1 Hp,c,u(10) + a2
+      Hp,n,o(10). Organs not completely shielded are categorized correspondingly. The
+      coefficients a1 and a2 increase with higher energies up to 70 keV. The factors a2
+      are clearly higher according to ICRP 103 (rather than ICRP 60) because ICRP 103
+      considers additional organs in the head and neck region. According to ICRP 103, a
+      conservative general algorithm with thyroid protection is E = 0.84 Hp,c,u(10) +
+      0.051 Hp,n,o(10) and without thyroid protection E = 0.79 Hp,c,u(10) + 0.100
+      Hp,n,o(10).
+FAU - von Boetticher, Heiner
+AU  - von Boetticher H
+AD  - Institute for Radiology and Academy of Radiation Protection, Klinikum Links der
+      Weser, Bremen, Germany. heiner.boetticher@klinikumbremen-ldw.de
+FAU - Lachmund, Jorn
+AU  - Lachmund J
+FAU - Hoffmann, Wolfgang
+AU  - Hoffmann W
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Health Phys
+JT  - Health physics
+JID - 2985093R
+SB  - IM
+MH  - *Algorithms
+MH  - Body Burden
+MH  - Head/radiation effects
+MH  - Humans
+MH  - Neck/radiation effects
+MH  - Occupational Diseases/*prevention & control
+MH  - Protective Clothing
+MH  - *Radiation Dosage
+MH  - Radiation Injuries/*prevention & control
+MH  - Radiation Protection/*methods
+MH  - Radiometry/*methods
+MH  - Thorax/radiation effects
+MH  - Thyroid Diseases/prevention & control
+MH  - Thyroid Gland/radiation effects
+EDAT- 2010/11/12 06:00
+MHDA- 2010/12/14 06:00
+CRDT- 2010/11/12 06:00
+PHST- 2010/11/12 06:00 [entrez]
+PHST- 2010/11/12 06:00 [pubmed]
+PHST- 2010/12/14 06:00 [medline]
+AID - 10.1097/HP.0b013e3181e850da [doi]
+AID - 00004032-201012000-00020 [pii]
+PST - ppublish
+SO  - Health Phys. 2010 Dec;99(6):800-5. doi: 10.1097/HP.0b013e3181e850da.
+
+PMID- 19350476
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20091202
+LR  - 20090827
+IS  - 1438-8685 (Electronic)
+IS  - 0935-8943 (Linking)
+VI  - 88
+IP  - 9
+DP  - 2009 Sep
+TI  - [Anatomical course of the chorda tympani nerve in middle ear surgery: clinical
+      classification and relevance for postoperative gustatory dysfunction].
+PG  - 592-8
+LID - 10.1055/s-0029-1214393 [doi]
+AB  - BACKGROUND: The anatomical course of the Chorda tympani nerve (CTN) in the middle
+      ear is known to be very variable, which becomes most obvious during middle ear
+      operations. As well, postoperative gustatory dysfunction belongs to the most
+      frequent complications after otosurgical interventions. The aim of this study was
+      to develop a clinical classification of the intraoperatively visible course of
+      the CTN and to demonstrate a possible correlation of its anatomic course with the
+      prevalence of actual postoperative taste disorders. METHODS: Only cases of
+      first-time ear surgery all operated by one experienced otosurgeon were assessed. 
+      Preoperatively, gustatory testing with standardised chemical solutions (sweet,
+      sour, salty, bitter) was performed. During surgery the course of the CTN was
+      classified at first sight by 3 topografical criteria: The angle (A), the height
+      (H) and the depth (D) of the nerve's emergence from the lateral tympanic wall. In
+      cases of postoperative taste dysfunction the patients were followed-up on a
+      regular basis. RESULTS: 103 patients were included in the study. The angle of the
+      nerve;s emergence from the tympanic bone was below 30 degrees in 59 (A1), between
+      30 degrees and 60 degrees in 41 (A2) and within 60 degrees and 90 degrees in 3
+      cases (A3). The height of emergence was 33 times in the superior (H1), 61 times
+      in the middle (H2) and 9 times in the inferior third (H3) of the posterior meatal
+      wall. The depth of emergence lay within the plain of the tympanic sulcus in 26
+      individuals (D1), 44 times medially to this plain without overlapping bone (D2)
+      and 33 times medially but covered by a bony spur (D3). The CTN was preserved in
+      92 procedures. Postoperatively, gustatory function was diminished in 7% of the
+      cases. CONCLUSION: This study confirms the high diversity of the surgical anatomy
+      of the CTN. According to the proposed classification the A1-H1-D2/3-situation
+      belongs to the CTN-constellations observed most frequently. It is this very
+      anatomical situation, that apparently tends to be associated with postoperative
+      taste deficits quite regularly due to inevitable intraoperative manipulations.
+      Taking into account the results of this study an otosurgeon might be able to
+      anticipate the potential risk for the CTN by judging the AHD-status
+      intraoperatively and - therefore - reduce taste disorders postoperatively.
+      Additionally, the probability of a postoperative gustatory dysfunction depends
+      upon the kind of underlying middle ear disease as well.
+CI  - Georg Thieme Verlag KG Stuttgart * New York.
+FAU - Ott, Ingo
+AU  - Ott I
+AD  - Klinik fur Hals-Nasen-Ohren-Heilkunde, Kopf-, Hals- und plastische
+      Gesichtschirurgie, Klinikum Bad Hersfeld, Bad Hersfeld.
+      Ingo.Ott@Klinikum-Darmstadt.de
+FAU - Tebben, H
+AU  - Tebben H
+FAU - Losenhausen, H
+AU  - Losenhausen H
+FAU - Issing, P R
+AU  - Issing PR
+LA  - ger
+PT  - English Abstract
+PT  - Journal Article
+TT  - Verlauf der Chorda tympani bei Operationen des Mittelohres: Klinische Einteilung 
+      und ihre Bedeutung fur postoperative Schmeckstorungen.
+DEP - 20090406
+PL  - Germany
+TA  - Laryngorhinootologie
+JT  - Laryngo- rhino- otologie
+JID - 8912371
+SB  - IM
+MH  - Adult
+MH  - Ageusia/*physiopathology
+MH  - Cholesteatoma, Middle Ear/*surgery
+MH  - Chorda Tympani Nerve/*injuries/*pathology/physiopathology
+MH  - Ear, Middle/*innervation
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Otitis Media, Suppurative/*surgery
+MH  - Otosclerosis/*surgery
+MH  - Postoperative Complications/*physiopathology
+MH  - Risk Factors
+MH  - Statistics as Topic
+MH  - Taste Threshold/physiology
+EDAT- 2009/04/08 09:00
+MHDA- 2009/12/16 06:00
+CRDT- 2009/04/08 09:00
+PHST- 2009/04/08 09:00 [entrez]
+PHST- 2009/04/08 09:00 [pubmed]
+PHST- 2009/12/16 06:00 [medline]
+AID - 10.1055/s-0029-1214393 [doi]
+PST - ppublish
+SO  - Laryngorhinootologie. 2009 Sep;88(9):592-8. doi: 10.1055/s-0029-1214393. Epub
+      2009 Apr 6.
+
+PMID- 18762104
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090130
+LR  - 20090608
+IS  - 1531-6564 (Electronic)
+IS  - 0363-5023 (Linking)
+VI  - 33
+IP  - 7
+DP  - 2008 Sep
+TI  - Clinical application of pectoral nerve transfers in the treatment of traumatic
+      brachial plexus injuries.
+PG  - 1100-7
+LID - 10.1016/j.jhsa.2008.03.010 [doi]
+AB  - PURPOSE: To determine the effectiveness, reliability and donor site morbidity of 
+      pectoral nerve transfers in the treatment of brachial plexus lesions. METHODS:
+      This retrospective study included 6 patients with 7 pectoral nerve transfers. The
+      follow-up examination comprised measurement of the ranges of motion (AO neutral-0
+      method), functional muscle testing (British Medical Research Council), and photo-
+      and videographic documentation. RESULTS: Three patients achieved excellent
+      results (M5, M4), in 3 cases good muscle function was achieved (M3) and 1
+      patient, who had a short follow-up period, revealed M2 motor function.
+      CONCLUSIONS: This study describes the treatment of patients with conditions far
+      from ideal. All patients sustained extensive brachial plexus lesions and most had
+      severe associated injuries of the upper limb, which limited the availability of
+      sufficient donor nerves. Despite these facts, 6 cases had excellent or good
+      results and 1 showed continuing improvement of muscle function. These good
+      results and the excellent results documented in literature demonstrate the high
+      dependability and efficiency of the pectoral nerves as donors in the treatment of
+      brachial plexus lesions. Furthermore, it was shown that free functioning muscle
+      transplants can be sufficiently reinnervated by pectoral nerves. TYPE OF
+      STUDY/LEVEL OF EVIDENCE: Therapeutic IV.
+FAU - Stockinger, Theresa
+AU  - Stockinger T
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Medical
+      University of Vienna, Vienna, Austria.
+FAU - Aszmann, Oskar C
+AU  - Aszmann OC
+FAU - Frey, Manfred
+AU  - Frey M
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Hand Surg Am
+JT  - The Journal of hand surgery
+JID - 7609631
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Brachial Plexus/*injuries
+MH  - Brachial Plexus Neuropathies/*surgery
+MH  - Child
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - *Nerve Transfer
+MH  - Thoracic Nerves/surgery/*transplantation
+MH  - Trauma, Nervous System/*surgery
+MH  - Young Adult
+EDAT- 2008/09/03 09:00
+MHDA- 2009/01/31 09:00
+CRDT- 2008/09/03 09:00
+PHST- 2007/12/11 00:00 [received]
+PHST- 2008/03/12 00:00 [revised]
+PHST- 2008/03/19 00:00 [accepted]
+PHST- 2008/09/03 09:00 [pubmed]
+PHST- 2009/01/31 09:00 [medline]
+PHST- 2008/09/03 09:00 [entrez]
+AID - S0363-5023(08)00326-2 [pii]
+AID - 10.1016/j.jhsa.2008.03.010 [doi]
+PST - ppublish
+SO  - J Hand Surg Am. 2008 Sep;33(7):1100-7. doi: 10.1016/j.jhsa.2008.03.010.
+
+PMID- 18092159
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080919
+LR  - 20181113
+IS  - 0364-2348 (Print)
+IS  - 0364-2348 (Linking)
+VI  - 37
+IP  - 4
+DP  - 2008 Apr
+TI  - Optimal 3-T MRI for depiction of the finger A2 pulley: comparison between
+      T1-weighted, fat-saturated T2-weighted and gadolinium-enhanced fat-saturated
+      T1-weighted sequences.
+PG  - 307-12
+AB  - OBJECTIVE: To compare three spin-echo sequences, transverse T1-weighted (T1WI),
+      transverse fat-saturated (FS) T2-weighted (T2WI), and transverse
+      gadolinium-enhanced (Gd) FS T1WI, for the visualisation of normal and abnormal
+      finger A2 pulley with magnetic resonance (MR) imaging at 3 tesla (T). MATERIALS
+      AND METHODS: Sixty-three fingers from 21 patients were consecutively
+      investigated. Two musculoskeletal radiologists retrospectively compared all
+      sequences to assess the visibility of normal and abnormal A2 pulleys and the
+      presence of motion or ghost artefacts. RESULTS: Normal and abnormal A2 pulleys
+      were visible in 94% (59/63) and 95% (60/63) on T1WI sequences, in 63% (40/63) and
+      60% (38/63) on FS T2WI sequences, and in 87% (55/63) and 73% (46/63) on Gd FS
+      T1WI sequences when read by the first and second observer, respectively. Motion
+      and ghost artefacts were higher on FS T2WI sequences. Seven among eight abnormal 
+      A2 pulleys were detected, and were best depicted with Gd FS T1WI sequences in 71%
+      (5/7) and 86% (6/7) by the first and the second observer, respectively.
+      CONCLUSION: In 3-T MRI, the comparison between transverse T1WI, FS T2WI, and Gd
+      FS T1WI sequences shows that transverse T1WI allows excellent depiction of the A2
+      pulley, that FS T2WI suffers from a higher rate of motion and ghost artefacts,
+      and transverse Gd FS T1WI is the best sequence for the depiction of abnormal A2
+      pulley.
+FAU - Goncalves-Matoso, Vasco
+AU  - Goncalves-Matoso V
+AD  - Department of Diagnostic and Interventional Radiology, Lausanne University
+      Hospital, rue du Bugnon 46, 1011 Lausanne, Switzerland.
+      Vasco.Goncalves-Matoso@chuv.ch
+FAU - Guntern, Daniel
+AU  - Guntern D
+FAU - Gray, Anne
+AU  - Gray A
+FAU - Schnyder, Pierre
+AU  - Schnyder P
+FAU - Picht, Carmen
+AU  - Picht C
+FAU - Theumann, Nicolas
+AU  - Theumann N
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20071219
+PL  - Germany
+TA  - Skeletal Radiol
+JT  - Skeletal radiology
+JID - 7701953
+RN  - 0 (Contrast Media)
+RN  - 84F6U3J2R6 (gadodiamide)
+RN  - K2I13DR72L (Gadolinium DTPA)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Artifacts
+MH  - Child
+MH  - Contrast Media
+MH  - Female
+MH  - Finger Injuries/*diagnosis
+MH  - Gadolinium DTPA
+MH  - Humans
+MH  - Magnetic Resonance Imaging/*methods
+MH  - Male
+MH  - Middle Aged
+MH  - Predictive Value of Tests
+MH  - Retrospective Studies
+MH  - Sensitivity and Specificity
+MH  - Tendon Injuries/*diagnosis
+EDAT- 2007/12/20 09:00
+MHDA- 2008/09/20 09:00
+CRDT- 2007/12/20 09:00
+PHST- 2007/10/14 00:00 [received]
+PHST- 2007/11/15 00:00 [accepted]
+PHST- 2007/12/20 09:00 [pubmed]
+PHST- 2008/09/20 09:00 [medline]
+PHST- 2007/12/20 09:00 [entrez]
+AID - 10.1007/s00256-007-0426-z [doi]
+PST - ppublish
+SO  - Skeletal Radiol. 2008 Apr;37(4):307-12. doi: 10.1007/s00256-007-0426-z. Epub 2007
+      Dec 19.
+
+PMID- 17621257
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080229
+LR  - 20091103
+IS  - 1073-2322 (Print)
+IS  - 1073-2322 (Linking)
+VI  - 29
+IP  - 1
+DP  - 2008 Jan
+TI  - The role of C5a in the innate immune response after experimental blunt chest
+      trauma.
+PG  - 25-31
+AB  - The inflammatory response after severe blunt chest trauma often leads to acute
+      lung injury and acute respiratory distress syndrome which are associated with
+      high mortality rates. Whereas the role of innate immunity in acute lung injury
+      has been broadly investigated, the immune response after blunt chest trauma is
+      still poorly understood. Therefore, the role of complement and neutrophils was
+      determined in bilateral lung injury induced by a single blast wave. The following
+      time-points were investigated posttrauma: sham, 1, 6, 12, and 24 h. There was a
+      time-dependent systemic activation of complement as determined by CH-50 and
+      presence of C5a-dependent chemotactic plasma activity. Moreover, factor H, a
+      complement regulatory protein, was increased systemically and locally after
+      injury. Anti-C5a treatment immediately after trauma ameliorated these peaks.
+      After an initial systemic leukopenic phase, a marked leukocytosis occurred. The
+      latter was normalized by C5a blockade. In parallel, white blood cell count in
+      bronchioalveolar lavage fluids was increased as a function of time and was
+      significantly decreased by anti-C5a treatment. Trauma-induced lung injury was
+      also associated with dramatic changes in neutrophil function, namely early
+      enhanced chemotaxis and phagocytosis, followed by prolonged functional
+      defects-all of which were ameliorated by anti-C5a treatment. Furthermore,
+      blockade of C5a ameliorated the buildup of the proinflammatory cytokine
+      TNF-alpha, diminished the increase of cytokine-induced neutrophil chemoattractant
+      1, and altered the levels of the anti-inflammatory cytokine IL-10. These data
+      suggest that blunt chest trauma leads to systemic activation of complement and
+      robust C5a generation, which causes perturbations in defensive functions of
+      neutrophils. Thus, C5a might represent a potential target for therapeutic
+      immunomodulation to prevent immune dysfunctions post-trauma and thereby, perhaps,
+      the progression to acute respiratory distress syndrome.
+FAU - Flierl, Michael A
+AU  - Flierl MA
+AD  - Department of Traumatology, Hand and Reconstructive Surgery, University of Ulm
+      Medical School, Ulm, Germany.
+FAU - Perl, Mario
+AU  - Perl M
+FAU - Rittirsch, Daniel
+AU  - Rittirsch D
+FAU - Bartl, Christoph
+AU  - Bartl C
+FAU - Schreiber, Heike
+AU  - Schreiber H
+FAU - Fleig, Vera
+AU  - Fleig V
+FAU - Schlaf, Gerald
+AU  - Schlaf G
+FAU - Liener, Ulrich
+AU  - Liener U
+FAU - Brueckner, Uwe B
+AU  - Brueckner UB
+FAU - Gebhard, Florian
+AU  - Gebhard F
+FAU - Huber-Lang, Markus S
+AU  - Huber-Lang MS
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Shock
+JT  - Shock (Augusta, Ga.)
+JID - 9421564
+RN  - 0 (Chemokine CXCL1)
+RN  - 0 (Cxcl1 protein, rat)
+RN  - 0 (Tumor Necrosis Factor-alpha)
+RN  - 130068-27-8 (Interleukin-10)
+RN  - 80295-54-1 (Complement C5a)
+RN  - 80295-65-4 (Complement Factor H)
+SB  - IM
+MH  - Animals
+MH  - Bronchoalveolar Lavage Fluid/cytology/immunology
+MH  - Chemokine CXCL1/metabolism
+MH  - Chemotaxis, Leukocyte
+MH  - Complement Activation
+MH  - Complement C5a/antagonists & inhibitors/*immunology
+MH  - Complement Factor H/metabolism
+MH  - Disease Models, Animal
+MH  - Humans
+MH  - *Immunity, Innate
+MH  - Interleukin-10/metabolism
+MH  - Neutrophils/immunology
+MH  - Phagocytosis
+MH  - Rats
+MH  - Rats, Wistar
+MH  - Respiratory Burst
+MH  - Thoracic Injuries/*immunology
+MH  - Tumor Necrosis Factor-alpha/metabolism
+MH  - Wounds, Nonpenetrating/*immunology
+EDAT- 2007/07/11 09:00
+MHDA- 2008/03/01 09:00
+CRDT- 2007/07/11 09:00
+PHST- 2007/07/11 09:00 [pubmed]
+PHST- 2008/03/01 09:00 [medline]
+PHST- 2007/07/11 09:00 [entrez]
+AID - 10.1097/shk.0b013e3180556a0b [doi]
+PST - ppublish
+SO  - Shock. 2008 Jan;29(1):25-31. doi: 10.1097/shk.0b013e3180556a0b.
+
+PMID- 17507816
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070719
+LR  - 20151119
+IS  - 0020-9996 (Print)
+IS  - 0020-9996 (Linking)
+VI  - 42
+IP  - 6
+DP  - 2007 Jun
+TI  - Finger A2 pulley lesions in rock climbers: detection and characterization with
+      magnetic resonance imaging at 3 Tesla--initial results.
+PG  - 435-41
+AB  - OBJECTIVES: To evaluate magnetic resonance imaging (MRI) at 3 T in the diagnosis 
+      and characterization of lesions of the finger flexor A2 pulley in patients with
+      clinically suspected A2 pulley lesions. MATERIALS AND METHODS: Eight consecutive 
+      patients with clinically suspected lesions of the A2 pulley were included in this
+      retrospective study. 3 T MRI was performed with T1-weighted, T2-weighted fat
+      suppressed, and T1-weighted fat suppressed contrast enhanced sequences. The A2
+      pulley of all the fingers visible on the images were analyzed and pulley lesions 
+      characterized. RESULTS: All asymptomatic pulleys were normal at MRI. In the 8
+      symptomatic fingers 7 pulleys were abnormal at MRI. With the clinical examination
+      as gold standard, sensitivity, specificity, positive predictive value, and
+      negative predictive value of MRI were 87.5%, 100%, 100%, and 95.2% respectively. 
+      Characterization of the different pulley lesion was possible. CONCLUSION: MRI at 
+      3 T allows reliable direct visualization and characterization of traumatic A2
+      pulley lesions.
+FAU - Guntern, Daniel
+AU  - Guntern D
+AD  - Department of Radiology, CHUV, Lausanne, Switzerland. daniel.guntern@chuv.ch
+FAU - Goncalves-Matoso, Vasco
+AU  - Goncalves-Matoso V
+FAU - Gray, Anne
+AU  - Gray A
+FAU - Picht, Carmen
+AU  - Picht C
+FAU - Schnyder, Pierre
+AU  - Schnyder P
+FAU - Theumann, Nicolas
+AU  - Theumann N
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Invest Radiol
+JT  - Investigative radiology
+JID - 0045377
+RN  - 0 (Contrast Media)
+RN  - K2I13DR72L (Gadolinium DTPA)
+SB  - IM
+MH  - Adult
+MH  - Contrast Media
+MH  - Female
+MH  - Finger Injuries/*diagnosis
+MH  - Gadolinium DTPA
+MH  - Humans
+MH  - Magnetic Resonance Imaging/*methods
+MH  - Male
+MH  - Mountaineering/*injuries
+MH  - Predictive Value of Tests
+MH  - Retrospective Studies
+MH  - Sensitivity and Specificity
+MH  - Tendon Injuries/*diagnosis
+EDAT- 2007/05/18 09:00
+MHDA- 2007/07/20 09:00
+CRDT- 2007/05/18 09:00
+PHST- 2007/05/18 09:00 [pubmed]
+PHST- 2007/07/20 09:00 [medline]
+PHST- 2007/05/18 09:00 [entrez]
+AID - 10.1097/01.rli.0000262756.65849.12 [doi]
+AID - 00004424-200706000-00015 [pii]
+PST - ppublish
+SO  - Invest Radiol. 2007 Jun;42(6):435-41. doi: 10.1097/01.rli.0000262756.65849.12.
+
+PMID- 15573078
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050104
+LR  - 20070717
+IS  - 0022-5223 (Print)
+IS  - 0022-5223 (Linking)
+VI  - 128
+IP  - 6
+DP  - 2004 Dec
+TI  - The evolution of ischemic spinal cord injury in function, cytoarchitecture, and
+      inflammation and the effects of adenosine A2A receptor activation.
+PG  - 925-32
+AB  - OBJECTIVE: Spinal cord ischemia/reperfusion injury involves multiple factors that
+      may be modulated by adenosine A 2A receptor activation. This study defines injury
+      progression in terms of function, cytoarchitecture, and inflammation and assesses
+      whether adenosine A 2A receptor activation by ATL-146e limits injury progression.
+      METHODS: Mature swine were divided into 3 groups: sham thoracotomy, IR (30
+      minutes of ischemia followed by reperfusion), and ATL (ischemia/reperfusion with 
+      ATL-146e administration for the first 3 hours of reperfusion). Subgroups were
+      killed at 0, 3, 6, 12, 24, and 48 hours after reperfusion. Function was followed 
+      up with Tarlov scores. Spinal cord tissue was evaluated for neuronal viability,
+      microtubule-associated protein-2 immunohistochemistry, and neutrophil
+      sequestration (myeloperoxidase assay). Spinal cord tissue, cerebrospinal fluid,
+      and serum were evaluated for tumor necrosis factor-alpha by enzyme-linked
+      immunosorbent assay. RESULTS: Function was significantly impaired at 24, 36, and 
+      48 hours in the IR group compared with the sham and ATL groups ( P < .05).
+      Neuronal viability and microtubule-associated protein-2 staining were
+      significantly preserved in the sham and ATL groups compared with the IR group at 
+      24 and 48 hours ( P < .05). Spinal cord myeloperoxidase levels were significantly
+      higher in the IR group than in the sham and ATL groups at 24 and 48 hours.
+      Although negligible in serum and cerebrospinal fluid, tumor necrosis factor-alpha
+      levels in the spinal cord peaked significantly higher in the IR group compared
+      with the sham and ATL groups at 6 and 24 hours ( P < .05). CONCLUSIONS: Spinal
+      cord ischemia/reperfusion induced changes in neutrophil sequestration,
+      microtubule-associated protein-2 expression, and neuronal viability within 24
+      hours of reperfusion. Spinal cord tumor necrosis factor-alpha increased
+      significantly by 6 to 12 hours after reperfusion. Adenosine A 2A receptor
+      activation attenuates spinal cord inflammation, which may be critical for the
+      preservation of neuronal function and cytoarchitecture after
+      ischemia/reperfusion.
+FAU - Reece, T Brett
+AU  - Reece TB
+AD  - Department of Surgery, University of Virginia Health System, PO Box 801359,
+      Charlottesville, VA 22908, USA. tbr5q@virginia.edu
+FAU - Okonkwo, David O
+AU  - Okonkwo DO
+FAU - Ellman, Peter I
+AU  - Ellman PI
+FAU - Warren, Patrick S
+AU  - Warren PS
+FAU - Smith, Robert L
+AU  - Smith RL
+FAU - Hawkins, A Stewart
+AU  - Hawkins AS
+FAU - Linden, Joel
+AU  - Linden J
+FAU - Kron, Irving L
+AU  - Kron IL
+FAU - Tribble, Curtis G
+AU  - Tribble CG
+FAU - Kern, John A
+AU  - Kern JA
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - J Thorac Cardiovasc Surg
+JT  - The Journal of thoracic and cardiovascular surgery
+JID - 0376343
+RN  - 0 (Microtubule-Associated Proteins)
+RN  - 0 (Receptors, Adenosine A2)
+RN  - 0 (Tumor Necrosis Factor-alpha)
+RN  - EC 1.11.1.7 (Peroxidase)
+SB  - AIM
+SB  - IM
+MH  - Animals
+MH  - Humans
+MH  - Microtubule-Associated Proteins/metabolism
+MH  - Peroxidase/metabolism
+MH  - Receptors, Adenosine A2
+MH  - Spinal Cord Ischemia/pathology/*physiopathology
+MH  - Swine
+MH  - Tumor Necrosis Factor-alpha/metabolism
+EDAT- 2004/12/02 09:00
+MHDA- 2005/01/05 09:00
+CRDT- 2004/12/02 09:00
+PHST- 2004/12/02 09:00 [pubmed]
+PHST- 2005/01/05 09:00 [medline]
+PHST- 2004/12/02 09:00 [entrez]
+AID - S0022522304012292 [pii]
+AID - 10.1016/j.jtcvs.2004.08.019 [doi]
+PST - ppublish
+SO  - J Thorac Cardiovasc Surg. 2004 Dec;128(6):925-32. doi:
+      10.1016/j.jtcvs.2004.08.019.
+
+PMID- 15173946
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050331
+LR  - 20181113
+IS  - 1435-2443 (Print)
+IS  - 1435-2443 (Linking)
+VI  - 389
+IP  - 6
+DP  - 2004 Nov
+TI  - Surgical trauma: hyperinflammation versus immunosuppression?
+PG  - 475-84
+AB  - BACKGROUND: Experimental and clinical studies have brought evidence that surgical
+      trauma markedly affects the immune system, including both the specific and the
+      non-specific immune response. MATERIALS AND METHODS: This report reviews the
+      present knowledge on the mechanisms of surgical trauma-induced immune dysfunction
+      and outlines experimental and clinical approaches to find effective treatment
+      strategies. RESULTS: Major surgical trauma induces an early hyperinflammatory
+      response, which is characterized by (1) pro-inflammatory tumour necrosis factor
+      alpha (TNF), interleukin (IL)-1, and IL-6 cytokine release and (2) neutrophil
+      activation and microvascular adherence, as well as (3) uncontrolled
+      polymorphonuclear (PMN) and macrophage oxidative burst. The massive and
+      continuous IL-6 release induces an acute phase response, but, more importantly,
+      also accounts for the up-regulation of major anti-inflammatory mediators, such as
+      prostaglandin (PG) E2, IL-10 and transforming growth factor (TGF)-ss. This
+      results in surgical, trauma-induced, immunosuppression, as indicated by (1)
+      monocyte deactivation, reflected by the lack of monocytic TNF- production upon
+      lipopolysaccharide (LPS) stimulation, and (2) a shift of the Th1/Th2 ratio
+      towards a Th2-dominated cytokine pattern. The imbalance between pro-inflammatory 
+      and anti-inflammatory cytokines and immuno-competent cells determines the
+      phenotype of disease and should help the physician to compose the therapeutic
+      strategy. In fact, recent clinical studies have shown that both the initial
+      uncontrolled hyperinflammation and the continued cell-mediated immunosuppression 
+      represent primary targets to counteract post-surgery immune dysfunction. The
+      balance between inflammatory and anti-inflammatory forces may be restored by
+      interferon gamma (IFN-gamma) to counteract monocyte deactivation; the
+      anti-inflammatory PGE2 may be inhibited by indomethacin to attenuate
+      immunosuppression; or the initial hyperinflammation may be targeted by
+      administration of anti-inflammatory substances, such as granulocyte
+      colony-stimulating factor (G-CSF), hydoxyethyl starch, or pentoxifylline.
+      CONCLUSIONS: When drawing up the therapeutic regimen the physician should not
+      consider hyperinflammation versus immunosuppression, but hyperinflammation and
+      immunosuppression, aiming at restoring an appropriate mediator- and immune
+      cell-associated balance.
+FAU - Menger, Michael D
+AU  - Menger MD
+AD  - Institute for Clinical and Experimental Surgery, University of Saarland, 66421
+      Homburg-Saar, Germany. exmdme@uniklinik-saarland.de
+FAU - Vollmar, Brigitte
+AU  - Vollmar B
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20040528
+PL  - Germany
+TA  - Langenbecks Arch Surg
+JT  - Langenbeck's archives of surgery
+JID - 9808285
+RN  - 0 (Cytokines)
+RN  - 0 (Interleukins)
+RN  - 0 (Tumor Necrosis Factor-alpha)
+RN  - 130068-27-8 (Interleukin-10)
+RN  - 82115-62-6 (Interferon-gamma)
+SB  - IM
+MH  - Cytokines/*immunology
+MH  - Humans
+MH  - Immune Tolerance/immunology/*physiology
+MH  - Immunity, Cellular
+MH  - Inflammation/*immunology/physiopathology
+MH  - Interferon-gamma/immunology
+MH  - Interleukin-10/immunology
+MH  - Interleukins/immunology
+MH  - *Surgical Procedures, Operative
+MH  - T-Lymphocytes, Helper-Inducer/immunology
+MH  - Tumor Necrosis Factor-alpha/immunology
+MH  - Wounds and Injuries/*immunology
+RF  - 105
+EDAT- 2004/06/03 05:00
+MHDA- 2005/04/01 09:00
+CRDT- 2004/06/03 05:00
+PHST- 2004/02/13 00:00 [received]
+PHST- 2004/02/18 00:00 [accepted]
+PHST- 2004/06/03 05:00 [pubmed]
+PHST- 2005/04/01 09:00 [medline]
+PHST- 2004/06/03 05:00 [entrez]
+AID - 10.1007/s00423-004-0472-0 [doi]
+PST - ppublish
+SO  - Langenbecks Arch Surg. 2004 Nov;389(6):475-84. doi: 10.1007/s00423-004-0472-0.
+      Epub 2004 May 28.
+
+PMID- 14710378
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040430
+LR  - 20101118
+IS  - 1043-0679 (Print)
+IS  - 1043-0679 (Linking)
+VI  - 15
+IP  - 4
+DP  - 2003 Oct
+TI  - The role of pharmacology in spinal cord protection during thoracic aortic
+      reconstruction.
+PG  - 365-77
+AB  - Surgery of the thoracic aorta continues to have a significant risk of neurologic 
+      complication. Several strategies to minimize this risk are emerging.
+      Pharmacologic protection from these complications continues to be researched, but
+      at this point few medications are being used clinically. This article reviews the
+      pathophysiology of ischemic spinal cord injury and summarizes the investigational
+      pharmacology that may prevent these serious complications.
+FAU - Reece, T Brett
+AU  - Reece TB
+AD  - Department of Surgery, Division of Thoracic and Cardiovascular Surgery,
+      University of Virginia, Charlottesville, VA 22908, USA.
+FAU - Kern, John A
+AU  - Kern JA
+FAU - Tribble, Curtis G
+AU  - Tribble CG
+FAU - Cassada, David C
+AU  - Cassada DC
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Semin Thorac Cardiovasc Surg
+JT  - Seminars in thoracic and cardiovascular surgery
+JID - 8917640
+RN  - 0 (Adenosine A2 Receptor Antagonists)
+RN  - 0 (Anti-Inflammatory Agents)
+RN  - 0 (Receptor, Adenosine A2A)
+SB  - IM
+MH  - *Adenosine A2 Receptor Antagonists
+MH  - Animals
+MH  - Anti-Inflammatory Agents/*therapeutic use
+MH  - Aorta, Thoracic/pathology/*surgery
+MH  - Aortic Aneurysm, Abdominal/surgery
+MH  - Aortic Aneurysm, Thoracic/surgery
+MH  - Humans
+MH  - *Intraoperative Care
+MH  - Intraoperative Complications/etiology/physiopathology/prevention & control
+MH  - Receptor, Adenosine A2A/*therapeutic use
+MH  - Spinal Cord Injuries/etiology/physiopathology/*prevention & control
+MH  - Spinal Cord Ischemia/etiology/physiopathology/prevention & control
+MH  - *Thoracic Surgical Procedures
+RF  - 87
+EDAT- 2004/01/08 05:00
+MHDA- 2004/05/01 05:00
+CRDT- 2004/01/08 05:00
+PHST- 2004/01/08 05:00 [pubmed]
+PHST- 2004/05/01 05:00 [medline]
+PHST- 2004/01/08 05:00 [entrez]
+AID - S1043067903000881 [pii]
+PST - ppublish
+SO  - Semin Thorac Cardiovasc Surg. 2003 Oct;15(4):365-77.
+
+PMID- 12709576
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030612
+LR  - 20190607
+IS  - 1535-3702 (Print)
+IS  - 1535-3699 (Linking)
+VI  - 228
+IP  - 5
+DP  - 2003 May
+TI  - Regulation of heme oxygenase expression by cyclopentenone prostaglandins.
+PG  - 499-505
+AB  - Prostaglandins (PGs) originate from the degradation of membranar arachidonic acid
+      by cyclooxygenases (COX-1 and COX-2). The prostaglandin actions in the nervous
+      system are multiple and have been suggested to play a significant role in
+      neurodegenerative disorders. Some PGs have been reported to be toxic and,
+      interestingly, the cyclopentenone PGs have been reported to be cytoprotective at 
+      low concentration and could play a significant role in neuronal plasticity. They 
+      have been shown to be protective against oxidative stress injury; however, the
+      cellular mechanisms of protection afforded by these PGs are still unclear. It is 
+      postulated that the cascade leading to neuronal cell death in acute and chronic
+      neurodegenerative conditions, such as cerebral ischemia and Alzheimer's disease, 
+      would be mediated by free radical damage. We tested the hypothesis that the
+      neuroprotective action of cyclopentanone could be caused partially by an
+      induction of heme oxygenase 1 (HO-1). We and others have previously reported that
+      modulation of HO total activity may well have direct physiological implications
+      in stroke and in Alzheimer's disease. HO acts as an antioxidant enzyme by
+      degrading heme into iron, carbon monoxide, and biliverdin that is rapidly
+      converted into bilirubin. Using mouse primary neuronal cultures, we demonstrated 
+      that PGs of the J series induce HO-1 in a dose-dependent manner (0, 0.5, 5, 10,
+      20, and 50 micro g/ml) and that PGJ(2) and dPGJ(2) were more potent than PGA(2), 
+      dPGA(2), PGD(2), and PGE(2). No significant effects were observed for HO-2 and
+      actin expression. In regard to HO-3 expression found in rat, with its protein
+      deducted sequence highly homologous to HO-2, no detection was observed in
+      HO-2(-/-) mice, suggesting that HO-3 protein would not be present in mouse brain.
+      We are proposing that several of the protective effects of PGJ(2) could be
+      mediated through beneficial actions of heme degradation and its metabolites. The 
+      design of new mimetics based on the cyclopentenone structure could be very useful
+      as neuroprotective agents and be tested in animal models of stroke and
+      Alzheimer's disease.
+FAU - Zhuang, Hean
+AU  - Zhuang H
+AD  - Department of Anesthesiology and Critical Care Medicine, Johns Hopkins
+      University, Baltimore, Maryland 21217, USA.
+FAU - Pin, Sokhon
+AU  - Pin S
+FAU - Li, Xiaoling
+AU  - Li X
+FAU - Dore, Sylvain
+AU  - Dore S
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Exp Biol Med (Maywood)
+JT  - Experimental biology and medicine (Maywood, N.J.)
+JID - 100973463
+RN  - 0 (Isoenzymes)
+RN  - 0 (Neuroprotective Agents)
+RN  - 0 (Prostaglandins A)
+RN  - 60203-57-8 (9-deoxy-delta-9-prostaglandin D2)
+RN  - EC 1.14.14.18 (Heme Oxygenase (Decyclizing))
+RN  - K6VT5BDY9E (prostaglandin A2)
+RN  - RXY07S6CZ2 (Prostaglandin D2)
+SB  - IM
+MH  - Animals
+MH  - Cell Survival/physiology
+MH  - Cells, Cultured
+MH  - *Gene Expression Regulation, Enzymologic
+MH  - Heme Oxygenase (Decyclizing)/genetics/*metabolism
+MH  - Humans
+MH  - Isoenzymes/genetics/metabolism
+MH  - Mice
+MH  - Mice, Knockout
+MH  - Molecular Structure
+MH  - Neurons/cytology/*drug effects/metabolism
+MH  - Neuroprotective Agents/metabolism
+MH  - Prostaglandin D2/*analogs & derivatives/chemistry/*pharmacology
+MH  - Prostaglandins A/chemistry/*pharmacology
+EDAT- 2003/04/24 05:00
+MHDA- 2003/06/13 05:00
+CRDT- 2003/04/24 05:00
+PHST- 2003/04/24 05:00 [pubmed]
+PHST- 2003/06/13 05:00 [medline]
+PHST- 2003/04/24 05:00 [entrez]
+AID - 10.1177/15353702-0322805-13 [doi]
+PST - ppublish
+SO  - Exp Biol Med (Maywood). 2003 May;228(5):499-505. doi:
+      10.1177/15353702-0322805-13.
+
+PMID- 11938858
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20021203
+LR  - 20161018
+IS  - 1003-5370 (Print)
+IS  - 1003-5370 (Linking)
+VI  - 20
+IP  - 12
+DP  - 2000 Dec
+TI  - [Effects of Salvia miltiorrhiza compound injection on serum endothelin,
+      prostaglandin I2/thromboxane A2 ratio alteration following myocardial
+      ischemia-reperfusion in patients undergoing intracardiac surgery].
+PG  - 896-8
+AB  - OBJECTIVE: To investigate the effects of Salvia miltiorrhiza compound injection
+      (SMCI) on serum endothelin (ET), prostaglandin I2(PGI2), thromboxane A2(TXA2),
+      and PGI2/TXA2 ratio following myocardial ischemia-reperfusion in patients
+      undergoing intracardiac surgery. METHODS: Twenty patients, scheduled for
+      selective surgery, were randomly divided into the SMCI group (group A, 10 cases) 
+      and the control group (group B, 10 cases). SMCI 200 mg/kg was given intravenously
+      in group A before starting the operation and at the time of rewarming
+      respectively, and equivalent volumes of normal saline were administered to group 
+      B. The central venous blood samples were collected to measure the serum
+      concentration of ET, PGI2, TXA2, and PGI2/TXA2 ratio. RESULTS: ET significantly
+      reduced, while PGI2 and TXA2 obviously raised in both groups at the beginning
+      (T1) of extracorporeal cardiopulmonary bypass (CPB) (P < 0.05). After cardiac
+      ischemia-reperfusion, ET in group B increased rapidly and significantly (P <
+      0.05) and evidently higher than the corresponding value in group A 30 min after
+      reperfusion (T3) till 24 hrs after reperfusion (T5). During reperfusion, PGI2 and
+      TXA2 in group A decreased more rapidly than that of group B, while group A
+      maintained higher PGI2/TXA2 ratio than that of group B. At T5, PGI2 and TXA2 in
+      group A were significantly lower than those in group B, while PGI2/TXA2 ratio was
+      higher than that in group B (P < 0.05). The serum ET level was obviously
+      negatively correlated to PGI2/TXA2 ratio. The postoperative cardiac function
+      recovered much better in group A than in that group B. CONCLUSION: SMCI can
+      significantly reduce serum ET level, raise PGI2/TXA2 ratio, thus facilitate the
+      postoperative cardiac function recovery following intracardiac surgery under CPB.
+FAU - Shi, X
+AU  - Shi X
+AD  - First Affiliated Hospital of Hubei Medical University, Wuhan 430060.
+FAU - Xia, Z
+AU  - Xia Z
+FAU - Fang, J
+AU  - Fang J
+LA  - chi
+PT  - Clinical Trial
+PT  - English Abstract
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - China
+TA  - Zhongguo Zhong Xi Yi Jie He Za Zhi
+JT  - Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese
+      journal of integrated traditional and Western medicine
+JID - 9211576
+RN  - 0 (Drugs, Chinese Herbal)
+RN  - 0 (Endothelins)
+RN  - 0 (Plant Extracts)
+RN  - 54397-85-2 (Thromboxane B2)
+RN  - 58962-34-8 (6-Ketoprostaglandin F1 alpha)
+RN  - DCR9Z582X0 (Epoprostenol)
+SB  - IM
+MH  - 6-Ketoprostaglandin F1 alpha/blood
+MH  - Adolescent
+MH  - Adult
+MH  - Cardiopulmonary Bypass
+MH  - Child
+MH  - Child, Preschool
+MH  - Drugs, Chinese Herbal/*pharmacology
+MH  - Endothelins/*blood
+MH  - Epoprostenol/*blood
+MH  - Female
+MH  - Heart Septal Defects/blood/*surgery
+MH  - Humans
+MH  - Male
+MH  - Myocardial Reperfusion Injury/blood/*drug therapy
+MH  - Plant Extracts
+MH  - Salvia miltiorrhiza
+MH  - Thromboxane B2/*blood
+EDAT- 2002/04/10 10:00
+MHDA- 2002/12/04 04:00
+CRDT- 2002/04/10 10:00
+PHST- 2002/04/10 10:00 [pubmed]
+PHST- 2002/12/04 04:00 [medline]
+PHST- 2002/04/10 10:00 [entrez]
+PST - ppublish
+SO  - Zhongguo Zhong Xi Yi Jie He Za Zhi. 2000 Dec;20(12):896-8.
+
+PMID- 11745518
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020312
+LR  - 20181130
+IS  - 0021-9304 (Print)
+IS  - 0021-9304 (Linking)
+VI  - 58
+IP  - 6
+DP  - 2001
+TI  - In vivo evaluation of a new sealant material on a rat lung air leak model.
+PG  - 658-65
+AB  - The ability of an albumin-based hydrogel sealant (ABHS) to prevent air leakage
+      through the suture line after pulmonary surgery was evaluated by comparison with 
+      that of a fibrin glue (FG). As an air-leak model, a rat lung was used in which a 
+      standard incision was made and the burst pressure for ABHS and FG was measured.
+      The average burst pressures at time 0 for the FG and ABHS groups were 30.8+/-15.2
+      and 77.5 +/-19.1 mmHg, respectively. At Day 3, the value of ABHS (76.3 +/- 15.8
+      mmHg) was still significantly higher (P<0.05) than that of FG (60.0 +/- 21.9
+      mmHg). At Day 7, no statistical difference was observed between the FG group(71.2
+      +/- 18.6 mmHg) and the ABHS group(88.8 +/- 11.7 mmHg). Histological examination
+      of the incision at Day 14 revealed that neither sealant was not visible at the
+      incision site, and there was no evidence of adverse tissue reaction. It was
+      concluded that ABHS had good sealing properties and is an alternative to FG for
+      air leakage treatment in pulmonary surgery.
+CI  - Copyright 2001 John Wiley & Sons, Inc.
+FAU - Kobayashi, H
+AU  - Kobayashi H
+AD  - R&D Department, 3M Health Care Limited, 3-8-8 Minami-Hashimoto Sagamihara
+      Kanagawa, 229-1185 Japan.
+FAU - Sekine, T
+AU  - Sekine T
+FAU - Nakamura, T
+AU  - Nakamura T
+FAU - Shimizu, Y
+AU  - Shimizu Y
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - J Biomed Mater Res
+JT  - Journal of biomedical materials research
+JID - 0112726
+RN  - 0 (Cross-Linking Reagents)
+RN  - 0 (Fibrin Tissue Adhesive)
+RN  - 0 (Serum Albumin)
+RN  - 0 (Succinates)
+RN  - 0 (Tissue Adhesives)
+RN  - 3WJQ0SDW1A (Polyethylene Glycols)
+SB  - IM
+MH  - *Air
+MH  - Animals
+MH  - Cross-Linking Reagents
+MH  - Drug Evaluation, Preclinical
+MH  - Fibrin Tissue Adhesive
+MH  - Humans
+MH  - Lung/pathology/*surgery
+MH  - Lung Injury
+MH  - Models, Animal
+MH  - Polyethylene Glycols/*therapeutic use
+MH  - Pressure
+MH  - Rats
+MH  - Rats, Wistar
+MH  - Serum Albumin/*therapeutic use
+MH  - Succinates/*therapeutic use
+MH  - Suture Techniques
+MH  - Thoracotomy/*adverse effects
+MH  - Tissue Adhesives/*therapeutic use
+EDAT- 2001/12/18 10:00
+MHDA- 2002/03/13 10:01
+CRDT- 2001/12/18 10:00
+PHST- 2001/12/18 10:00 [pubmed]
+PHST- 2002/03/13 10:01 [medline]
+PHST- 2001/12/18 10:00 [entrez]
+AID - 10.1002/jbm.1066 [pii]
+PST - ppublish
+SO  - J Biomed Mater Res. 2001;58(6):658-65.
+
+PMID- 11208485
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20010802
+LR  - 20181130
+IS  - 1234-1010 (Print)
+IS  - 1234-1010 (Linking)
+VI  - 7
+IP  - 1
+DP  - 2001 Jan-Feb
+TI  - Significance of endothelial prostacyclin and nitric oxide in peripheral and
+      pulmonary circulation.
+PG  - 1-16
+AB  - BACKGROUND: Vasoprotective function of endothelial cells is associated, among
+      others, with biosynthesis and release of nitric oxide (NO), prostacyclin (PGI2), 
+      prostaglandin E2 (PGE2), carbon monoxide (CO) and plasminogen activator (t-PA).
+      These endothelial mediators calm down activated platelets and leukocytes, prevent
+      the occurrence of parietal thrombotic events, promote thrombolysis, maintain
+      tissue perfusion and protect vascular wall against acute damage and against
+      chronic remodeling. Endothelial dysfunction in patients suffering from
+      atherosclerosis or diabetes type 2 is associated not only with suppression in
+      release of the above mediators but also with deleterious discharge of
+      prostaglandin endoperoxides (PGH2, PGG2), superoxide anion (O2-, peroxynitrite
+      (ONOO-), and plasminogen activator inhibitor (PAI-1). We looked for mechanisms of
+      protective endothelial function, with a special respect to the differences
+      between peripheral and pulmonary circulation. METHODS: Cultured endothelial cells
+      of bovine aorta (BAEC) were used to study physiological and pharmacological
+      mechanisms of increasing free cytoplasmic calcium [Ca2+]i. A porphyrinic sensor
+      quantified the release of NO from BAEC. In cultured human umbilical vein
+      endothelial cells (HUVEC) we looked for induction by bradykinin (Bk) of mRNAs for
+      a number of enzymes. In blood perfused rat lungs we studied protective role of NO
+      against injury inferred by lipopolysaccharide on pulmonary microcirculation that 
+      was accomplished by thromboxane A2 (TXA2), platelet activating factor (PAF),
+      cysteinyl-leukotrienes (cyst-LTs) and the complement system. In vivo we analyzed 
+      the influence of Bk, perindopril and quinapril ('tissue type' angiotensin
+      converting enzyme inhibitors, ACE-Is) on endothelial function in entire
+      circulation of anaesthetized rats using a thrombolytic bioassay and EIA for
+      6-keto-PGF1 alpha and t-PA antigen. RESULTS: In BAEC Bk via kinin B2 receptors
+      raised in a concentration-dependent manner (1 pM-10 nM) free cytoplasmic calcium 
+      ions [Ca2+]i, that triggered the release of NO from BAEC. Calcium ionophore
+      (A23187, 1-100 nM) as well as receptor agonists such as adenosine diphosphate
+      (ADP, 10 nM-1 microM), adrenaline (Adr, 1-10 microM) or acetylcholine (Ach,
+      10-100 microM) produced a similar rise in endothelial [Ca2+]i as did Bk at a
+      nanomolar concentration. 'Tissue type' ACE-Is, e.g. quinapril or perindopril
+      acted through accumulation of endogenous Bk. However, the potency of ACE-I to
+      change endothelial function is by several orders of magnitude lower than that for
+      exogenous Bk. In vivo the major difference between thrombolytic actions by
+      quinapril or perindopril on one hand, and by exogenous Bk on the other was
+      longevity of thrombolysis by ACE I and a distinct hypotensive action of exogenous
+      Bk. Still, the long-lasting isolated thrombolytic effect of ACE I was mediated
+      entirely by endogenous BK as evidenced by the preventive action of icatibant, a
+      kinin B2 receptor antagonist. Moreover, in vivo the immediate thrombolysis by
+      ACE-I was mediated by PGI2 rather than by NO or t-PA, as shown by pharmacological
+      analysis, and by direct blood assays of 6-keto-PGF1 alpha and t-PA antigen.
+      Bradykinin as a mediator of pleiotropic endothelial action of several
+      cardiovascular drugs (e.g. ACE-I) may complete its mission not only through B2
+      receptor and [Ca2+]i--mediated release of PGI2 or NO. Here, we describe a new
+      route of the Bk action. Bk mediated induction of the [Ca2+]i-independent, so
+      called 'inducible', endothelial isoenzymes required for generation of CO, PGI2
+      and PGE2. After 4 hours of incubation of HUVEC with Bk (10 nM) it induced mRNAs
+      for haemooxygenase 1 (HO-1), cyclooxygenase 2 (COX-2), prostaglandin E synthase
+      (PGE-S) whereas mRNA for nitric oxide synthase 2 (NOS-2) was weakly affected. We 
+      proved also that unlike in peripheral circulation, in pulmonary circulation only 
+      NO but not PGI2 would play a protective role. In the blood-perfused lung,
+      endotoxaemia liberates lipids, such as TXA2, PAF and cyst-LTs. These toxic lipids
+      along with the activated complement mediate pulmonary damage. Pulmonary
+      endothelial nitric oxide is the only local protector against lung injury evoked
+      by the phagocytised bacterial lipopolysaccharide. SUMMARY: Summing up, in
+      peripheral circulation endogenous Bk is the most efficient activator of
+      protective endothelial function. For instance, thrombolytic action of 'tissue
+      type' ACE-I depends on the Bk-released PGI2. Acting as an agonist of endothelial 
+      B2 kinin receptors Bk rises [Ca2+]i with a subsequent activation of constitutive 
+      COX 1 and NOS-3. This is followed by an immediate release of PGI2 and NO.
+      Moreover, acting as 'microcytokine' Bk induces mRNAs for HO-1, COX-2 and PGE S,
+      the isoenzymes responsible for a delayed endothelial biosynthesis of CO, PGI2 and
+      PGE2. (ABSTRACT TRUNCATED)
+FAU - Gryglewski, R J
+AU  - Gryglewski RJ
+AD  - Jagiellonian University, 16 Grzegorzecka str., 31-531 Cracow, Poland.
+      mfgrygle@kinga.cyf-kr.edu.pl
+FAU - Chlopicki, S
+AU  - Chlopicki S
+FAU - Uracz, W
+AU  - Uracz W
+FAU - Marcinkiewicz, E
+AU  - Marcinkiewicz E
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Med Sci Monit
+JT  - Medical science monitor : international medical journal of experimental and
+      clinical research
+JID - 9609063
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Isoquinolines)
+RN  - 0 (Lipopolysaccharides)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (Tetrahydroisoquinolines)
+RN  - 31C4KY9ESH (Nitric Oxide)
+RN  - 37H9VM9WZL (Calcimycin)
+RN  - 58962-34-8 (6-Ketoprostaglandin F1 alpha)
+RN  - 61D2G4IYVH (Adenosine Diphosphate)
+RN  - DCR9Z582X0 (Epoprostenol)
+RN  - EC 1.14.14.18 (HMOX1 protein, human)
+RN  - EC 1.14.14.18 (Heme Oxygenase (Decyclizing))
+RN  - EC 1.14.14.18 (Heme Oxygenase-1)
+RN  - EC 1.14.99.1 (Cyclooxygenase 1)
+RN  - EC 1.14.99.1 (Cyclooxygenase 2)
+RN  - EC 1.14.99.1 (PTGS1 protein, human)
+RN  - EC 1.14.99.1 (PTGS2 protein, human)
+RN  - EC 1.14.99.1 (Prostaglandin-Endoperoxide Synthases)
+RN  - EC 1.14.99.1 (Ptgs1 protein, rat)
+RN  - EC 3.4.21.68 (Tissue Plasminogen Activator)
+RN  - JED5K35YGL (Iloprost)
+RN  - N9YNS0M02X (Acetylcholine)
+RN  - RJ84Y44811 (Quinapril)
+RN  - S8TIM42R2W (Bradykinin)
+RN  - SY7Q814VUP (Calcium)
+RN  - V55S2QJN2X (NG-Nitroarginine Methyl Ester)
+RN  - Y5GMK36KGY (Perindopril)
+RN  - YKH834O4BH (Epinephrine)
+SB  - IM
+MH  - 6-Ketoprostaglandin F1 alpha/blood
+MH  - Acetylcholine/pharmacology
+MH  - Achilles Tendon/blood supply
+MH  - Adenosine Diphosphate/pharmacology
+MH  - Angiotensin-Converting Enzyme Inhibitors/pharmacology
+MH  - Animals
+MH  - Aorta, Thoracic
+MH  - Bradykinin/pharmacology
+MH  - Calcimycin/pharmacology
+MH  - Calcium/metabolism
+MH  - Cattle
+MH  - Cells, Cultured
+MH  - Cyclooxygenase 1
+MH  - Cyclooxygenase 2
+MH  - Cytosol/metabolism
+MH  - Endothelium, Vascular/cytology/drug effects/*physiology
+MH  - Endotoxemia/physiopathology
+MH  - Epinephrine/pharmacology
+MH  - Epoprostenol/pharmacology
+MH  - Gene Expression Regulation, Enzymologic/drug effects
+MH  - Heme Oxygenase (Decyclizing)/genetics
+MH  - Heme Oxygenase-1
+MH  - Humans
+MH  - Iloprost/pharmacology
+MH  - Isoenzymes/genetics
+MH  - Isoquinolines/pharmacology
+MH  - Lipopolysaccharides/pharmacology
+MH  - Lung/drug effects/*physiology/physiopathology
+MH  - Membrane Proteins
+MH  - Microcirculation/drug effects/*physiology
+MH  - NG-Nitroarginine Methyl Ester/pharmacology
+MH  - Nitric Oxide/*metabolism
+MH  - Perindopril/pharmacology
+MH  - Prostaglandin-Endoperoxide Synthases/genetics
+MH  - Pulmonary Circulation/drug effects/*physiology
+MH  - Quinapril
+MH  - RNA, Messenger/genetics
+MH  - Rabbits
+MH  - Rats
+MH  - Rats, Wistar
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+MH  - *Tetrahydroisoquinolines
+MH  - Tissue Plasminogen Activator/blood
+MH  - *Transcription, Genetic/drug effects
+MH  - Umbilical Veins
+EDAT- 2001/02/24 11:00
+MHDA- 2001/08/03 10:01
+CRDT- 2001/02/24 11:00
+PHST- 2001/02/24 11:00 [pubmed]
+PHST- 2001/08/03 10:01 [medline]
+PHST- 2001/02/24 11:00 [entrez]
+AID - 1737 [pii]
+PST - ppublish
+SO  - Med Sci Monit. 2001 Jan-Feb;7(1):1-16.
+
+PMID- 10508185
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19991119
+LR  - 20190513
+IS  - 0953-8178 (Print)
+IS  - 0953-8178 (Linking)
+VI  - 11
+IP  - 10
+DP  - 1999 Oct
+TI  - Acute cellular rejection of human renal tissue by adoptive transfer of allogeneic
+      human peripheral blood mononuclear cells into chimeric rats: sequential gene
+      expression of cytokines, chemokines and cytolytic effector molecules, and their
+      regulation by CTLA-4-Ig.
+PG  - 1673-83
+AB  - T(h)1- and T(h)2-related cytokines (IFN-gamma, IL-2, IL-4, IL-10),
+      beta-chemokines (RANTES, macrophage inflammatory protein-1beta) and their
+      receptor [chemotatic cytokine receptor (CCR) 5], and the cytolytic effector
+      molecule [Fas ligand (FasL)] play an essential role in regulating and
+      co-ordinating acute renal allograft rejection. A chimeric model of acute cellular
+      rejection which involves subcapsular grafting of human renal tissue in the
+      kidneys of immunodeficient rats and subsequent i.p. infusion of allogeneic human 
+      peripheral blood mononuclear cells (PBMC) was used to study cellular infiltration
+      patterns and sequential intragraft gene expression of these key inflammatory
+      mediators. We found that while all molecules are expressed within the human renal
+      implant at specific time points following infusion of allogeneic human PBMC, peak
+      mRNA expression of IFN-gamma, IL-2, RANTES and CCR5 is associated with a phase of
+      human mononuclear infiltration and accumulation, prior to graft destruction
+      (induction phase). A short burst of FasL gene expression is found at the end of
+      induction and at the onset of graft deterioration. IL-4 mRNA, which is hardly
+      detectable, and IL-10 mRNA, which appears early and persists throughout follow-up
+      at high levels, both peak after the induction phase with the advent of graft
+      destruction. Furthermore, treatment with CTLA-4-Ig, which hardly affects
+      migration of human effector cells into graft tissue, is associated with a
+      temporary reduction in gene transcript levels for all inflammatory mediators,
+      especially IL-2 and IL-4, reduced apoptosis in the graft and amelioration of
+      tissue injury. Thus, development of acute cellular rejection in our chimeric
+      model involves a co-ordinated pattern of gene expression, in which CTLA-4-Ig
+      promotes its effects by transient inactivation of infiltrating human cells.
+FAU - Dekel, B
+AU  - Dekel B
+AD  - Department of Immunology, The Weizmann Institute of Science, Rehovot 76100,
+      Israel.
+FAU - Bocher, W O
+AU  - Bocher WO
+FAU - Marcus, H
+AU  - Marcus H
+FAU - Yussim, A
+AU  - Yussim A
+FAU - Reisner, Y
+AU  - Reisner Y
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Int Immunol
+JT  - International immunology
+JID - 8916182
+RN  - 0 (Antigens, CD)
+RN  - 0 (Antigens, Differentiation)
+RN  - 0 (CTLA-4 Antigen)
+RN  - 0 (CTLA4 protein, human)
+RN  - 0 (Chemokine CCL5)
+RN  - 0 (Chemokines)
+RN  - 0 (Ctla4 protein, mouse)
+RN  - 0 (Cytokines)
+RN  - 0 (Immunoconjugates)
+RN  - 0 (Interleukin-2)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (Receptors, CCR5)
+RN  - 0 (fas Receptor)
+RN  - 130068-27-8 (Interleukin-10)
+RN  - 207137-56-2 (Interleukin-4)
+RN  - 7D0YB67S97 (Abatacept)
+RN  - 82115-62-6 (Interferon-gamma)
+SB  - IM
+SB  - X
+MH  - Abatacept
+MH  - Animals
+MH  - Antigens, CD
+MH  - Antigens, Differentiation/*pharmacology
+MH  - CTLA-4 Antigen
+MH  - Chemokine CCL5/genetics/metabolism
+MH  - Chemokines/genetics/*metabolism
+MH  - Cytokines/genetics/*metabolism
+MH  - Graft Rejection/*immunology
+MH  - Humans
+MH  - *Immunoconjugates
+MH  - Interferon-gamma/genetics/metabolism
+MH  - Interleukin-10/genetics/metabolism
+MH  - Interleukin-2/genetics/metabolism
+MH  - Interleukin-4/genetics/metabolism
+MH  - Kidney Transplantation
+MH  - Leukocytes, Mononuclear/metabolism
+MH  - Mice
+MH  - Mice, Inbred NOD
+MH  - Mice, SCID
+MH  - RNA, Messenger/metabolism
+MH  - Rats
+MH  - Rats, Inbred Lew
+MH  - Rats, Nude
+MH  - Receptors, CCR5/genetics/*metabolism
+MH  - Th1 Cells/immunology
+MH  - Th2 Cells/immunology
+MH  - Time Factors
+MH  - Transplantation Chimera/immunology
+MH  - Transplantation, Homologous
+MH  - fas Receptor/genetics/*metabolism
+EDAT- 1999/10/03 00:00
+MHDA- 1999/10/03 00:01
+CRDT- 1999/10/03 00:00
+PHST- 1999/10/03 00:00 [pubmed]
+PHST- 1999/10/03 00:01 [medline]
+PHST- 1999/10/03 00:00 [entrez]
+AID - 10.1093/intimm/11.10.1673 [doi]
+PST - ppublish
+SO  - Int Immunol. 1999 Oct;11(10):1673-83. doi: 10.1093/intimm/11.10.1673.
+
+PMID- 10191746
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19990416
+LR  - 20161124
+IS  - 0001-6470 (Print)
+IS  - 0001-6470 (Linking)
+VI  - 70
+IP  - 1
+DP  - 1999 Feb
+TI  - The external spinal fixator does not reduce anterior column motion under axial
+      compressive loads. A mechanical in vitro study.
+PG  - 37-41
+AB  - We performed an in vitro study to investigate the effect of external spinal
+      fixation on anterior column motion under physiological axial compression loading.
+      The AO external spinal fixator (ESF) was applied to 5 human cadaveric lumbar
+      spine specimens (L3-S1) at levels L4 to S1. All specimens were tested in 4
+      configurations: i) intact, ii) ESF in a neutral position, iii) ESF in distraction
+      (12 mm), and iv) ESF in compression (8-12 mm). Cyclic sinusoidal axial
+      compressive loads from 60 to 600 N were applied for 10 cycles in each test
+      condition. The axial displacement of the load application point was recorded as
+      an indicator of anterior column axial translation. The axial motion with the
+      fixator in distraction was significantly greater than all other conditions,
+      including intact. Compression of the fixator resulted in the least axial
+      displacement. External fixation in the neutral position did not significantly
+      affect the overall axial translation, when compared to the intact state. In
+      conclusion, the external spinal fixator did not significantly reduce anterior
+      column axial translation and, in distraction, this motion exceeded that of the
+      intact specimen. Since pain relief is frequently observed during distraction of
+      the painful segment/s with the external fixator, the mechanical basis of the pain
+      relief is not well understood.
+FAU - Lund, T
+AU  - Lund T
+AD  - M.E. Muller Institute for Biomechanics, University of Berne, Switzerland.
+FAU - Rathonyi, G
+AU  - Rathonyi G
+FAU - Schlenzka, D
+AU  - Schlenzka D
+FAU - Oxland, T R
+AU  - Oxland TR
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Acta Orthop Scand
+JT  - Acta orthopaedica Scandinavica
+JID - 0370352
+SB  - IM
+MH  - Adult
+MH  - Analysis of Variance
+MH  - Cadaver
+MH  - Compressive Strength
+MH  - External Fixators/*standards
+MH  - Humans
+MH  - Lumbar Vertebrae/*injuries
+MH  - Materials Testing
+MH  - Middle Aged
+MH  - Pain/etiology
+MH  - Radiography
+MH  - *Range of Motion, Articular
+MH  - Sacrum/*injuries
+MH  - Spinal Fractures/diagnostic imaging/etiology/*physiopathology/*surgery
+MH  - Time Factors
+MH  - Walking/physiology
+EDAT- 1999/04/07 00:00
+MHDA- 1999/04/07 00:01
+CRDT- 1999/04/07 00:00
+PHST- 1999/04/07 00:00 [pubmed]
+PHST- 1999/04/07 00:01 [medline]
+PHST- 1999/04/07 00:00 [entrez]
+PST - ppublish
+SO  - Acta Orthop Scand. 1999 Feb;70(1):37-41.
+
+PMID- 9594898
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19980610
+LR  - 20041117
+IS  - 0003-4975 (Print)
+IS  - 0003-4975 (Linking)
+VI  - 65
+IP  - 5
+DP  - 1998 May
+TI  - Use of 3.5-mm acetabular reconstruction plates for internal fixation of flail
+      chest injuries.
+PG  - 1471-4
+AB  - The technique of using 3.5-mm acetabular reconstruction plates for multiple rib
+      fractures with cerclage wires has been successful. We modified it by securing the
+      reconstruction plates to the fractured ribs with cortical screws using the
+      standard AO-ASIF (Arbeitsgemeindschaft fur Osteosynthesefragen [Association for
+      the Study of Internal Fixation]) group technique. Our method for the internal
+      fixation of the unstable chest wall is described. It is relatively simple and
+      provides uniform results.
+FAU - Oyarzun, J R
+AU  - Oyarzun JR
+AD  - Section of Cardiothoracic Surgery, University of Medicine and Dentistry, New
+      Jersey Medical School, Newark, USA. oyarzujr@umdnj.edu
+FAU - Bush, A P
+AU  - Bush AP
+FAU - McCormick, J R
+AU  - McCormick JR
+FAU - Bolanowski, P J
+AU  - Bolanowski PJ
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Ann Thorac Surg
+JT  - The Annals of thoracic surgery
+JID - 15030100R
+SB  - AIM
+SB  - IM
+CIN - Ann Thorac Surg. 1998 Dec;66(6):2158. PMID: 9930526
+CIN - Ann Thorac Surg. 1999 Jun;67(6):1826-7. PMID: 10391316
+CIN - Ann Thorac Surg. 2000 Jul;70(1):342-3. PMID: 10921753
+MH  - *Bone Plates
+MH  - Bone Screws
+MH  - Bone Wires
+MH  - Cause of Death
+MH  - Curettage
+MH  - Flail Chest/*surgery
+MH  - Follow-Up Studies
+MH  - Fracture Fixation, Internal/*instrumentation/methods
+MH  - Humans
+MH  - Rib Fractures/*surgery
+MH  - Thoracic Injuries/surgery
+MH  - Thoracotomy
+EDAT- 1998/05/22 00:00
+MHDA- 1998/05/22 00:01
+CRDT- 1998/05/22 00:00
+PHST- 1998/05/22 00:00 [pubmed]
+PHST- 1998/05/22 00:01 [medline]
+PHST- 1998/05/22 00:00 [entrez]
+AID - S0003497598000903 [pii]
+PST - ppublish
+SO  - Ann Thorac Surg. 1998 May;65(5):1471-4.
+
+PMID- 8948341
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19961224
+LR  - 20041117
+IS  - 0360-3016 (Print)
+IS  - 0360-3016 (Linking)
+VI  - 36
+IP  - 3
+DP  - 1996 Oct 1
+TI  - Nonrandomized evaluation of pelvic lymph node irradiation in localized carcinoma 
+      of the prostate.
+PG  - 573-84
+AB  - PURPOSE: A great deal of controversy exists regarding the potential benefit of
+      pelvic lymph node irradiation compared with treatment to the prostate only in
+      patients with localized prostate cancer. Despite numerous reports, including a
+      randomized study, this issue has not been completely elucidated. METHODS AND
+      MATERIALS: A total of 963 patients with histologically proven localized
+      adenocarcinoma of the prostate treated with definitive radiation therapy alone
+      were analyzed. Median follow-up was 6.5 years (minimum: 2 years, maximum: 22
+      years). Pelvic lymph nodes received 40 to 55 Gy with
+      anteroposterior/posteroanterior and sometimes lateral stationary portals in 1.8
+      Gy daily fractions; an additional dose was delivered to the prostate with 120
+      degrees bilateral are rotation to complete doses of 65 to 68 Gy for Stage A2 and 
+      B tumors and 68 to 71 Gy for Stage C tumors. The same total doses were delivered 
+      with smaller fields when the prostate only was treated. RESULTS: In Stage A2
+      (T1b,c) the 10-year clinical pelvic failure rate was 16% regardless of the volume
+      irradiated or tumor differentiation. With Stage B (T2) well- or moderately
+      differentiated tumors, the 10-year pelvic failure rates were 22% when pelvic
+      lymph nodes were irradiated and 32% when prostate only was irradiated (p = 0.41).
+      With Stage A2 (T1b,c) and B (T2) poorly differentiated tumors, the 10-year pelvic
+      failure rates were 32% and 7%, respectively (p = 0.72). With clinical stage C
+      (T3) well-differentiated tumors treated with 50 to 55 Gy to pelvic lymph nodes,
+      the pelvic failure rate was 22% compared with 37% in those receiving 40 to 45 Gy 
+      (p < or = 0.07). A significant reduction in pelvic failures was noted with Stage 
+      C poorly differentiated tumors when the pelvic lymph nodes received doses higher 
+      than 50 Gy (23%) compared with lower doses (46%) (p < or = 0.01). Volume or doses
+      of irradiation did not influence incidence of distant metastases in any stage or 
+      tumor differentiation group. Disease-free survival did not correlate with volume 
+      treated in any clinical stage or tumor differentiation group. In 317 patients on 
+      whom pretreatment prostate-specific antigen levels were available, there is a
+      suggestion that those treated to the pelvic lymph nodes had a higher chemical
+      disease-free survival than those receiving prostate irradiation only. Follow-up
+      is short, and differences are not statistically significant in any of the groups.
+      Morbidity of therapy was slightly higher in patients treated to the pelvic lymph 
+      nodes, but in Stages A2 (T1b,c) and B (T2) differences are not statistically
+      significant (4 to 6%). Stage C patients treated to the pelvic lymph nodes with 50
+      Gy had a 12% incidence of Grade 2 rectosigmoid morbidity compared with 6% in
+      those treated with 40 Gy (p = 0.26). CONCLUSIONS: In this retrospective analysis,
+      pelvic lymph node irradiation did not influence local/pelvic tumor control,
+      incidence of distant metastases, or disease-free survival in patients with
+      clinical Stage A2 (T1b,c) or B (T2) localized carcinoma of the prostate. In
+      patients with Stage C (T3) disease, irradiation of the pelvic lymph nodes with
+      doses of 50 to 55 Gy resulted in a lower incidence of pelvic recurrences and
+      improved disease-free survival. Morbidity of therapy was acceptable, although
+      patients with Stage C disease had a somewhat higher incidence of Grade 2
+      rectosigmoid morbidity. Pelvic lymph node irradiation is being elucidated in
+      properly designed prospective, randomized protocols.
+FAU - Perez, C A
+AU  - Perez CA
+AD  - Radiation Oncology Center, Mallinckrodt Institute of Radiology, Washington
+      University School of Medicine, St. Louis, MO USA.
+FAU - Michalski, J
+AU  - Michalski J
+FAU - Brown, K C
+AU  - Brown KC
+FAU - Lockett, M A
+AU  - Lockett MA
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Int J Radiat Oncol Biol Phys
+JT  - International journal of radiation oncology, biology, physics
+JID - 7603616
+SB  - IM
+MH  - Adenocarcinoma/pathology/*radiotherapy/secondary
+MH  - Aged
+MH  - Disease-Free Survival
+MH  - Humans
+MH  - Lymphatic Metastasis/*radiotherapy
+MH  - Male
+MH  - Neoplasm Staging
+MH  - Pelvis
+MH  - Prostatic Neoplasms/pathology/*radiotherapy
+MH  - Radiation Injuries/epidemiology
+EDAT- 1996/10/01 00:00
+MHDA- 1996/10/01 00:01
+CRDT- 1996/10/01 00:00
+PHST- 1996/10/01 00:00 [pubmed]
+PHST- 1996/10/01 00:01 [medline]
+PHST- 1996/10/01 00:00 [entrez]
+AID - S0360301696003781 [pii]
+PST - ppublish
+SO  - Int J Radiat Oncol Biol Phys. 1996 Oct 1;36(3):573-84.
+
+PMID- 8377050
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19931021
+LR  - 20161123
+IS  - 0890-5339 (Print)
+IS  - 0890-5339 (Linking)
+VI  - 7
+IP  - 4
+DP  - 1993
+TI  - Biomechanical testing of a new design for Schanz pedicle screws.
+PG  - 375-80
+AB  - Standard 5-mm AO Schanz pedicle screws were biomechanically compared with a new
+      design, featuring 6-mm threads with a 5-mm core diameter continuous with the
+      shaft. One each of the two screw designs was surgically inserted into the
+      matching pedicles of 32 cadaveric vertebrae. The pull-out strengths of the screws
+      were then determined by recording the peak force values during extraction under
+      servohydraulic displacement control. The screws were also tested in three-point
+      bending, varying the inner load point with respect to the shaft thread junction, 
+      within a clinically anticipated range. The mean pull-out strength for the 6-mm
+      screw was 597 N, which was significantly greater than the mean strength of 405 N 
+      for the 5 mm screw (p = 0.002). The 6-mm screw was also stronger in three-point
+      bending, and failed at the point of inner load application, with no evidence of a
+      stress-raising effect at the shaft/thread junction. In contrast, the 5-mm screw
+      withstood lower loads, and failed at the shaft/thread junction, regardless of the
+      point of loading. Pedicle screw breakage and pull-out are the recognized modes of
+      failure of spinal implants, which are dependent on pedicle screw fixation. The
+      results suggest distinct biomechanical advantages for the 6-mm screw, which
+      should be used whenever clinically feasible.
+FAU - Willett, K
+AU  - Willett K
+AD  - Orthopaedic Biomechanics Research Laboratory, Sunnybrook Health Science Centre,
+      University of Toronto, Ontario, Canada.
+FAU - Hearn, T C
+AU  - Hearn TC
+FAU - Cuncins, A V
+AU  - Cuncins AV
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - J Orthop Trauma
+JT  - Journal of orthopaedic trauma
+JID - 8807705
+SB  - IM
+SB  - S
+MH  - Absorptiometry, Photon
+MH  - Aged
+MH  - Biomechanical Phenomena
+MH  - Bone Screws/classification/*standards
+MH  - Female
+MH  - Fracture Fixation, Internal/*instrumentation/methods
+MH  - Humans
+MH  - Lumbar Vertebrae/*injuries/physiology
+MH  - Male
+MH  - Materials Testing
+MH  - Prosthesis Design
+MH  - Prosthesis Failure
+MH  - Radionuclide Imaging
+MH  - Spinal Fractures/diagnostic imaging/physiopathology/*surgery
+MH  - Stress, Mechanical
+MH  - Tensile Strength
+MH  - Thoracic Vertebrae/*injuries/physiology
+MH  - Weight-Bearing
+EDAT- 1993/01/01 00:00
+MHDA- 1993/01/01 00:01
+CRDT- 1993/01/01 00:00
+PHST- 1993/01/01 00:00 [pubmed]
+PHST- 1993/01/01 00:01 [medline]
+PHST- 1993/01/01 00:00 [entrez]
+PST - ppublish
+SO  - J Orthop Trauma. 1993;7(4):375-80.
+
+PMID- 2912760
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19890303
+LR  - 20131121
+IS  - 0014-4886 (Print)
+IS  - 0014-4886 (Linking)
+VI  - 103
+IP  - 2
+DP  - 1989 Feb
+TI  - Short-term effects of intrathecal baclofen in spasticity.
+PG  - 165-72
+AB  - Six patients with long-lasting spasticity resistant to different drug therapies
+      including oral baclofen received a bolus injection of lumbar intrathecal
+      baclofen. Electromyographic (EMG) reactions of leg muscles (soleus, tibialis
+      anterior, quadriceps, and hamstrings) to standard stimuli and during attempts at 
+      voluntary activation were recorded before the drug injection and up to 3 h after 
+      the injection. Responses to joint movements, H-reflexes, ankle clonus, and
+      defensive reactions were noticeably suppressed within 30-45 min after the
+      injection and had practically disappeared after 2 h. Ankle clonus was seen only
+      in patients with H-reflexes, and clonus disappeared when the reflex responses to 
+      the n. tibialis stimuli were absent. A decrease in clonus EMG burst amplitudes
+      was accompanied by a decrease in the clonus frequency. These observations favor
+      the autooscillation hypothesis of clonus. Baclofen injection led to improvement
+      in selective voluntary activation of leg muscles in patients with residual motor 
+      control. These results suggest that execution of voluntary motor commands in the 
+      patients suffered from functionally abnormal spinal circuitry rather than from
+      changes in the descending motor commands. Intrathecal baclofen appears to be an
+      effective way of eliminating increased muscle tone and spasms which can allow for
+      voluntary motor function when it is present.
+FAU - Latash, M L
+AU  - Latash ML
+AD  - Department of Neurosurgery, Rush Medical College, Chicago, Illinois 60612.
+FAU - Penn, R D
+AU  - Penn RD
+FAU - Corcos, D M
+AU  - Corcos DM
+FAU - Gottlieb, G L
+AU  - Gottlieb GL
+LA  - eng
+GR  - AM 33189/AM/NIADDK NIH HHS/United States
+GR  - NS 15630/NS/NINDS NIH HHS/United States
+GR  - R29 NS 23593/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Exp Neurol
+JT  - Experimental neurology
+JID - 0370712
+RN  - H789N3FKE8 (Baclofen)
+SB  - IM
+MH  - Administration, Oral
+MH  - Adult
+MH  - Baclofen/administration & dosage/*therapeutic use
+MH  - Electromyography
+MH  - Humans
+MH  - Injections, Spinal
+MH  - Knee Joint/drug effects/physiopathology
+MH  - Middle Aged
+MH  - Multiple Sclerosis/physiopathology
+MH  - Muscle Spasticity/*drug therapy/etiology/physiopathology
+MH  - Spinal Cord Injuries/physiopathology
+MH  - Synapses/drug effects/physiology
+EDAT- 1989/02/01 00:00
+MHDA- 1989/02/01 00:01
+CRDT- 1989/02/01 00:00
+PHST- 1989/02/01 00:00 [pubmed]
+PHST- 1989/02/01 00:01 [medline]
+PHST- 1989/02/01 00:00 [entrez]
+AID - 0014-4886(89)90078-2 [pii]
+PST - ppublish
+SO  - Exp Neurol. 1989 Feb;103(2):165-72.
+
+PMID- 2643628
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19890309
+LR  - 20181113
+IS  - 0021-9738 (Print)
+IS  - 0021-9738 (Linking)
+VI  - 83
+IP  - 2
+DP  - 1989 Feb
+TI  - Redirection of prostaglandin endoperoxide metabolism at the platelet-vascular
+      interface in man.
+PG  - 380-5
+AB  - Prostacyclin (PGI2) is an inhibitor of platelet function in vitro. We tested the 
+      hypothesis that PGI2 is formed in biologically active concentrations at the
+      platelet-vascular interface in man and can be pharmacologically modulated to
+      enhance its inhibitory properties. This became feasible when we developed a
+      microquantitative technique that permits the measurement of eicosanoids in
+      successive 40-microliters aliquots of whole blood emerging from a bleeding time
+      wound. In 13 healthy volunteers the rate of production of thromboxane B2 (TXB2)
+      gradually increased, reaching a maximum of 421 +/- 90 (mean +/- SEM)
+      fg/microliters per s at 300 +/- 20 s. The hydration product of PGI2, 6-keto-PGF1 
+      alpha, rose earlier and to a lesser degree, reaching a peak (68 +/- 34
+      fg/microliters per s) at 168 +/- 23 s. The generation of prostaglandins PGE2 and 
+      D2 resembled that of PGI2. Whereas the threshold concentration of PGI2 for an
+      effect on platelets in vitro is approximately 30 fg/microliters, only less than 3
+      fg/microliters circulates under physiological conditions. By contrast, peak
+      concentrations of 6-keto-PGF1 alpha obtained locally after vascular damage
+      averaged 305 fg/microliters. Pharmacological regulation of PG endoperoxide
+      metabolism at the platelet-vascular interface was demonstrated by administration 
+      of a TX synthase inhibitor. The rate of production of PGI2, PGE2, and PGD2
+      increased coincident with inhibition of TXA, as reflected by three indices; the
+      concentration of TXB2 in bleeding time blood and serum, and excretion of the
+      urinary metabolite, 2,3-dinor-TXB2. These studies indicate that PGI2 is formed
+      locally in biologically effective concentrations at the site of vessel injury and
+      provide direct evidence in support of transcellular metabolism of PG
+      endoperoxides in man.
+FAU - Nowak, J
+AU  - Nowak J
+AD  - Division of Clinical Pharmacology, Vanderbilt University, Nashville, Tennessee
+      37232.
+FAU - FitzGerald, G A
+AU  - FitzGerald GA
+LA  - eng
+GR  - HL-30400/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - J Clin Invest
+JT  - The Journal of clinical investigation
+JID - 7802877
+RN  - 0 (Imidazoles)
+RN  - 0 (Prostaglandin Endoperoxides)
+RN  - 0 (Pyridines)
+RN  - 54397-85-2 (Thromboxane B2)
+RN  - 57576-52-0 (Thromboxane A2)
+RN  - 58962-34-8 (6-Ketoprostaglandin F1 alpha)
+RN  - 9J5H2VA91V (pirmagrel)
+RN  - DCR9Z582X0 (Epoprostenol)
+SB  - AIM
+SB  - IM
+MH  - 6-Ketoprostaglandin F1 alpha/blood
+MH  - Bleeding Time
+MH  - Blood Platelets/*metabolism
+MH  - Blood Vessels/*metabolism
+MH  - Epoprostenol/biosynthesis
+MH  - Gas Chromatography-Mass Spectrometry/methods
+MH  - Humans
+MH  - Imidazoles/pharmacology
+MH  - Prostaglandin Endoperoxides/*metabolism
+MH  - Pyridines/pharmacology
+MH  - Reference Values
+MH  - Thromboxane A2/biosynthesis
+MH  - Thromboxane B2/blood
+PMC - PMC303692
+EDAT- 1989/02/01 00:00
+MHDA- 1989/02/01 00:01
+CRDT- 1989/02/01 00:00
+PHST- 1989/02/01 00:00 [pubmed]
+PHST- 1989/02/01 00:01 [medline]
+PHST- 1989/02/01 00:00 [entrez]
+AID - 10.1172/JCI113895 [doi]
+PST - ppublish
+SO  - J Clin Invest. 1989 Feb;83(2):380-5. doi: 10.1172/JCI113895.
+
+PMID- 6296757
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19830317
+LR  - 20131121
+IS  - 0167-6555 (Print)
+IS  - 0167-6555 (Linking)
+VI  - 4
+IP  - 6
+DP  - 1982 Dec 17
+TI  - Leukotrienes, allergy and inflammation.
+PG  - 165-71
+AB  - Immunological and non-immunological injury induce as a result of the action of
+      the enzyme lipoxygenase the release of a series of arachidonic acid metabolites
+      known as leukotrienes. The leukotrienes play an important role in allergic and
+      inflammatory disease. Leukotrienes C4, D4 and E4 which recently have been
+      recognized as constituents of the allergic mediator slow reacting substance of
+      anaphylaxis (SRS-A) induce powerful bronchoconstriction, plasma exudation and
+      weal and flare responses. Leukotriene B4 is involved in the regulation of
+      chemotaxis, chemokinesis and other aspects of both cellular and vascular
+      inflammation. The development of specific lipoxygenase inhibitors may lead to a
+      new class of drugs for the treatment of bronchial asthma and chronic inflammatory
+      diseases.
+FAU - Nijkamp, F P
+AU  - Nijkamp FP
+FAU - Sitsen, J M
+AU  - Sitsen JM
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Netherlands
+TA  - Pharm Weekbl Sci
+JT  - Pharmaceutisch weekblad. Scientific edition
+JID - 7907992
+RN  - 0 (Arachidonic Acids)
+RN  - 0 (Leukotriene A4)
+RN  - 0 (Lipoxygenase Inhibitors)
+RN  - 0 (SRS-A)
+RN  - 1HGW4DR56D (Leukotriene B4)
+RN  - 75715-89-8 (Leukotriene E4)
+RN  - EC 1.13.11.12 (Lipoxygenase)
+SB  - IM
+MH  - Arachidonic Acids/*physiology
+MH  - Asthma/drug therapy/etiology
+MH  - Biotransformation
+MH  - Chemotaxis, Leukocyte
+MH  - Humans
+MH  - Hypersensitivity/drug therapy/*etiology
+MH  - Inflammation/drug therapy/*etiology
+MH  - Leukotriene A4
+MH  - Leukotriene B4/physiology
+MH  - Leukotriene E4
+MH  - Lipoxygenase/*metabolism
+MH  - Lipoxygenase Inhibitors
+MH  - Neutrophils/physiology
+MH  - SRS-A/analogs & derivatives/*physiology
+RF  - 44
+EDAT- 1982/12/17 00:00
+MHDA- 1982/12/17 00:01
+CRDT- 1982/12/17 00:00
+PHST- 1982/12/17 00:00 [pubmed]
+PHST- 1982/12/17 00:01 [medline]
+PHST- 1982/12/17 00:00 [entrez]
+PST - ppublish
+SO  - Pharm Weekbl Sci. 1982 Dec 17;4(6):165-71.
+
+PMID- 345933
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19780508
+LR  - 20091111
+IS  - 0003-3944 (Print)
+IS  - 0003-3944 (Linking)
+VI  - 31
+IP  - 11
+DP  - 1977 Nov
+TI  - [Traumatic rupture of the diaphragm in road accidents. (Burst diaphragm and
+      thoraco-abdominal contusions). Report of 19 cases (author's transl)].
+PG  - 929-37
+FAU - Rives, J
+AU  - Rives J
+FAU - Vaille, L
+AU  - Vaille L
+FAU - Drouard, F
+AU  - Drouard F
+FAU - Hibon, J
+AU  - Hibon J
+LA  - fre
+PT  - English Abstract
+PT  - Journal Article
+PT  - Review
+TT  - Les ruptures traumatiques du diaphragme dans les accidents du trafic. (Eclatement
+      du diaphragme et contusions thoraco-abdominales). A propos de 19 observations.
+PL  - France
+TA  - Ann Chir
+JT  - Annales de chirurgie
+JID - 0140722
+SB  - IM
+MH  - Abdominal Injuries
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Contusions
+MH  - Diaphragm/pathology
+MH  - Female
+MH  - *Hernia, Diaphragmatic, Traumatic/diagnosis/pathology/surgery
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Prognosis
+MH  - Rupture
+MH  - Thoracic Injuries
+RF  - 56
+EDAT- 1977/11/01 00:00
+MHDA- 1977/11/01 00:01
+CRDT- 1977/11/01 00:00
+PHST- 1977/11/01 00:00 [pubmed]
+PHST- 1977/11/01 00:01 [medline]
+PHST- 1977/11/01 00:00 [entrez]
+PST - ppublish
+SO  - Ann Chir. 1977 Nov;31(11):929-37.
+
+PMID- 5635605
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19680324
+LR  - 20041117
+IS  - 0007-1323 (Print)
+IS  - 0007-1323 (Linking)
+VI  - 55
+IP  - 1
+DP  - 1968 Jan
+TI  - Burst trachea.
+PG  - 77-8
+FAU - McGrath, J P
+AU  - McGrath JP
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Br J Surg
+JT  - The British journal of surgery
+JID - 0372553
+SB  - AIM
+SB  - IM
+MH  - Bronchoscopy
+MH  - Child
+MH  - Humans
+MH  - Male
+MH  - Rupture
+MH  - Thoracic Injuries/*complications/diagnosis
+MH  - Trachea/*injuries/surgery
+MH  - Tracheotomy
+EDAT- 1968/01/01 00:00
+MHDA- 1968/01/01 00:01
+CRDT- 1968/01/01 00:00
+PHST- 1968/01/01 00:00 [pubmed]
+PHST- 1968/01/01 00:01 [medline]
+PHST- 1968/01/01 00:00 [entrez]
+PST - ppublish
+SO  - Br J Surg. 1968 Jan;55(1):77-8.
