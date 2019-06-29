@@ -585,3 +585,188 @@ AND
 Возвращает 7 записей `(28035907[pmid] OR 25890296[pmid] OR 25150769[pmid] OR 24563980[pmid] OR 23996046[pmid] OR 21067776[pmid] OR 15682000[pmid])`. Весьма жаль 25150769, которые систематический обзорный обзор по MIS в хирургии травматических взрывных переломов в ГПОП; их бы наверняка взял рассматривать. (Наводит на мысль, что обзоры вообще надо искать отдельно.) Остальные все про фиксацию + ВП/КП — _возможно_, можно было бы и не брать, хотя трудно сказать.
 
 Все равно все это много, не успеть сейчас скринить. Так что пока откладываю этот запрос. Буду писать по уже имеющимся работам (плюс-минус точечные поиски).
+
+-----
+
+Подебажил-таки старый запрос, который возвращал выше в последний раз 1463 от 13.04.2018.
+
+Запрос ниже представляет собой результат дебага, заключавшегося, по сути, в разборе скобок. Возвращает же этот запрос 1464 записи.
+
+```
+(
+    (
+        (
+            (
+                (burst[Text Word] OR a2[tw] OR a3[tw] OR a4[tw] OR AOSpine[Text Word] OR AO[Text Word] OR Arbeitsgemeinschaft fur Osteosynthesefragen[Text Word])
+                AND
+                (
+                    (
+                        fractur*[Text Word] OR injur*[Text Word] OR ("Fractures, Bone"[mh:noexp] 1600/01/01: 2019/04/02[mhda]) OR dislocat*[Text Word]
+                    )
+                    AND
+                    (
+                        (thoracic[Text Word] OR lumbar[Text Word] OR ("Thoracic Vertebrae"[MeSH Terms] 1600/01/01:2019/04/02[mhda]) OR ("Lumbar Vertebrae"[MeSH Terms] 1600/01/01:2019/04/02[mhda]) OR thoraco*[Text Word])
+                        OR (t1[tw] OR t2[tw] OR t3[tw] OR t4[tw] OR t5[tw] OR t6[tw] OR t7[tw] OR t8[tw] OR t9[tw] OR t10[tw] OR t11[tw] OR t12[tw] OR th1[tw] OR th2[tw] OR th3[tw] OR th4[tw] OR th5[tw] OR th6[tw] OR th7[tw] OR th8[tw] OR th9[tw] OR th10[tw] OR th11[tw] OR th12[tw] OR d1[tw] OR d2[tw] OR d3[tw] OR d4[tw] OR d5[tw] OR d6[tw] OR d7[tw] OR d8[tw] OR d9[tw] OR d10[tw] OR d11[tw] OR d12[tw] OR l1[tw] OR l2[tw] OR l3[tw] OR l4[tw] OR l5[tw] OR l6[tw])
+                    )
+                )
+            )
+            NOT
+            (
+                ((case reports[Publication Type] 1600/01/01: 2019/04/02[mhda]) OR "case report"[Title])
+                NOT
+                ((((systematic review[ti] OR systematic literature review[ti] OR systematic scoping review[ti] OR systematic narrative review[ti] OR systematic qualitative review[ti] OR systematic evidence review[ti] OR systematic quantitative review[ti] OR systematic meta-review[ti] OR systematic critical review[ti] OR systematic mixed studies review[ti] OR systematic mapping review[ti] OR systematic cochrane review[ti] OR systematic search and review[ti] OR systematic integrative review[ti]) NOT (comment[pt] 1600/01/01: 2019/04/02[mhda]) NOT (protocol[ti] OR protocols[ti])) NOT (MEDLINE [subset] 1600/01/01: 2019/04/02[mhda])) OR (Cochrane Database Syst Rev[ta] AND (review[pt] 1600/01/01: 2019/04/02[mhda])) OR (systematic review[pt] 1600/01/01: 2019/04/02[mhda]))
+            )
+        )
+        NOT
+        (
+            ((Animals[mh:noexp] not Humans[mh:noexp]) 1600/01/01:2019/04/02[mhda])
+        )
+    )
+    AND
+    1600/01/01:2019/04/02[crdt]
+)
+```
+
+1464 вместо 1463 — за счет этой записи (как выясняю: [изначальные 1462 у меня сохранены в публичную подборку](https://www.ncbi.nlm.nih.gov/sites/myncbi/1bGT_5WlUb855/collections/58129193/public/), и через расширенный поиск я дополняю эту подборку до результатов запроса):
+
+```
+PMID- 29366930
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190423
+LR  - 20190423
+IS  - 1090-2139 (Electronic)
+IS  - 0889-1591 (Linking)
+VI  - 69
+DP  - 2018 Mar
+TI  - Sustained reversal of central neuropathic pain induced by a single intrathecal
+      injection of adenosine A2A receptor agonists.
+PG  - 470-479
+LID - S0889-1591(18)30004-7 [pii]
+LID - 10.1016/j.bbi.2018.01.005 [doi]
+AB  - Central neuropathic pain is a debilitating outcome of spinal cord injury (SCI)
+      and current treatments to alleviate this pain condition are ineffective. A
+      growing body of literature suggests that activating adenosine A2A receptors
+      (A2ARs) decreases the production of proinflammatory cytokines and increases the
+      production of anti-inflammatory cytokines. Here, the effect of administering
+      intrathecal A2AR agonists on central neuropathic pain was measured using hindpaw 
+      mechanical allodynia in a rat model of SCI termed spinal neuropathic avulsion
+      pain (SNAP). Other models of SCI cause extensive damage to the spinal cord,
+      resulting in paralysis and health problems. SNAP rats with unilateral low
+      thoracic (T13)/high lumbar (L1) dorsal root avulsion develop below-level
+      bilateral allodynia, without concomitant motor or health problems. A single
+      intrathecal injection of the A2AR agonist
+      2-p-(2-carboxyethyl)phenethylamino-5'-N-ethylcarboxamido adenosine HCl (CGS21680)
+      reversed SCI-induced allodynia for at least 6weeks. The reversal is likely in
+      part mediated by interleukin (IL)-10, as intrathecally administering neutralizing
+      IL-10 antibodies 1week after CGS21680 abolished the anti-allodynic effect of
+      CGS21680. Dorsal spinal cord tissue from the ipsilateral site of SCI (T13/L1) was
+      assayed 1 and 6weeks after CGS21680 for IL-10, CD11b, and tumor necrosis factor
+      (TNF) gene expression. CGS21680 treatment did not change IL-10 gene expression
+      but did significantly decrease CD11b and TNF gene expression at both timepoints. 
+      A second A2AR agonist,
+      4-(3-(6-amino-9-(5-cyclopropylcarbamoyl-3,4-dihydroxytetrahydrofuran-2-yl)-9H-pur
+      in-2-yl)prop-2-ynyl)piperidine-1-carboxylic acid methyl ester (ATL313), was also 
+      able to significantly prevent and reverse SCI-induced allodynia for several weeks
+      after a single intrathecal injection, providing converging lines of evidence of
+      A2AR involvement. The enduring pain reversal after a single intrathecal injection
+      of A2AR agonists suggests that A2AR agonists could be exciting new candidates for
+      treating SCI-induced central neuropathic pain.
+CI  - Copyright (c) 2018 Elsevier Inc. All rights reserved.
+FAU - Kwilasz, Andrew J
+AU  - Kwilasz AJ
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States. Electronic address:
+      andrew.kwilasz@colorado.edu.
+FAU - Ellis, Amanda
+AU  - Ellis A
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States.
+FAU - Wieseler, Julie
+AU  - Wieseler J
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States.
+FAU - Loram, Lisa
+AU  - Loram L
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States.
+FAU - Favret, Jacob
+AU  - Favret J
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States.
+FAU - McFadden, Andrew
+AU  - McFadden A
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States.
+FAU - Springer, Kendra
+AU  - Springer K
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States.
+FAU - Falci, Scott
+AU  - Falci S
+AD  - Craig Hospital, 3425 S Clarkson St, Englewood, CO 80113, United States.
+FAU - Rieger, Jayson
+AU  - Rieger J
+AD  - PBM Capital Group, Charlottesville, VA 22902, United States.
+FAU - Maier, Steven F
+AU  - Maier SF
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States.
+FAU - Watkins, Linda R
+AU  - Watkins LR
+AD  - Department of Psychology and Neuroscience, Center for Neuroscience, University of
+      Colorado-Boulder, Boulder, CO 80309-0345, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20180131
+PL  - Netherlands
+TA  - Brain Behav Immun
+JT  - Brain, behavior, and immunity
+JID - 8800478
+RN  - 0 (Adenosine A2 Receptor Agonists)
+RN  - 0 (Antibodies, Neutralizing)
+RN  - 0 (Phenethylamines)
+RN  - 120225-54-9 (2-(4-(2-carboxyethyl)phenethylamino)-5'-N-ethylcarboxamidoadenosine)
+RN  - 130068-27-8 (Interleukin-10)
+RN  - K72T3FS567 (Adenosine)
+SB  - IM
+MH  - Adenosine/*analogs & derivatives/therapeutic use
+MH  - Adenosine A2 Receptor Agonists/*therapeutic use
+MH  - Animals
+MH  - Antibodies, Neutralizing/pharmacology
+MH  - Hyperalgesia/*drug therapy/etiology/physiopathology
+MH  - Interleukin-10/immunology
+MH  - Male
+MH  - Neuralgia/*drug therapy/etiology/physiopathology
+MH  - Phenethylamines/*therapeutic use
+MH  - Rats
+MH  - Rats, Sprague-Dawley
+MH  - Spinal Cord Injuries/*complications/physiopathology
+OTO - NOTNLM
+OT  - *ATL313
+OT  - *Avulsion
+OT  - *CGS21680
+OT  - *Mechanical allodynia
+OT  - *Rats
+OT  - *Spinal cord injury
+EDAT- 2018/01/26 06:00
+MHDA- 2019/04/24 06:00
+CRDT- 2018/01/26 06:00
+PHST- 2016/06/28 00:00 [received]
+PHST- 2018/01/09 00:00 [revised]
+PHST- 2018/01/11 00:00 [accepted]
+PHST- 2018/01/26 06:00 [pubmed]
+PHST- 2019/04/24 06:00 [medline]
+PHST- 2018/01/26 06:00 [entrez]
+AID - S0889-1591(18)30004-7 [pii]
+AID - 10.1016/j.bbi.2018.01.005 [doi]
+PST - ppublish
+SO  - Brain Behav Immun. 2018 Mar;69:470-479. doi: 10.1016/j.bbi.2018.01.005. Epub 2018
+      Jan 31.
+```
+
+Но этот, отдебаженный запрос — сейчас смотрю на него — совершенно корректен, а значит и 1462 (1463, 1464) — совершенно валидны.
+
+Остается разобраться, как сюда проникают эти две записи, и запрос смело можно брать в работу дальше.
+
+Ура!
