@@ -18,7 +18,7 @@ with health.",/pubmed/27712611
 6053,,,,,"Analgesia/nociception monitoring fo
 r opioid guidance: meta-analysis of
  randomized clinical trials.",/pubmed/27807964
-6052,,,,,"Ultrasonography for neuraxial block
+6052,X,,,,"Ultrasonography for neuraxial block
 s: a review of the evidence.",/pubmed/27827521
 6051,,,,,"Statins in critical care: to give o
 r not to give?",/pubmed/27922256
@@ -44,7 +44,7 @@ is.",/pubmed/28370317
 6045,,,,,"Extracorporeal CO2 removal in criti
 cally ill patients: a systematic re
 view.",/pubmed/28402093
-6044,,,,,"Effect of anesthesia methods on pos
+6044,X,X,,,"Effect of anesthesia methods on pos
 toperative major adverse cardiac ev
 ents and mortality after non-cardia
 c surgeries: a systematic review an
@@ -118,11 +118,11 @@ omarkers in Neovascular Age-Related
 6026,,,,,"Management of Choroidal Neovascular
  Membranes Associated with Choroida
 l Nevi.",/pubmed/31047303
-6025,,,,,"Percutaneous radiofrequency ablatio
+6025,X,,,,"Percutaneous radiofrequency ablatio
 n of painful spinal metastasis: a s
 ystematic literature assessment of 
 analgesia and safety.",/pubmed/29308694
-6024,,,,,"The Effect of Ketorolac on Thoracol
+6024,X,,,,"The Effect of Ketorolac on Thoracol
 umbar Posterolateral Fusion: A Syst
 ematic Review and Meta-Analysis.",/pubmed/29351095
 6023,,,,,"Magnetic hyperthermia therapy for t
@@ -186,7 +186,7 @@ ms-a Systematic Review and Critical
 ation between Notch1 expression and
  the patients with digestive tract 
 cancers.",/pubmed/30043645
-6004,,,,,"Measurement Techniques and Utility 
+6004,X,,,,"Measurement Techniques and Utility 
 of Hounsfield Unit Values for Asses
 sment of Bone Quality Prior to Spin
 al Instrumentation: A Review of Cur
@@ -276,7 +276,7 @@ s.",/pubmed/30480855
 rofiles in myocardial infarction: a
  systematic review and meta-analysi
 s.",/pubmed/30482209
-5979,,,,,"Measuring outcomes following tibial
+5979,,X,,,"Measuring outcomes following tibial
  fracture.",/pubmed/30482409
 5978,,,,,"Exercise for the prevention of oste
 oporosis in postmenopausal women: a
@@ -469,7 +469,7 @@ ession by Food Group Consumption.",/pubmed/31340602
  Relationship Between Bilingualism,
  Cognitive Decline, and the Onset o
 f Dementia.",/pubmed/31340609
-5928,,,,,"Biomarkers Associated with Idiopath
+5928,,X,,,"Biomarkers Associated with Idiopath
 ic Frozen Shoulder: A Systematic Re
 view.",/pubmed/31340682
 5927,,,,,"Pharmacodynamics of current and eme
@@ -479,7 +479,7 @@ r.",/pubmed/31340683
 echniques to determine tissue perfu
 sion in patients with peripheral ar
 terial disease.",/pubmed/31340684
-5925,,,,,"Long-term efficacy and cost-effecti
+5925,,X,,,"Long-term efficacy and cost-effecti
 veness of infliximab as first-line 
 treatment in rheumatoid arthritis: 
 systematic review and meta-analysis
@@ -490,7 +490,7 @@ systematic review and meta-analysis
 5923,,,,,"Effect of leukocytes included in pl
 atelet concentrates on cell behavio
 ur.",/pubmed/31340699
-5922,,,,,"Comparative Effectiveness of Altern
+5922,,X,,,"Comparative Effectiveness of Altern
 ative Dosing Regimens of Hyaluronic
  Acid Injections for Knee Osteoarth
 ritis: A Systematic Review.",/pubmed/31340715
