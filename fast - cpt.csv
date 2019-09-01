@@ -1,0 +1,270 @@
+,code,label
+1,23500,Closed treatment of clavicular fracture; without manipulation
+2,23515,"Open treatment of clavicular fracture, includes internal fixation when performed"
+3,23520,Closed treatment of sternoclavicular dislocation; without manipulation
+4,23530,"Open treatment of sternoclavicular dislocation, acute or chronic;"
+5,23532,"Open treatment of sternoclavicular dislocation, acute or chronic; with fascial graft(includes obtaining graft)"
+6,23540,Closed treatment of acromioclavicular dislocation; without manipulation
+7,23550,"Open treatment of acromioclavicular dislocation, acute or chronic"
+8,23552,"Open treatment of acromioclavicular dislocation, acute or chronic; with fascial graft(includes obtaining graft)"
+9,23570,Closed treatment of scapular fracture; without manipulation
+10,23585,"Open treatment of scapular fracture (body, glenoid or acromion), includes internalfixation when performed"
+11,23600,Closed treatment of proximal humeral (surgical or anatomical neck) fracture; withoutmanipulation
+12,23615,"Open treatment of proximal humeral (surgical or anatomical neck) fracture, includesinternal fixation, when performed, includes repair of tuberosity(s) when performed"
+13,23616,"Open treatment of proximal humeral (surgical or anatomical neck) fracture, includesinternal fixation, when performed, includes repair of tuberosity(s) when performed; withproximal humeral prosthetic replacement"
+14,23620,Closed treatment of greater humeral tuberosity fracture; without manipulation
+15,23630,"Open treatment of greater humeral tuberosity fracture, includes internal fixation whenperformed"
+16,23660,Open treatment of acute shoulder dislocation
+17,23670,"Open treatment of shoulder dislocation, with fracture of greater humeral tuberosity,includes internal fixation when performed"
+18,23680,"Open treatment of shoulder dislocation, with surgical or anatomical neck fracture,includes internal fixation when performed"
+19,24500,Closed treatment of humeral shaft fracture; without manipulation
+20,24515,"Open treatment of humeral shaft fracture with plate/screws, with or without cerclage"
+21,24516,"Treatment of humeral shaft fracture, with insertion of intramedullary implant, with orwithout cerclage and/or locking screws"
+22,24530,"Closed treatment of supracondylar or transcondylar humeral fracture, with or withoutintercondylar extension; without manipulation"
+23,24538,"Percutaneous skeletal fixation of supracondylar or transcondylar humeral fracture, withor without intercondylar extension"
+24,24545,"Open treatment of humeral supracondylar or transcondylar fracture, includes internalfixation, when performed; without intercondylar extension"
+25,24546,"Open treatment of humeral supracondylar or transcondylar fracture, includes internalfixation, when performed; with intercondylar extension"
+26,24560,"Closed treatment of humeral epicondylar fracture, medial or lateral; withoutmanipulation"
+27,24566,"Percutaneous skeletal fixation of humeral epicondylar fracture, medial or lateral, withmanipulation"
+28,24575,"Open treatment of humeral epicondylar fracture, medial or lateral, includes internalfixation when performed"
+29,24576,"Closed treatment of humeral condylar fracture, medial or lateral; without manipulation"
+30,24579,"Open treatment of humeral condylar fracture, medial or lateral, includes internalfixation when performed"
+31,24582,"Percutaneous skeletal fixation of humeral condylar fracture, medial or lateral, withmanipulation"
+32,24586,Open treatment of periarticular fracture and/or dislocation of the elbow (fracture distalhumerus and proximal ulna and/or proximal radius)
+33,24587,Open treatment of periarticular fracture and/or dislocation of the elbow (fracture distalhumerus and proximal ulna and/or proximal radius); with implant arthroplasty
+34,24615,Open treatment of acute or chronic elbow dislocation
+35,24635,"Open treatment of Monteggia type of fracture dislocation at elbow (fracture proximalend of ulna with dislocation of radial head), includes internal fixation when performed"
+36,24650,Closed treatment of radial head or neck fracture; without manipulation
+37,24665,"Open treatment of radial head or neck fracture, includes internal fixation or radial headexcision when performed;"
+38,24666,"Open treatment of radial head or neck fracture, includes internal fixation or radial headexcision when performed; with radial head prosthetic replacement"
+39,24670,"Closed treatment of ulnar fracture, proximal end (e.g., olecranon or coronoid process[es]); without manipulation"
+40,24685,"Open treatment of ulnar fracture, proximal end (e.g., olecranon or coronoid process[es]), includes internal fixation when performed"
+41,25500,Closed treatment of radial shaft fracture; without manipulation
+42,25515,"Open treatment of radial shaft fracture, includes internal fixation when performed"
+43,25525,"Open treatment of radial shaft fracture, includes internal fixation when performed, andclosed treatment of distal radioulnar joint dislocation (Galeazzi fracture/ dislocation),includes percutaneous skeletal fixation when performed"
+44,25526,"Open treatment of radial shaft fracture, includes internal fixation, when performed, andopen treatment of distal radioulnar joint dislocation (Galeazzi fracture/ dislocation),includes internal fixation when performed, includes repair of triangular fibrocartilagecomplex"
+45,25530,Closed treatment of ulnar shaft fracture; without manipulation
+46,25545,"Open treatment of ulnar shaft fracture, includes internal fixation when performed"
+47,25560,Closed treatment of radial and ulnar shaft fractures; without manipulation
+48,25574,"Open treatment of radial AND ulnar shaft fractures, with internal fixation whenperformed; of radius OR ulna"
+49,25575,"Open treatment of radial AND ulnar shaft fractures, with internal fixation whenperformed; of radius AND ulna"
+50,25600,"Closed treatment of distal radial fracture (e.g., Colles or Smith type) or epiphysealseparation, includes closed treatment of fracture of ulnar styloid when performed;without manipulation"
+51,25606,Percutaneous skeletal fixation of distal radial fracture or epiphyseal separation
+52,25607,"Open treatment of distal radial extra-articular fracture or epiphyseal separation, withinternal fixation"
+53,25608,Open treatment of distal radial intra-articular fracture or epiphyseal separation; withinternal fixation of 2 fragments
+54,25609,Open treatment of distal radial intra-articular fracture or epiphyseal separation; withinternal fixation of 3 or more fragments
+55,25622,Closed treatment of carpal scaphoid (navicular) fracture; without manipulation
+56,25628,"Open treatment of carpal scaphoid (navicular) fracture, includes internal fixation whenperformed"
+57,25630,"Closed treatment of carpal bone fracture (excluding carpal scaphoid [navicular]);without manipulation, each bone"
+58,25645,"Open treatment of carpal bone fracture (other than carpal scaphoid [navicular]), eachbone"
+59,25650,Closed treatment of ulnar styloid fracture
+60,25651,Percutaneous skeletal fixation of ulnar styloid fracture
+61,25652,Open treatment of ulnar styloid fracture
+62,25670,"Open treatment of radiocarpal or intercarpal dislocation, 1 or more bones"
+63,25671,Percutaneous skeletal fixation of distal radioulnar dislocation
+64,25676,"Open treatment of distal radioulnar dislocation, acute or chronic"
+65,25685,Open treatment of trans-scaphoperilunar type of fracture dislocation
+66,25695,Open treatment of lunate dislocation
+67,27193,"Closed treatment of pelvic ring fracture, dislocation, diastasis or subluxation; withoutmanipulation"
+68,27200,Closed treatment of coccygeal fracture
+69,27202,Open treatment of coccygeal fracture
+70,27215,"Open treatment of iliac spine(s), tuberosity avulsion, or iliac wing fracture(s), unilateral,for pelvic bone fracture patterns that do not disrupt the pelvic ring, includes internalfixation when performed"
+71,27216,"Percutaneous skeletal fixation of posterior pelvic bone fracture and/or dislocation,racture patterns that disrupt the pelvic ring, unilateral (includes ipsilateral ilium,sacroiliac joint and/or sacrum)"
+72,27217,"Open treatment of anterior pelvic bone fracture and/or dislocation for fracture patterthat disrupt the pelvic ring, unilateral, includes internal fixation when performed(includes pubic symphysis and/or ipsilateral superior/inferior rami)"
+73,27218,"Open treatment of posterior pelvic bone fracture and/or dislocation, for fracturepatterns that disrupt the pelvic ring, unilateral, includes internal fixation whenperformed (includes ipsilateral ilium, sacroiliac joint and/or sacrum)"
+74,27220,Closed treatment of acetabulum (hip socket) fracture(s); without manipulation
+75,27226,"Open treatment of posterior or anterior acetabular wall fracture, with internal fixation"
+76,27227,"Open treatment of acetabular fracture(s) involving anterior or posterior (one) column ora fracture running transversely across the acetabulum, with internal fixation"
+77,27228,"Open treatment of acetabular fracture(s) involving anterior and posterior (two)columns, includes T-fracture and both column fracture with complete articulardetachment, or single column or transverse fracture with associated acetabular wallfracture, with internal fixation"
+78,27230,"Closed treatment of femoral fracture, proximal end, neck; without manipulation"
+79,27235,"Percutaneous skeletal fixation of femoral fracture, proximal end, neck"
+80,27236,"Open treatment of femoral fracture, proximal end, neck, internal fixation or prostheticreplacement"
+81,27238,"Closed treatment of intertrochanteric, peritrochanteric, or subtrochanteric femoralfracture; without manipulation"
+82,27244,"Treatment of intertrochanteric, peritrochanteric, or subtrochanteric femoral fracture;with plate/screw type implant, with or without cerclage"
+83,27245,"Treatment of intertrochanteric, peritrochanteric, or subtrochanteric femoral fracture;with intramedullary implant, with or without interlocking screws and/or cerclage"
+84,27246,"Closed treatment of greater trochanteric fracture, without manipulation"
+85,27248,"Open treatment of greater trochanteric fracture, includes internal fixation whenperformed"
+86,27253,"Open treatment of hip dislocation, traumatic, without internal fixation"
+87,27254,"Open treatment of hip dislocation, traumatic, with acetabular wall and femoral headfracture, with or without internal or external fixation"
+88,27256,"Treatment of spontaneous hip dislocation (developmental, including congenital orpathological), by abduction, splint or traction; without anesthesia, without manipulation"
+89,27258,"Open treatment of spontaneous hip dislocation (developmental, including congenital orpathological), replacement of femoral head in acetabulum (including tenotomy), etc.)"
+90,27259,"Open treatment of spontaneous hip dislocation (developmental, including congenital orpathological), replacement of femoral head in acetabulum (including tenotomy, etc);with femoral shaft shortening"
+91,27500,"Closed treatment of femoral shaft fracture, without manipulation"
+92,27501,"Closed treatment of supracondylar or transcondylar femoral fracture with or withoutintercondylar extension, without manipulation"
+93,27506,"Open treatment of femoral shaft fracture, with or without external fixation, with insertionof intramedullary implant, with or without cerclage and/or locking screws"
+94,27507,"Open treatment of femoral shaft fracture with plate/screws, with or without cerclage"
+95,27508,"Closed treatment of femoral fracture, distal end, medial or lateral condyle, withoutmanipulation"
+96,27509,"Percutaneous skeletal fixation of femoral fracture, distal end, medial or lateral condyle,or supracondylar or transcondylar, with or without intercondylar extension, or distalfemoral epiphyseal separation"
+97,27511,"Open treatment of femoral supracondylar or transcondylar fracture withoutintercondylar extension, includes internal fixation when performed"
+98,27513,"Open treatment of femoral supracondylar or transcondylar fracture with intercondylarextension, includes internal fixation when performed"
+99,27514,"Open treatment of femoral fracture, distal end, medial or lateral condyle, includesinternal fixation when performed"
+100,27516,Closed treatment of distal femoral epiphyseal separation; without manipulation
+101,27519,"Open treatment of distal femoral epiphyseal separation, includes internal fixation whenperformed"
+102,27520,"Closed treatment of patellar fracture, without manipulation"
+103,27524,"Open treatment of patellar fracture, with internal fixation and/or partial or completepatellectomy and soft tissue repair"
+104,27530,"Closed treatment of tibial fracture, proximal (plateau); without manipulation"
+105,27535,"Open treatment of tibial fracture, proximal (plateau); unicondylar, includes internalfixation when performed"
+106,27536,"Open treatment of tibial fracture, proximal (plateau); bicondylar, with or without internalfixation"
+107,27540,"Open treatment of intercondylar spine(s) and/or tuberosity fracture(s) of the knee,includes internal fixation when performed"
+108,27556,"Open treatment of knee dislocation, includes internal fixation when performed; withoutprimary ligamentous repair or augmentation/reconstruction"
+109,27557,"Open treatment of knee dislocation, includes internal fixation when performed; withprimary ligamentous repair"
+110,27558,"Open treatment of knee dislocation, includes internal fixation when performed; withprimary ligamentous repair, with augmentation/reconstruction"
+111,27566,"Open treatment of patellar dislocation, with or without partial or total patellectomy"
+112,27750,Closed treatment of tibial shaft fracture (with or without fibular fracture); withoutmanipulation
+113,27756,"Percutaneous skeletal fixation of tibial shaft fracture (with or without fibular fracture)(e.g., pins or screws)"
+114,27758,"Open treatment of tibial shaft fracture (with or without fibular fracture), withplate/screws, with or without cerclage"
+115,27759,"Treatment of tibial shaft fracture (with or without fibular fracture) by intramedullaryimplant, with or without interlocking screws and/or cerclage"
+116,27760,Closed treatment of medial malleolus fracture; without manipulation
+117,27766,"Open treatment of medial malleolus fracture, includes internal fixation when performed"
+118,27769,"Open treatment of posterior malleolus fracture, includes internal fixation whenperformed"
+119,27780,Closed treatment of proximal fibula or shaft fracture; without manipulation
+120,27784,"Open treatment of proximal fibula or shaft fracture, includes internal fixation whenperformed"
+121,27786,Closed treatment of distal fibular fracture (lateral malleolus); without manipulation
+122,27792,"Open treatment of distal fibular fracture (lateral malleolus), includes internal fixationwhen performed"
+123,27808,"Closed treatment of bimalleolar ankle fracture (e.g., lateral and medial malleoli, orlateral and posterior malleoli or medial and posterior malleoli); without manipulation"
+124,27814,"Open treatment of bimalleolar ankle fracture (e.g., lateral and medial malleoli, or lateraland posterior malleoli, or medial and posterior malleoli), includes internal fixation whenperformed"
+125,27816,Closed treatment of trimalleolar ankle fracture; without manipulation
+126,27822,"Open treatment of trimalleolar ankle fracture, includes internal fixation whenperformed, medial and/or lateral malleolus; without fixation of posterior lip"
+127,27823,"Open treatment of trimalleolar ankle fracture, includes internal fixation whenperformed, medial and/or lateral malleolus; with fixation of posterior lip"
+128,27824,"Closed treatment of fracture of weight bearing articular portion of distal tibia (e.g., pilonor tibial plafond), with or without anesthesia; without manipulation"
+129,27826,"Open treatment of fracture of weight bearing articular surface/portion of distal tibia(e.g., pilon or tibial plafond), with internal fixation when performed; of fibula only"
+130,27827,"Open treatment of fracture of weight bearing articular surface/portion of distal tibia(e.g., pilon or tibial plafond), with internal fixation when performed; of tibia only"
+131,27828,"Open treatment of fracture of weight bearing articular surface/portion of distal tibia (e.g.,pilon or tibial plafond), with internal fixation when performed; of both tibia and fibula"
+132,27829,"Open treatment of distal tibiofibular joint (syndesmosis) disruption, includes internalfixation when performed"
+133,27832,"Open treatment of proximal tibiofibular joint dislocation, includes internal fixation whenperformed, or with excision of proximal fibula"
+134,27846,"Open treatment of ankle dislocation, with or without percutaneous skeletal fixation;without repair or internal fixation"
+135,27848,"Open treatment of ankle dislocation, with or without percutaneous skeletal fixation; withrepair or internal or external fixation"
+136,28400,Closed treatment of calcaneal fracture; without manipulation
+137,28406,"Percutaneous skeletal fixation of calcaneal fracture, with manipulation"
+138,28415,"Open treatment of calcaneal fracture, includes internal fixation when performed;"
+139,28420,"Open treatment of calcaneal fracture, includes internal fixation when performed; withprimary iliac or other autogenous bone graft (includes obtaining graft)"
+140,28430,Closed treatment of talus fracture; without manipulation
+141,28436,"Percutaneous skeletal fixation of talus fracture, with manipulation"
+142,28445,"Open treatment of talus fracture, includes internal fixation when performed"
+143,28450,"Treatment of tarsal bone fracture (except talus and calcaneus); without manipulation,each"
+144,28456,"Percutaneous skeletal fixation of tarsal bone fracture (except talus and calcaneus),with manipulation, each"
+145,28465,"Open treatment of tarsal bone fracture (except talus and calcaneus), includes internalfixation when performed, each"
+146,28470,"Closed treatment of metatarsal fracture; without manipulation, each"
+147,28476,"Percutaneous skeletal fixation of metatarsal fracture, with manipulation, each"
+148,28485,"Open treatment of metatarsal fracture, includes internal fixation when performed, each"
+149,28490,"Closed treatment of fracture great toe, phalanx or phalanges; without manipulation"
+150,28496,"Percutaneous skeletal fixation of fracture great toe, phalanx or phalanges, withmanipulation"
+151,28505,"Open treatment of fracture, great toe, phalanx or phalanges, includes internal fixationwhen performed"
+152,28510,"Closed treatment of fracture, phalanx or phalanges, other than great toe; withoutmanipulation, each"
+153,28525,"Open treatment of fracture, phalanx or phalanges, other than great toe, includesinternal fixation when performed, each"
+154,28530,Closed treatment of sesamoid fracture
+155,28531,"Open treatment of sesamoid fracture, with or without internal fixation"
+156,28546,"Percutaneous skeletal fixation of tarsal bone dislocation, other than talotarsal, withmanipulation"
+157,28555,"Open treatment of tarsal bone dislocation, includes internal fixation when performed"
+158,28576,"Percutaneous skeletal fixation of talotarsal joint dislocation, with manipulation"
+159,28585,"Open treatment of talotarsal joint dislocation, includes internal fixation when performed"
+160,28606,"Percutaneous skeletal fixation of tarsometatarsal joint dislocation, with manipulation"
+161,28615,"Open treatment of tarsometatarsal joint dislocation, includes internal fixation whenperformed"
+162,28636,"Percutaneous skeletal fixation of metatarsophalangeal joint dislocation, withmanipulation"
+163,28645,"Open treatment of metatarsophalangeal joint dislocation, includes internal fixationwhen performed"
+164,28666,"Percutaneous skeletal fixation of interphalangeal joint dislocation, with manipulation"
+165,28675,"Open treatment of interphalangeal joint dislocation, includes internal fixation whenperformed"
+166,23480,"Osteotomy, clavicle, with or without internal fixation"
+167,23485,"Osteotomy, clavicle, with or without internal fixation; with bone graft for nonunion ormalunion (includes obtaining graft and/or necessary fixation)"
+168,24400,"Osteotomy, humerus, with or without internal fixation"
+169,24430,"Repair of nonunion or malunion, humerus; without graft (e.g., compression technique)"
+170,24435,"Repair of nonunion or malunion, humerus; with iliac or other autograft (includesobtaining graft)"
+171,25400,"Repair of nonunion or malunion, radius OR ulna; without graft (e.g., compressiontechnique)"
+172,25405,"Repair of nonunion or malunion, radius OR ulna; with autograft (includes obtaininggraft)"
+173,25415,"Repair of nonunion or malunion, radius AND ulna; without graft (e.g., compressiontechnique)"
+174,25420,"Repair of nonunion or malunion, radius AND ulna; with autograft (includes obtaininggraft)"
+175,25425,Repair of defect with autograft; radius OR ulna
+176,25426,Repair of defect with autograft; radius AND ulna
+177,27161,"Osteotomy, femoral neck (separate procedure)"
+178,27165,"Osteotomy, intertrochanteric or subtrochanteric including internal or external fixationand/or cast"
+179,27170,"Bone graft, femoral head, neck, intertrochanteric or subtrochanteric area (includesobtaining bone graft)"
+180,27450,"Osteotomy, femur, shaft or supracondylar; with fixation"
+181,27470,"Repair, nonunion or malunion, femur, distal to head and neck; without graft (e.g.,compression technique)"
+182,27472,"Repair, nonunion or malunion, femur, distal to head and neck; with iliac orotherautogenous bone graft (includes obtaining graft)"
+183,27705,Osteotomy; tibia
+184,27707,Osteotomy; fibula
+185,27709,Osteotomy; tibia and fibula
+186,27720,"Repair of nonunion or malunion, tibia; without graft, (e.g., compression technique)"
+187,27722,"Repair of nonunion or malunion, tibia; with sliding graft"
+188,27724,"Repair of nonunion or malunion, tibia; with iliac or other autograft (includes obtaininggraft)"
+189,27725,"Repair of nonunion or malunion, tibia; by synostosis, with fibula, any method"
+190,20690,"Application of a uniplane (pins or wires in 1 plane), unilateral, external fixation system"
+191,20692,"Application of a multiplane (pins or wires in more than 1 plane), unilateral, externalfixation system (e.g., Ilizarov, Monticelli type)"
+192,20693,"Adjustment or revision of external fixation system requiring anesthesia (e.g., newpin[s] or wire[s] and/or new ring[s] or bar[s])"
+193,20696,"Application of multiplane (pins or wires in more than 1 plane), unilateral, externalfixation with stereotactic computer-assisted adjustment (e.g., spatial frame), includingimaging; initial and subsequent alignment(s), assessment(s), and computation(s) ofadjustment schedule(s)"
+194,20697,"Application of multiplane (pins or wires in more than 1 plane), unilateral, externalfixation with stereotactic computer-assisted adjustment (e.g., spatial frame), includingimaging; exchange (i.e., removal and replacement) of strut, each"
+195,20696,"Application of multiplane (pins or wires in more than 1 plane), unilateral, externalfixation with stereotactic computer-assisted adjustment (e.g., spatial frame), includingimaging; initial and subsequent alignment(s), assessment(s), and computation(s) ofadjustment schedule(s)"
+196,20697,"Application of multiplane (pins or wires in more than 1 plane), unilateral, externalfixation with stereotactic computer-assisted adjustment (e.g., spatial frame), includingimaging; exchange (i.e., removal and replacement) of strut, each"
+197,11010,"Debridement including removal of foreign material at the site of an open fractureand/or an open dislocation (e.g., excisional debridement); skin and subcutaneoustissues"
+198,11011,"Debridement including removal of foreign material at the site of an open fractureand/or an open dislocation (e.g., excisional debridement); skin, subcutaneous tissue,muscle fascia, and muscle"
+199,11012,"Debridement, including removal of foreign material at the site of an open fractureand/or an open dislocation (e.g., excisional debridement); skin, subcutaneous tissue,muscle fascia, muscle, and bone"
+200,11040,"Debridement; skin, partial thickness"
+201,11041,"Debridement; skin, full thickness"
+202,11042,"Debridement, subcutaneous tissue (includes epidermis and dermis if performed); first
+20 sq cm or less"
+203,11043,"Debridement, muscle and/or fascia (includes epidermis, dermis, and subcutaneoustissue if performed); first 20 sq cm or less"
+204,11044,"Debridement, bone (includes epidermis, dermis, subcutaneous tissue, muscle and/orfascia if performed); first 20 sq cm or less"
+205,25020,"Decompression fasciotomy, forearm and/or wrist, flexor OR extensor compartment;without debridement of non-viable muscle and/or nerve"
+206,25023,"Decompression fasciotomy, forearm and/or wrist, flexor OR extensor compartment;with debridement of non-viable muscle and/or nerve"
+207,25024,"Decompression fasciotomy, forearm and/or wrist, flexor AND extensor compartment;without debridement of non-viable muscle and/or nerve"
+208,25025,"Decompression fasciotomy, forearm and/or wrist, flexor AND extensor compartment;with debridement of non-viable muscle and/or nerve"
+209,27600,"Decompression fasciotomy, leg; anterior and/or lateral compartments only"
+210,27601,"Decompression fasciotomy, leg; posterior compartment(s) only"
+211,27602,"Decompression fasciotomy, leg; anterior and/or lateral, and posterior compartment(s)"
+212,24546,"Open treatment of humeral supracondylar or transcondylar fracture, includes internalfixation when performed; with intercondylar extension"
+213,27216,"Percutaneous skeletal fixation of posterior pelvic bone fracture and/or dislocation, forfracture patterns that disrupt the pelvic ring, unilateral (includes ipsilateral ilium,sacroiliac joint, and/or sacrum)"
+214,27217,"Open treatment of anterior pelvic bone fracture and/or dislocation for fracture patterthat disrupt the pelvic ring, unilateral, includes internal fixation when performed(includes pubic symphysis and/or ipsilateral superior/inferior rami)"
+215,27218,"Open treatment of posterior pelvic bone fracture and/or dislocation, for fracturepatterns that disrupt the pelvic ring, unilateral, includes internal fixation, whenperformed (includes ipsilateral ilium, sacroiliac joint and/or sacrum)"
+216,27226,"Open treatment of posterior or anterior acetabular wall fracture, with internal fixation"
+217,27227,"Open treatment of acetabular fracture(s) involving anterior or posterior (one) column ora fracture running transversely across the acetabulum, with internal fixation"
+218,27228,"Open treatment of acetabular fracture(s) involving anterior and posterior (two)columns, includes T-fracture and both column fracture with complete articulardetachment, or single column or transverse fracture with associated acetabular wallfracture, with internal fixation"
+219,27536,"Open treatment of tibial fracture, proximal (plateau); bicondylar, with or without internalfixation"
+220,27826,"Open treatment of fracture of weight bearing articular surface/portion of distal tibia(e.g., pilon or tibial plafond), with internal fixation when performed; of fibula only"
+221,27827,"Open treatment of fracture of weight bearing articular surface/portion of distal tibia(e.g., pilon or tibial plafond), with internal fixation when performed; of tibia only"
+222,27828,"Open treatment of fracture of weight bearing articular surface/portion of distal tibia (e.g.,pilon or tibial plafond), with internal fixation when performed; of both tibia and fibula"
+223,22325,"Open treatment and/or reduction of vertebral fracture(s) and/or dislocation(s), posterior approach, 1 fractured vertebra or dislocated segment; lumbar"
+224,22326,"Open treatment and/or reduction of vertebral fracture(s) and/or dislocation(s), posterior approach, 1 fractured vertebra or dislocated segment; cervical"
+225,22327,"Open treatment and/or reduction of vertebral fracture(s) and/or dislocation(s), posterior approach, 1 fractured vertebra or dislocated segment; thoracic"
+226,22551,"Arthrodesis, anterior interbody, including disc space preparation, discectomy, osteophytectomy and decompression of spinal cord and /or nerve roots; cervical below C2"
+227,22554,"Arthrodesis, anterior interbody technique, including minimal discectomy to prepare interspace (other than for decompression) cervical below C2"
+228,22558,"Arthrodesis, anterior interbody technique, including minimal discectomy to prepare interspace (other than for decompression) lumbar"
+229,22595,"Arthrodesis, posterior technique, Atlas-axis (C1-C2)"
+230,22600,"Arthrodesis, posterior or posterolateral technique, single level, cervical below C-2"
+231,22610,"Arthodesis, posterior or posterolateral technique, single level : thoracic (with or without lateral transverse technique )"
+232,22612,"Arthrodesis, Posterior or posterolateral technique, single level, lumbar (with or without lateral trasverse technique)"
+233,22802,"Arthrodesis, posterior, for spinal deformity, with or without cast; 7 to 12 vertebral segments"
+234,22804,"Arthrodesis, posterior, for spinal deformity, with or without cast; 13 or more vertebral segments"
+235,22630,"Arthrodesis, posterior interbody technique, including laminectomy and /or discectomy to prepare interspace (other than for decompression), single interspace: lumbar"
+236,22633,"Arthodesis, combined posterior or posterolateral technique with posterior interbody technique including laminectomy and /or discectomy sufficient to prepare interspace (other than for decompression), single interspace and segment, lumbar"
+237,22830,Exploration of spinal fusion
+238,22040,"Posterior non-segmental instrumentation (e.g., Harrington rod technique, pedicle fixation across 1 interspace, atlantoaxial transarticular screw fixation, sublaminar wiring at C1, facet screw fixation)"
+239,22842,"Posterior segmental instrumentation (e.g., pedicle fixation, dual rods with multiple hooks and sublaminar wires); 3 to 6 vertebral segments"
+240,22843,"Posterior segmental instrumentation (e.g., pedicle fixation, dual rods with multiple hooks and sublaminar wires); 7 to 12 vertebral segments (list separately in addition to code for primary procedure)"
+241,22844,"Posterior segmental instrumentation (e.g., pedicle fixation, dual rods with multiple hooks and sublaminar wires); 13 or more vertebral segments (list separately in addition to code for primary procedure)"
+242,22845,Anterior instrumentation; 2 to 3 vertebral segments
+243,22846,Anterior instrumentation; 4 to 7 vertebral segments
+244,22848,Pelvic fixation (attachment of caudal end of instrumentation to pelvic bony structures) other than sacrum
+245,22849,Reinsertion of spinal fixation device
+246,22851,"Application of intervertebral biomechanical devices(s) (e.g., synthetic cage(s), methylmethacrylate) to vertebral defect or interspace"
+247,22850,Removal of posterior non-segmental instrumentation
+248,22852,Removal of posterior segmental instrumentation
+249,22855,Removal of anterior instrumentation
+250,63001,"Laminectomy with exploration and /or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (e.g., spinal stenosis), 1 or
+2 vertebral segments, cervical"
+251,63003,"Laminectomy with exploration and /or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (e.g., spinal stenosis), 1 or
+2 vertebral segments, thoracic"
+252,63005,"Laminectomy with exploration and /or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (e.g., spinal stenosis), 1 or
+2 vertebral segments, lumbar, except for spondylolistheseis"
+253,63012,"Laminectomy with removal of abnormal facets and/or pars inter-articularis with decompression of cauda equina and nerve roots for spondylolisthesis, lumbar (Gill type procedure)"
+254,63015,"Laminectomy with exploration and /or decompression of spinal cord and /or cauda equina, without facetectomy, foraminotomy or discectomy (e.g., spinal stenosis), more than 2 vertebral segments, cervical"
+255,63016,"Laminectomy with exploration and /or decompression of spinal cord and /or cauda equina, without facetectomy, foraminotomy or discectomy (e.g., spinal stenosis), more than 2 vertebral segments, thoracic"
+256,63017,"Laminectomy with exploration and /or decompression of spinal cord and /or cauda equina, without facetectomy, foraminotomy or discectomy (e.g., spinal stenosis), more than 2 vertebral segments, lumbar"
+257,63020,"Laminotomy (hemilaminectomy). with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc, including open and edoscopically assisted approaches, 1 interspace, cervical"
+258,63030,"Laminotomy (hemilaminectomy). with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc, including open and edoscopically assisted approaches, 1 interspace, lumbar"
+259,63045,"Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and /or nerve root(s), (e.g., spinal or lateral recess stenosis), single vertebral segment, cervical"
+260,63047,"Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and /or nerve root(s), (e.g., spinal or lateral recess stenosis), single vertebral segment, lumbar"
+261,63050,"Laminoplasty, cervical, with decompression of the spinal cord, 2 or more vertebral segments"
+262,63051,"Laminoplasty, cervical, with decompression of the spinal cord, 2 or more vertebral segments, with reconstruction of the posterior bony elements (including the application of bridging bone graft and non-segmental fixation devices (e.g., wire, suture, mini-plates) when performed"
+263,63055,"Transpedicular approach with decompression of spinal cord, equina and /or nerve root(s) (e.g., herniated intervertebral disc); single segment; thoracic"
+264,63081,"Vertebral corpectomy (vertebral body resection), partial or complete, anterior approach with decompression of spinal cord and/or nerve root(s); cervical, single segment"
+265,63085,"Vertebral corpectomy (vertebral body resection), partial or complete, transthoracic approach with decompression of spinal cord and/or nerve root(s); thoracic, single segment"
