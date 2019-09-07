@@ -588,7 +588,7 @@ nged plants.",/pubmed/29023669
 ople with an acute decrease in cons
 cious level (RCPCH guideline update
  2015).",/pubmed/29025855
-13580,,,,,"Evidence based recommendations for 
+13580,,X,,,"Evidence based recommendations for 
 reducing head-neck taper connection
  fretting corrosion in hip replacem
 ent prostheses.",/pubmed/29027189
@@ -612,7 +612,7 @@ ion in Healthy Volunteers.",/pubmed/29036723
 13574,,,,,"Effect of vitamin D supplementation
  on patients with systemic lupus er
 ythematosus: a systematic review.",/pubmed/29037317
-13573,,,,,"Efficacy and Safety Outcomes in Sys
+13573,X,X,,,"Efficacy and Safety Outcomes in Sys
 tematic Reviews of Interventions fo
 r Postoperative Pain in Children: C
 omparison Against the Recommended C
@@ -760,7 +760,7 @@ ity.",/pubmed/29175027
 measures associated with concussive
  and subconcussive head trauma in f
 ormer athletes.",/pubmed/29175229
-13534,,,,,"Antiplatelet Therapy for Critically
+13534,X,X,,,"Antiplatelet Therapy for Critically
  Ill Patients: A Pairwise and Bayes
 ian Network Meta-Analysis.",/pubmed/29176404
 13533,,,,,"Performance validity testing in neu
@@ -866,14 +866,14 @@ ttitudes.",/pubmed/29234918
 13506,,,,,"St.Gallen consensus on safe impleme
 ntation of transanal total mesorect
 al excision.",/pubmed/29234940
-13505,,,,,"Treatment of Chronic Pain With Vari
+13505,X,X,,,"Treatment of Chronic Pain With Vari
 ous Buprenorphine Formulations: A S
 ystematic Review of Clinical Studie
 s.",/pubmed/29239947
 13504,,,,,"Fragility of Results in Ophthalmolo
 gy Randomized Controlled Trials: A 
 Systematic Review.",/pubmed/29241744
-13503,,,,,"Tight glycemic control in criticall
+13503,X,X,,,"Tight glycemic control in criticall
 y ill pediatric patients: a meta-an
 alysis and systematic review of ran
 domized controlled trials.",/pubmed/29244792
@@ -896,7 +896,7 @@ and Adolescents: A Critical Review.
  non-demented older adults with Typ
 e 2 diabetes or hypertension: a sys
 tematic review.",/pubmed/29261088
-13497,,,,,"Meta-analysis of Interventions to R
+13497,X,X,,,"Meta-analysis of Interventions to R
 educe Adverse Drug Reactions in Old
 er Adults.",/pubmed/29265170
 13496,,,,,"Prevalence of severe irritable bowe
@@ -911,7 +911,7 @@ tment: A Meta-Analysis.",/pubmed/29273515
 13493,,,,,"Recent advances in the pathogenetic
  mechanisms of sepsis-associated ac
 ute kidney injury.",/pubmed/29273917
-13492,,,,,"Temporal Trends in Analgesic Use in
+13492,X,X,,,"Temporal Trends in Analgesic Use in
  Long-Term Care Facilities: A Syste
 matic Review of International Presc
 ribing.",/pubmed/29274247
@@ -937,7 +937,7 @@ t.",/pubmed/29286944
 vulvovaginal atrophy.",/pubmed/29286987
 13485,,,,,"Mitochondrial Processes in Targeted
  Cancer Therapy.",/pubmed/31023019
-13484,,,,,"A Comparison of the Quick-SOFA and 
+13484,X,X,,,"A Comparison of the Quick-SOFA and 
 Systemic Inflammatory Response Synd
 rome Criteria for the Diagnosis of 
 Sepsis and Prediction of Mortality:
@@ -1015,7 +1015,7 @@ Randomized Clinical Trials.",/pubmed/29313748
 13466,,,,,"[Management of compensated liver ci
 rrhosis 2018 - Evidence based proph
 ylactic measures].",/pubmed/29316579
-13465,,,,,"Failure to define low back pain as 
+13465,X,,,,"Failure to define low back pain as 
 a disease or an episode renders res
 earch on causality unsuitable: resu
 lts of a systematic review.",/pubmed/29321845
@@ -1031,7 +1031,7 @@ e.",/pubmed/29323990
 13461,,,,,"Accuracy of non-invasive blood pres
 sure measurements in obese patients
 .",/pubmed/29323991
-13460,,,,,"The Accuracy of Trigger Tools to De
+13460,X,X,,,"The Accuracy of Trigger Tools to De
 tect Preventable Adverse Events in 
 Primary Care: A Systematic Review.",/pubmed/29330246
 13459,,,,,"The Effectiveness of Problem-Solvin
@@ -1181,7 +1181,7 @@ of Bone Marrow-Derived Cell Therapy
 13422,,,,,"Clinical Impact of PI3K/BRAF Mutati
 ons in RAS Wild Metastatic Colorect
 al Cancer: Meta-analysis Results.",/pubmed/29388061
-13421,,,,,"Safety and Efficacy of Intravenous 
+13421,X,X,,,"Safety and Efficacy of Intravenous 
 Lidocaine for Pain Management in th
 e Emergency Department: A Systemati
 c Review.",/pubmed/29395284
@@ -1238,7 +1238,7 @@ ey of clinical management practices
 f childhood maltreatment on adult d
 epression and anxiety: A systematic
  review and meta-analysis.",/pubmed/29428878
-13405,,,,,"Anti-Inflammatory Effects of Intra-
+13405,,X,,,"Anti-Inflammatory Effects of Intra-
 Articular Hyaluronic Acid: A System
 atic Review.",/pubmed/29429372
 13404,,,,,"Pulmonary Hypertension, Mortality, 
@@ -1284,7 +1284,7 @@ s.",/pubmed/29460608
 d localization in patients with con
 current thyroid disease: A systemat
 ic review.",/pubmed/29461661
-13392,,,,,"Tourniquet usage in prehospital car
+13392,X,X,,,"Tourniquet usage in prehospital car
 e and resuscitation of pediatric tr
 auma patients-Pediatric Trauma Soci
 ety position statement.",/pubmed/29462083
@@ -1304,7 +1304,7 @@ erate a VKA: where is the evidence?
 eported in Randomized Trials Conduc
 ted in Adults Receiving Hemodialysi
 s: A Systematic Review.",/pubmed/29475768
-13386,,,,,"Preventing Postoperative Atrial Fib
+13386,X,X,,,"Preventing Postoperative Atrial Fib
 rillation After Noncardiac Surgery:
  A Meta-analysis.",/pubmed/29476748
 13385,,,,,"Both sarcopenia and frailty determi
@@ -1329,7 +1329,7 @@ in tomorrow's science.",/pubmed/29482764
 ts with Radioactive Iodine-Refracto
 ry Thyroid Cancer: A Meta-Analysis.
 ",/pubmed/29485411
-13379,,,,,"Ceramic-on-Ceramic in Total Hip Rep
+13379,,X,,,"Ceramic-on-Ceramic in Total Hip Rep
 lacement Revision.",/pubmed/29486505
 13378,,,,,"[Use of antiepileptic drugs during 
 breastfeeding : What do we tell the
@@ -1343,7 +1343,7 @@ w of the literature.",/pubmed/29493019
 e and Clinical Relevance of Central
  Nervous System Processes and Modul
 ation.",/pubmed/29494401
-13375,,,,,"Acupuncture for lumbar disc herniat
+13375,X,,,,"Acupuncture for lumbar disc herniat
 ion: a systematic review and meta-a
 nalysis.",/pubmed/29496679
 13374,,,,,"Ceftriaxone combination therapy ver
@@ -1395,7 +1395,7 @@ tensive care unit: A survey.",/pubmed/29519651
  traditional Chinese medicine (TCM)
 : an examination of the perception 
 of TCM practitioners.",/pubmed/29519859
-13360,,,,,"The role of sciatic nerve block to 
+13360,,X,,,"The role of sciatic nerve block to 
 complement femoral nerve block in t
 otal knee arthroplasty: a meta-anal
 ysis of randomized controlled trial
@@ -1415,7 +1415,7 @@ vasive treatments for adult obstruc
 tive sleep apnea: A systematic revi
 ew and network meta-analysis of ran
 domized controlled trials.",/pubmed/29523457
-13356,,,,,"The influence of stress responses o
+13356,X,X,,,"The influence of stress responses o
 n surgical performance and outcomes
 : Literature review and the develop
 ment of the surgical stress effects
@@ -1477,7 +1477,7 @@ el blocking drugs as antidotes for
 acute organophosphorus insecticide 
 poisoning - a systematic review and
  meta-analysis.",/pubmed/29557685
-13340,,,,,"Efficacy of Extracorporeal Shock Wa
+13340,,X,,,"Efficacy of Extracorporeal Shock Wa
 ve Therapy for Lower-Limb Tendinopa
 thy: A Meta-analysis of Randomized 
 Controlled Trials.",/pubmed/29557811
@@ -1578,7 +1578,7 @@ imb and cognitive outcomes.",/pubmed/29587853
 13314,,,,,"Meta-Analyses in Child and Adolesce
 nt Psychiatry: Getting Closer to Cl
 inical Practice.",/pubmed/29588046
-13313,,,,,"Dexamethasone as an Adjuvant for Ca
+13313,X,,,,"Dexamethasone as an Adjuvant for Ca
 udal Blockade in Pediatric Surgical
  Patients: A Systematic Review and 
 Meta-analysis.",/pubmed/29596095
@@ -1592,7 +1592,7 @@ lus hCG versus triggering with hCG
 alone for IVF/ICSI outcome in GnRH 
 antagonist cycles: a systematic rev
 iew and meta-analysis.",/pubmed/29600322
-13309,,,,,"Effectiveness of the McKenzie Metho
+13309,X,,,,"Effectiveness of the McKenzie Metho
 d of Mechanical Diagnosis and Thera
 py for Treating Low Back Pain: Lite
 rature Review With Meta-analysis.",/pubmed/29602304
@@ -1638,7 +1638,7 @@ s with preterm prelabor rupture of
 membranes: a systematic review and 
 metaanalysis of randomized controll
 ed trials.",/pubmed/29614278
-13296,,,,,"Patient Values and Preferences Rega
+13296,X,X,,,"Patient Values and Preferences Rega
 rding Opioids for Chronic Noncancer
  Pain: A Systematic Review.",/pubmed/29618109
 13295,,,,,"[Operative treatment of the degener
