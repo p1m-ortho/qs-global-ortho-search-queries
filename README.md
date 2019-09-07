@@ -2,7 +2,7 @@
 
 ## Цель | Objective
 
-> Monitor all published systematic reviews to rapidly identify new systematic reviews in orthopedics. Systematic reviews, in their turn, are known to be the best source of evidence-based information.
+> Monitor all published systematic reviews to rapidly identify new systematic reviews in orthopedics. Systematic reviews, in their turn, are known to be, today, the best source of evidence-based information.
 
 Мониторировать все публикуемые систематические обзоры, чтобы быстро выявлять новые систематические обзоры по ортопедии. Систематические обзоры же, как известно, сегодня лучший источник научной информации.
 
