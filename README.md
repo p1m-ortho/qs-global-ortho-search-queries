@@ -1,10 +1,10 @@
-# Глобальный живой поиск по сисобзорам | Global Live Search for Sys Revs
+# Глобальный живой поиск по систематическим обзорам | Global Live Search for Systematic Reviews
 
 ## Цель | Objective
 
-> Monitor all published sys revs to rapidly identify new sys revs in orthopedics. Sys revs, in their turn, are known to be the best source of evidence-based information.
+> Monitor all published systematic reviews to rapidly identify new systematic reviews in orthopedics. Systematic reviews, in their turn, are known to be the best source of evidence-based information.
 
-Мониторировать все публикуемые сисобзоры, чтобы быстро выявлять новые сисобзоры по ортопедии. Сисобзоры же, как известно, сегодня лучший источник научной информации.
+Мониторировать все публикуемые систематические обзоры, чтобы быстро выявлять новые систематические обзоры по ортопедии. Систематические обзоры же, как известно, сегодня лучший источник научной информации.
 
 ## PubMed
 
