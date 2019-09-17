@@ -6,10 +6,10 @@
 
 ## Клинический вопрос
 
-Перелом н/3 бедра, уже стоит PFN: тактика?
+Десмургия: скопинг.
 
 ## PubMed, live-версия
 
 ```
-("proximal femoral nail"[tiab] or pfn*[tiab] or cephalomedullary[tiab] or cmn*[tiab]) ("periprosthetic fractures"[mh] or periprosthe*[tiab] or periimplant[tiab] or (peri[tiab] (implant[tiab] or prosthe*[tiab])) or secondary[tiab])
+((cast[tiab] or casts[tiab] or casting*[tiab] or splint*[tiab] or immobili*[tiab] or fixat*[tiab] or bandage*[tiab] or plaster[tiab] or fiberglass[tiab]) or (immobilization[mh] or "external fixators"[mh])) systematic[sb]
 ```
