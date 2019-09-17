@@ -8,8 +8,14 @@
 
 Десмургия: скопинг.
 
-## PubMed, live-версия
+## PubMed, live-версия на чувствительность
 
 ```
-((cast[tiab] or casts[tiab] or casting*[tiab] or splint*[tiab] or immobili*[tiab] or fixat*[tiab] or bandage*[tiab] or plaster[tiab] or fiberglass[tiab]) or (immobilization[mh] or "external fixators"[mh])) systematic[sb]
+((cast[tiab] or casts[tiab] or casting[tiab] or splint*[tiab] or immobili*[tiab] or fixat*[tiab] or orthosis[tiab] or orthoses[tiab] or orthotic[tiab] or bandage*[tiab] or dress*[tiab] or plaster[tiab] or fiberglass[tiab]) or (immobilization[mh] or "external fixators"[mh])) systematic[sb]
+```
+
+## PubMed, live-версия на специфичность
+
+```
+((cast[tiab] or casts[tiab] or casting[tiab] or splint*[tiab] or immobili*[tiab] or orthosis[tiab] or orthoses[tiab] or orthotic[tiab] or plaster[tiab] or fiberglass[tiab]) or (immobilization[mh] or "external fixators"[mh])) systematic[sb]
 ```
