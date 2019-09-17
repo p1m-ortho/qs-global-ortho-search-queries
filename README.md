@@ -6,16 +6,10 @@
 
 ## Клинический вопрос
 
-Десмургия: скопинг.
+Десмургия при травме опорно-двигательного аппарата: скопинг.
 
-## PubMed, live-версия на чувствительность
+## PubMed, live-версия
 
-```
-((cast[tiab] or casts[tiab] or casting[tiab] or splint*[tiab] or immobili*[tiab] or fixat*[tiab] or orthosis[tiab] or orthoses[tiab] or orthotic[tiab] or bandage*[tiab] or dress*[tiab] or plaster[tiab] or fiberglass[tiab]) or (immobilization[mh] or "external fixators"[mh])) systematic[sb]
-```
-
-## PubMed, live-версия на специфичность
-
-```
-((cast[tiab] or casts[tiab] or casting[tiab] or splint*[tiab] or immobili*[tiab] or orthosis[tiab] or orthoses[tiab] or orthotic[tiab] or plaster[tiab] or fiberglass[tiab]) or (immobilization[mh] or "external fixators"[mh])) systematic[sb]
+```974
+((cast[tiab] or casts[tiab] or casting[tiab] or splint*[tiab] or immobili*[tiab] or fixat*[tiab] or orthosis[tiab] or orthoses[tiab] or orthotic[tiab] or bandage*[tiab] or dress*[tiab] or plaster[tiab] or fiberglass[tiab]) or (immobilization[mh] or "external fixators"[mh])) (fractur*[tiab] OR injur*[tiab] OR "Fractures, Bone"[mh:noexp] OR dislocat*[tiab] OR in[sh]) systematic[sb]
 ```
