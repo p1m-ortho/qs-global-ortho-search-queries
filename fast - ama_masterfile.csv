@@ -1,0 +1,267 @@
+,Taxonomy Code,Physician Specialty,Specialty Group
+1,AI,Allergy,Allergy and Immunology
+2,AI,Allergy & Immunology,Allergy and Immunology
+3,ALI,Clinical Laboratory Immunology,Allergy and Immunology
+4,IG,Immunology,Allergy and Immunology
+5,ACA,Adult Cardiothoracic Anesthesiology,Anesthesiology
+6,AN,Anesthesiology,Anesthesiology
+7,CCA,Critical Care Medicine,Anesthesiology
+8,HPA,Hospice & Palliative Medicine,Anesthesiology
+9,PME,Pain Management,Anesthesiology
+10,OAN,Obstetric Anesthesiology,Anesthesiology
+11,SMA,Sleep Medicine,Anesthesiology
+12,ICE,Cardiac Electrophysiology,Cardiology
+13,CD,Cardiovascular Diseases,Cardiology
+14,IC,Interventional Cardiology,Cardiology
+15,NC,Nuclear Cardiology,Cardiology
+16,PDC,Pediatric Cardiology,Cardiology
+17,DDL,Clinical & Laboratory Dermatological Immunology,Dermatology
+18,D,Dermatology,Dermatology
+19,DMP,Dermatopathology,Dermatology
+20,PDD,Pediatric Dermatology,Dermatology
+21,PRD,Procedural Dermatology,Dermatology
+22,ACC,Anesthesiology Critical Care Medicine,Emergency Medicine
+23,CCE,Critical Care Medicine,Emergency Medicine
+24,EM,Emergency Medicine,Emergency Medicine
+25,EMS,Emergency Medical Services,Emergency Medicine
+26,HPE,Hospice & Palliative Medicine,Emergency Medicine
+27,ETX,Medical Toxicology,Emergency Medicine
+28,PE,Pediatric Emergency Medicine,Emergency Medicine
+29,ESM,Sports Medicine,Emergency Medicine
+30,UCM,Urgent Care Medicine,Emergency Medicine
+31,UME,Undersea & Hyperbaric Medicine,Emergency Medicine
+32,END,"Endocrinology, Diabetes, & Metabolism",Endocrinology/Diabetes/Metabolism
+33,DIA,Diabetes,Endocrinology/Diabetes/Metabolism
+34,AMF,Adolescent Medicine,Family/General Practice
+35,FM,Family Medicine,Family/General Practice
+36,GP,General Practice,Family/General Practice
+37,HPF,Hospice & Palliative Medicine,Family/General Practice
+38,FSM,Sports Medicine,Family/General Practice
+39,FPG,Geriatric Medicine,Geriatrics
+40,IMG,Geriatric Medicine,Geriatrics
+41,PYG,Geriatric Psychiatry,Geriatrics
+42,AMI,Adolescent Medicine,Internal Medicine
+43,AHF,Advanced Heart Failure and Transplant Cardiology,Internal Medicine
+44,ILI,Clinical & Laboratory Immunology,Internal Medicine
+45,CLI,Clinical Informatics (Internal Medicine),Internal Medicine
+46,CCM,Critical Care Medicine,Internal Medicine
+47,CHD,Adult Congenital Heart Disease,Internal Medicine
+48,GE,Gastroenterology,Internal Medicine
+49,HEM,Hematology,Internal Medicine
+50,HEP,Hepatology,Internal Medicine
+51,HPI,Hospice & Palliative Medicine,Internal Medicine
+52,ID,Infectious Disease,Internal Medicine
+53,IM,Internal Medicine,Internal Medicine
+54,NEP,Nephrology,Internal Medicine
+55,NTR,Nutrition,Internal Medicine
+56,PCC,Pulmonary Critical Care Medicine,Internal Medicine
+57,PUD,Pulmonary Disease,Internal Medicine
+58,RHU,Rheumatology,Internal Medicine
+59,SMI,Sleep Medicine,Internal Medicine
+60,ISM,Sports Medicine,Internal Medicine
+61,THP,Transplant Hepatology,Internal Medicine
+62,VM,Vascular Medicine,Internal Medicine
+63,CBG,Clinical Biochemical Genetics,Internal Medicine
+64,CCG,Clinical Cytogenetics,Internal Medicine
+65,CG,Clinical Genetics,Medical Genetics
+66,CMG,Clinical Molecular Genetics,Medical Genetics
+67,MBG,Medical Biochemical Genetics,Medical Genetics
+68,MG,Medical Genetics,Medical Genetics
+69,MGG,Molecular Genetic Pathology (Medical Genetics),Medical Genetics
+70,ES,Endovascular Surgical Neuroradiology,Neurological Surgery
+71,ESN,Endovascular Surgical Neuroradiology,Neurological Surgery
+72,NS,Neurological Surgery,Neurological Surgery
+73,NSP,Pediatric Surgery,Neurological Surgery
+74,BIN,Brain Injury Medicine,Neurology
+75,CHN,Child Neurology,Neurology
+76,CN,Clinical Neurophysiology,Neurology
+77,ENR,Endovascular Surgical Neuroradiology,Neurology
+78,EPL,Epilepsy,Neurology
+79,HPN,Hospice & Palliative Medicine,Neurology
+80,NN,Neurology,Neurology
+81,NDN,Neurodevelopmental Disabilities,Neurology
+82,NMN,Neuromuscular Medicine,Neurology
+83,SMN,Sleep Medicine,Neurology
+84,VN,Vascular Neurology,Neurology
+85,OCC,Critical Care Medicine,Obstetrics/Gynecology
+86,FPR,Female Pelvic Medicine and Reconstructive Surgery,Obstetrics/Gynecology
+87,GYN,Gynecology,Obstetrics/Gynecology
+88,HPO,Hospice & Palliative Medicine,Obstetrics/Gynecology
+89,MFM,Maternal & Fetal Medicine,Obstetrics/Gynecology
+90,OBS,Obstetrics,Obstetrics/Gynecology
+91,OBG,Obstetrics & Gynecology,Obstetrics/Gynecology
+92,REN,Reproductive Endocrinology and Infertility,Obstetrics/Gynecology
+93,HO,Hematology/Oncology,Oncology
+94,GO,Gynecological Oncology,Oncology
+95,ON,Medical Oncology,Oncology
+96,OMO,Musculoskeletal Oncology,Oncology
+97,PHO,Pediatric Hematology/Oncology,Oncology
+98,SO,Surgical Oncology,Oncology
+99,OPH,Ophthalmology,Ophthalmology
+100,OPR,Ophthalmic Plastic and Reconstructive Surgery,Ophthalmology
+101,PO,Pediatric Ophthalmology,Ophthalmology
+102,HSO,Hand Surgery,Orthopedics
+103,OAR,Adult Reconstructive Orthopedics,Orthopedics
+104,OFA,Foot & Ankle Orthopedics,Orthopedics
+105,ORS,Orthopedic Surgery,Orthopedics
+106,OSS,Orthopedic Surgery of the Spine,Orthopedics
+107,OTR,Orthopedic Trauma,Orthopedics
+108,OP,Pediatric Orthopedics,Orthopedics
+109,OSM,Sports Medicine,Orthopedics
+110,NO,Neurotology (Otolaryngology),Otolaryngology
+111,OTO,Otolaryngology,Otolaryngology
+112,PDO,Pediatric Otolaryngology,Otolaryngology
+113,PSH,Plastic Surgery within the Head &Neck,Otolaryngology
+114,PSO,Plastic Surgery within the Head & Neck,Otolaryngology
+115,SMO,Sleep Medicine,Otolaryngology
+116,ATP,Anatomic Pathology,Pathology
+117,PTH,Anatomic/Clinical Pathology,Pathology
+118,BBK,Blood Banking/Transfusion Medicine,Pathology
+119,PCH,Chemical Pathology,Pathology
+120,CIP,Clinical Informatics,Pathology
+121,CLP,Clinical Pathology,Pathology
+122,PCP,Cytopathology,Pathology
+123,DMP,Dermatopathology,Pathology
+124,FOP,Forensic Pathology,Pathology
+125,HMP,Hematology,Pathology
+126,MM,Medical Microbiology,Pathology
+127,MGP,Molecular Genetic Pathology,Pathology
+128,NP,Neuropathology,Pathology
+129,PP,Pediatric Pathology,Pathology
+130,SP,Selective Pathology,Pathology
+131,ADL,Adolescent Medicine,Pediatrics
+132,CAP,Child Abuse Pediatrics,Pediatrics
+133,PLI,Clinical & Laboratory Immunology,Pediatrics
+134,DBP,Developmental-Behavioral Pediatrics,Pediatrics
+135,HPP,Hospice & Palliative Medicine,Pediatrics
+136,PDT,Medical Toxicology,Pediatrics
+137,NPM,Neonatal-Perinatal Medicine,Pediatrics
+138,NDP,Neurodevelopmental Disabilities,Pediatrics
+139,PDA,Pediatric Allergy,Pediatrics
+140,PAN,Pediatric Anesthesiology,Pediatrics
+141,CCP,Pediatric Critical Care Medicine,Pediatrics
+142,PEM,Pediatric Emergency Medicine,Pediatrics
+143,PDE,Pediatric Endocrinology,Pediatrics
+144,PG,Pediatric Gastroenterology,Pediatrics
+145,PDI,Pediatric Infectious Diseases,Pediatrics
+146,PN,Pediatric Nephrology,Pediatrics
+147,PDP,Pediatric Pulmonology,Pediatrics
+148,PPR,Pediatric Rheumatology,Pediatrics
+149,PTP,Pediatric Transplant Hepatology,Pediatrics
+150,PD,Pediatrics,Pediatrics
+151,SMP,Sleep Medicine,Pediatrics
+152,PSM,Sports Medicine,Pediatrics
+153,BIP,Brain Injury Medicine,Physical Medicine & Rehab
+154,HPM,Hospice & Palliative Medicine,Physical Medicine & Rehab
+155,HPR,Hospice & Palliative Medicine,Physical Medicine & Rehab
+156,PM,Physical Medicine & Rehabilitation,Physical Medicine & Rehab
+157,NMP,Neuromuscular Medicine,Physical Medicine & Rehab
+158,RPM,Pediatric Rehabilitation Medicine,Physical Medicine & Rehab
+159,SCI,Spinal Cord Injury,Physical Medicine & Rehab
+160,PRS,Sports Medicine,Physical Medicine & Rehab
+161,CFS,Craniofacial Surgery,Plastic Surgery
+162,FPS,Facial Plastic Surgery,Plastic Surgery
+163,HSP,Hand Surgery,Plastic Surgery
+164,PS,Plastic Surgery,Plastic Surgery
+165,PSI,Plastic Surgery � Integrated,Plastic Surgery
+166,PSP,Plastic Surgery within the Head & Neck,Plastic Surgery
+167,AM,Aerospace Medicine,Preventive Medicine
+168,CIM,Clinical Informatics,Preventive Medicine
+169,GPM,General Preventive Medicine,Preventive Medicine
+170,PTX,Medical Toxicology,Preventive Medicine
+171,OM,Occupational Medicine,Preventive Medicine
+172,PHP,Public Health & General Preventive Medicine,Preventive Medicine
+173,UM,Undersea & Hyperbaric Medicine,Preventive Medicine
+174,ADP,Addiction Psychiatry,Psychiatry
+175,BIN,Brain Injury Medicine,Psychiatry
+176,CHP,Child and Adolescent Psychiatry,Psychiatry
+177,PFP,Forensic Psychiatry,Psychiatry
+178,HPN,Hospice & Palliative Medicine,Psychiatry
+179,NUP,Neuropsychiatry,Psychiatry
+180,PPN,Pain Medicine,Psychiatry
+181,P,Psychiatry,Psychiatry
+182,PYA,Psychoanalysis,Psychiatry
+183,PYM,Psychosomatic Medicine,Psychiatry
+184,SMN,Sleep Medicine,Psychiatry
+185,AR,Abdominal Radiology,Radiology
+186,CTR,Cardiothoracic Radiology,Radiology
+187,DR,Diagnostic Radiology,Radiology
+188,HPD,Hospice & Palliative Medicine,Radiology
+189,MDP,Medical Physics,Radiology
+190,MSR,Musculoskeletal Radiology,Radiology
+191,RNR,Neuroradiology,Radiology
+192,NR,Nuclear Radiology,Radiology
+193,PDR,Pediatric Radiology,Radiology
+194,RO,Radiation Oncology,Radiology
+195,RP,Radiological Physics,Radiology
+196,RR,Radiology,Radiology
+197,VIR,Vascular & Interventional Radiology,Radiology
+198,AS,Abdominal Surgery,Surgery
+199,ASO,Advanced Surgical Oncology,Surgery
+200,CRS,Colon & Rectal Surgery,Surgery
+201,CHS,Congenital Cardiac Surgery,Surgery
+202,CS,Cosmetic Surgery,Surgery
+203,CCS,Surgical Critical Care,Surgery
+204,DS,Dermatologic Surgery,Surgery
+205,GS,General Surgery,Surgery
+206,HS,Hand Surgery,Surgery
+207,HSS,Hand Surgery,Surgery
+208,HNS,Head & Neck Surgery,Surgery
+209,HPS,Hospice & Palliative Medicine,Surgery
+210,OMF,Oral & Maxillofacial Surgery,Surgery
+211,PCS,Pediatric Cardiothoracic Surgery,Surgery
+212,PDS,Pediatric Surgery,Surgery
+213,PRO,Proctology,Surgery
+214,TS,Thoracic Surgery,Surgery
+215,TSI,Thoracic Surgery - Integrated,Surgery
+216,TTS,Transplant Surgery,Surgery
+217,TRS,Trauma Surgery,Surgery
+218,VS,Vascular Surgery,Surgery
+219,VSI,Vascular Surgery- Integrated,Surgery
+220,UPR,Female Pelvic Medicine and Reconstructive Surgery,Urology
+221,UP,Pediatric Urology,Urology
+222,U,Urology,Urology
+223,ADM,Addiction Medicine,Other
+224,PA,Clinical Pharmacology,Other
+225,EP,Epidemiology,Other
+226,HOS,Hospitalist,Other
+227,LM,Legal Medicine,Other
+228,MDM,Medical Management,Other
+229,NM,Nuclear Medicine,Other
+230,OMM,Osteopathic Manipulative Medicine,Other
+231,OS,Other Specialty,Other
+232,PMM,Pain Medicine,Other
+233,APM,Pain Medicine,Other
+234,PMN,Pain Medicine,Other
+235,PMP,Pain Medicine,Other
+236,PLM,Palliative Medicine,Other
+237,PHM,Pharmaceutical Medicine,Other
+238,PHL,Phlebology,Other
+239,SME,Sleep Medicine,Other
+240,US,Unspecified,Other
+241,EFM,Emergency Medicine/Family Medicine,Combined Residency Training Specialties
+242,FMP,Family Medicine/Preventive Medicine,Combined Residency Training Specialties
+243,MEM,"Internal Medicine/Emergency Medicine
+Internal Medicine/Emergency Medicine/Critical Care",Combined Residency Training Specialties
+244,IEC,Medicine,Combined Residency Training Specialties
+245,IFP,Internal Medicine/Family Medicine,Combined Residency Training Specialties
+246,IMA,Internal Medicine/Anesthesiology,Combined Residency Training Specialties
+247,IMD,Internal Medicine/Dermatology,Combined Residency Training Specialties
+248,MDG,Internal Medicine/Medical Genetics,Combined Residency Training Specialties
+249,MN,Internal Medicine/Neurology,Combined Residency Training Specialties
+250,INM,Internal Medicine/Nuclear Medicine,Combined Residency Training Specialties
+251,MPD,Internal Medicine/Pediatrics,Combined Residency Training Specialties
+252,MPM,Internal Medicine/Physical Medicine and Rehabilitation,Combined Residency Training Specialties
+253,IPM,Internal Medicine/Preventive Medicine,Combined Residency Training Specialties
+254,MP,Internal Medicine/Psychiatry,Combined Residency Training Specialties
+255,NRN,Neurology/Diagnostic Radiology/Neuroradiology,Combined Residency Training Specialties
+256,NNM,Neurology/Nuclear Medicine,Combined Residency Training Specialties
+257,NPR,Neurology/Physical Medicine and Rehabilitation,Combined Residency Training Specialties
+258,PDN,Pediatrics/Anesthesiology,Combined Residency Training Specialties
+259,PDM,Pediatrics/Dermatology,Combined Residency Training Specialties
+260,EMP,Pediatrics/Emergency Medicine,Combined Residency Training Specialties
+261,PMG,Pediatrics/Medical Genetics,Combined Residency Training Specialties
+262,CPP,Pediatrics/Psychiatry/Child and Adolescent Psychiatry,Combined Residency Training Specialties
+263,PPM,Pediatrics/Physical Medicine and Rehabilitation,Combined Residency Training Specialties
+264,FPP,Psychiatry/Family Medicine,Combined Residency Training Specialties
+265,PYN,Psychiatry/Neurology,Combined Residency Training Specialties
