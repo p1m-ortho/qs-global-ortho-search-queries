@@ -6,10 +6,14 @@
 
 ## Клинический вопрос
 
-Перелом н/3 бедра, уже стоит PFN: тактика?
+Боль в спине (острая или хроническая — более 6 недель, нетравматическая или травматическая – ушиб спины в анамнезе): парацетамол эффективнее ли плацебо?
 
 ## PubMed, live-версия
 
 ```
-("proximal femoral nail"[tiab] or pfn*[tiab] or cephalomedullary[tiab] or cmn*[tiab]) ("periprosthetic fractures"[mh] or periprosthe*[tiab] or periimplant[tiab] or (peri[tiab] (implant[tiab] or prosthe*[tiab])) or secondary[tiab])
+((paracetamol[ti] or acetaminophen[ti] or Acetaminophen[mh]) ("back pain"[ti] or "Back pain"[mh]) systematic[sb])
 ```
+
+## Актуальность
+
+Прислали мне [@Schreijenberg20204554] по оповещениям, начал читать — поднял [@Saragiotto2016CD012230], [@Williams201415861596], [@Davies200814231430]. Понял, что это интересная самостоятельная проблема и решил поискать еще сисобзоры по теме в Пабмеде — вспомнил про FAST, решил записать.
