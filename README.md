@@ -1,5 +1,9 @@
 # FAST Article Searches for Trauma: ветка-образец
 
+**Проект получил свое продолжение как т. н. [RESCUER](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/rescuer-master) — далее см. там.**
+
+> **The project has been continued as so called [RESCUER](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/rescuer-master), next see there.**
+
 Это ветка крупного репозитория, посвященного разработке запросов для поиска библиографических источников по ортопедии и не только по ней, посвященная хранению быстро написанных запросов по остро возникающим клиническим вопросам.
 
 В режиме [git blame](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blame/fast-sample/README.md) см. коммит, соответствующий данному поисковому запросу (в пределах ветки), и смотрите в этом коммите:
