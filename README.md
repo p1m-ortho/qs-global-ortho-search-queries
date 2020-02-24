@@ -6,13 +6,15 @@
 
 > This is a branch of a major repository dedicated to development of queries to search for bibliographic sources in orthopedics or otherwise. It throws light on our methodology to rapidly conduct an abridged scoping review on acutely prominent clinical questions. See some detail below after the main information block.
 
-## Клинический вопрос | Clinical question
+## Обзор | Review
+
+### Клинический вопрос | Clinical question
 
 _Популяция_ (лечение/диагностика/профилактика/прогноз): является ли _(вмешательство 1)_ по сравнению _(вмешательство 2)_  более/менее/одинаково эффективным/вредным/затратно-эффективным/затратно-полезным/затратно-выгодным, если судить по _(исходы)_?
 
 > _Population_ (treatment/diagnosis/prevention/prognosis): is _(intervention 1)_ compared to _(intervention 2)_ more/less/equally effective/harmful/cost-effective/cost-utile/cost-beneficial, judging from _(outcomes)_?
 
-## Запрос в PubMed, live-версия | PubMed query, a live version
+### Запрос в PubMed, live-версия | PubMed query, a live version
 
 ```
 
