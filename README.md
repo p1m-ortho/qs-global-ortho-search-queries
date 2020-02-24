@@ -1,5 +1,7 @@
 # RESCUER: a methodology for Rapid Electronic Scoping Updatable Extensible Reviews | «Рескьюэр»: методология быстрых электронных обновляемых расширяемых систематических обзоров о состоянии проблемы
 
+## Предисловие | Introduction
+
 Это ветка крупного репозитория, посвященного разработке запросов для поиска библиографических источников по ортопедии и не только по ней, освещающая нашу методологию быстрого проведения сжатых систематических обзоров о состоянии проблемы по остро возникающим клиническим вопросам. Несколько подробнее см. ниже после блока с основной информацией.
 
 > This is a branch of a major repository dedicated to development of queries to search for bibliographic sources in orthopedics or otherwise. It throws light on our methodology to rapidly conduct an abridged scoping review on acutely prominent clinical questions. See some detail below after the main information block.
