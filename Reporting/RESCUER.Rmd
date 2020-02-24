@@ -1,0 +1,14 @@
+---
+title: "A rapid electronic scoping updatable extensible review (RESCUER)"
+output:
+  word_document:
+    keep_md: no
+    toc: false
+    reference_docx: Normal.dotm
+  html_notebook:
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+bibliography: RESCUER.bib
+csl: gost-7-1-2003.csl
+---

@@ -17,72 +17,72 @@ csl: gost-7-1-2003.csl
 
 ## 1 Database name: Name each individual database searched, and state the platform for each individual database searched
 
-
+See the README.md.
 
 ## 2 Multidatabase searching: If databases were searched simultaneously on a single platform, state the name of the platform and list all of the databases searched
 
-
+See the README.md, would be indicated if used.
 
 ## 3 Study registries: List any study registries searched
 
-
+See the README.md, would be indicated if used.
 
 ## 4 Online resources and browsing: Describe any online or print source purposefully searched or browsed (e.g., tables of contents, print conference proceedings, web sites), and describe any methods used
 
-
+See the README.md, would be indicated if used.
 
 ## 5 Citation searching: Indicate whether cited references or citing references  were examined, and describe any methods used for locating cited/citing references (e.g., browsing reference lists, using a citation index, setting up email alerts for references citing included studies)
 
-
+See the README.md, would be indicated if used.
 
 ## 6 Contacts: Indicate whether additional studies or data were sought by contacting authors, experts, manufacturers, or others
 
-
+See the README.md, would be indicated if used.
 
 ## 7 Other methods: Describe any additional information sources or search methods used.
 
-
+See the README.md, would be indicated if used.
 
 # SEARCH STRATEGIES
 
 ## 8 Full search strategies: Include the search strategies for each database and information source, copied and pasted exactly as run
 
-
+See the full queries in the README.md.
 
 ## 9 Limits and restrictions: Specify that no limits  were used, or describe any limits or restrictions applied to a search and provide justification for their use (e.g., date or time period, language, study design)
 
-
+See for each query in the README.md, must be stated if applied.
 
 ## 10 Search filters: Indicate whether published search filters were used (as originally designed or modified), and if so, cite the filter(s) used
 
-
+See for each query in the README.md.
 
 ## 11 Prior work: Indicate and cite when search strategies from other literature reviews were adapted or reused for a substantive part or all of the search
 
-
+See for each query in the README.md.
 
 ## 12 Updates: Report the methods used to update the search(es) (e.g., rerunning searches, email alerts)
 
-
+For each search results CSV in the corresponding directory, the date of the commit containing the added records is equivalent to the date of the search update. As a rule, the search updates would also be explicitly stated by separate commits, as is also true for empty search reruns. To check whether or when the query strings themselves have been updated since the initial search, one needs to consult `git blame README.md`.
 
 ## 13 Dates of searches: For each search strategy, provide the date when the last search occurred
 
-
+For each search results CSV in the corresponding directory, the initial commit date is equivalent to the date of search.
 
 # PEER REVIEW
 
 ## 14 Peer review: Describe any search peer review process
 
-
+None used, which aligns well with the RESCUER format.
 
 # MANAGING RECORDS
 
 ## 15 Total records: Document the total number of references identified from each database and other information sources
 
-
+See the `csv-search-results` directory and run the record counts.
 
 ## 16 Deduplication: Describe the processes and any software used to deduplicate references from multiple database searches and other information sources
 
-
+None used. When presented with duplication at the information source level, those were naturally resolved.
 
 # References

@@ -23,77 +23,91 @@ It is strongly recommended that this checklist be read in conjunction with the P
 
 ### 1a Identification: Identify the report as a protocol of a systematic review
 
-
+A rapid electronic scoping updatable extensible review (RESCUER) protocol.
 
 ### 1b Update: If the protocol is for an update of a previous systematic review, identify as such
 
-
+Please check the commit history for the file.
 
 ## 2 Registration: If registered, provide the name of the registry (such as PROSPERO) and registration number
 
-
+Available at https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree (select the corresponding branch and see the commit history).
 
 ## 3 Authors
 
 ### 3a Contact: Provide name, institutional affiliation, e-mail address of all protocol authors; provide physical mailing address of corresponding author
 
-
+Authors available for electronical correspondence using their respective commit emails. The names and affiliations could be sought elsewhere based on these credentials. No physical correspondence is presumed.
 
 ### 3b Contributions: Describe contributions of protocol authors and identify the guarantor of the review
 
-
+The contributions are recognized as commit authorship, so please consult these.
 
 ## 4 Amendments: If the protocol represents an amendment of a previously completed or published protocol, identify as such and list changes; otherwise, state plan for documenting important protocol amendments
 
-
+Please check the commit history for the file.
 
 ## 5 Support
 
 ### 5a Sources: Indicate sources of financial or other support for the review
 
-
+See the COI file.
 
 ### 5b Sponsor: Provide name for the review funder and/or sponsor
 
-
+See the COI file.
 
 ### 5c Role of sponsor or funder: Describe roles of funder(s), sponsor(s), and/or institution(s), if any, in developing the protocol
 
-
+See the COI file.
 
 # INTRODUCTION
 
 ## 6 Rationale: Describe the rationale for the review in the context of what is already known
 
-
+See the `Backround of the review` section of the README.md.
 
 ## 7 Objectives: Provide an explicit statement of the question(s) the review will address with reference to participants, interventions, comparators, and outcomes (PICO)
 
-
+See the `Clinical question` section of the README.md.
 
 # METHODS
 
 ## 8 Eligibility criteria: Specify the study characteristics (such as PICO, study design, setting, time frame) and report characteristics (such as years considered, language, publication status) to be used as criteria for eligibility for the review
 
-
+Usually not applied, apart from the clinical question requirements. If applied, would be indicated either directly as part of the search query strings or elsewhere throughout the README.md.
 
 ## 9 Information sources: Describe all intended information sources (such as electronic databases, contact with study authors, trial registers or other grey literature sources) with planned dates of coverage
 
-
+See the PRISMA-S attached (`Checklist Table Format 2.4.Rmd`), which in turn would redirect you to the README.md.
 
 ## 10 Search strategy: Present draft of search strategy to be used for at least one electronic database, including planned limits, such that it could be repeated
 
-
+See the PRISMA-S attached (`Checklist Table Format 2.4.Rmd`), which in turn would redirect you to the README.md.
 
 ## 11 Study records
 
 ### 11a Data management: Describe the mechanism(s) that will be used to manage records and data throughout the review
 
+The project is created as branch of the `rescuer-master` branch of this repository (see [Pro Git](https://git-scm.com/book) for a Git introduction). Then in the git blame mode, see the commit corresponding to the search query in question (within the branch) and in the commit, see the following:
 
+* a full search results output, which, as a rule, can be exported using the tools provided by the search portal itself (e.g. `pubmed_result.csv`), but sometimes one is compelled to improvise (e.g. see [Sebzer](https://github.com/p1m-ortho/xs-sebzer));
+* a screening table, which I usually fill and export using [PortoDB](https://play.google.com/store/apps/details?id=com.portofarina.portodb) (e.g. `rescuer - pubmed_result.csv`);
+* bib files for the cited studies, which I usually export using [JabRef](https://www.jabref.org) or [ZoteroBib](https://zbib.org) (e.g. `Grant200991108.bib` — JabRef; `EvidenceBasedMedicineWorkingGroup199224202425.bib` — ZoteroBib).
+
+The clinical question, the background of the review, and the query list are maintained in the README.md, whose contents are then copied and pasted into the reporting/RESCUER.Rmd file to compile a typeset manuscript. Other reporting formats such as this checklist are also available from the `reporting` directory.
 
 ### 11b Selection process: State the process that will be used for selecting studies (such as two independent reviewers) through each phase of the review (that is, screening, eligibility and inclusion in meta-analysis)
 
+The screening process entails filling standardized CSV tables, one for each search query, pre-populated with the search results, using either special software (e.g. [PortoDB](https://play.google.com/store/apps/details?id=com.portofarina.portodb)), or a general-purpose spreadsheet editor such as [Calc](https://www.openoffice.org/product/calc.html) or [Excel](https://products.office.com/en-us/excel), or a plain text editor.
 
+See the screening table format in the `screening` directory. For each record, the screener is to tick either one of the fields below, or to tick none if none applies, and for each ticked, the bib must be placed within the corresponding directory. Whenever the reviewer feels the need to consult the full text, the record must be ticked.
+
+* ⚡ (Unicode 4.0 High Voltage Sign), an impression that the record may be useful to answer the clinical question under review, and to clear this up, one has to look up the abstract at least, or the full text if needed;
+* 👍 (Unicode 6.0 Thumbs Up Sign), the record may definitely be useful to answer the clinical question under review, which is clear either right from the title or after having looked at the abstract or even the full texts;
+* 🏆 (Unicode 6.0 Trophy), the winning papers that, to a great degree, are dedicated to answering the clinical question under review, which has become clear one way or the other.
+
+There usually is just one screener. Even though it has been repeatedly shown single screening is associated with significantly higher miss rates (as high as one per every ten to one per every five eligible records), it is the best available option given the RESCUER format.
 
 ### 11c Data collection process: Describe planned method of extracting data from reports (such as piloting forms, done independently, in duplicate), any processes for obtaining and confirming data from investigators
 
@@ -105,25 +119,25 @@ It is strongly recommended that this checklist be read in conjunction with the P
 
 ## 13 Outcomes and prioritization: List and define all outcomes for which data will be sought, including prioritization of main and additional outcomes, with rationale
 
-
+Not generally applicable to a scoping review.
 
 ## 14 Risk of bias in individual studies: Describe anticipated methods for assessing risk of bias of individual studies, including whether this will be done at the outcome or study level, or both; state how this information will be used in data synthesis
 
-
+Not generally applicable to a scoping review. As to the critical appraisal, it would be done if necessary as part of the information source individual data charting narratives.
 
 ## 15 Data synthesis
 
 ### 15a Describe criteria under which study data will be quantitatively synthesised
 
-
+Not generally applicable to a scoping review.
 
 ### 15b If data are appropriate for quantitative synthesis, describe planned summary measures, methods of handling data and methods of combining data from studies, including any planned exploration of consistency (such as I2, Kendall’s τ)
 
-
+Not generally applicable to a scoping review.
 
 ### 15c Describe any proposed additional analyses (such as sensitivity or subgroup analyses, meta-regression)
 
-
+Not generally applicable to a scoping review.
 
 ### 15d If quantitative synthesis is not appropriate, describe the type of summary planned
 
@@ -135,6 +149,6 @@ It is strongly recommended that this checklist be read in conjunction with the P
 
 ## 17 Confidence in cumulative evidence: Describe how the strength of the body of evidence will be assessed (such as GRADE)
 
-
+Not generally applicable to a scoping review.
 
 # References
