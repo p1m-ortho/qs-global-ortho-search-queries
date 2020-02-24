@@ -76,15 +76,15 @@ _Популяция_ (лечение/диагностика/профилакти
 
 В таблице скрининга:
 
-* ⚡ — впечатление, что запись может быть полезной для ответа на рассматриваемый клинический вопрос, и для выяснения нужно поднимать, как минимум, аннотацию, а при необходимости — и полные тексты;
-* 👍 — запись точно кое-чем может быть полезной для ответа на рассматриваемый клинический вопрос, что ясно либо сразу же из заголовка, либо после просмотра аннотации или даже полных текстов;
-* 🏆 — работы-победители, посвященные в значительной степени ответу на рассматриваемый клинический вопрос, что стало понятно так или иначе.
+* ⚡ (Unicode 4.0 High Voltage Sign) — впечатление, что запись может быть полезной для ответа на рассматриваемый клинический вопрос, и для выяснения нужно поднимать, как минимум, аннотацию, а при необходимости — и полные тексты;
+* 👍 (Unicode 6.0 Thumbs Up Sign) — запись точно кое-чем может быть полезной для ответа на рассматриваемый клинический вопрос, что ясно либо сразу же из заголовка, либо после просмотра аннотации или даже полных текстов;
+* 🏆 (Unicode 6.0 Trophy) — работы-победители, посвященные в значительной степени ответу на рассматриваемый клинический вопрос, что стало понятно так или иначе.
 
 > In the screening table:
 >
-> * ⚡, an impression that the record may be useful to answer the clinical question under review, and to clear this up, one has to look up the abstract at least, or the full text if needed;
-> * 👍, the record may definitely be useful to answer the clinical question under review, which is clear either right from the title or after having looked at the abstract or even the full texts;
-> * 🏆, the winning papers that, to a great degree, are dedicated to answering the clinical question under review, which has become clear one way or the other.
+> * ⚡ (Unicode 4.0 High Voltage Sign), an impression that the record may be useful to answer the clinical question under review, and to clear this up, one has to look up the abstract at least, or the full text if needed;
+> * 👍 (Unicode 6.0 Thumbs Up Sign), the record may definitely be useful to answer the clinical question under review, which is clear either right from the title or after having looked at the abstract or even the full texts;
+> * 🏆 (Unicode 6.0 Trophy), the winning papers that, to a great degree, are dedicated to answering the clinical question under review, which has become clear one way or the other.
 
 Сам текст размечен [Commonmark-Маркдауном](https://commonmark.org), а ссылки в нем имеют формат [@FirstAuthorLastnameYearPagesFromPagesTo], что нужно для того, чтобы затем при необходимости скомпилировать сверстанную копию из основного текста и [бибтехов](http://www.bibtex.org) (конкатенированных в один) с помощью [knitr](https://yihui.org/knitr/).
 

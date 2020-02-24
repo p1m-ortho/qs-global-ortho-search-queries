@@ -1,0 +1,88 @@
+---
+title: "Preferred Reporting Items for Systematic review and Meta-Analysis Searches (PRISMA-S) 2019 statementRethlefsen ML, Koffel JB, Kirtley S, Waffenschmidt S, Ayala AP, PRISMA-S Group.Version 2.4, released December 20, 2019"
+output:
+  word_document:
+    keep_md: no
+    toc: false
+    reference_docx: Normal.dotm
+  html_notebook:
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+bibliography: RESCUER.bib
+csl: gost-7-1-2003.csl
+---
+
+# INFORMATION SOURCES AND METHODS
+
+## 1 Database name: Name each individual database searched, and state the platform for each individual database searched
+
+
+
+## 2 Multidatabase searching: If databases were searched simultaneously on a single platform, state the name of the platform and list all of the databases searched
+
+
+
+## 3 Study registries: List any study registries searched
+
+
+
+## 4 Online resources and browsing: Describe any online or print source purposefully searched or browsed (e.g., tables of contents, print conference proceedings, web sites), and describe any methods used
+
+
+
+## 5 Citation searching: Indicate whether cited references or citing references  were examined, and describe any methods used for locating cited/citing references (e.g., browsing reference lists, using a citation index, setting up email alerts for references citing included studies)
+
+
+
+## 6 Contacts: Indicate whether additional studies or data were sought by contacting authors, experts, manufacturers, or others
+
+
+
+## 7 Other methods: Describe any additional information sources or search methods used.
+
+
+
+# SEARCH STRATEGIES
+
+## 8 Full search strategies: Include the search strategies for each database and information source, copied and pasted exactly as run
+
+
+
+## 9 Limits and restrictions: Specify that no limits  were used, or describe any limits or restrictions applied to a search and provide justification for their use (e.g., date or time period, language, study design)
+
+
+
+## 10 Search filters: Indicate whether published search filters were used (as originally designed or modified), and if so, cite the filter(s) used
+
+
+
+## 11 Prior work: Indicate and cite when search strategies from other literature reviews were adapted or reused for a substantive part or all of the search
+
+
+
+## 12 Updates: Report the methods used to update the search(es) (e.g., rerunning searches, email alerts)
+
+
+
+## 13 Dates of searches: For each search strategy, provide the date when the last search occurred
+
+
+
+# PEER REVIEW
+
+## 14 Peer review: Describe any search peer review process
+
+
+
+# MANAGING RECORDS
+
+## 15 Total records: Document the total number of references identified from each database and other information sources
+
+
+
+## 16 Deduplication: Describe the processes and any software used to deduplicate references from multiple database searches and other information sources
+
+
+
+# References
