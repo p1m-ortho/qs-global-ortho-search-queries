@@ -89,3 +89,9 @@ _Популяция_ (лечение/диагностика/профилакти
 Сам текст размечен [Commonmark-Маркдауном](https://commonmark.org), а ссылки в нем имеют формат [@ФамилияПервогоАвтораГодСтраницыОтСтраницыДо], что нужно для того, чтобы затем при необходимости скомпилировать сверстанную копию из основного текста и [бибтехов](http://www.bibtex.org) (конкатенированных в один) с помощью [knitr](https://yihui.org/knitr/).
 
 > The very text is marked up with [Commonmark Markdown](https://commonmark.org), and the references within are in the [@FirstAuthorLastnameYearPagesFromPagesTo] format, which is required so that afterwards if needed, to compile a typeset copy from the main text and the [bibtexes](http://www.bibtex.org) (concatenated into one) using [knitr](https://yihui.org/knitr/).
+
+### Литература по теме | Related references
+
+[@Akl2020E1E10] предложили оригинальный подход: Evidence Synthesis 2.0.
+
+> [@Akl2020E1E10] have proposed an originative approach: Evidence Synthesis 2.0.
