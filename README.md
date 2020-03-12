@@ -95,3 +95,7 @@ _Популяция_ (лечение/диагностика/профилакти
 [@Akl2020E1E10] предложили оригинальный подход: Evidence Synthesis 2.0.
 
 > [@Akl2020E1E10] have proposed an originative approach: Evidence Synthesis 2.0.
+
+Некоторые авторы говорят о необходимости живых синтезов с ликвидацией бесконечного дерева третичных работ, что близко перекликается с нашей концепцией [СТМЗ](https://github.com/p1m-ortho/xs-stmz-methodology).
+
+> Some authors talk about the need for live syntheses with elimination of the infinite tree of tertiary research, which corresponds closely with our concept of [STMZ](https://github.com/p1m-ortho/xs-stmz-methodology).
