@@ -10,19 +10,61 @@
 
 ### Клинический вопрос | Clinical question
 
-_Популяция_ (лечение/диагностика/профилактика/прогноз): является ли _(вмешательство 1)_ по сравнению _(вмешательство 2)_  более/менее/одинаково эффективным/вредным/затратно-эффективным/затратно-полезным/затратно-выгодным, если судить по _(исходы)_?
+COVID-19 (профилактика): являются ли _мероприятия, направленные на предотвращение контактной передачи,_ по сравнению с _отсутствием таких вмешательств_ более эффективными, если судить по _частоте симптомных случаев_ (вторичные исходы: летальность, частота положительных тестов)?
 
-> _Population_ (treatment/diagnosis/prevention/prognosis): is _(intervention 1)_ compared to _(intervention 2)_ more/less/equally effective/harmful/cost-effective/cost-utile/cost-beneficial, judging from _(outcomes)_?
+> COVID-19 (prevention): are _interventions targeted at prevention of contact transmission_ compared to _the absence of such interventions_ more effective, judging from _symptomatic case rates_ (secondary outcomes: case fatality rate, positive testing rate)?
 
 ### Запрос в PubMed, live-версия | PubMed query, a live version
 
 ```
-
+2020[dp] (spread*[tiab] or transmi*[tiab] or Disease Transmission, Infectious [mh] or trasm[sh] ) ((coronavirus [MeSH]) OR ("coronavirus infections"[MeSH Terms]) OR (coronavirus [All Fields]) OR ("covid 2019") OR ("SARS2") OR ("SARS-CoV-2") OR ("SARS-CoV-19") OR ("severe acute respiratory syndrome coronavirus 2" [supplementary concept]) OR (coronavirus infection) OR ("severe acute respiratory" pneumonia outbreak) OR ("novel cov") OR (2019ncov) OR (sars cov2) OR (cov2) OR (ncov) OR (covid-19) OR (covid19) OR (coronaviridae) OR ("corona virus"))
 ```
+
+Благодарности по поисковому фильтру на COVID-19: https://libguides.rcsi.ie/covid19/searchstrategy
+
+> COVID-19 search filter acknowledgements:
+> https://libguides.rcsi.ie/covid19/searchstrategy
+
+Ограничение по 2020 году публикации добавил, так как вряд ли особые исследования были в 2019, если учесть, что первые случаи заболевания был распознан только в декабре 2019, а ВОЗ вплотную занялась им только в январе 2019.
+
+> I added the 2020 publication year restriction because it is unlikely any research was material in 2019, as the first cases of the disease were detected in December 2019 only, and the WHO has been working on it closely since January 2020 only.
+
+532 записи, CSV прикрепляю (`csv-search-results/csv-2020dpspre-set.csv`, экспорт из нового интерфейса Пабмеда).
+
+> 532 record, the CSV attached (`csv-search-results/csv-2020dpspre-set.csv`, exported from the new PubMed interface).
+
+### Список литературы ВОЗ по COVID-19 | WHO COVID-19 references
+
+CSV-таблицу взял отсюда (ссылка с сайта ВОЗ; CSV-файл дублирую в коммит: `csv-search-results/CSV as at 27 March 2020-Full database.csv`):
+
+https://worldhealthorg-my.sharepoint.com/:f:/g/personal/garnicacarrenoj_who_int/EnzxnSJt68pIqLBwPYdqkqcB1KHboCAQJRN3mkTt3ZqDAA?e=OtxhHb
+
+> I took the CSV table from here (the link is from the WHO website; I have duplicated and included the CSV file in the commit: `csv-search-results/CSV as at 27 March 2020-Full database.csv`):
+>
+> https://worldhealthorg-my.sharepoint.com/:f:/g/personal/garnicacarrenoj_who_int/EnzxnSJt68pIqLBwPYdqkqcB1KHboCAQJRN3mkTt3ZqDAA?e=OtxhHb
+
+Также доступно в виде веб-ресурса на сайте ВОЗ: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
+
+> Also available as a web resource at the WHO website:
+> https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
+
+Всего 9995 записей в веб-таблице на момент коммита, но почему-то только 2912 в CSV-таблице (полная, от 27 марта). Буду использовать CSV-файл, так как веб-таблица выглядит ненадежно реализованной.
+
+> A total of 9995 records in the web table at the time of the commit, but for some reason just 2912 records in the CSV table (full, as of Mar 27). Will use the CSV file as the web table seems an unreliable presentation.
+
+Поиск по заголовку и аннотации (CSV-файл, по регулярному выражению):
+
+/(transmi|spread)/gi
+
+> Title/abstract search (the CSV file, by regular expression):
+>
+> /(transmi|spread)/gi
 
 ### Актуальность обзора | Background of the review
 
+В современных гайдах упоминается, что контактная передача SARS-CoV-2 также возможна (кроме воздушно-капельной). Имплементируются широкомасштабные организационные мероприятия направленные на предотвращение возможной контактной передачи SARS-CoV-2 (усиленная дезинфекция поверхностей, руководства по сокращению прикосновений к различным объектам и т. д.). Возникает вопрос, на каких эмпирических свидетельствах основаны такие мероприятия.
 
+> Current guides suggest surface contact transmission is also possible for SARS-CoV-2 (not only droplet person-to-person transmission). Large-scale organizational interventions targeted at prevention of the possible surface contact transmission of SARS-CoV-2 are being implemented (such as aggressive surface disinfection, guides on how to reduce touching different objects, etc.). The question arises: What empirical data underpin such interventions?
 
 ## О «Рескьюэре» | About RESCUER 
 
