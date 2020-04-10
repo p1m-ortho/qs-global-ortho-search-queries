@@ -10,9 +10,9 @@
 
 ### Организационный вопрос | Administrative question
 
-_Исследования в медицине (прогноз): является ли _APM (Agile Project Management)_ по сравнению _отсутствием формального проектного менеджемента_ более времязатратно-эффективным, если судить по _частоте достижения жестких конечных точек проекта в срок_?
+_Исследования в медицине_ (прогноз): является ли _APM (Agile Project Management)_ по сравнению _отсутствием формального проектного менеджемента_ более времязатратно-эффективным, если судить по _частоте достижения жестких конечных точек проекта в срок_?
 
-> _Health research_ (prognosis): is _APM (Agile Project Management)_ compared to _no formal project management_ more time-cost-effective, judging from _frequency of meeting hard endpoints on schedule?
+> _Health research_ (prognosis): is _APM (Agile Project Management)_ compared to _no formal project management_ more time-cost-effective, judging from _frequency of meeting hard endpoints on schedule_?
 
 ### Запрос в PubMed, live-версия | PubMed query, a live version
 
