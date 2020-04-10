@@ -8,21 +8,23 @@
 
 ## Обзор | Review
 
-### Клинический вопрос | Clinical question
+### Организационный вопрос | Administrative question
 
-_Популяция_ (лечение/диагностика/профилактика/прогноз): является ли _(вмешательство 1)_ по сравнению _(вмешательство 2)_  более/менее/одинаково эффективным/вредным/затратно-эффективным/затратно-полезным/затратно-выгодным, если судить по _(исходы)_?
+_Исследования в медицине (прогноз): является ли _APM (Agile Project Management)_ по сравнению _отсутствием формального проектного менеджемента_ более времязатратно-эффективным, если судить по _частоте достижения жестких конечных точек проекта в срок_?
 
-> _Population_ (treatment/diagnosis/prevention/prognosis): is _(intervention 1)_ compared to _(intervention 2)_ more/less/equally effective/harmful/cost-effective/cost-utile/cost-beneficial, judging from _(outcomes)_?
+> _Health research_ (prognosis): is _APM (Agile Project Management)_ compared to _no formal project management_ more time-cost-effective, judging from _frequency of meeting hard endpoints on schedule?
 
 ### Запрос в PubMed, live-версия | PubMed query, a live version
 
 ```
-
+agile[tiab] ("project management"[tiab] or Task Performance and Analysis [mh] or Time Management [mh] or Planning Techniques [mh]) 
 ```
 
 ### Актуальность обзора | Background of the review
 
+Много проектов, мало времени и сил. Рассматриваю более прогрессивное планирование исследовательской деятельности. В сфере программного обеспечения как, возможно, наиболее продвинутой в плане технологичного проектного менеджмента, APM (Agile Project Management) очень распространено.
 
+> Multiple projects; little time and energy. Considering more progressive planning of research activities. In software as an arguably most advanced field in terms of hi-tech project management, APM (Agile Project Management) is widespread.
 
 ## О «Рескьюэре» | About RESCUER 
 
