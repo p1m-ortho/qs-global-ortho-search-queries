@@ -10,18 +10,51 @@
 
 ### Клинический вопрос | Clinical question
 
-_Популяция_ (лечение/диагностика/профилактика/прогноз): является ли _(вмешательство 1)_ по сравнению _(вмешательство 2)_  более/менее/одинаково эффективным/вредным/затратно-эффективным/затратно-полезным/затратно-выгодным, если судить по _(исходы)_?
+_Обучающиеся в сфере здоровья_ (образование): является ли _журнальный клуб_ по сравнению с _отсутствием журнального клуба_ более эффективным, если судить по _тестам на навыки критической оценки литературы_?
 
-> _Population_ (treatment/diagnosis/prevention/prognosis): is _(intervention 1)_ compared to _(intervention 2)_ more/less/equally effective/harmful/cost-effective/cost-utile/cost-beneficial, judging from _(outcomes)_?
+> _Students in health_ (education): are _journal clubs_ compared to _no journal clubs_ more effective, judging from _formalized assessments of literature critical appraisal skills_?
 
 ### Запрос в PubMed, live-версия | PubMed query, a live version
 
+Максимально чувствительная версия (150 750
+ записей):
+
+> A sensitivity-maximizing version (150,750 records):
+
+```
+"journal club"[tiab] OR "journal clubs"[tiab] OR "critical appraisal"[tiab] OR (Education, Medical, Graduate[mh]) OR (Periodicals as Topic[mh]) OR Reading[mh]
 ```
 
+Разработано с использованием поисковой стратегии [@Alguire1998347353] и «МeSH-браузера».
+
+> Developed using the search strategy from [@Alguire1998347353] and the MeSH Browser.
+
+Не будем ее использовать здесь, потому что здесь не нужна такая чувствительность. Достаточно вот чего (1 932 записи):
+
+> Will not use it here because no such sensitivity is needed. This will suffice (1,932 records):
+
+```
+"journal club"[ti] or "journal clubs"[ti] 
 ```
 
 ### Актуальность обзора | Background of the review
 
+С начала апреля 2020 собираюсь организовать журнальный клуб P1M.ORG. Нужен шаблон доклада и вообще шаблон заседания.
+
+> Beginning April 2020, I’m organizing a P1M.ORG journal club. I need a presentation template and a general meeting template.
+
+Я уже смотрел в Гугле шаблоны презентаций и как-то ничем не удовлетворился. Хочется более основательно проникнуться накопленным опытом.
+
+> I already saw some slide templates on Google but wasn’t somewhat satisfied. Want to get a more fundamental acquaintance with the experience accumulated.
+
+Кстати, журклуб я пытался организовать и до этого (в июле — сентябре 2019), но безуспешно. См. коммиты ниже.
+
+> By the way, I tried organizing a journal club even before (July through September 2019) but with no success. See the commits below.
+
+1. [5d4a307b6b1f0b783b81a743a113cf5500c3467b](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/5d4a307b6b1f0b783b81a743a113cf5500c3467b)
+2. [35c3122ae9b4e9e65c6c6eee09e3ee83f402e6d1](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/35c3122ae9b4e9e65c6c6eee09e3ee83f402e6d1)
+3. [d67e6d378e56ef6e1f8ec82cdbbf56f2594a908a](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/d67e6d378e56ef6e1f8ec82cdbbf56f2594a908a)
+4. [672f849771a42c847ea7cd0c9e9cec1c8c37203a](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/672f849771a42c847ea7cd0c9e9cec1c8c37203a)
 
 
 ## О «Рескьюэре» | About RESCUER 
