@@ -12,7 +12,7 @@
 
 _Обучающиеся в сфере здоровья_ (образование): является ли _журнальный клуб_ по сравнению с _отсутствием журнального клуба_ более эффективным, если судить по _тестам на компетенцию критической оценки литературы_?
 
-> _Students in health_ (education): are _journal clubs_ compared to _no journal clubs_ more effective, judging from _formalized assessments of literature critical appraisal competence?
+> _Students in health_ (education): are _journal clubs_ compared to _no journal clubs_ more effective, judging from _formalized assessments of literature critical appraisal competence_?
 
 ### Запрос в PubMed, live-версия | PubMed query, a live version
 
