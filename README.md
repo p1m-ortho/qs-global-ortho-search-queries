@@ -8,21 +8,38 @@
 
 ## Обзор | Review
 
-### Клинический вопрос | Clinical question
+### Методологический вопрос | Methodologic question
 
-_Популяция_ (лечение/диагностика/профилактика/прогноз): является ли _(вмешательство 1)_ по сравнению _(вмешательство 2)_  более/менее/одинаково эффективным/вредным/затратно-эффективным/затратно-полезным/затратно-выгодным, если судить по _(исходы)_?
+_Источники информации_ (скрининг): является ли _один лимит на количество просмотренных страниц выдачи_ по сравнению с _другим лимитом на количество просмотренных страниц выдачи_ не менее эффективным, если судить по _числу (записей), которое наобходимо прочитать_?
 
-> _Population_ (treatment/diagnosis/prevention/prognosis): is _(intervention 1)_ compared to _(intervention 2)_ more/less/equally effective/harmful/cost-effective/cost-utile/cost-beneficial, judging from _(outcomes)_?
+> _Information sources_ (screening): is _one search page limit_ compared to the _other search page limit_ no less effective, judging from the _number (of records) needed to read_?
 
-### Запрос в PubMed, live-версия | PubMed query, a live version
+### [Запрос в PubMed, live-версия](https://pubmed.ncbi.nlm.nih.gov/?term=google%5Bti%5D%20page*) | [PubMed query, a live version](https://pubmed.ncbi.nlm.nih.gov/?term=google%5Bti%5D%20page*)
 
 ```
-
+google[ti] page*
 ```
 
 ### Актуальность обзора | Background of the review
 
+Идея включать Google как место поиска часто возникает. Соответственно хочется понять, какая методология его применения в этом приложении наиболее прозрачна.
 
+> The idea to include Google as a search location comes about frequently. Therefore, one would like to understand what methodology for such an application is most transparent.
+
+### Результаты обзора | Results of the review
+
+Просмотрел все 51 заголовок, только [@Haddaway2015e0138237] расценил как ⚡️ — просмотрел полный текст:
+
+> Viewed all 51 titles. I only regarded [@Haddaway2015e0138237] as ⚡️, so I viewed the full text:
+
+> PLoS One. 2015 Sep 17;10(9):e0138237.  doi: 10.1371/journal.pone.0138237.  eCollection 2015.
+> The Role of Google Scholar in Evidence Reviews and Its Applicability to Grey Literature Searching
+> Neal Robert Haddaway  1 , Alexandra Mary Collins  2 , Deborah Coughlin  3 , Stuart Kirk  4
+> PMID: 26379270  PMCID: PMC4574933  DOI: 10.1371/journal.pone.0138237
+
+Там действительно есть рассуждение о том, сколько страниц просматривать, но сама работа такого вопроса не ставит и нет доказательной базы.
+
+> It does have a discussion on how many pages to view, but the study itself does not have this as an objective nor does it give any evidence.
 
 ## О «Рескьюэре» | About RESCUER 
 
