@@ -1,14 +1,30 @@
-# Глобальный живой поиск по систематическим обзорам | Global Live Search for Systematic Reviews
+# Глобальный живой поиск по систематическим обзорам — Zheln.com | Global Live Search for Systematic Reviews—Zheln.com
+
+![Woodpecker by Anton from The Noun Project](https://zheln.com/favicons/android-chrome-512x512.png)
+
+> Since September, 2020, the study has continued as [Zheln.com](https://zheln.com), a crowdfunding project. What has changed: (1) The focus of the study has been widened to include not only orthopedics but any evidence-based practice; (2) Critical appraisal and replication of reviews is now also performed as part of this project. The [methods](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query) have not changed, whereas the methods of critical appraisal may be described in one phrase: Informal study of the review documentation with replication of some of the elements of the review by a single appraiser to formulate their expert impression as to whether the review is reproducible and whether it is useful for evidence-based practice. Crowdfunding details are available from the [Zheln](https://zheln.com) website.
+
+С сентября 2020 исследование продолжается в виде краудфандингового проекта [Zheln](https://zheln.com). Из изменений: (1) фокус исследования расширен с ортопедии на всю доказательную практику, и (2) в рамках проекта теперь выполняется также критическая оценка и репликация обзоров. [Методы](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query) остались без изменения, а методы критической оценки можно описать одной фразой: неформальное изучение документации по обзору единственным оценивающим с репликацией каких-то из элементов обзора, чтобы сформулировать собственное экспертное представление о том, воспроизводим ли обзор и чем он полезен для доказательной практики. Детали относительно краудфандинга доступны на сайте [Zheln](https://zheln.com).
 
 ## Цель | Objective
 
-> Monitor all published systematic reviews to rapidly identify new systematic reviews in orthopedics. Systematic reviews, in their turn, are known to be, today, the best source of evidence-based information.
+> 1. Monitor most of all published systematic reviews to rapidly identify new systematic reviews. Systematic reviews, in their turn, are known to be, today, the best source of information for evidence-based practice.
+> 2. Critically appraise and, where possible, replicate those of the systematic reviews idenitifed that are useful for evidence-based practice, in the appraiser’s mind.
 
-Мониторировать все публикуемые систематические обзоры, чтобы быстро выявлять новые систематические обзоры по ортопедии. Систематические обзоры же, как известно, сегодня лучший источник научной информации.
+1. Мониторировать большинство из публикуемые систематические обзоры, чтобы быстро выявлять новые систематические обзоры. Систематические обзоры же, как известно, сегодня лучший источник научной информации для доказательной практики.
+2. Критически оценивать и, по возможности, реплицировать те из выявленных систематических обзоров, которые полезны для доказательной практики, по мнению оценивающего.
 
 ## PubMed
 
 ### Методы | Methods
+
+> * See the methods to search and filter reviews in the [commit history of the repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query). See the search queries down below in this section.
+> * The methods of critical appraisal may be described in one phrase: Informal study of the review documentation with replication of some of the elements of the review by a single appraiser to formulate their expert impression as to whether the review is reproducible and whether it is useful for evidence-based practice.
+> * Crowdfunding details are available from the [Zheln](https://zheln.com) website.
+
+* Методы поиска и фильтрации обзоров см. в [истории коммитов репозитория](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query). Поисковые запросы см. ниже в этом разделе.
+* Методы критической оценки можно описать одной фразой: неформальное изучение документации по обзору единственным оценивающим с репликацией каких-то из элементов обзора, чтобы сформулировать собственное экспертное представление о том, воспроизводим ли обзор и чем он полезен для доказательной практики.
+* Детали относительно краудфандинга доступны на сайте [Zheln](https://zheln.com).
 
 > [Search Strategy Used to Create the Systematic Reviews Subset on PubMed](https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) as joined from the two versions: [February 2017](http://web.archive.org/web/20181023065423/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) and [December 2018](http://web.archive.org/web/20190711085949/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html).
 >
