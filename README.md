@@ -61,154 +61,315 @@
             (
                 (
                     (
-                        systematic review[ti] OR systematic literature review[ti] OR systematic scoping review[ti] OR systematic narrative review[ti] OR systematic qualitative review[ti] OR systematic evidence review[ti] OR systematic quantitative review[ti] OR systematic meta-review[ti] OR systematic critical review[ti] OR systematic mixed studies review[ti] OR systematic mapping review[ti] OR systematic cochrane review[ti] OR systematic search and review[ti] OR systematic integrative review[ti]
+                        "systematic review"[ti] OR "systematic literature review"[ti] OR "systematic scoping review"[ti] OR "systematic narrative review"[ti] OR "systematic qualitative review"[ti] OR "systematic evidence review"[ti] OR "systematic quantitative review"[ti] OR "systematic meta review"[ti] OR "systematic critical review"[ti] OR "systematic mixed studies review"[ti] OR "systematic mapping review"[ti] OR "systematic cochrane review"[ti] OR "systematic search and review"[ti] OR "systematic integrative review"[ti]
                     )
-                    NOT
-                    (
-                        comment[pt] 1600/01/01:2019/07/09[mhda]
-                    )
-                    NOT
-                    (
-                        protocol[ti] OR protocols[ti]
-                    )
+                    AND
+                    1865/01/01:2019/07/09[crdt]
                 )
                 NOT
                 (
-                    MEDLINE [subset] 1600/01/01:2019/07/09[mhda]
+                    "comment"[pt]
+                    AND
+                    1865/01/01:2019/07/09[dcom]
                 )
-            )
-            OR
-            (
-                Cochrane Database Syst Rev[ta]
-                AND
+                NOT
                 (
-                    review[pt] 1600/01/01:2019/07/09[mhda]
+                    (
+                        "protocol"[ti] OR "protocols"[ti]
+                    )
+                    AND
+                    1865/01/01:2019/07/09[crdt]
                 )
             )
-            OR
+            NOT
             (
-                systematic review[pt] 1600/01/01:2019/07/09[mhda]
+                "medline"[sb]
+                AND
+                1865/01/01:2019/07/09[dcom]
             )
         )
         OR
         (
             (
-                (
-                    systematic review[ti]
-                    OR
-                    (
-                        meta-analysis[pt] 1600/01/01:2019/07/09[mhda]
-                    )
-                    OR
-                    meta-analysis[ti] OR systematic literature review[ti] OR this systematic review[tw] OR pooling project[tw]
-                    OR
-                    (
-                        systematic review[tiab]
-                        AND
-                        (
-                            review[pt] 1600/01/01:2019/07/09[mhda]
-                        )
-                    )
-                    OR
-                    meta synthesis[ti] OR meta-analy*[ti] OR integrative review[tw] OR integrative research review[tw] OR rapid review[tw] OR umbrella review[tw]
-                    OR
-                    (
-                        (
-                            consensus development conference[pt] OR practice guideline[pt]
-                        )
-                        1600/01/01:2019/07/09[mhda]
-                    )
-                    OR
-                    drug class reviews[ti] OR cochrane database syst rev[ta] OR acp journal club[ta] OR health technol assess[ta] OR evid rep technol assess summ[ta] OR jbi database system rev implement rep[ta]
-                )
-                OR
-                (
-                    clinical guideline[tw] AND management[tw]
-                )
-                OR
-                (
-                    (
-                        evidence based[ti]
-                        OR
-                        (
-                            evidence-based medicine[mh] 1600/01/01:2019/07/09[mhda]
-                        )
-                        OR
-                        best practice*[ti] OR evidence synthesis[tiab]
-                    )
-                    AND
-                    (
-                        (
-                            review[pt] OR diseases category[mh] OR behavior and behavior mechanisms[mh] OR therapeutics[mh] OR evaluation study[pt] OR validation study[pt] OR guideline[pt] OR pmcbook
-                        )
-                        1600/01/01:2019/07/09[mhda]
-                    )
-                )
-                OR
-                (
-                    (
-                        systematic[tw] OR systematically[tw] OR critical[tiab] OR
-                        (
-                            study selection[tw]
-                        )
-                        OR
-                        (
-                            predetermined[tw] OR inclusion[tw] AND criteri*[tw]
-                        )
-                        OR
-                        exclusion criteri*[tw] OR main outcome measures[tw] OR standard of care[tw] OR standards of care[tw]
-                    )
-                    AND
-                    (
-                        survey[tiab] OR surveys[tiab] OR overview*[tw] OR review[tiab] OR reviews[tiab] OR search*[tw] OR handsearch[tw] OR analysis[ti] OR critique[tiab] OR appraisal[tw]
-                        OR
-                        (
-                            reduction[tw]
-                            AND
-                            (
-                                (
-                                    risk[mh] 1600/01/01:2019/07/09[mhda]
-                                )
-                                OR
-                                risk[tw]
-                            )
-                            AND
-                            (
-                                death[mh] OR "death"[all] OR recurrence[mh] OR "recurrence"[all]
-                            )
-                        )
-                    )
-                    AND
-                    (
-                        literature[tiab] OR articles[tiab] OR publications[tiab] OR publication[tiab] OR bibliography[tiab] OR bibliographies[tiab] OR published[tiab] OR pooled data[tw] OR unpublished[tw] OR citation[tw] OR citations[tw] OR database[tiab] OR internet[tiab] OR textbooks[tiab] OR references[tw] OR scales[tw] OR papers[tw] OR datasets[tw] OR trials[tiab] OR meta-analy*[tw]
-                        OR
-                        (
-                            clinical[tiab] AND studies[tiab]
-                        )
-                        OR
-                        (
-                            treatment outcome[mh] 1600/01/01:2019/07/09[mhda]
-                        )
-                        OR
-                        treatment outcome[tw]
-                        OR
-                        (
-                            pmcbook 1600/01/01:2019/07/09[mhda]
-                        )
-                    )
-                )
-                NOT
-                (
-                    (
-                        letter[pt] OR newspaper article[pt]
-                    )
-                    1600/01/01:2019/07/09[mhda]
-                )
+                "cochrane database syst rev"[ta]
+                AND
+                1865/01/01:2019/07/09[crdt]
+            )
+            AND
+            (
+                "review"[pt]
+                AND
+                1865/01/01:2019/07/09[dcom]
             )
         )
+        OR
+        (
+            "systematic review"[pt]
+            AND
+            1865/01/01:2019/07/09[dcom]
+        )
     )
+    OR
     (
-        1600/01/01:2019/07/09[crdt]
+        (
+            (
+                (
+                    "systematic review"[ti]
+                    AND
+                    1865/01/01:2019/07/09[crdt]
+                )
+                OR
+                (
+                    "meta-analysis"[pt]
+                    AND
+                    1865/01/01:2019/07/09[dcom]
+                )
+                OR
+                (
+                    (
+                        (
+                            "meta analysis"[ti] OR "systematic literature review"[ti]
+                        )
+                        AND
+                        1865/01/01:2019/07/09[crdt]
+                    )
+                    OR
+                    (
+                        (
+                            "this systematic review"[tw] OR "pooling project"[tw]
+                        )
+                        AND
+                        1865/01/01:2019/07/09[dcom]
+                    )
+                )
+                OR
+                (
+                    (
+                        "systematic review"[tiab]
+                        AND
+                        1865/01/01:2019/07/09[crdt]
+                    )
+                    AND
+                    (
+                        "review"[pt]
+                        AND
+                        1865/01/01:2019/07/09[dcom]
+                    )
+                )
+                OR
+                (
+                    (
+                        (
+                            "meta synthesis"[ti] OR "meta analy*"[ti]
+                        )
+                        AND
+                        1865/01/01:2019/07/09[crdt]
+                    )
+                    OR
+                    (
+                        (
+                            "integrative review"[tw] OR "integrative research review"[tw] OR "rapid review"[tw] OR "umbrella review"[tw]
+                        )
+                        AND
+                        1865/01/01:2019/07/09[dcom]
+                    )
+                )
+                OR
+                (
+                    (
+                        "consensus development conference"[pt] OR "practice guideline"[pt]
+                    )
+                    AND
+                    1865/01/01:2019/07/09[dcom]
+                )
+                OR
+                (
+                    (
+                        "drug class reviews"[ti] OR "cochrane database syst rev"[ta] OR "acp journal club"[ta] OR "health technol assess"[ta] OR "evid rep technol assess summ"[ta] OR "jbi database system rev implement rep"[ta]
+                    )
+                    AND
+                    1865/01/01:2019/07/09[crdt]
+                )
+            )
+            OR
+            (
+                "clinical guideline"[tw]
+                AND
+                "management"[tw]
+                AND
+                1865/01/01:2019/07/09[dcom]
+            )
+            OR
+            (
+                (
+                    (
+                        "evidence based"[ti]
+                        AND
+                        1865/01/01:2019/07/09[crdt]
+                    )
+                    OR
+                    (
+                        "evidence-based medicine"[mh]
+                        AND
+                        1865/01/01:2019/07/09[mhda]
+                    )
+                    OR
+                    (
+                        (
+                            "best practice*"[ti] OR "evidence synthesis"[tiab]
+                        )
+                        AND
+                        1865/01/01:2019/07/09[crdt]
+                    )
+                )
+                AND
+                (
+                    (
+                        (
+                            "review"[pt] OR "evaluation study"[pt] OR "validation study"[pt] OR "guideline"[pt] OR "pmcbook"[all]
+                        )
+                        AND
+                        1865/01/01:2019/07/09[dcom]
+                    )
+                    OR
+                    (
+                        (
+                            "diseases category"[mh] OR "behavior and behavior mechanisms"[mh] OR "therapeutics"[mh]
+                        )
+                        AND
+                        1865/01/01:2019/07/09[mhda]
+                    )
+                )
+            )
+            OR
+            (
+                (
+                    (
+                        (
+                            "systematic"[tw] OR "systematically"[tw] OR "study selection"[tw] OR "predetermined"[tw] OR "inclusion"[tw] AND "criteri*"[tw] OR "exclusion criteri*"[tw] OR "main outcome measures"[tw] OR "standard of care"[tw] OR "standards of care"[tw]
+                        )
+                        AND
+                        1865/01/01:2019/07/09[dcom]
+                    )
+                    OR
+                    (
+                        "critical"[tiab] 
+                        AND
+                        1865/01/01:2019/07/09[crdt]
+                    )
+                )
+                AND
+                (
+                    (
+                        (
+                            "survey"[tiab] OR "surveys"[tiab] OR "review"[tiab] OR "reviews"[tiab] OR "analysis"[ti] OR "critique"[tiab]
+                        )
+                        AND
+                        1865/01/01:2019/07/09[crdt]
+                    )
+                    OR
+                    (
+                        (
+                            "overview*"[tw] OR "search*"[tw] OR "handsearch"[tw] OR "appraisal"[tw]
+                        )
+                        AND
+                        1865/01/01:2019/07/09[dcom]
+                    )
+                    OR
+                    (
+                        (
+                            "reduction"[tw]
+                            AND
+                            1865/01/01:2019/07/09[dcom]
+                        )
+                        AND
+                        (
+                            (
+                                "risk"[mh]
+                                AND
+                                1865/01/01:2019/07/09[mhda]
+                            )
+                            OR
+                            (
+                                "risk"[tw]
+                                AND
+                                1865/01/01:2019/07/09[dcom]
+                            )
+                        )
+                        AND
+                        (
+                            (
+                                (
+                                    "death"[mh] OR "recurrence"[mh]
+                                )
+                                AND
+                                1865/01/01:2019/07/09[mhda]
+                            )
+                            OR
+                            (
+                                (
+                                    "death"[all] OR "recurrence"[all]
+                                )
+                                AND
+                                1865/01/01:2019/07/09[dcom]
+                            )
+                        )
+                    )
+                )
+                AND
+                (
+                    (
+                        (
+                            "literature"[tiab] OR "articles"[tiab] OR "publications"[tiab] OR "publication"[tiab] OR "bibliography"[tiab] OR "bibliographies"[tiab] OR "published"[tiab] OR "database"[tiab] OR "internet"[tiab] OR "textbooks"[tiab] OR "trials"[tiab]
+                        )
+                        AND
+                        1865/01/01:2019/07/09[crdt]
+                    )
+                    OR
+                    (
+                        (
+                            "pooled data"[tw] OR "unpublished"[tw] OR "citation"[tw] OR "citations"[tw] OR "references"[tw] OR "scales"[tw] OR "papers"[tw] OR "datasets"[tw] OR "meta analy*"[tw]
+                        )
+                        AND
+                        1865/01/01:2019/07/09[dcom]
+                    )
+                    OR
+                    (
+                        "clinical"[tiab]
+                        AND
+                        "studies"[tiab]
+                        AND
+                        1865/01/01:2019/07/09[crdt]
+                    )
+                    OR
+                    (
+                        "treatment outcome"[mh]
+                        AND
+                        1865/01/01:2019/07/09[mhda]
+                    )
+                    OR
+                    (
+                        "treatment outcome"[tw]
+                        AND
+                        1865/01/01:2019/07/09[dcom]
+                    )
+                    OR
+                    (
+                        "pmcbook"[all]
+                        AND
+                        1865/01/01:2019/07/09[dcom]
+                    )
+                )
+            )
+            NOT
+            (
+                (
+                    "letter"[pt] OR "newspaper article"[pt]
+                )
+                AND
+                1865/01/01:2019/07/09[dcom]
+            )
+        )
     )
 )
 ```
