@@ -38,7 +38,7 @@
 
 Версия от февраля 2017 [основана](https://wayback.archive-it.org/org-350/20180406175620/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_sources.html) на работе [[@Shojania2001]](https://pubmed.gov/11525102). Версия от декабря 2018 не знаю, на чем основана, там не было написано.
 
-### Живая версия (актуален бессрочно, при запуске 11 июля 2019 вернул 413 550 записей) | Live Version (Up-To-Date Indefinitely, Run on Jul 11, 2019 to Retrieve 413,550 Records)
+### Живая версия (актуален бессрочно до каких-либо вмешивающихся обновлений PubMed; при запуске 11 июля 2019 вернул 413 550 записей) | Live Version (Up-To-Date Indefinitely Until Any Interfering PubMed Updates; Run on Jul 11, 2019 to Retrieve 413,550 Records)
 
 ```
 (
