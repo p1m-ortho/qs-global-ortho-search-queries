@@ -38,7 +38,7 @@
 
 Версия от февраля 2017 [основана](https://wayback.archive-it.org/org-350/20180406175620/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_sources.html) на работе [[@Shojania2001]](https://pubmed.gov/11525102). Версия от декабря 2018 не знаю, на чем основана, там не было написано.
 
-### Живая версия (актуален бессрочно до каких-либо вмешивающихся обновлений PubMed; при запуске 11 июля 2019 вернул 413 550 записей) | Live Version (Up-To-Date Indefinitely Until Any Interfering PubMed Updates; Run on Jul 11, 2019 to Retrieve 413,550 Records)
+### Живая версия (актуален бессрочно до каких-либо вмешивающихся обновлений PubMed; при запуске 11 сентября 2020 вернул 474 043 записей) | Live Version (Up-To-Date Indefinitely Until Any Interfering PubMed Updates; Run on Sep 11, 2020, to Retrieve 474,043 Records)
 
 ```
 (
@@ -52,7 +52,7 @@
 )
 ```
 
-### Реплицируемая версия (актуален на 11 июля 2019, при запуске 11 июля 2019 вернул 413 363 записи) | Replicated Version (Up-To-Date by Jul 11, 2019, Run on Jul 11, 2019 to Retrieve 413,363 Records)
+### Реплицируемая версия (актуален на 9 сентября 2020, при запуске 11 сентября 2020 вернул 426 858 записей) | Replicated Version (Up-To-Date by Sep 9, 2020; Run on Sep 11, 2020, to Retrieve 426,858 Records)
 
 ```
 (
@@ -64,13 +64,13 @@
                         "systematic review"[ti] OR "systematic literature review"[ti] OR "systematic scoping review"[ti] OR "systematic narrative review"[ti] OR "systematic qualitative review"[ti] OR "systematic evidence review"[ti] OR "systematic quantitative review"[ti] OR "systematic meta review"[ti] OR "systematic critical review"[ti] OR "systematic mixed studies review"[ti] OR "systematic mapping review"[ti] OR "systematic cochrane review"[ti] OR "systematic search and review"[ti] OR "systematic integrative review"[ti]
                     )
                     AND
-                    1865/01/01:2019/07/09[crdt]
+                    1865/01/01:2020/09/09[crdt]
                 )
                 NOT
                 (
                     "comment"[pt]
                     AND
-                    1865/01/01:2019/07/09[dcom]
+                    1865/01/01:2020/09/09[dcom]
                 )
                 NOT
                 (
@@ -78,14 +78,14 @@
                         "protocol"[ti] OR "protocols"[ti]
                     )
                     AND
-                    1865/01/01:2019/07/09[crdt]
+                    1865/01/01:2020/09/09[crdt]
                 )
             )
             NOT
             (
                 "medline"[sb]
                 AND
-                1865/01/01:2019/07/09[dcom]
+                1865/01/01:2020/09/09[dcom]
             )
         )
         OR
@@ -93,20 +93,20 @@
             (
                 "cochrane database syst rev"[ta]
                 AND
-                1865/01/01:2019/07/09[crdt]
+                1865/01/01:2020/09/09[crdt]
             )
             AND
             (
                 "review"[pt]
                 AND
-                1865/01/01:2019/07/09[dcom]
+                1865/01/01:2020/09/09[dcom]
             )
         )
         OR
         (
             "systematic review"[pt]
             AND
-            1865/01/01:2019/07/09[dcom]
+            1865/01/01:2020/09/09[dcom]
         )
     )
     OR
@@ -116,13 +116,13 @@
                 (
                     "systematic review"[ti]
                     AND
-                    1865/01/01:2019/07/09[crdt]
+                    1865/01/01:2020/09/09[crdt]
                 )
                 OR
                 (
                     "meta-analysis"[pt]
                     AND
-                    1865/01/01:2019/07/09[dcom]
+                    1865/01/01:2020/09/09[dcom]
                 )
                 OR
                 (
@@ -131,7 +131,7 @@
                             "meta analysis"[ti] OR "systematic literature review"[ti]
                         )
                         AND
-                        1865/01/01:2019/07/09[crdt]
+                        1865/01/01:2020/09/09[crdt]
                     )
                     OR
                     (
@@ -139,7 +139,7 @@
                             "this systematic review"[tw] OR "pooling project"[tw]
                         )
                         AND
-                        1865/01/01:2019/07/09[dcom]
+                        1865/01/01:2020/09/09[dcom]
                     )
                 )
                 OR
@@ -147,13 +147,13 @@
                     (
                         "systematic review"[tiab]
                         AND
-                        1865/01/01:2019/07/09[crdt]
+                        1865/01/01:2020/09/09[crdt]
                     )
                     AND
                     (
                         "review"[pt]
                         AND
-                        1865/01/01:2019/07/09[dcom]
+                        1865/01/01:2020/09/09[dcom]
                     )
                 )
                 OR
@@ -163,7 +163,7 @@
                             "meta synthesis"[ti] OR "meta analy*"[ti]
                         )
                         AND
-                        1865/01/01:2019/07/09[crdt]
+                        1865/01/01:2020/09/09[crdt]
                     )
                     OR
                     (
@@ -171,7 +171,7 @@
                             "integrative review"[tw] OR "integrative research review"[tw] OR "rapid review"[tw] OR "umbrella review"[tw]
                         )
                         AND
-                        1865/01/01:2019/07/09[dcom]
+                        1865/01/01:2020/09/09[dcom]
                     )
                 )
                 OR
@@ -180,7 +180,7 @@
                         "consensus development conference"[pt] OR "practice guideline"[pt]
                     )
                     AND
-                    1865/01/01:2019/07/09[dcom]
+                    1865/01/01:2020/09/09[dcom]
                 )
                 OR
                 (
@@ -188,7 +188,7 @@
                         "drug class reviews"[ti] OR "cochrane database syst rev"[ta] OR "acp journal club"[ta] OR "health technol assess"[ta] OR "evid rep technol assess summ"[ta] OR "jbi database system rev implement rep"[ta]
                     )
                     AND
-                    1865/01/01:2019/07/09[crdt]
+                    1865/01/01:2020/09/09[crdt]
                 )
             )
             OR
@@ -197,7 +197,7 @@
                 AND
                 "management"[tw]
                 AND
-                1865/01/01:2019/07/09[dcom]
+                1865/01/01:2020/09/09[dcom]
             )
             OR
             (
@@ -205,13 +205,13 @@
                     (
                         "evidence based"[ti]
                         AND
-                        1865/01/01:2019/07/09[crdt]
+                        1865/01/01:2020/09/09[crdt]
                     )
                     OR
                     (
                         "evidence-based medicine"[mh]
                         AND
-                        1865/01/01:2019/07/09[mhda]
+                        1865/01/01:2020/09/09[mhda]
                     )
                     OR
                     (
@@ -219,7 +219,7 @@
                             "best practice*"[ti] OR "evidence synthesis"[tiab]
                         )
                         AND
-                        1865/01/01:2019/07/09[crdt]
+                        1865/01/01:2020/09/09[crdt]
                     )
                 )
                 AND
@@ -229,7 +229,7 @@
                             "review"[pt] OR "evaluation study"[pt] OR "validation study"[pt] OR "guideline"[pt] OR "pmcbook"[all]
                         )
                         AND
-                        1865/01/01:2019/07/09[dcom]
+                        1865/01/01:2020/09/09[dcom]
                     )
                     OR
                     (
@@ -237,7 +237,7 @@
                             "diseases category"[mh] OR "behavior and behavior mechanisms"[mh] OR "therapeutics"[mh]
                         )
                         AND
-                        1865/01/01:2019/07/09[mhda]
+                        1865/01/01:2020/09/09[mhda]
                     )
                 )
             )
@@ -249,13 +249,13 @@
                             "systematic"[tw] OR "systematically"[tw] OR "study selection"[tw] OR "predetermined"[tw] OR "inclusion"[tw] AND "criteri*"[tw] OR "exclusion criteri*"[tw] OR "main outcome measures"[tw] OR "standard of care"[tw] OR "standards of care"[tw]
                         )
                         AND
-                        1865/01/01:2019/07/09[dcom]
+                        1865/01/01:2020/09/09[dcom]
                     )
                     OR
                     (
                         "critical"[tiab] 
                         AND
-                        1865/01/01:2019/07/09[crdt]
+                        1865/01/01:2020/09/09[crdt]
                     )
                 )
                 AND
@@ -265,7 +265,7 @@
                             "survey"[tiab] OR "surveys"[tiab] OR "review"[tiab] OR "reviews"[tiab] OR "analysis"[ti] OR "critique"[tiab]
                         )
                         AND
-                        1865/01/01:2019/07/09[crdt]
+                        1865/01/01:2020/09/09[crdt]
                     )
                     OR
                     (
@@ -273,27 +273,27 @@
                             "overview*"[tw] OR "search*"[tw] OR "handsearch"[tw] OR "appraisal"[tw]
                         )
                         AND
-                        1865/01/01:2019/07/09[dcom]
+                        1865/01/01:2020/09/09[dcom]
                     )
                     OR
                     (
                         (
                             "reduction"[tw]
                             AND
-                            1865/01/01:2019/07/09[dcom]
+                            1865/01/01:2020/09/09[dcom]
                         )
                         AND
                         (
                             (
                                 "risk"[mh]
                                 AND
-                                1865/01/01:2019/07/09[mhda]
+                                1865/01/01:2020/09/09[mhda]
                             )
                             OR
                             (
                                 "risk"[tw]
                                 AND
-                                1865/01/01:2019/07/09[dcom]
+                                1865/01/01:2020/09/09[dcom]
                             )
                         )
                         AND
@@ -303,7 +303,7 @@
                                     "death"[mh] OR "recurrence"[mh]
                                 )
                                 AND
-                                1865/01/01:2019/07/09[mhda]
+                                1865/01/01:2020/09/09[mhda]
                             )
                             OR
                             (
@@ -311,7 +311,7 @@
                                     "death"[all] OR "recurrence"[all]
                                 )
                                 AND
-                                1865/01/01:2019/07/09[dcom]
+                                1865/01/01:2020/09/09[dcom]
                             )
                         )
                     )
@@ -323,7 +323,7 @@
                             "literature"[tiab] OR "articles"[tiab] OR "publications"[tiab] OR "publication"[tiab] OR "bibliography"[tiab] OR "bibliographies"[tiab] OR "published"[tiab] OR "database"[tiab] OR "internet"[tiab] OR "textbooks"[tiab] OR "trials"[tiab]
                         )
                         AND
-                        1865/01/01:2019/07/09[crdt]
+                        1865/01/01:2020/09/09[crdt]
                     )
                     OR
                     (
@@ -331,7 +331,7 @@
                             "pooled data"[tw] OR "unpublished"[tw] OR "citation"[tw] OR "citations"[tw] OR "references"[tw] OR "scales"[tw] OR "papers"[tw] OR "datasets"[tw] OR "meta analy*"[tw]
                         )
                         AND
-                        1865/01/01:2019/07/09[dcom]
+                        1865/01/01:2020/09/09[dcom]
                     )
                     OR
                     (
@@ -339,25 +339,25 @@
                         AND
                         "studies"[tiab]
                         AND
-                        1865/01/01:2019/07/09[crdt]
+                        1865/01/01:2020/09/09[crdt]
                     )
                     OR
                     (
                         "treatment outcome"[mh]
                         AND
-                        1865/01/01:2019/07/09[mhda]
+                        1865/01/01:2020/09/09[mhda]
                     )
                     OR
                     (
                         "treatment outcome"[tw]
                         AND
-                        1865/01/01:2019/07/09[dcom]
+                        1865/01/01:2020/09/09[dcom]
                     )
                     OR
                     (
                         "pmcbook"[all]
                         AND
-                        1865/01/01:2019/07/09[dcom]
+                        1865/01/01:2020/09/09[dcom]
                     )
                 )
             )
@@ -367,7 +367,7 @@
                     "letter"[pt] OR "newspaper article"[pt]
                 )
                 AND
-                1865/01/01:2019/07/09[dcom]
+                1865/01/01:2020/09/09[dcom]
             )
         )
     )
