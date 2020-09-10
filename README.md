@@ -52,7 +52,7 @@
 )
 ```
 
-### Реплицируемая версия (актуален на 9 сентября 2020, при запуске 11 сентября 2020 вернул 457 240 записей) | Replicated Version (Up-To-Date by Sep 9, 2020; Run on Sep 11, 2020, to Retrieve 457,240 Records)
+### Реплицируемая версия (актуален на 9 сентября 2020, при запуске 11 сентября 2020 вернул 472 199 записей) | Replicated Version (Up-To-Date by Sep 9, 2020; Run on Sep 11, 2020, to Retrieve 472,199 Records)
 
 ```
 (
@@ -141,6 +141,14 @@
                         AND
                         1865/01/01:2020/09/09[dcom]
                     )
+                    OR
+                    (
+                        (
+                            "this systematic review"[tiab] OR "pooling project"[tiab]
+                        )
+                        AND
+                        1865/01/01:2020/09/09[crdt]
+                    )
                 )
                 OR
                 (
@@ -173,6 +181,14 @@
                         AND
                         1865/01/01:2020/09/09[dcom]
                     )
+                    OR
+                    (
+                        (
+                            "integrative review"[tiab] OR "integrative research review"[tiab] OR "rapid review"[tiab] OR "umbrella review"[tiab]
+                        )
+                        AND
+                        1865/01/01:2020/09/09[crdt]
+                    )
                 )
                 OR
                 (
@@ -198,6 +214,14 @@
                 "management"[tw]
                 AND
                 1865/01/01:2020/09/09[dcom]
+            )
+            OR
+            (
+                "clinical guideline"[tiab]
+                AND
+                "management"[tiab]
+                AND
+                1865/01/01:2020/09/09[crdt]
             )
             OR
             (
@@ -263,6 +287,24 @@
                     )
                     OR
                     (
+                        (
+                            "systematic"[tiab] OR "systematically"[tiab] OR "study selection"[tiab]
+                            OR
+                            (
+                                (
+                                    "predetermined"[tiab] OR "inclusion"[tiab]
+                                )
+                                AND
+                                "criteri*"[tiab]
+                             )
+                             OR
+                             "exclusion criteri*"[tiab] OR "main outcome measures"[tiab] OR "standard of care"[tiab] OR "standards of care"[tiab]
+                        )
+                        AND
+                        1865/01/01:2020/09/09[crdt]
+                    )
+                    OR
+                    (
                         "critical"[tiab] 
                         AND
                         1865/01/01:2020/09/09[crdt]
@@ -288,9 +330,25 @@
                     OR
                     (
                         (
-                            "reduction"[tw]
-                            AND
-                            1865/01/01:2020/09/09[dcom]
+                            "overview*"[tiab] OR "search*"[tiab] OR "handsearch"[tiab] OR "appraisal"[tiab]
+                        )
+                        AND
+                        1865/01/01:2020/09/09[crdt]
+                    )
+                    OR
+                    (
+                        (
+                            (
+                                "reduction"[tw]
+                                AND
+                                1865/01/01:2020/09/09[dcom]
+                            )
+                            OR
+                            (
+                                "reduction"[tiab]
+                                AND
+                                1865/01/01:2020/09/09[crdt]
+                            )
                         )
                         AND
                         (
@@ -301,9 +359,17 @@
                             )
                             OR
                             (
-                                "risk"[tw]
-                                AND
-                                1865/01/01:2020/09/09[dcom]
+                                (
+                                    "risk"[tw]
+                                    AND
+                                    1865/01/01:2020/09/09[dcom]
+                                )
+                                OR
+                                (
+                                    "risk"[tiab]
+                                    AND
+                                    1865/01/01:2020/09/09[crdt]
+                                )
                             )
                         )
                         AND
@@ -345,6 +411,14 @@
                     )
                     OR
                     (
+                        (
+                            "pooled data"[tiab] OR "unpublished"[tiab] OR "citation"[tiab] OR "citations"[tiab] OR "references"[tiab] OR "scales"[tiab] OR "papers"[tiab] OR "datasets"[tiab] OR "meta analy*"[tiab]
+                        )
+                        AND
+                        1865/01/01:2020/09/09[crdt]
+                    )
+                    OR
+                    (
                         "clinical"[tiab]
                         AND
                         "studies"[tiab]
@@ -362,6 +436,12 @@
                         "treatment outcome"[tw]
                         AND
                         1865/01/01:2020/09/09[dcom]
+                    )
+                    OR
+                    (
+                        "treatment outcome"[tiab]
+                        AND
+                        1865/01/01:2020/09/09[crdt]
                     )
                     OR
                     (
