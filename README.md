@@ -52,7 +52,7 @@
 )
 ```
 
-### Реплицируемая версия (актуален на 9 сентября 2020, при запуске 11 сентября 2020 вернул 426 858 записей) | Replicated Version (Up-To-Date by Sep 9, 2020; Run on Sep 11, 2020, to Retrieve 426,858 Records)
+### Реплицируемая версия (актуален на 9 сентября 2020, при запуске 11 сентября 2020 вернул 457 240 записей) | Replicated Version (Up-To-Date by Sep 9, 2020; Run on Sep 11, 2020, to Retrieve 457,240 Records)
 
 ```
 (
@@ -246,7 +246,17 @@
                 (
                     (
                         (
-                            "systematic"[tw] OR "systematically"[tw] OR "study selection"[tw] OR "predetermined"[tw] OR "inclusion"[tw] AND "criteri*"[tw] OR "exclusion criteri*"[tw] OR "main outcome measures"[tw] OR "standard of care"[tw] OR "standards of care"[tw]
+                            "systematic"[tw] OR "systematically"[tw] OR "study selection"[tw]
+                            OR
+                            (
+                                (
+                                    "predetermined"[tw] OR "inclusion"[tw]
+                                )
+                                AND
+                                "criteri*"[tw]
+                             )
+                             OR
+                             "exclusion criteri*"[tw] OR "main outcome measures"[tw] OR "standard of care"[tw] OR "standards of care"[tw]
                         )
                         AND
                         1865/01/01:2020/09/09[dcom]
