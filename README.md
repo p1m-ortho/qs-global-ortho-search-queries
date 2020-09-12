@@ -52,7 +52,7 @@
 )
 ```
 
-### Реплицируемая версия (актуален на 9 сентября 2020, при запуске 12 сентября 2020 вернул 472 199 записей) | Replicated Version (Up-To-Date by Sep 9, 2020; Run on Sep 12, 2020, to Retrieve 472,199 Records)
+### Реплицируемая версия (актуален на 9 сентября 2020, при запуске 12 сентября 2020 вернул 472 252 записей) | Replicated Version (Up-To-Date by Sep 9, 2020; Run on Sep 12, 2020, to Retrieve 472,252 Records)
 
 ```
 (
@@ -137,7 +137,11 @@
                     "this systematic review"[tw] OR "pooling project"[tw]
                 )
                 AND
-                1865/01/01:2020/09/09[dcom]
+                (
+                    1865/01/01:2020/09/09[dcom]
+                    OR
+                    1865/01/01:2020/09/09[mhda]
+                )
             )
             OR
             (
@@ -175,7 +179,11 @@
                     "integrative review"[tw] OR "integrative research review"[tw] OR "rapid review"[tw] OR "umbrella review"[tw]
                 )
                 AND
-                1865/01/01:2020/09/09[dcom]
+                (
+                    1865/01/01:2020/09/09[dcom]
+                    OR
+                    1865/01/01:2020/09/09[mhda]
+                )
             )
             OR
             (
@@ -207,7 +215,11 @@
                 AND
                 "management"[tw]
                 AND
-                1865/01/01:2020/09/09[dcom]
+                (
+                    1865/01/01:2020/09/09[dcom]
+                    OR
+                    1865/01/01:2020/09/09[mhda]
+                )
             )
             OR
             (
@@ -277,7 +289,11 @@
                             "exclusion criteri*"[tw] OR "main outcome measures"[tw] OR "standard of care"[tw] OR "standards of care"[tw]
                         )
                         AND
-                        1865/01/01:2020/09/09[dcom]
+                        (
+                            1865/01/01:2020/09/09[dcom]
+                            OR
+                            1865/01/01:2020/09/09[mhda]
+                        )
                     )
                     OR
                     (
@@ -319,7 +335,11 @@
                             "overview*"[tw] OR "search*"[tw] OR "handsearch"[tw] OR "appraisal"[tw]
                         )
                         AND
-                        1865/01/01:2020/09/09[dcom]
+                        (
+                            1865/01/01:2020/09/09[dcom]
+                            OR
+                            1865/01/01:2020/09/09[mhda]
+                        )
                     )
                     OR
                     (
@@ -335,7 +355,11 @@
                             (
                                 "reduction"[tw]
                                 AND
-                                1865/01/01:2020/09/09[dcom]
+                                (
+                                    1865/01/01:2020/09/09[dcom]
+                                    OR
+                                    1865/01/01:2020/09/09[mhda]
+                                )
                             )
                             OR
                             (
@@ -356,7 +380,11 @@
                                 (
                                     "risk"[tw]
                                     AND
-                                    1865/01/01:2020/09/09[dcom]
+                                    (
+                                        1865/01/01:2020/09/09[dcom]
+                                        OR
+                                        1865/01/01:2020/09/09[mhda]
+                                    )
                                 )
                                 OR
                                 (
@@ -401,7 +429,11 @@
                             "pooled data"[tw] OR "unpublished"[tw] OR "citation"[tw] OR "citations"[tw] OR "references"[tw] OR "scales"[tw] OR "papers"[tw] OR "datasets"[tw] OR "meta analy*"[tw]
                         )
                         AND
-                        1865/01/01:2020/09/09[dcom]
+                        (
+                            1865/01/01:2020/09/09[dcom]
+                            OR
+                            1865/01/01:2020/09/09[mhda]
+                        )
                     )
                     OR
                     (
@@ -429,7 +461,11 @@
                     (
                         "treatment outcome"[tw]
                         AND
-                        1865/01/01:2020/09/09[dcom]
+                        (
+                            1865/01/01:2020/09/09[dcom]
+                            OR
+                            1865/01/01:2020/09/09[mhda]
+                        )
                     )
                     OR
                     (
