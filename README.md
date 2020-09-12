@@ -52,7 +52,7 @@
 )
 ```
 
-### Реплицируемая версия (актуален на 9 сентября 2020, при запуске 11 сентября 2020 вернул 472 199 записей) | Replicated Version (Up-To-Date by Sep 9, 2020; Run on Sep 11, 2020, to Retrieve 472,199 Records)
+### Реплицируемая версия (актуален на 9 сентября 2020, при запуске 12 сентября 2020 вернул 472 199 записей) | Replicated Version (Up-To-Date by Sep 9, 2020; Run on Sep 12, 2020, to Retrieve 472,199 Records)
 
 ```
 (
@@ -113,99 +113,93 @@
     (
         (
             (
+                "systematic review"[ti]
+                AND
+                1865/01/01:2020/09/09[crdt]
+            )
+            OR
+            (
+                "meta-analysis"[pt]
+                AND
+                1865/01/01:2020/09/09[dcom]
+            )
+            OR
+            (
                 (
-                    "systematic review"[ti]
+                    "meta analysis"[ti] OR "systematic literature review"[ti]
+                )
+                AND
+                1865/01/01:2020/09/09[crdt]
+            )
+            OR
+            (
+                (
+                    "this systematic review"[tw] OR "pooling project"[tw]
+                )
+                AND
+                1865/01/01:2020/09/09[dcom]
+            )
+            OR
+            (
+                (
+                    "this systematic review"[tiab] OR "pooling project"[tiab]
+                )
+                AND
+                1865/01/01:2020/09/09[crdt]
+            )
+            OR
+            (
+                (
+                    "systematic review"[tiab]
                     AND
                     1865/01/01:2020/09/09[crdt]
                 )
-                OR
+                AND
                 (
-                    "meta-analysis"[pt]
+                    "review"[pt]
                     AND
                     1865/01/01:2020/09/09[dcom]
                 )
-                OR
+            )
+            OR
+            (
                 (
-                    (
-                        (
-                            "meta analysis"[ti] OR "systematic literature review"[ti]
-                        )
-                        AND
-                        1865/01/01:2020/09/09[crdt]
-                    )
-                    OR
-                    (
-                        (
-                            "this systematic review"[tw] OR "pooling project"[tw]
-                        )
-                        AND
-                        1865/01/01:2020/09/09[dcom]
-                    )
-                    OR
-                    (
-                        (
-                            "this systematic review"[tiab] OR "pooling project"[tiab]
-                        )
-                        AND
-                        1865/01/01:2020/09/09[crdt]
-                    )
+                    "meta synthesis"[ti] OR "meta analy*"[ti]
                 )
-                OR
+                AND
+                1865/01/01:2020/09/09[crdt]
+            )
+            OR
+            (
                 (
-                    (
-                        "systematic review"[tiab]
-                        AND
-                        1865/01/01:2020/09/09[crdt]
-                    )
-                    AND
-                    (
-                        "review"[pt]
-                        AND
-                        1865/01/01:2020/09/09[dcom]
-                    )
+                    "integrative review"[tw] OR "integrative research review"[tw] OR "rapid review"[tw] OR "umbrella review"[tw]
                 )
-                OR
+                AND
+                1865/01/01:2020/09/09[dcom]
+            )
+            OR
+            (
                 (
-                    (
-                        (
-                            "meta synthesis"[ti] OR "meta analy*"[ti]
-                        )
-                        AND
-                        1865/01/01:2020/09/09[crdt]
-                    )
-                    OR
-                    (
-                        (
-                            "integrative review"[tw] OR "integrative research review"[tw] OR "rapid review"[tw] OR "umbrella review"[tw]
-                        )
-                        AND
-                        1865/01/01:2020/09/09[dcom]
-                    )
-                    OR
-                    (
-                        (
-                            "integrative review"[tiab] OR "integrative research review"[tiab] OR "rapid review"[tiab] OR "umbrella review"[tiab]
-                        )
-                        AND
-                        1865/01/01:2020/09/09[crdt]
-                    )
+                    "integrative review"[tiab] OR "integrative research review"[tiab] OR "rapid review"[tiab] OR "umbrella review"[tiab]
                 )
-                OR
+                AND
+                1865/01/01:2020/09/09[crdt]
+            )
+            OR
+            (
                 (
-                    (
-                        "consensus development conference"[pt] OR "practice guideline"[pt]
-                    )
-                    AND
-                    1865/01/01:2020/09/09[dcom]
+                    "consensus development conference"[pt] OR "practice guideline"[pt]
                 )
-                OR
+                AND
+                1865/01/01:2020/09/09[dcom]
+            )
+            OR
+            (
                 (
-                    (
-                        "drug class reviews"[ti] OR "cochrane database syst rev"[ta] OR "acp journal club"[ta] OR "health technol assess"[ta] OR "evid rep technol assess summ"[ta] OR "jbi database system rev implement rep"[ta]
-                    )
-                    AND
-                    1865/01/01:2020/09/09[crdt]
+                    "drug class reviews"[ti] OR "cochrane database syst rev"[ta] OR "acp journal club"[ta] OR "health technol assess"[ta] OR "evid rep technol assess summ"[ta] OR "jbi database system rev implement rep"[ta]
                 )
+                AND
+                1865/01/01:2020/09/09[crdt]
             )
             OR
             (
@@ -278,9 +272,9 @@
                                 )
                                 AND
                                 "criteri*"[tw]
-                             )
-                             OR
-                             "exclusion criteri*"[tw] OR "main outcome measures"[tw] OR "standard of care"[tw] OR "standards of care"[tw]
+                            )
+                            OR
+                            "exclusion criteri*"[tw] OR "main outcome measures"[tw] OR "standard of care"[tw] OR "standards of care"[tw]
                         )
                         AND
                         1865/01/01:2020/09/09[dcom]
@@ -296,9 +290,9 @@
                                 )
                                 AND
                                 "criteri*"[tiab]
-                             )
-                             OR
-                             "exclusion criteri*"[tiab] OR "main outcome measures"[tiab] OR "standard of care"[tiab] OR "standards of care"[tiab]
+                            )
+                            OR
+                            "exclusion criteri*"[tiab] OR "main outcome measures"[tiab] OR "standard of care"[tiab] OR "standards of care"[tiab]
                         )
                         AND
                         1865/01/01:2020/09/09[crdt]
@@ -451,14 +445,14 @@
                     )
                 )
             )
-            NOT
+        )
+        NOT
+        (
             (
-                (
-                    "letter"[pt] OR "newspaper article"[pt]
-                )
-                AND
-                1865/01/01:2020/09/09[dcom]
+                "letter"[pt] OR "newspaper article"[pt]
             )
+            AND
+            1865/01/01:2020/09/09[dcom]
         )
     )
 )
