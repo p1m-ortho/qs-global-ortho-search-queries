@@ -54,6 +54,18 @@
 
 ### Реплицируемая версия (актуален на 9 сентября 2020, при запуске 12 сентября 2020 вернул 472 252 записей) | Replicated Version (Up-To-Date by Sep 9, 2020; Run on Sep 12, 2020, to Retrieve 472,252 Records)
 
+> **How to use?**
+>
+> * Replace all the upper limit dates in with the date needed using any text editor.
+> * If you need to filter just the records indexed _on_ that date (instead of all the records indexed _by_ that date), then add the following fragment to the query (either before the first or after the last parenthesis): `(2020/09/09:2020/09/09[crdt] OR 2020/09/09:2020/09/09[dcom] OR 2020/09/09:2020/09/09[mhda])`, where the date is your required date (should be the same as the upper limit date).
+> * If everything done correctly & the query itself still works, you will get a consistent set of records each time on whatever date you run the query.
+
+**Как пользоваться?**
+
+* Замените верхние границы во всех диапазонах дат на нужную дату, используя любой текстовый редактор.
+* Если вам нужно отфильтровать только записи, проиндексированные _в_ эту дату (вместо всех записей, проиндексированных _к_ этой дате), тогда добавьте к запросу следующий фрагмент (либо перед первой скобкой либо после последней скобки): `(2020/09/09:2020/09/09[crdt] OR 2020/09/09:2020/09/09[dcom] OR 2020/09/09:2020/09/09[mhda])`, где дата — ваша требуемая дата (должна быть той же самой, что и верхняя граница в диапазонах дат).
+* Если все сделано правильно и если сам запрос все еще работает, вы будете получать одно и то же множество записей каждый раз вне зависимости от даты запуска запроса.
+
 ```
 (
     (
