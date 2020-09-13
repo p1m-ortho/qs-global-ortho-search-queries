@@ -1,6 +1,8 @@
 # Глобальный живой поиск по систематическим обзорам — Zheln.com | Global Live Search for Systematic Reviews—Zheln.com
 
-**This page is also available as the short links [p1m.org/ssb](https://p1m.org/ssb) or [p1m.org/systematic](https://p1m.org/systematic) | Эта страница также доступна по коротким ссылкам [p1m.org/ssb](https://p1m.org/ssb) и [p1m.org/systematic](https://p1m.org/systematic)**
+> **This page is also available as the short links [p1m.org/ssb](https://p1m.org/ssb) or [p1m.org/systematic](https://p1m.org/systematic)**
+
+**Эта страница также доступна по коротким ссылкам [p1m.org/ssb](https://p1m.org/ssb) и [p1m.org/systematic](https://p1m.org/systematic)**
 
 ![Woodpecker by Anton from The Noun Project](https://zheln.com/favicons/android-chrome-512x512.png)
 
