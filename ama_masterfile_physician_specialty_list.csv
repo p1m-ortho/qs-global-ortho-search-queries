@@ -1,26 +1,31 @@
 Specialty Group,Taxonomy Code,Physician Specialty
-Allergy and Immunology,AI,Allergy
+Allergy and Immunology,A,Allergy
 Allergy and Immunology,AI,Allergy & Immunology
 Allergy and Immunology,ALI,Clinical Laboratory Immunology
 Allergy and Immunology,IG,Immunology
 Anesthesiology,ACA,Adult Cardiothoracic Anesthesiology
 Anesthesiology,AN,Anesthesiology
+Anesthesiology,IAN,Clinical Informatics
 Anesthesiology,CCA,Critical Care Medicine
 Anesthesiology,HPA,Hospice & Palliative Medicine
 Anesthesiology,PME,Pain Management
 Anesthesiology,OAN,Obstetric Anesthesiology
+Anesthesiology,RAA,Regional Anesthesiology and Acute Pain Medicine
 Anesthesiology,SMA,Sleep Medicine
 Cardiology,ICE,Cardiac Electrophysiology
 Cardiology,CD,Cardiovascular Diseases
 Cardiology,IC,Interventional Cardiology
+Cardiology,IRD,Interventional Radiology – Independent
 Cardiology,NC,Nuclear Cardiology
 Cardiology,PDC,Pediatric Cardiology
 Dermatology,DDL,Clinical & Laboratory Dermatological Immunology
 Dermatology,D,Dermatology
 Dermatology,DMP,Dermatopathology
 Dermatology,PDD,Pediatric Dermatology
+Dermatology,PDM,Pediatric Dermatology
 Dermatology,PRD,Procedural Dermatology
 Emergency Medicine,ACC,Anesthesiology Critical Care Medicine
+Emergency Medicine,CIE,Clinical Informatics
 Emergency Medicine,CCE,Critical Care Medicine
 Emergency Medicine,EM,Emergency Medicine
 Emergency Medicine,EMS,Emergency Medical Services
@@ -33,7 +38,9 @@ Emergency Medicine,UME,Undersea & Hyperbaric Medicine
 Endocrinology/Diabetes/Metabolism,END,"Endocrinology, Diabetes, & Metabolism"
 Endocrinology/Diabetes/Metabolism,DIA,Diabetes
 Family/General Practice,AMF,Adolescent Medicine
+Family/General Practice,CIF,Clinical Informatics
 Family/General Practice,FM,Family Medicine
+Family/General Practice,FP,Family Practice
 Family/General Practice,GP,General Practice
 Family/General Practice,HPF,Hospice & Palliative Medicine
 Family/General Practice,FSM,Sports Medicine
@@ -59,6 +66,7 @@ Internal Medicine,PUD,Pulmonary Disease
 Internal Medicine,RHU,Rheumatology
 Internal Medicine,SMI,Sleep Medicine
 Internal Medicine,ISM,Sports Medicine
+Internal Medicine,THI,Transplant Hepatology
 Internal Medicine,THP,Transplant Hepatology
 Internal Medicine,VM,Vascular Medicine
 Internal Medicine,CBG,Clinical Biochemical Genetics
@@ -79,6 +87,7 @@ Neurology,ENR,Endovascular Surgical Neuroradiology
 Neurology,EPL,Epilepsy
 Neurology,HPN,Hospice & Palliative Medicine
 Neurology,NN,Neurology
+Neurology,N,Neurology
 Neurology,NDN,Neurodevelopmental Disabilities
 Neurology,NMN,Neuromuscular Medicine
 Neurology,SMN,Sleep Medicine
@@ -131,6 +140,7 @@ Pathology,PP,Pediatric Pathology
 Pathology,SP,Selective Pathology
 Pediatrics,ADL,Adolescent Medicine
 Pediatrics,CAP,Child Abuse Pediatrics
+Pediatrics,CID,Clinical Informatics
 Pediatrics,PLI,Clinical & Laboratory Immunology
 Pediatrics,DBP,Developmental-Behavioral Pediatrics
 Pediatrics,HPP,Hospice & Palliative Medicine
@@ -143,6 +153,7 @@ Pediatrics,CCP,Pediatric Critical Care Medicine
 Pediatrics,PEM,Pediatric Emergency Medicine
 Pediatrics,PDE,Pediatric Endocrinology
 Pediatrics,PG,Pediatric Gastroenterology
+Pediatrics,PHE,Pediatric Hospital Medicine
 Pediatrics,PDI,Pediatric Infectious Diseases
 Pediatrics,PN,Pediatric Nephrology
 Pediatrics,PDP,Pediatric Pulmonology
@@ -163,7 +174,7 @@ Plastic Surgery,CFS,Craniofacial Surgery
 Plastic Surgery,FPS,Facial Plastic Surgery
 Plastic Surgery,HSP,Hand Surgery
 Plastic Surgery,PS,Plastic Surgery
-Plastic Surgery,PSI,Plastic Surgery � Integrated
+Plastic Surgery,PSI,Plastic Surgery – Integrated
 Plastic Surgery,PSP,Plastic Surgery within the Head & Neck
 Preventive Medicine,AM,Aerospace Medicine
 Preventive Medicine,CIM,Clinical Informatics
@@ -187,6 +198,7 @@ Radiology,AR,Abdominal Radiology
 Radiology,CTR,Cardiothoracic Radiology
 Radiology,DR,Diagnostic Radiology
 Radiology,HPD,Hospice & Palliative Medicine
+Radiology,IRI,Interventional Radiology – Integrated
 Radiology,MDP,Medical Physics
 Radiology,MSR,Musculoskeletal Radiology
 Radiology,RNR,Neuroradiology
@@ -195,6 +207,7 @@ Radiology,PDR,Pediatric Radiology
 Radiology,RO,Radiation Oncology
 Radiology,RP,Radiological Physics
 Radiology,RR,Radiology
+Radiology,R,Radiology
 Radiology,VIR,Vascular & Interventional Radiology
 Surgery,AS,Abdominal Surgery
 Surgery,ASO,Advanced Surgical Oncology
@@ -213,11 +226,11 @@ Surgery,PCS,Pediatric Cardiothoracic Surgery
 Surgery,PDS,Pediatric Surgery
 Surgery,PRO,Proctology
 Surgery,TS,Thoracic Surgery
-Surgery,TSI,Thoracic Surgery - Integrated
+Surgery,TSI,Thoracic Surgery – Integrated
 Surgery,TTS,Transplant Surgery
 Surgery,TRS,Trauma Surgery
 Surgery,VS,Vascular Surgery
-Surgery,VSI,Vascular Surgery- Integrated
+Surgery,VSI,Vascular Surgery – Integrated
 Urology,UPR,Female Pelvic Medicine and Reconstructive Surgery
 Urology,UP,Pediatric Urology
 Urology,U,Urology
@@ -229,7 +242,7 @@ Other,LM,Legal Medicine
 Other,MDM,Medical Management
 Other,NM,Nuclear Medicine
 Other,OMM,Osteopathic Manipulative Medicine
-Other,OS,Other Specialty
+Other,ONM,Osteopathic Neuromusculoskeletal Medicine
 Other,PMM,Pain Medicine
 Other,APM,Pain Medicine
 Other,PMN,Pain Medicine
@@ -238,30 +251,3 @@ Other,PLM,Palliative Medicine
 Other,PHM,Pharmaceutical Medicine
 Other,PHL,Phlebology
 Other,SME,Sleep Medicine
-Other,US,Unspecified
-Combined Residency Training Specialties,EFM,Emergency Medicine/Family Medicine
-Combined Residency Training Specialties,FMP,Family Medicine/Preventive Medicine
-Combined Residency Training Specialties,MEM,"Internal Medicine/Emergency Medicine
-Internal Medicine/Emergency Medicine/Critical Care"
-Combined Residency Training Specialties,IEC,Medicine
-Combined Residency Training Specialties,IFP,Internal Medicine/Family Medicine
-Combined Residency Training Specialties,IMA,Internal Medicine/Anesthesiology
-Combined Residency Training Specialties,IMD,Internal Medicine/Dermatology
-Combined Residency Training Specialties,MDG,Internal Medicine/Medical Genetics
-Combined Residency Training Specialties,MN,Internal Medicine/Neurology
-Combined Residency Training Specialties,INM,Internal Medicine/Nuclear Medicine
-Combined Residency Training Specialties,MPD,Internal Medicine/Pediatrics
-Combined Residency Training Specialties,MPM,Internal Medicine/Physical Medicine and Rehabilitation
-Combined Residency Training Specialties,IPM,Internal Medicine/Preventive Medicine
-Combined Residency Training Specialties,MP,Internal Medicine/Psychiatry
-Combined Residency Training Specialties,NRN,Neurology/Diagnostic Radiology/Neuroradiology
-Combined Residency Training Specialties,NNM,Neurology/Nuclear Medicine
-Combined Residency Training Specialties,NPR,Neurology/Physical Medicine and Rehabilitation
-Combined Residency Training Specialties,PDN,Pediatrics/Anesthesiology
-Combined Residency Training Specialties,PDM,Pediatrics/Dermatology
-Combined Residency Training Specialties,EMP,Pediatrics/Emergency Medicine
-Combined Residency Training Specialties,PMG,Pediatrics/Medical Genetics
-Combined Residency Training Specialties,CPP,Pediatrics/Psychiatry/Child and Adolescent Psychiatry
-Combined Residency Training Specialties,PPM,Pediatrics/Physical Medicine and Rehabilitation
-Combined Residency Training Specialties,FPP,Psychiatry/Family Medicine
-Combined Residency Training Specialties,PYN,Psychiatry/Neurology
