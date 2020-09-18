@@ -1,6 +1,6 @@
 ---
 layout: default
-make-smaller-titles: true
+make-smaller-titles: false
 specialty_tag: unspecified
 ---
 
@@ -36,11 +36,11 @@ specialty_tag: unspecified
         <div class="error-text">
           {{ site.specialty_page_no_posts }}
         </div>
+
+        {% include social_links.html %}
+
+        {% include specialty_tags_cloud.html %}
       {% endif %}
-
-      {% include social_links.html %}
-
-      {% include specialty_tags_cloud.html %}
       
     </div>
   </div>
