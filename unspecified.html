@@ -1,0 +1,32 @@
+---
+layout: default
+make-smaller-titles: true
+specialty_tag: unspecified
+---
+
+<div class="container-fluid index">
+  <div class="row index all-posts">
+    <h1 class="header author-header">{{ site.title }}</h1>
+    <h2 class="header" itemprop="headline">{{ site.specialty_page_headline }}</h2>
+      {% for tag in site.tags %}
+      {% if tag contains page.specialty_tag %}
+      <div class="col-md-12 content-panel articles">
+        <h2 id="{{ tag | first | slugify }}-ref">
+          <i class="fa fa-tags"></i>
+          {{ site.US | capitalize }}
+        </h2>
+         <ul>
+        {% for posts in tag %}
+        {% for post in posts %}
+          <li>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
+          </li>
+        {% endfor %}
+        {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+      {% endfor %}
+  </div>
+</div>
