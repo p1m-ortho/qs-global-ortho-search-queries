@@ -1,6 +1,5 @@
 <li><a href="{{ site.baseurl }}/abdominal-radiology/"><i class="fa fa-tags"></i> {{ site.AR | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/abdominal-surgery/"><i class="fa fa-tags"></i> {{ site.AS | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/acute-pain-medicine/"><i class="fa fa-tags"></i> {{ site.PMM | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/addiction-medicine/"><i class="fa fa-tags"></i> {{ site.ADM | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/addiction-psychiatry/"><i class="fa fa-tags"></i> {{ site.ADP | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/adolescent-medicine/"><i class="fa fa-tags"></i> {{ site.ADL | capitalize }}</a></li>
@@ -14,7 +13,6 @@
 <li><a href="{{ site.baseurl }}/allergy/"><i class="fa fa-tags"></i> {{ site.AI | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/anatomic-pathology/"><i class="fa fa-tags"></i> {{ site.PTH | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/anesthesiology/"><i class="fa fa-tags"></i> {{ site.AN | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/ankle-orthopedics/"><i class="fa fa-tags"></i> {{ site.OFA | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/blood-banking/"><i class="fa fa-tags"></i> {{ site.BBK | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/brain-injury-medicine/"><i class="fa fa-tags"></i> {{ site.BIN | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/cardiac-electrophysiology/"><i class="fa fa-tags"></i> {{ site.ICE | capitalize }}</a></li>
@@ -32,7 +30,6 @@
 <li><a href="{{ site.baseurl }}/clinical-laboratory-immunology/"><i class="fa fa-tags"></i> {{ site.ALI | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/clinical-molecular-genetics/"><i class="fa fa-tags"></i> {{ site.CMG | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/clinical-neurophysiology/"><i class="fa fa-tags"></i> {{ site.CN | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/clinical-pathology/"><i class="fa fa-tags"></i> {{ site.PTH | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/clinical-pharmacology/"><i class="fa fa-tags"></i> {{ site.PA | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/colon-surgery/"><i class="fa fa-tags"></i> {{ site.CRS | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/congenital-cardiac-surgery/"><i class="fa fa-tags"></i> {{ site.CHS | capitalize }}</a></li>
@@ -54,15 +51,12 @@
 <li><a href="{{ site.baseurl }}/epilepsy/"><i class="fa fa-tags"></i> {{ site.EPL | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/facial-plastic-surgery/"><i class="fa fa-tags"></i> {{ site.FPS | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/family-medicine/"><i class="fa fa-tags"></i> {{ site.FM | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/family-practice/"><i class="fa fa-tags"></i> {{ site.FM | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/female-pelvic-medicine/"><i class="fa fa-tags"></i> {{ site.FPR | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/female-reconstructive-surgery/"><i class="fa fa-tags"></i> {{ site.FPR | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/foot-orthopedics/"><i class="fa fa-tags"></i> {{ site.OFA | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/forensic-pathology/"><i class="fa fa-tags"></i> {{ site.FOP | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/forensic-psychiatry/"><i class="fa fa-tags"></i> {{ site.PFP | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/gastroenterology/"><i class="fa fa-tags"></i> {{ site.GE | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/general-practice/"><i class="fa fa-tags"></i> {{ site.GP | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/general-preventive-medicine/"><i class="fa fa-tags"></i> {{ site.PHP | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/general-surgery/"><i class="fa fa-tags"></i> {{ site.GS | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/geriatric-medicine/"><i class="fa fa-tags"></i> {{ site.IMG | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/geriatric-psychiatry/"><i class="fa fa-tags"></i> {{ site.PYG | capitalize }}</a></li>
@@ -74,17 +68,12 @@
 <li><a href="{{ site.baseurl }}/hematology-oncology/"><i class="fa fa-tags"></i> {{ site.HO | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/hepatology/"><i class="fa fa-tags"></i> {{ site.HEP | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/hospice-medicine/"><i class="fa fa-tags"></i> {{ site.HPM | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/hospitalist/"><i class="fa fa-tags"></i> {{ site.IM | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/hyperbaric-medicine/"><i class="fa fa-tags"></i> {{ site.UM | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/immunology/"><i class="fa fa-tags"></i> {{ site.IG | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/infectious-disease/"><i class="fa fa-tags"></i> {{ site.ID | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/infertility/"><i class="fa fa-tags"></i> {{ site.REN | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/internal-medicine/"><i class="fa fa-tags"></i> {{ site.IM | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/interventional-cardiology/"><i class="fa fa-tags"></i> {{ site.IC | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/interventional-radiology/"><i class="fa fa-tags"></i> {{ site.VIR | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/legal-medicine/"><i class="fa fa-tags"></i> {{ site.LM | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/maternal-fetal-medicine/"><i class="fa fa-tags"></i> {{ site.MFM | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/maxillofacial-surgery/"><i class="fa fa-tags"></i> {{ site.OMF | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/medical-biochemical-genetics/"><i class="fa fa-tags"></i> {{ site.MBG | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/medical-genetics/"><i class="fa fa-tags"></i> {{ site.MG | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/medical-management/"><i class="fa fa-tags"></i> {{ site.MDM | capitalize }}</a></li>
@@ -107,13 +96,11 @@
 <li><a href="{{ site.baseurl }}/neurotology/"><i class="fa fa-tags"></i> {{ site.NO | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/nuclear-cardiology/"><i class="fa fa-tags"></i> {{ site.NC | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/nuclear-medicine/"><i class="fa fa-tags"></i> {{ site.NM | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/nuclear-radiology/"><i class="fa fa-tags"></i> {{ site.NM | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/nutrition/"><i class="fa fa-tags"></i> {{ site.NTR | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/obstetric-anesthesiology/"><i class="fa fa-tags"></i> {{ site.OAN | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/obstetrics/"><i class="fa fa-tags"></i> {{ site.OBG | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/occupational-medicine/"><i class="fa fa-tags"></i> {{ site.OM | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/ophthalmic-plastic-surgery/"><i class="fa fa-tags"></i> {{ site.OPR | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/ophthalmic-reconstructive-surgery/"><i class="fa fa-tags"></i> {{ site.OPR | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/ophthalmology/"><i class="fa fa-tags"></i> {{ site.OPH | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/oral-surgery/"><i class="fa fa-tags"></i> {{ site.OMF | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/orthopedic-spine-surgery/"><i class="fa fa-tags"></i> {{ site.OSS | capitalize }}</a></li>
@@ -122,9 +109,7 @@
 <li><a href="{{ site.baseurl }}/osteopathic-manipulative-medicine/"><i class="fa fa-tags"></i> {{ site.OMM | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/osteopathic-neuromusculoskeletal-medicine/"><i class="fa fa-tags"></i> {{ site.ONM | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/otolaryngology/"><i class="fa fa-tags"></i> {{ site.OTO | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/pain-management/"><i class="fa fa-tags"></i> {{ site.PMM | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/pain-medicine/"><i class="fa fa-tags"></i> {{ site.PMM | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/palliative-medicine/"><i class="fa fa-tags"></i> {{ site.HPM | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/pediatric-allergy/"><i class="fa fa-tags"></i> {{ site.PDA | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/pediatric-anesthesiology/"><i class="fa fa-tags"></i> {{ site.PAN | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/pediatric-cardiology/"><i class="fa fa-tags"></i> {{ site.PDC | capitalize }}</a></li>
@@ -156,7 +141,6 @@
 <li><a href="{{ site.baseurl }}/plastic-head-and-neck-surgery/"><i class="fa fa-tags"></i> {{ site.PSH | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/plastic-surgery/"><i class="fa fa-tags"></i> {{ site.PS | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/procedural-dermatology/"><i class="fa fa-tags"></i> {{ site.PRD | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/proctology/"><i class="fa fa-tags"></i> {{ site.CRS | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/psychiatry/"><i class="fa fa-tags"></i> {{ site.P | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/psychoanalysis/"><i class="fa fa-tags"></i> {{ site.PYA | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/psychosomatic-medicine/"><i class="fa fa-tags"></i> {{ site.PYM | capitalize }}</a></li>
@@ -166,8 +150,6 @@
 <li><a href="{{ site.baseurl }}/radiation-oncology/"><i class="fa fa-tags"></i> {{ site.RO | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/radiological-physics/"><i class="fa fa-tags"></i> {{ site.RP | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/radiology/"><i class="fa fa-tags"></i> {{ site.R | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/rectal-surgery/"><i class="fa fa-tags"></i> {{ site.CRS | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/regional-anesthesiology/"><i class="fa fa-tags"></i> {{ site.PMM | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/reproductive-endocrinology/"><i class="fa fa-tags"></i> {{ site.REN | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/rheumatology/"><i class="fa fa-tags"></i> {{ site.RHU | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/selective-pathology/"><i class="fa fa-tags"></i> {{ site.SP | capitalize }}</a></li>
@@ -177,8 +159,6 @@
 <li><a href="{{ site.baseurl }}/surgical-critical-care/"><i class="fa fa-tags"></i> {{ site.CCS | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/surgical-oncology/"><i class="fa fa-tags"></i> {{ site.SO | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/thoracic-surgery/"><i class="fa fa-tags"></i> {{ site.TS | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/transfusion-medicine/"><i class="fa fa-tags"></i> {{ site.BBK | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/transplant-cardiology/"><i class="fa fa-tags"></i> {{ site.AHF | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/transplant-hepatology/"><i class="fa fa-tags"></i> {{ site.THP | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/transplant-surgery/"><i class="fa fa-tags"></i> {{ site.TTS | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/trauma-surgery/"><i class="fa fa-tags"></i> {{ site.TRS | capitalize }}</a></li>
