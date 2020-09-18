@@ -9,12 +9,16 @@ specialty_tag: unspecified
     <h1 class="header author-header">{{ site.title }}</h1>
     <h2 class="header" itemprop="headline">{{ site.specialty_page_headline }}</h2>
     <div class="col-md-12 content-panel articles">
+
       <h2 id="{{ tag | first | slugify }}-ref">
         <i class="fa fa-tags"></i>
         {{ site.US | capitalize }}
       </h2>
+
+      {% assign has_no_posts = true %}
       {% for tag in site.tags %}
       {% if tag contains page.specialty_tag %}
+        {% assign has_no_posts = false %}
         <ul>
         {% for posts in tag %}
         {% for post in posts %}
@@ -25,17 +29,19 @@ specialty_tag: unspecified
         {% endfor %}
         {% endfor %}
         </ul>
-      {% else %}
-        <div class="error-text">
-          {{ site.specialty_page_no_tags }}
-        </div>
-
-        {% include social_links.html %}
-
-        {% include specialty_tags_cloud.html %}
-
       {% endif %}
       {% endfor %}
+      
+      {% if has_no_posts %}
+        <div class="error-text">
+          {{ site.specialty_page_no_posts }}
+        </div>
+      {% endif %}
+
+      {% include social_links.html %}
+
+      {% include specialty_tags_cloud.html %}
+      
     </div>
   </div>
 
