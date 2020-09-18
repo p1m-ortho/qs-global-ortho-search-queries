@@ -14,9 +14,11 @@
 
 > 1. Monitor most of all published systematic reviews to rapidly identify new systematic reviews. Systematic reviews, in their turn, are known to be, today, the best source of information for evidence-based practice.
 > 2. Critically appraise and, where possible, replicate those of the systematic reviews idenitifed that are useful for evidence-based practice, in the appraiser’s mind.
+> 3. Tag the records under review with physician specialties to ease following the updates by practising physicians.
 
 1. Мониторировать большинство из публикуемые систематические обзоры, чтобы быстро выявлять новые систематические обзоры. Систематические обзоры же, как известно, сегодня лучший источник научной информации для доказательной практики.
 2. Критически оценивать и, по возможности, реплицировать те из выявленных систематических обзоров, которые полезны для доказательной практики, по мнению оценивающего.
+3. Проиндексировать отсмотренные обзоры по врачебным специальностям, чтобы облегчить слежение за обновлениями для практических врачей.
 
 ## PubMed
 
@@ -38,6 +40,15 @@
 > 8. 🔄❌✅ Liked or Disliked by **Zheln**?
 > 9. 🔄❌✅ Practical Implications Summarized by **Zheln**
 > 10. 🔄❌✅ Appraisal Published & Call for Crowdfunding
+>
+> ⚠️ Important!
+>
+> * Methods to specialty tag are not included in the steps as there is no specific time point when tagging should be complete: It starts when the record review starts and it ends when the record review ends. However, these methods are important and are, thus, summarized here.
+> * See the methods used to compile the lists of specialties and specialty tags in the [commit history](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
+> * Specialty tagging is done by the appraiser themselves based on whatever information they acquired during appraisal.
+> * There is no limit to the number of specialty tags attached; but at least one tag should be chosen for each record.
+> * While tagging, the tagger should consider if the record would be accessible from all relevant specialty pages and ensure it would.
+> * I do not plan to add any new specialty tags. However, if I hear about any changes to the AMA Masterfile Physician Specialties list, I will consider updating the Zheln specialty lists accordingly.
 
 * Методы поиска и фильтрации обзоров см. в [истории коммитов репозитория](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query). Поисковые запросы см. ниже в этом разделе, а историю их разработки и тестирования также см. в истории коммитов.
 * Методы критической оценки можно описать одной фразой: неформальное изучение документации по обзору единственным оценивающим с репликацией каких-то из элементов обзора, чтобы сформулировать собственное экспертное представление о том, воспроизводим ли обзор и чем он полезен для доказательной практики.
@@ -55,6 +66,15 @@
 8. 🔄❌✅ Понравилось или не понравилось **Zheln**?
 9. 🔄❌✅ Практическое значение резюмировано **Zheln**
 10. 🔄❌✅ Оценка опубликована и призыв к краудфандингу
+
+⚠️ Важно!
+
+* Методы индексации по специальностям не включены в шаги, поскольку нет конкретной временной точки, когда индексация должна быть завершена: она начинается, когда начинается изучение записи, и она заканчивается, когда заканчивается изучение записи. Тем не менее эти методы важны, и поэтому резюмированы здесь.
+* См. методы, использованные для компиляции списков специальностей и тегов специальностей в [истории коммитов](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
+* Индексация по специальностям выполняется самими оценщиками на основании какой бы то ни было информации, которая получена в процессе оценки.
+* Нет предела для количества прикрепляемых тегов специальностей, но, по меньшей мере, один тег необходимо выбрать для каждой записи.
+* Индексирующим при индексации следует рассмотреть, будет ли данная запись доступна со всех релевантных страниц специальностей, и обеспечить, чтобы была доступна.
+* Я не планирую добавлять какие-либо новые теги специальностей. Однако если я услышу о каких-либо изменениях в списке врачебных специальностей AMA Masterfile, то рассмотрю соответствующее обновление списков специальностей Zheln.
 
 > [Search Strategy Used to Create the Systematic Reviews Subset on PubMed](https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) as joined from the two versions: [February 2017](http://web.archive.org/web/20181023065423/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) and [December 2018](http://web.archive.org/web/20190711085949/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html).
 >
