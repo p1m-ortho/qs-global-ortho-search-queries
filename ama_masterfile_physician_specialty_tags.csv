@@ -1,252 +1,253 @@
+Taxonomy Code,Zheln Tag,Physician Specialty,Specialty Group
+AR,"",Abdominal Radiology,Radiology
+AS,"",Abdominal Surgery,Surgery
+ADM,"",Addiction Medicine,Other
+ADP,"",Addiction Psychiatry,Psychiatry
+AMF,"",Adolescent Medicine,Family/General Practice
+AMI,"",Adolescent Medicine,Internal Medicine
+ADL,"",Adolescent Medicine,Pediatrics
+ACA,"",Adult Cardiothoracic Anesthesiology,Anesthesiology
+CHD,"",Adult Congenital Heart Disease,Internal Medicine
+OAR,"",Adult Reconstructive Orthopedics,Orthopedics
+AHF,"",Advanced Heart Failure and Transplant Cardiology,Internal Medicine
+ASO,"",Advanced Surgical Oncology,Surgery
+AM,"",Aerospace Medicine,Preventive Medicine
 A,"",Allergy,Allergy and Immunology
 AI,"",Allergy & Immunology,Allergy and Immunology
-ALI,"",Clinical Laboratory Immunology,Allergy and Immunology
-IG,"",Immunology,Allergy and Immunology
-ACA,"",Adult Cardiothoracic Anesthesiology,Anesthesiology
+ATP,"",Anatomic Pathology,Pathology
+PTH,"",Anatomic/Clinical Pathology,Pathology
 AN,"",Anesthesiology,Anesthesiology
-IAN,"",Clinical Informatics,Anesthesiology
-CCA,"",Critical Care Medicine,Anesthesiology
-HPA,"",Hospice & Palliative Medicine,Anesthesiology
-PME,"",Pain Management,Anesthesiology
-OAN,"",Obstetric Anesthesiology,Anesthesiology
-RAA,"",Regional Anesthesiology and Acute Pain Medicine,Anesthesiology
-SMA,"",Sleep Medicine,Anesthesiology
-ICE,"",Cardiac Electrophysiology,Cardiology
-CD,"",Cardiovascular Diseases,Cardiology
-IC,"",Interventional Cardiology,Cardiology
-IRD,"",Interventional Radiology – Independent,Cardiology
-NC,"",Nuclear Cardiology,Cardiology
-PDC,"",Pediatric Cardiology,Cardiology
-DDL,"",Clinical & Laboratory Dermatological Immunology,Dermatology
-D,"",Dermatology,Dermatology
-DMP,"",Dermatopathology,Dermatology
-PDD,"",Pediatric Dermatology,Dermatology
-PDM,"",Pediatric Dermatology,Dermatology
-PRD,"",Procedural Dermatology,Dermatology
 ACC,"",Anesthesiology Critical Care Medicine,Emergency Medicine
-CIE,"",Clinical Informatics,Emergency Medicine
-CCE,"",Critical Care Medicine,Emergency Medicine
-EM,"",Emergency Medicine,Emergency Medicine
-EMS,"",Emergency Medical Services,Emergency Medicine
-HPE,"",Hospice & Palliative Medicine,Emergency Medicine
-ETX,"",Medical Toxicology,Emergency Medicine
-PE,"",Pediatric Emergency Medicine,Emergency Medicine
-ESM,"",Sports Medicine,Emergency Medicine
-UCM,"",Urgent Care Medicine,Emergency Medicine
-UME,"",Undersea & Hyperbaric Medicine,Emergency Medicine
-END,"","Endocrinology, Diabetes, & Metabolism",Endocrinology/Diabetes/Metabolism
-DIA,"",Diabetes,Endocrinology/Diabetes/Metabolism
-AMF,"",Adolescent Medicine,Family/General Practice
-CIF,"",Clinical Informatics,Family/General Practice
-FM,"",Family Medicine,Family/General Practice
-FP,"",Family Practice,Family/General Practice
-GP,"",General Practice,Family/General Practice
-HPF,"",Hospice & Palliative Medicine,Family/General Practice
-FSM,"",Sports Medicine,Family/General Practice
-FPG,"",Geriatric Medicine,Geriatrics
-IMG,"",Geriatric Medicine,Geriatrics
-PYG,"",Geriatric Psychiatry,Geriatrics
-AMI,"",Adolescent Medicine,Internal Medicine
-AHF,"",Advanced Heart Failure and Transplant Cardiology,Internal Medicine
+BBK,"",Blood Banking/Transfusion Medicine,Pathology
+BIN,"",Brain Injury Medicine,Neurology
+BIP,"",Brain Injury Medicine,Physical Medicine & Rehab
+BIN,"",Brain Injury Medicine,Psychiatry
+ICE,"",Cardiac Electrophysiology,Cardiology
+CTR,"",Cardiothoracic Radiology,Radiology
+CD,"",Cardiovascular Diseases,Cardiology
+PCH,"",Chemical Pathology,Pathology
+CAP,"",Child Abuse Pediatrics,Pediatrics
+CHP,"",Child and Adolescent Psychiatry,Psychiatry
+CHN,"",Child Neurology,Neurology
+DDL,"",Clinical & Laboratory Dermatological Immunology,Dermatology
 ILI,"",Clinical & Laboratory Immunology,Internal Medicine
-CLI,"",Clinical Informatics (Internal Medicine),Internal Medicine
-CCM,"",Critical Care Medicine,Internal Medicine
-CHD,"",Adult Congenital Heart Disease,Internal Medicine
-GE,"",Gastroenterology,Internal Medicine
-HEM,"",Hematology,Internal Medicine
-HEP,"",Hepatology,Internal Medicine
-HPI,"",Hospice & Palliative Medicine,Internal Medicine
-ID,"",Infectious Disease,Internal Medicine
-IM,"",Internal Medicine,Internal Medicine
-NEP,"",Nephrology,Internal Medicine
-NTR,"",Nutrition,Internal Medicine
-PCC,"",Pulmonary Critical Care Medicine,Internal Medicine
-PUD,"",Pulmonary Disease,Internal Medicine
-RHU,"",Rheumatology,Internal Medicine
-SMI,"",Sleep Medicine,Internal Medicine
-ISM,"",Sports Medicine,Internal Medicine
-THI,"",Transplant Hepatology,Internal Medicine
-THP,"",Transplant Hepatology,Internal Medicine
-VM,"",Vascular Medicine,Internal Medicine
+PLI,"",Clinical & Laboratory Immunology,Pediatrics
 CBG,"",Clinical Biochemical Genetics,Internal Medicine
 CCG,"",Clinical Cytogenetics,Internal Medicine
 CG,"",Clinical Genetics,Medical Genetics
-CMG,"",Clinical Molecular Genetics,Medical Genetics
-MBG,"",Medical Biochemical Genetics,Medical Genetics
-MG,"",Medical Genetics,Medical Genetics
-MGG,"",Molecular Genetic Pathology (Medical Genetics),Medical Genetics
-ES,"",Endovascular Surgical Neuroradiology,Neurological Surgery
-ESN,"",Endovascular Surgical Neuroradiology,Neurological Surgery
-NS,"",Neurological Surgery,Neurological Surgery
-NSP,"",Pediatric Surgery,Neurological Surgery
-BIN,"",Brain Injury Medicine,Neurology
-CHN,"",Child Neurology,Neurology
-CN,"",Clinical Neurophysiology,Neurology
-ENR,"",Endovascular Surgical Neuroradiology,Neurology
-EPL,"",Epilepsy,Neurology
-HPN,"",Hospice & Palliative Medicine,Neurology
-NN,"",Neurology,Neurology
-N,"",Neurology,Neurology
-NDN,"",Neurodevelopmental Disabilities,Neurology
-NMN,"",Neuromuscular Medicine,Neurology
-SMN,"",Sleep Medicine,Neurology
-VN,"",Vascular Neurology,Neurology
-OCC,"",Critical Care Medicine,Obstetrics/Gynecology
-FPR,"",Female Pelvic Medicine and Reconstructive Surgery,Obstetrics/Gynecology
-GYN,"",Gynecology,Obstetrics/Gynecology
-HPO,"",Hospice & Palliative Medicine,Obstetrics/Gynecology
-MFM,"",Maternal & Fetal Medicine,Obstetrics/Gynecology
-OBS,"",Obstetrics,Obstetrics/Gynecology
-OBG,"",Obstetrics & Gynecology,Obstetrics/Gynecology
-REN,"",Reproductive Endocrinology and Infertility,Obstetrics/Gynecology
-HO,"",Hematology/Oncology,Oncology
-GO,"",Gynecological Oncology,Oncology
-ON,"",Medical Oncology,Oncology
-OMO,"",Musculoskeletal Oncology,Oncology
-PHO,"",Pediatric Hematology/Oncology,Oncology
-SO,"",Surgical Oncology,Oncology
-OPH,"",Ophthalmology,Ophthalmology
-OPR,"",Ophthalmic Plastic and Reconstructive Surgery,Ophthalmology
-PO,"",Pediatric Ophthalmology,Ophthalmology
-HSO,"",Hand Surgery,Orthopedics
-OAR,"",Adult Reconstructive Orthopedics,Orthopedics
-OFA,"",Foot & Ankle Orthopedics,Orthopedics
-ORS,"",Orthopedic Surgery,Orthopedics
-OSS,"",Orthopedic Surgery of the Spine,Orthopedics
-OTR,"",Orthopedic Trauma,Orthopedics
-OP,"",Pediatric Orthopedics,Orthopedics
-OSM,"",Sports Medicine,Orthopedics
-NO,"",Neurotology (Otolaryngology),Otolaryngology
-OTO,"",Otolaryngology,Otolaryngology
-PDO,"",Pediatric Otolaryngology,Otolaryngology
-PSH,"",Plastic Surgery within the Head &Neck,Otolaryngology
-PSO,"",Plastic Surgery within the Head & Neck,Otolaryngology
-SMO,"",Sleep Medicine,Otolaryngology
-ATP,"",Anatomic Pathology,Pathology
-PTH,"",Anatomic/Clinical Pathology,Pathology
-BBK,"",Blood Banking/Transfusion Medicine,Pathology
-PCH,"",Chemical Pathology,Pathology
+IAN,"",Clinical Informatics,Anesthesiology
+CIE,"",Clinical Informatics,Emergency Medicine
+CIF,"",Clinical Informatics,Family/General Practice
 CIP,"",Clinical Informatics,Pathology
-CLP,"",Clinical Pathology,Pathology
-PCP,"",Cytopathology,Pathology
-DMP,"",Dermatopathology,Pathology
-FOP,"",Forensic Pathology,Pathology
-HMP,"",Hematology,Pathology
-MM,"",Medical Microbiology,Pathology
-MGP,"",Molecular Genetic Pathology,Pathology
-NP,"",Neuropathology,Pathology
-PP,"",Pediatric Pathology,Pathology
-SP,"",Selective Pathology,Pathology
-ADL,"",Adolescent Medicine,Pediatrics
-CAP,"",Child Abuse Pediatrics,Pediatrics
 CID,"",Clinical Informatics,Pediatrics
-PLI,"",Clinical & Laboratory Immunology,Pediatrics
-DBP,"",Developmental-Behavioral Pediatrics,Pediatrics
-HPP,"",Hospice & Palliative Medicine,Pediatrics
-PDT,"",Medical Toxicology,Pediatrics
-NPM,"",Neonatal-Perinatal Medicine,Pediatrics
-NDP,"",Neurodevelopmental Disabilities,Pediatrics
-PDA,"",Pediatric Allergy,Pediatrics
-PAN,"",Pediatric Anesthesiology,Pediatrics
-CCP,"",Pediatric Critical Care Medicine,Pediatrics
-PEM,"",Pediatric Emergency Medicine,Pediatrics
-PDE,"",Pediatric Endocrinology,Pediatrics
-PG,"",Pediatric Gastroenterology,Pediatrics
-PHE,"",Pediatric Hospital Medicine,Pediatrics
-PDI,"",Pediatric Infectious Diseases,Pediatrics
-PN,"",Pediatric Nephrology,Pediatrics
-PDP,"",Pediatric Pulmonology,Pediatrics
-PPR,"",Pediatric Rheumatology,Pediatrics
-PTP,"",Pediatric Transplant Hepatology,Pediatrics
-PD,"",Pediatrics,Pediatrics
-SMP,"",Sleep Medicine,Pediatrics
-PSM,"",Sports Medicine,Pediatrics
-BIP,"",Brain Injury Medicine,Physical Medicine & Rehab
-HPM,"",Hospice & Palliative Medicine,Physical Medicine & Rehab
-HPR,"",Hospice & Palliative Medicine,Physical Medicine & Rehab
-PM,"",Physical Medicine & Rehabilitation,Physical Medicine & Rehab
-NMP,"",Neuromuscular Medicine,Physical Medicine & Rehab
-RPM,"",Pediatric Rehabilitation Medicine,Physical Medicine & Rehab
-SCI,"",Spinal Cord Injury,Physical Medicine & Rehab
-PRS,"",Sports Medicine,Physical Medicine & Rehab
-CFS,"",Craniofacial Surgery,Plastic Surgery
-FPS,"",Facial Plastic Surgery,Plastic Surgery
-HSP,"",Hand Surgery,Plastic Surgery
-PS,"",Plastic Surgery,Plastic Surgery
-PSI,"",Plastic Surgery – Integrated,Plastic Surgery
-PSP,"",Plastic Surgery within the Head & Neck,Plastic Surgery
-AM,"",Aerospace Medicine,Preventive Medicine
 CIM,"",Clinical Informatics,Preventive Medicine
-GPM,"",General Preventive Medicine,Preventive Medicine
-PTX,"",Medical Toxicology,Preventive Medicine
-OM,"",Occupational Medicine,Preventive Medicine
-PHP,"",Public Health & General Preventive Medicine,Preventive Medicine
-UM,"",Undersea & Hyperbaric Medicine,Preventive Medicine
-ADP,"",Addiction Psychiatry,Psychiatry
-BIN,"",Brain Injury Medicine,Psychiatry
-CHP,"",Child and Adolescent Psychiatry,Psychiatry
-PFP,"",Forensic Psychiatry,Psychiatry
-HPN,"",Hospice & Palliative Medicine,Psychiatry
-NUP,"",Neuropsychiatry,Psychiatry
-PPN,"",Pain Medicine,Psychiatry
-P,"",Psychiatry,Psychiatry
-PYA,"",Psychoanalysis,Psychiatry
-PYM,"",Psychosomatic Medicine,Psychiatry
-SMN,"",Sleep Medicine,Psychiatry
-AR,"",Abdominal Radiology,Radiology
-CTR,"",Cardiothoracic Radiology,Radiology
-DR,"",Diagnostic Radiology,Radiology
-HPD,"",Hospice & Palliative Medicine,Radiology
-IRI,"",Interventional Radiology – Integrated,Radiology
-MDP,"",Medical Physics,Radiology
-MSR,"",Musculoskeletal Radiology,Radiology
-RNR,"",Neuroradiology,Radiology
-NR,"",Nuclear Radiology,Radiology
-PDR,"",Pediatric Radiology,Radiology
-RO,"",Radiation Oncology,Radiology
-RP,"",Radiological Physics,Radiology
-RR,"",Radiology,Radiology
-R,"",Radiology,Radiology
-VIR,"",Vascular & Interventional Radiology,Radiology
-AS,"",Abdominal Surgery,Surgery
-ASO,"",Advanced Surgical Oncology,Surgery
+CLI,"",Clinical Informatics (Internal Medicine),Internal Medicine
+ALI,"",Clinical Laboratory Immunology,Allergy and Immunology
+CMG,"",Clinical Molecular Genetics,Medical Genetics
+CN,"",Clinical Neurophysiology,Neurology
+CLP,"",Clinical Pathology,Pathology
+PA,"",Clinical Pharmacology,Other
 CRS,"",Colon & Rectal Surgery,Surgery
 CHS,"",Congenital Cardiac Surgery,Surgery
 CS,"",Cosmetic Surgery,Surgery
-CCS,"",Surgical Critical Care,Surgery
+CFS,"",Craniofacial Surgery,Plastic Surgery
+CCA,"",Critical Care Medicine,Anesthesiology
+CCE,"",Critical Care Medicine,Emergency Medicine
+CCM,"",Critical Care Medicine,Internal Medicine
+OCC,"",Critical Care Medicine,Obstetrics/Gynecology
+PCP,"",Cytopathology,Pathology
 DS,"",Dermatologic Surgery,Surgery
+D,"",Dermatology,Dermatology
+DMP,"",Dermatopathology,Dermatology
+DMP,"",Dermatopathology,Pathology
+DBP,"",Developmental-Behavioral Pediatrics,Pediatrics
+DIA,"",Diabetes,Endocrinology/Diabetes/Metabolism
+DR,"",Diagnostic Radiology,Radiology
+EMS,"",Emergency Medical Services,Emergency Medicine
+EM,"",Emergency Medicine,Emergency Medicine
+END,"","Endocrinology, Diabetes, & Metabolism",Endocrinology/Diabetes/Metabolism
+ES,"",Endovascular Surgical Neuroradiology,Neurological Surgery
+ESN,"",Endovascular Surgical Neuroradiology,Neurological Surgery
+ENR,"",Endovascular Surgical Neuroradiology,Neurology
+EP,"",Epidemiology,Other
+EPL,"",Epilepsy,Neurology
+FPS,"",Facial Plastic Surgery,Plastic Surgery
+FM,"",Family Medicine,Family/General Practice
+FP,"",Family Practice,Family/General Practice
+FPR,"",Female Pelvic Medicine and Reconstructive Surgery,Obstetrics/Gynecology
+UPR,"",Female Pelvic Medicine and Reconstructive Surgery,Urology
+OFA,"",Foot & Ankle Orthopedics,Orthopedics
+FOP,"",Forensic Pathology,Pathology
+PFP,"",Forensic Psychiatry,Psychiatry
+GE,"",Gastroenterology,Internal Medicine
+GP,"",General Practice,Family/General Practice
+GPM,"",General Preventive Medicine,Preventive Medicine
 GS,"",General Surgery,Surgery
+FPG,"",Geriatric Medicine,Geriatrics
+IMG,"",Geriatric Medicine,Geriatrics
+PYG,"",Geriatric Psychiatry,Geriatrics
+GO,"",Gynecological Oncology,Oncology
+GYN,"",Gynecology,Obstetrics/Gynecology
+HSO,"",Hand Surgery,Orthopedics
+HSP,"",Hand Surgery,Plastic Surgery
 HS,"",Hand Surgery,Surgery
 HSS,"",Hand Surgery,Surgery
 HNS,"",Head & Neck Surgery,Surgery
+HEM,"",Hematology,Internal Medicine
+HMP,"",Hematology,Pathology
+HO,"",Hematology/Oncology,Oncology
+HEP,"",Hepatology,Internal Medicine
+HPA,"",Hospice & Palliative Medicine,Anesthesiology
+HPE,"",Hospice & Palliative Medicine,Emergency Medicine
+HPF,"",Hospice & Palliative Medicine,Family/General Practice
+HPI,"",Hospice & Palliative Medicine,Internal Medicine
+HPN,"",Hospice & Palliative Medicine,Neurology
+HPO,"",Hospice & Palliative Medicine,Obstetrics/Gynecology
+HPP,"",Hospice & Palliative Medicine,Pediatrics
+HPM,"",Hospice & Palliative Medicine,Physical Medicine & Rehab
+HPR,"",Hospice & Palliative Medicine,Physical Medicine & Rehab
+HPN,"",Hospice & Palliative Medicine,Psychiatry
+HPD,"",Hospice & Palliative Medicine,Radiology
 HPS,"",Hospice & Palliative Medicine,Surgery
-OMF,"",Oral & Maxillofacial Surgery,Surgery
-PCS,"",Pediatric Cardiothoracic Surgery,Surgery
-PDS,"",Pediatric Surgery,Surgery
-PRO,"",Proctology,Surgery
-TS,"",Thoracic Surgery,Surgery
-TSI,"",Thoracic Surgery – Integrated,Surgery
-TTS,"",Transplant Surgery,Surgery
-TRS,"",Trauma Surgery,Surgery
-VS,"",Vascular Surgery,Surgery
-VSI,"",Vascular Surgery – Integrated,Surgery
-UPR,"",Female Pelvic Medicine and Reconstructive Surgery,Urology
-UP,"",Pediatric Urology,Urology
-U,"",Urology,Urology
-ADM,"",Addiction Medicine,Other
-PA,"",Clinical Pharmacology,Other
-EP,"",Epidemiology,Other
 HOS,"",Hospitalist,Other
+IG,"",Immunology,Allergy and Immunology
+ID,"",Infectious Disease,Internal Medicine
+IM,"",Internal Medicine,Internal Medicine
+IC,"",Interventional Cardiology,Cardiology
+IRD,"",Interventional Radiology – Independent,Cardiology
+IRI,"",Interventional Radiology – Integrated,Radiology
 LM,"",Legal Medicine,Other
+MFM,"",Maternal & Fetal Medicine,Obstetrics/Gynecology
+MBG,"",Medical Biochemical Genetics,Medical Genetics
+MG,"",Medical Genetics,Medical Genetics
 MDM,"",Medical Management,Other
+MM,"",Medical Microbiology,Pathology
+ON,"",Medical Oncology,Oncology
+MDP,"",Medical Physics,Radiology
+ETX,"",Medical Toxicology,Emergency Medicine
+PDT,"",Medical Toxicology,Pediatrics
+PTX,"",Medical Toxicology,Preventive Medicine
+MGP,"",Molecular Genetic Pathology,Pathology
+MGG,"",Molecular Genetic Pathology (Medical Genetics),Medical Genetics
+OMO,"",Musculoskeletal Oncology,Oncology
+MSR,"",Musculoskeletal Radiology,Radiology
+NPM,"",Neonatal-Perinatal Medicine,Pediatrics
+NEP,"",Nephrology,Internal Medicine
+NDN,"",Neurodevelopmental Disabilities,Neurology
+NDP,"",Neurodevelopmental Disabilities,Pediatrics
+NS,"",Neurological Surgery,Neurological Surgery
+NN,"",Neurology,Neurology
+N,"",Neurology,Neurology
+NMN,"",Neuromuscular Medicine,Neurology
+NMP,"",Neuromuscular Medicine,Physical Medicine & Rehab
+NP,"",Neuropathology,Pathology
+NUP,"",Neuropsychiatry,Psychiatry
+RNR,"",Neuroradiology,Radiology
+NO,"",Neurotology (Otolaryngology),Otolaryngology
+NC,"",Nuclear Cardiology,Cardiology
 NM,"",Nuclear Medicine,Other
+NR,"",Nuclear Radiology,Radiology
+NTR,"",Nutrition,Internal Medicine
+OAN,"",Obstetric Anesthesiology,Anesthesiology
+OBS,"",Obstetrics,Obstetrics/Gynecology
+OBG,"",Obstetrics & Gynecology,Obstetrics/Gynecology
+OM,"",Occupational Medicine,Preventive Medicine
+OPR,"",Ophthalmic Plastic and Reconstructive Surgery,Ophthalmology
+OPH,"",Ophthalmology,Ophthalmology
+OMF,"",Oral & Maxillofacial Surgery,Surgery
+ORS,"",Orthopedic Surgery,Orthopedics
+OSS,"",Orthopedic Surgery of the Spine,Orthopedics
+OTR,"",Orthopedic Trauma,Orthopedics
 OMM,"",Osteopathic Manipulative Medicine,Other
 ONM,"",Osteopathic Neuromusculoskeletal Medicine,Other
+OTO,"",Otolaryngology,Otolaryngology
+PME,"",Pain Management,Anesthesiology
+PPN,"",Pain Medicine,Psychiatry
 PMM,"",Pain Medicine,Other
 APM,"",Pain Medicine,Other
 PMN,"",Pain Medicine,Other
 PMP,"",Pain Medicine,Other
 PLM,"",Palliative Medicine,Other
+PDA,"",Pediatric Allergy,Pediatrics
+PAN,"",Pediatric Anesthesiology,Pediatrics
+PDC,"",Pediatric Cardiology,Cardiology
+PCS,"",Pediatric Cardiothoracic Surgery,Surgery
+CCP,"",Pediatric Critical Care Medicine,Pediatrics
+PDD,"",Pediatric Dermatology,Dermatology
+PDM,"",Pediatric Dermatology,Dermatology
+PE,"",Pediatric Emergency Medicine,Emergency Medicine
+PEM,"",Pediatric Emergency Medicine,Pediatrics
+PDE,"",Pediatric Endocrinology,Pediatrics
+PG,"",Pediatric Gastroenterology,Pediatrics
+PHO,"",Pediatric Hematology/Oncology,Oncology
+PHE,"",Pediatric Hospital Medicine,Pediatrics
+PDI,"",Pediatric Infectious Diseases,Pediatrics
+PN,"",Pediatric Nephrology,Pediatrics
+PO,"",Pediatric Ophthalmology,Ophthalmology
+OP,"",Pediatric Orthopedics,Orthopedics
+PDO,"",Pediatric Otolaryngology,Otolaryngology
+PP,"",Pediatric Pathology,Pathology
+PDP,"",Pediatric Pulmonology,Pediatrics
+PDR,"",Pediatric Radiology,Radiology
+RPM,"",Pediatric Rehabilitation Medicine,Physical Medicine & Rehab
+PPR,"",Pediatric Rheumatology,Pediatrics
+NSP,"",Pediatric Surgery,Neurological Surgery
+PDS,"",Pediatric Surgery,Surgery
+PTP,"",Pediatric Transplant Hepatology,Pediatrics
+UP,"",Pediatric Urology,Urology
+PD,"",Pediatrics,Pediatrics
 PHM,"",Pharmaceutical Medicine,Other
 PHL,"",Phlebology,Other
+PM,"",Physical Medicine & Rehabilitation,Physical Medicine & Rehab
+PS,"",Plastic Surgery,Plastic Surgery
+PSO,"",Plastic Surgery within the Head & Neck,Otolaryngology
+PSP,"",Plastic Surgery within the Head & Neck,Plastic Surgery
+PSH,"",Plastic Surgery within the Head &Neck,Otolaryngology
+PSI,"",Plastic Surgery – Integrated,Plastic Surgery
+PRD,"",Procedural Dermatology,Dermatology
+PRO,"",Proctology,Surgery
+P,"",Psychiatry,Psychiatry
+PYA,"",Psychoanalysis,Psychiatry
+PYM,"",Psychosomatic Medicine,Psychiatry
+PHP,"",Public Health & General Preventive Medicine,Preventive Medicine
+PCC,"",Pulmonary Critical Care Medicine,Internal Medicine
+PUD,"",Pulmonary Disease,Internal Medicine
+RO,"",Radiation Oncology,Radiology
+RP,"",Radiological Physics,Radiology
+RR,"",Radiology,Radiology
+R,"",Radiology,Radiology
+RAA,"",Regional Anesthesiology and Acute Pain Medicine,Anesthesiology
+REN,"",Reproductive Endocrinology and Infertility,Obstetrics/Gynecology
+RHU,"",Rheumatology,Internal Medicine
+SP,"",Selective Pathology,Pathology
+SMA,"",Sleep Medicine,Anesthesiology
+SMI,"",Sleep Medicine,Internal Medicine
+SMN,"",Sleep Medicine,Neurology
+SMO,"",Sleep Medicine,Otolaryngology
+SMP,"",Sleep Medicine,Pediatrics
+SMN,"",Sleep Medicine,Psychiatry
 SME,"",Sleep Medicine,Other
+SCI,"",Spinal Cord Injury,Physical Medicine & Rehab
+ESM,"",Sports Medicine,Emergency Medicine
+FSM,"",Sports Medicine,Family/General Practice
+ISM,"",Sports Medicine,Internal Medicine
+OSM,"",Sports Medicine,Orthopedics
+PSM,"",Sports Medicine,Pediatrics
+PRS,"",Sports Medicine,Physical Medicine & Rehab
+CCS,"",Surgical Critical Care,Surgery
+SO,"",Surgical Oncology,Oncology
+TS,"",Thoracic Surgery,Surgery
+TSI,"",Thoracic Surgery – Integrated,Surgery
+THI,"",Transplant Hepatology,Internal Medicine
+THP,"",Transplant Hepatology,Internal Medicine
+TTS,"",Transplant Surgery,Surgery
+TRS,"",Trauma Surgery,Surgery
+UME,"",Undersea & Hyperbaric Medicine,Emergency Medicine
+UM,"",Undersea & Hyperbaric Medicine,Preventive Medicine
+UCM,"",Urgent Care Medicine,Emergency Medicine
+U,"",Urology,Urology
+VIR,"",Vascular & Interventional Radiology,Radiology
+VM,"",Vascular Medicine,Internal Medicine
+VN,"",Vascular Neurology,Neurology
+VS,"",Vascular Surgery,Surgery
+VSI,"",Vascular Surgery – Integrated,Surgery
