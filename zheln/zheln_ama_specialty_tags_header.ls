@@ -78,7 +78,7 @@
 <li><a href="{{ site.baseurl }}/medical-genetics/"><i class="fa fa-tags"></i> {{ site.MG | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/medical-management/"><i class="fa fa-tags"></i> {{ site.MDM | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/medical-microbiology/"><i class="fa fa-tags"></i> {{ site.MM | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/medical-oncology/"><i class="fa fa-tags"></i> {{ site.ON | capitalize }}</a></li>
+<li><a href="{{ site.baseurl }}/medical-oncology/"><i class="fa fa-tags"></i> {{ site.ONON | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/medical-physics/"><i class="fa fa-tags"></i> {{ site.MDP | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/medical-toxicology/"><i class="fa fa-tags"></i> {{ site.PTX | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/molecular-genetic-pathology/"><i class="fa fa-tags"></i> {{ site.MGP | capitalize }}</a></li>
@@ -93,7 +93,7 @@
 <li><a href="{{ site.baseurl }}/neuropathology/"><i class="fa fa-tags"></i> {{ site.NP | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/neuropsychiatry/"><i class="fa fa-tags"></i> {{ site.NUP | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/neuroradiology/"><i class="fa fa-tags"></i> {{ site.RNR | capitalize }}</a></li>
-<li><a href="{{ site.baseurl }}/neurotology/"><i class="fa fa-tags"></i> {{ site.NO | capitalize }}</a></li>
+<li><a href="{{ site.baseurl }}/neurotology/"><i class="fa fa-tags"></i> {{ site.NONO | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/nuclear-cardiology/"><i class="fa fa-tags"></i> {{ site.NC | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/nuclear-medicine/"><i class="fa fa-tags"></i> {{ site.NM | capitalize }}</a></li>
 <li><a href="{{ site.baseurl }}/nutrition/"><i class="fa fa-tags"></i> {{ site.NTR | capitalize }}</a></li>
