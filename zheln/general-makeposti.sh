@@ -1,10 +1,11 @@
 #!/bin/bash
 v='2.1.0'
-edit=true
-coreutils=true
+edit=false
 date='2020-09-02' 
 vi='36–38'
 ip='1'
+
+coreutils=true
 rm_record_set=true
 rm_summary_set=false
 
@@ -63,20 +64,23 @@ while read line; do
    specialty+=("$line")
 done < "$specialty_tags"
 
-echo "> ’kay, this is make-posts v$v by Zheln.
+echo "> Hello there.
+General Makeposti!
+Ha-ha-ha-ha-ha-ha…
+You are a by-Zheln one.
+> v$v
 > Date: $date.
 > Vol. $vi.
 > Issue $ip.
->
 > Edit mode?
-$edit
-> Want coreutils?
+$edit"
+if [ "$edit" = 'true' ]
+then echo "> Want coreutils?
 $coreutils
 > Remove $record_set?
 $rm_record_set
 > Remove $summary_set?
-$rm_summary_set
->"
+$rm_summary_set"; fi
 
 if [ "$coreutils" = 'true' ]; then
   dp=$(gdate -d "$date" +'%Y %b %-d')
@@ -209,4 +213,4 @@ if [ "$edit" = 'true' ]; then
   if [ "$rm_summary_set" = 'true' ]; then rm "$summary_set"; fi
 fi
 
-echo '> Mission accomplished.'; exit 0
+echo '> So uncivilized.'; exit 0
