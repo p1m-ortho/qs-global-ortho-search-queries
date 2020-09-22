@@ -1,10 +1,11 @@
 ---
 layout: default
-make-smaller-titles: false
+title: Unspecified
+make-smaller-titles: true
 specialty_tag: unspecified
 ---
 
-<div class="container-fluid index error">
+<div class="container-fluid index">
   <div class="row index all-posts">
     <h1 class="header author-header">{{ site.title }}</h1>
     <h2 class="header" itemprop="headline">{{ site.specialty_page_headline }}</h2>
@@ -36,11 +37,11 @@ specialty_tag: unspecified
         <div class="error-text">
           {{ site.specialty_page_no_posts }}
         </div>
-
-        {% include social_links.html %}
-
-        {% include specialty_tags_cloud.html %}
       {% endif %}
+
+      {% include social_links.html %}
+
+      {% include specialty_tags_cloud.html %}
       
     </div>
   </div>
