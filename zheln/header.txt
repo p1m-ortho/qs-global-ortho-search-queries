@@ -1,0 +1,4 @@
+layout: post
+hidden: true
+author: Pavel Zhelnov
+categories: record

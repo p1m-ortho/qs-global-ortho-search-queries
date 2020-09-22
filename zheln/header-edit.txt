@@ -1,0 +1,9 @@
+title: "Record Awaiting Appraisal"
+
+summary: "A Zheln appraisal record downloaded from the PubMed Systematic Subset daily updates."
+
+thumbnail: journal-whills
+
+- [ ] awaiting crowdfunding
+- [ ] appraisal in progress
+- [ ] appraisal complete
