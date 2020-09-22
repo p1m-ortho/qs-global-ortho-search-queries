@@ -6,9 +6,9 @@
 <!-- References -->
 <!-- EOF -->
 
-- [ ] 2. ❌ Does Not Meet Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Neither Title nor Abstract
-- [ ] 2. ✅ Meets Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Title
-- [ ] 2. ✅ Meets Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Abstract
+- [ ] 2. ❌ Does Not Meet [Shojania & Bero 2001](https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy) True Positive Criteria for Systematic Reviews by Neither Title nor Abstract
+- [ ] 2. ✅ Meets [Shojania & Bero 2001](https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy) True Positive Criteria for Systematic Reviews by Title
+- [ ] 2. ✅ Meets [Shojania & Bero 2001](https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy) True Positive Criteria for Systematic Reviews by Abstract
 - [ ] 3. ❌ No Full Text Available to **Zheln**
 - [ ] 3. ✅ Full Text Collected by **Zheln**
 - [ ] 3. ✅ Other Reports Collected by **Zheln**

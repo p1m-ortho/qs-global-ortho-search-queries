@@ -1,5 +1,5 @@
 #!/bin/bash
-v='2.1.0'
+v='2.1.1'
 edit=false
 date='2020-09-02' 
 vi='36–38'
@@ -31,7 +31,7 @@ fi
 layout='layout: post'
 hidden='hidden: true'
 categories='categories: record'
-step1='1. ✅ Downloaded from the PubMed Systematic Subset Daily Updates'
+step1='1. ✅ Downloaded from the [PubMed Systematic Subset](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md) Daily Updates'
 step2='2. 🔄 Meets [Shojania & Bero 2001](https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy) True Positive Criteria for Systematic Reviews by Either Title or Abstract?'
 step3='3. 🔄 Full Text or Other Reports Collected by **Zheln**'
 step4='4. 🔄 Generates Pragmatic Evidence Directly Relevant to Evidence-Based Practice?'
@@ -39,7 +39,7 @@ step5='5. 🔄 Is Duplicate?'
 step6='6. 🔄 Passed or Failed Replication?'
 step7='7. 🔄 Has Critical Conduct Flaws?'
 step8='8. 🔄 Liked or Disliked by **Zheln**?'
-step9='9. 🔄 Practical Implications Summarized by Zheln'
+step9='9. 🔄 Practical Implications Summarized by **Zheln**'
 step10='10. 🔄 Appraisal Published & Call for Crowdfunding'
 step=(
   "$step1"
