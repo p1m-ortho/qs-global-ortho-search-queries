@@ -65,13 +65,13 @@ For clarity, I summarized the methods as **Zheln Review Appraisal in 10 Steps:**
 * See a detailed account of the development of the _Zheln Edition_ and its testing reports in the [commit history of the repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
 * While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
 
-### Screening
+### Record Screening
 
 _This is being written up._
 
 See the methods to filter reviews in the [commit history of the repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
 
-### Tagging
+### Specialty Tagging
 
 _This is being written up._
 
@@ -81,7 +81,7 @@ _This is being written up._
 * While tagging, the tagger should consider if the record would be accessible from all relevant specialty pages and ensure it would.
 * I do not plan to add any new specialty tags. However, if I hear about any changes to the AMA Masterfile Physician Specialties list, I will consider updating the Zheln specialty lists accordingly.
 
-### Critical Appraisal
+### Critical Appraisal of Reviews
 
 _This is being written up._
 
