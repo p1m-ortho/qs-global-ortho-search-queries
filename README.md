@@ -18,7 +18,7 @@ Since [September 6, 2020](https://github.com/p1m-ortho/qs-global-ortho-search-qu
 
 1. The focus of the study has been widened to include not only orthopedics but any evidence-based practice.
 2. Critical appraisal and replication of reviews is now also performed as part of this project.
-3. Grouping of appaised systematic reviews by health care specialty has been recognized as a critical part of the project.
+3. Grouping of appraised systematic reviews by health care specialty has been recognized as a critical part of the project.
 
 The search & screening methods have not basically changed, whereas the methods of critical appraisal may be described in one phrase: Informal study of the review documentation with replication of some of the elements of the review by a single appraiser to formulate their expert impression as to whether the review is reproducible and whether it is useful for evidence-based practice.
 
