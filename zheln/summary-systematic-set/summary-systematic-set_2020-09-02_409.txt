@@ -1397,7 +1397,7 @@ Intern Med. 2020 May 19;172(10):656-668. doi: 10.7326/M19-3887. Epub 2020 Apr
 
 254: Song GG, Lee YH. Comparative efficacy and safety of 100 mg and 200 mg
 filgotinib administered to patients with active rheumatoid arthritis: A Bayesian
-network meta-analysis of randomized controlled trials . Int J Clin Pharmacol
+network meta-analysis of randomized controlled trials. Int J Clin Pharmacol
 Ther. 2020 Jun;58(6):293-298. doi: 10.5414/CP203635. PMID: 32301699.
 
 255: Jones N, Bouzid M, Few R, Hunter P, Lake I. Water, sanitation and hygiene
