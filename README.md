@@ -1,14 +1,12 @@
 # Global Live Search for Systematic Reviews—Zheln.com
 
-> **This page is also available as the short links:**
-> 
-> 🏷 **[p1m.org/ssb](https://p1m.org/ssb) or [p1m.org/systematic](https://p1m.org/systematic)**
-> 
-> 🇷🇺 [Русскоязычная версия (поддержка прекращена, последнее обновление от 19 сентября 2020)](legacy/ru-RU/README.md)
+**This page is also available as the short links:**
+ 
+🏷 **[p1m.org/ssb](https://p1m.org/ssb) or [p1m.org/systematic](https://p1m.org/systematic)**
 
-[![Woodpecker by Anton from The Noun Project](https://zheln.com/favicons/android-chrome-512x512.png)](https://zheln.com)
+🇷🇺 [Русскоязычная версия (поддержка прекращена, последнее обновление от 19 сентября 2020)](legacy/ru-RU/README.md)
 
-Since September, 2020, the study has continued as [Zheln.com](https://zheln.com), a crowdfunding project. What has changed: (1) The focus of the study has been widened to include not only orthopedics but any evidence-based practice; (2) Critical appraisal and replication of reviews is now also performed as part of this project. The [methods](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query) have not changed, whereas the methods of critical appraisal may be described in one phrase: Informal study of the review documentation with replication of some of the elements of the review by a single appraiser to formulate their expert impression as to whether the review is reproducible and whether it is useful for evidence-based practice. Crowdfunding details are available from the [Zheln](https://zheln.com) website.
+Since September, 2020, the study has continued as ![Woodpecker by Anton from The Noun Project](https://raw.githubusercontent.com/drzhelnov/zheln.github.io/gh-pages/favicons/favicon-16x16.png) [Zheln.com](https://zheln.com), a crowdfunding project. What has changed: (1) The focus of the study has been widened to include not only orthopedics but any evidence-based practice; (2) Critical appraisal and replication of reviews is now also performed as part of this project. The [methods](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query) have not changed, whereas the methods of critical appraisal may be described in one phrase: Informal study of the review documentation with replication of some of the elements of the review by a single appraiser to formulate their expert impression as to whether the review is reproducible and whether it is useful for evidence-based practice. Crowdfunding details are available from the [Zheln](https://zheln.com) website.
 
 ## Objective
 
