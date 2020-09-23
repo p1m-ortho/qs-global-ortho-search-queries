@@ -1,54 +1,114 @@
 # Global Live Search for Systematic Reviews—Zheln.com
 
-**This page is also available as the short links:**
- 
-🏷 **[p1m.org/ssb](https://p1m.org/ssb) or [p1m.org/systematic](https://p1m.org/systematic)**
+> **This page is also available as the short links:**
+>
+> 🏷 **[p1m.org/ssb](https://p1m.org/ssb) or [p1m.org/systematic](https://p1m.org/systematic)**
+>
+> 🇷🇺 [Русскоязычная версия (поддержка прекращена, последнее обновление от 19 сентября 2020)](legacy/ru-RU/README.md)
 
-🇷🇺 [Русскоязычная версия (поддержка прекращена, последнее обновление от 19 сентября 2020)](legacy/ru-RU/README.md)
+## Background
 
-Since September, 2020, the study has continued as ![Woodpecker by Anton from The Noun Project](https://raw.githubusercontent.com/drzhelnov/zheln.github.io/gh-pages/favicons/favicon-16x16.png) [Zheln.com](https://zheln.com), a crowdfunding project. What has changed: (1) The focus of the study has been widened to include not only orthopedics but any evidence-based practice; (2) Critical appraisal and replication of reviews is now also performed as part of this project. The [methods](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query) have not changed, whereas the methods of critical appraisal may be described in one phrase: Informal study of the review documentation with replication of some of the elements of the review by a single appraiser to formulate their expert impression as to whether the review is reproducible and whether it is useful for evidence-based practice. Crowdfunding details are available from the [Zheln](https://zheln.com) website.
+### What Is This Repo?
 
-## Objective
+On [July 11, 2019](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/70d3bebf1ed70845950aece09122b49f58fe2880), I inititated this study with the aim of creating an exhaustive registry of systematic reviews in orthopedics (in Russian). Due to the large volume of records to screen, it was not very successful; however, it still did continue up until [Feb 17, 2020](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/d44e7db892a23adb8ca3eeb36cbe55b8e05b7b45), when it went into a 200-day hiatus.
+
+Since [September 6, 2020](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/ff1f29c87483b355b9541859d4b4c39052046936), the study has continued as [![Woodpecker by Anton from The Noun Project](https://raw.githubusercontent.com/drzhelnov/zheln.github.io/gh-pages/favicons/favicon-16x16.png)](https://zheln.com) [Zheln.com](https://zheln.com), a crowdfunding project, and this repository has been a chosen methods repo, while the website itself is hosted in a [separate Zheln repo](https://github.com/drzhelnov/zheln.github.io).
+
+### What Has Changed as Zheln?
+
+1. The focus of the study has been widened to include not only orthopedics but any evidence-based practice.
+2. Critical appraisal and replication of reviews is now also performed as part of this project.
+3. Grouping of appaised systematic reviews by health care specialty has been recognized as a critical part of the project.
+
+The search & screening methods have not basically changed, whereas the methods of critical appraisal may be described in one phrase: Informal study of the review documentation with replication of some of the elements of the review by a single appraiser to formulate their expert impression as to whether the review is reproducible and whether it is useful for evidence-based practice.
+
+Crowdfunding details are available from the [Zheln](https://zheln.com) website.
+
+### Who Am I & Why Zheln?
+
+Please refer to the [Zheln main repo README](https://github.com/drzhelnov/zheln.github.io/blob/gh-pages/README.md).
+
+## Objectives
 
 1. Monitor most of all published systematic reviews to rapidly identify new systematic reviews. Systematic reviews, in their turn, are known to be, today, the best source of information for evidence-based practice.
 2. Critically appraise and, where possible, replicate those of the systematic reviews idenitifed that are useful for evidence-based practice, in the appraiser’s mind.
 3. Tag the records under review with physician specialties to ease following the updates by practising physicians.
 
-## PubMed
+## Methods
 
-### Methods
+### The Ten Steps
 
-* See the methods to search and filter reviews in the [commit history of the repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query). See the search queries down below in this section; but see their development and testing history in the commit history once again.
-* The methods of critical appraisal may be described in one phrase: Informal study of the review documentation with replication of some of the elements of the review by a single appraiser to formulate their expert impression as to whether the review is reproducible and whether it is useful for evidence-based practice.
-* Crowdfunding details are available from the [Zheln](https://zheln.com) website.
-* The monitoring continued from September 2, 2020. Currently, I do not plan to go back to whatever material that I left unreviewed as I do not have capacity for such an undertaking.
-* For clarity, I summarized the methods as **Zheln Review Appraisal in 10 Steps:**
+For clarity, I summarized the methods as **Zheln Review Appraisal in 10 Steps:**
 
-1. 🔄❌✅ Downloaded from the [PubMed Systematic Subset](https://p1m.org/ssb) Daily Updates
+1. 🔄❌✅ Downloaded from the PubMed Systematic Subset Daily Updates
 2. 🔄❌✅ Meets [Shojania & Bero 2001](https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy) True Positive Criteria for Systematic Reviews by Either Title or Abstract?
-3. 🔄❌✅ Full Text or Other Reports Collected by **Zheln**
+3. 🔄❌✅ Full Text or Other Reports Collected by Zheln
 4. 🔄❌✅ Generates Pragmatic Evidence Directly Relevant to Evidence-Based Practice
 5. 🔄❌✅ Is Duplicate?
 6. 🔄❌✅ Passed or Failed Replication?
 7. 🔄❌✅ Has Critical Conduct Flaws?
-8. 🔄❌✅ Liked or Disliked by **Zheln**?
-9. 🔄❌✅ Practical Implications Summarized by **Zheln**
+8. 🔄❌✅ Liked or Disliked by Zheln?
+9. 🔄❌✅ Practical Implications Summarized by Zheln
 10. 🔄❌✅ Appraisal Published & Call for Crowdfunding
 
-⚠️ Important!
+> ⚠️ **Important!**
+>
+> * Methods to specialty tag are not included in the steps as there is no specific time point when tagging should be complete: It starts when the record review starts and it ends when the record review ends.
+> * However, these methods are important and are, thus, summarized in this document.
 
-* Methods to specialty tag are not included in the steps as there is no specific time point when tagging should be complete: It starts when the record review starts and it ends when the record review ends. However, these methods are important and are, thus, summarized here.
+### PubMed Search
+
+* See the [search queries in an Appendix](#appendix-pubmed-systematic-review-subset-query-zheln-edition).
+* This _PubMed Systematic Review Subset Query, Zheln Edition,_ ultimately represents the [Search Strategy Used to Create the Systematic Reviews Subset on PubMed](https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) as joined from the two versions: [February 2017](http://web.archive.org/web/20181023065423/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) and [December 2018](http://web.archive.org/web/20190711085949/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html).
+* The February 2017 version is [based](https://wayback.archive-it.org/org-350/20180406175620/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_sources.html) on the study by [Shojania & Bero 2001](https://pubmed.gov/11525102).
+* I don’t know what the December 2018 version is based on, it’s not been written there.
+* See a detailed account of the development of the _Zheln Edition_ and its testing reports in the [commit history of the repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
+* While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
+
+### Screening
+
+_This is being written up._
+
+See the methods to filter reviews in the [commit history of the repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
+
+### Tagging
+
+_This is being written up._
+
 * See the methods used to compile the lists of specialties and specialty tags in the [commit history](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
 * Specialty tagging is done by the appraiser themselves based on whatever information they acquired during appraisal.
 * There is no limit to the number of specialty tags attached; but at least one tag should be chosen for each record.
 * While tagging, the tagger should consider if the record would be accessible from all relevant specialty pages and ensure it would.
 * I do not plan to add any new specialty tags. However, if I hear about any changes to the AMA Masterfile Physician Specialties list, I will consider updating the Zheln specialty lists accordingly.
 
-[Search Strategy Used to Create the Systematic Reviews Subset on PubMed](https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) as joined from the two versions: [February 2017](http://web.archive.org/web/20181023065423/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) and [December 2018](http://web.archive.org/web/20190711085949/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html).
+### Critical Appraisal
 
-The February 2017 version is [based](https://wayback.archive-it.org/org-350/20180406175620/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_sources.html) on the study by [[@Shojania2001]](https://pubmed.gov/11525102). I don’t know what the December 2018 version is based on, it’s not been written there.
+_This is being written up._
 
-### Live Version (Up-To-Date Indefinitely Until Any Interfering PubMed Updates; Run on Sep 11, 2020, to Retrieve 474,043 Records)
+The methods of critical appraisal may be described in one phrase:
+
+Informal study of the review documentation with replication of some of the elements of the review by a single appraiser to formulate their expert impression as to whether the review is reproducible and whether it is useful for evidence-based practice.
+
+### Project Management
+
+_This is being written up._
+
+### Funding
+
+Crowdfunding details are available from the [Zheln](https://zheln.com) website.
+
+## Results
+
+_This is being written up._
+
+* The monitoring continued from September 2, 2020. Currently, I do not plan to go back to whatever material that I left unreviewed as I do not have capacity for such an undertaking.
+
+## Appendix: PubMed Systematic Review Subset Query, Zheln Edition
+
+### Live Version
+
+* Up-To-Date Indefinitely Until Any Interfering PubMed Updates
+* Run on Sep 11, 2020, to Retrieve 474,043 Records
 
 ```
 (
@@ -62,7 +122,10 @@ The February 2017 version is [based](https://wayback.archive-it.org/org-350/2018
 )
 ```
 
-### Replicated Version (Up-To-Date by Sep 9, 2020; Run on Sep 12, 2020, to Retrieve 472,252 Records)
+### Replicated Version
+
+* Up-To-Date by Sep 9, 2020
+* Run on Sep 12, 2020, to Retrieve 472,252 Records
 
 > **How to use?**
 >
