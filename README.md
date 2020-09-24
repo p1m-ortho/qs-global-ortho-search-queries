@@ -28,6 +28,10 @@ Crowdfunding details are available from the [Zheln](https://zheln.com) website.
 
 Please refer to the [Zheln main repo README](https://github.com/drzhelnov/zheln.github.io/blob/gh-pages/README.md).
 
+## Zheln’s Mission
+
+> Every systematic review daily added to PubMed will get a rigorous, independent, and open-access critical appraisal.
+
 ## Objectives
 
 1. Monitor most of all published systematic reviews to rapidly identify new systematic reviews. Systematic reviews, in their turn, are known to be, today, the best source of information for evidence-based practice.
@@ -40,16 +44,22 @@ Please refer to the [Zheln main repo README](https://github.com/drzhelnov/zheln.
 
 For clarity, I summarized the methods as **Zheln Review Appraisal in 10 Steps:**
 
-1. 🔄❌✅ Downloaded from the PubMed Systematic Subset Daily Updates
-2. 🔄❌✅ Meets [Shojania & Bero 2001](https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy) True Positive Criteria for Systematic Reviews by Either Title or Abstract?
-3. 🔄❌✅ Full Text or Other Reports Collected by Zheln
-4. 🔄❌✅ Generates Pragmatic Evidence Directly Relevant to Evidence-Based Practice
-5. 🔄❌✅ Is Duplicate?
-6. 🔄❌✅ Passed or Failed Replication?
-7. 🔄❌✅ Has Critical Conduct Flaws?
-8. 🔄❌✅ Liked or Disliked by Zheln?
-9. 🔄❌✅ Practical Implications Summarized by Zheln
-10. 🔄❌✅ Appraisal Published & Call for Crowdfunding
+1. [ℹ️](#pubmed-search) Downloaded from the PubMed Systematic Subset Daily Updates 
+2. [ℹ️](#record-screening) Meets [Shojania & Bero 2001](https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy) True Positive Criteria for Systematic Reviews by Either Title or Abstract?
+3. [ℹ️](#collection-of-reports) Full Text or Other Reports Collected by Zheln
+4. [ℹ️](#data-extraction) Generates Pragmatic Evidence Directly Relevant to Evidence-Based Practice?
+5. [ℹ️](#critical-appraisal) Is Duplicate?
+6. [ℹ️](#critical-appraisal) Passed or Failed Replication?
+7. [ℹ️](#critical-appraisal) Has Critical Conduct Flaws?
+8. [ℹ️](#critical-appraisal) Liked or Disliked by Zheln?
+9. [ℹ️](#data-synthesis) Practical Implications Summarized by Zheln
+10. [ℹ️](#publication) Appraisal Published & Call for Crowdfunding
+
+Each step is also marked with an appraisal status icon:
+
+* 🔄 Not Started or In Progress
+* ❌ Failed Appraisal
+* ✅ Passed Appraisal 
 
 > ⚠️ **Important!**
 >
@@ -57,6 +67,8 @@ For clarity, I summarized the methods as **Zheln Review Appraisal in 10 Steps:**
 > * However, these methods are important and are, thus, summarized in this document.
 
 ### PubMed Search
+
+(aka **Step 1**)
 
 * See the [search queries in an Appendix](#appendix-pubmed-systematic-review-subset-query-zheln-edition).
 * This _PubMed Systematic Review Subset Query, Zheln Edition,_ ultimately represents the [Search Strategy Used to Create the Systematic Reviews Subset on PubMed](https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) as joined from the two versions: [February 2017](http://web.archive.org/web/20181023065423/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) and [December 2018](http://web.archive.org/web/20190711085949/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html).
@@ -69,33 +81,91 @@ For clarity, I summarized the methods as **Zheln Review Appraisal in 10 Steps:**
 
 _This is being written up._
 
-See the methods to filter reviews in the [commit history of the repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
+(aka **Step 2**)
+
+* See the methods to filter reviews in the [commit history of the repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
+* For the technical procedure of the screening, see [this specific issue](https://github.com/drzhelnov/zheln.github.io/issues/17). 
 
 ### Specialty Tagging
 
-_This is being written up._
+(done at **Steps 2 thru 10**)
 
-* See the methods used to compile the lists of specialties and specialty tags in the [commit history](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
 * Specialty tagging is done by the appraiser themselves based on whatever information they acquired during appraisal.
+* The tags are chosen from [191 specialty tags](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags.ls) made from a [list of 171 AMA Masterfile Physician Specialties](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags_config.ls).
+* See the methods used to compile the lists of specialties and specialty tags in the [commit history](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
 * There is no limit to the number of specialty tags attached; but at least one tag should be chosen for each record.
-* While tagging, the tagger should consider if the record would be accessible from all relevant specialty pages and ensure it would.
+* While tagging, the tagger should consider if the record would be accessible from all relevant [specialty pages](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_page_filenames.ls) and ensure it would.
 * I do not plan to add any new specialty tags. However, if I hear about any changes to the AMA Masterfile Physician Specialties list, I will consider updating the Zheln specialty lists accordingly.
 
-### Critical Appraisal of Reviews
+### Collection of Reports
+
+(aka **Step 3**)
 
 _This is being written up._
 
-The methods of critical appraisal may be described in one phrase:
+* Will try to collect the full text of the publication under appraisal.
+* For some publications, collection of other reports (either written by the same authors or by different authors, like in case of important referenced research) will be required and will be done.
 
-Informal study of the review documentation with replication of some of the elements of the review by a single appraiser to formulate their expert impression as to whether the review is reproducible and whether it is useful for evidence-based practice.
+### Data Extraction
+
+(done at **Step 4**)
+
+_This is being written up._
+
+* Involves extracting the pragmatic outcomes that were deemed relevant for evidence-based practice.
+* This is done only if the Step 9 summary is conducted.
+
+### Critical Appraisal
+
+(done at **Steps 4 thru 8**)
+
+_This is being written up._
+
+* The methods of critical appraisal may be described in one phrase:
+  
+  Informal study of the review documentation with replication of some of the elements of the review by a single appraiser to formulate their expert impression as to whether the review is reproducible and whether it is useful for evidence-based practice.
+
+* Will elaborate on the process in further revisions of this doc.
+* Step 8 was designed as solely subjective; will provide any personal comment if my decision did not seem obvious.
+
+### Data Synthesis
+
+(aka **Step 9**)
+
+_This is being written up._
+
+* Only done if Steps 2 thru 7 checked green.
+* Involves formulating explicit practice-relevant statements based on the health outcomes extracted at Step 4.
+
+### Publication
+
+(done at **Step 10**)
+
+_This is being written up._
+
+* Involves creating a citation for each post on Zheln, see [this issue](https://github.com/drzhelnov/zheln.github.io/issues/4).
+* Also, will need to introduce a checklist of items that have to be secured before the Step 10 tick is allowed to be set.
+
+### Crowdfunding
+
+(done at **Step 10** and throughout Zheln)
+
+* I ended all my institutional affiliations except for being a member of the [Society of Specialists in Evidence-Based Medicine, Moscow, Russia](http://osdm.org/english/). See [my employment history on ORCID](http://orcid.org/0000-0003-2767-5123) for more detail.
+* Currently, I have no other jobs except self-employed research assistance; see [my freelancer website](https://translate.google.com/translate?sl=ru&tl=en&u=https%3A%2F%2Fhire.p1m.org) for more info on that.
+* Therefore, there is no other funding for Zheln besides my private devotion & crowdfunding.
+* Crowdfunding details are available from the [Zheln](https://zheln.com) website.
 
 ### Project Management
 
-_This is being written up._
+(irrespective of **Steps**)
 
-### Funding
-
-Crowdfunding details are available from the [Zheln](https://zheln.com) website.
+* Zheln uses public [GitHub kanban boards](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards) to manage its workflow.
+* Namely, important tasks needed to accomplish the [Zheln’s mission](#zhelns-mission) are created as public Projects on the [Zheln GitHub page](https://github.com/drzhelnov/zheln.github.io/projects).
+* Currently, there are two such tasks on Zheln: [Streamline Zheln](https://github.com/drzhelnov/zheln.github.io/projects/1) and [Register with PROSPERO](https://github.com/drzhelnov/zheln.github.io/projects/2).
+* Further, these tasks are broken down into smaller blocks ([GitHub Issues](https://github.com/drzhelnov/zheln.github.io/issues)) and are displayed on the projects’ kanban boards.
+* Finally, each week, short-term [GitHub Milestones](https://github.com/drzhelnov/zheln.github.io/milestones) are created and then assigned to the Issues to track weekly progress.
+* All of these elements are public. Issues are open for public comment (GitHub registration needed).
+* To maximize publicity, Zheln additionally endeavors to publish [summary posts](https://zheln.com) biweekly, where I overview all the events that happened on Zheln since the last summary.
 
 ## Results
 
