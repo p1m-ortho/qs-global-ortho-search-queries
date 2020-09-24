@@ -1,11 +1,11 @@
 #!/bin/bash
-v='2.1.1'
-edit=false
+v='2.1.2'
+edit=true
 date='2020-09-02' 
 vi='36–38'
 ip='1'
 
-coreutils=true
+coreutils=false
 rm_record_set=true
 rm_summary_set=false
 
@@ -157,8 +157,8 @@ for file in *; do
     "$step10"
   )
   post="../$posts/$file"
-  echo "$yaml" > "$post"
   if [ "$edit" = 'false' ]; then
+    echo "$yaml" > "$post"
     post_edit="../$posts_edit/$file"
     level5127=$(perl -n0777e 'print "$1" if /<!-- Enter Level 5127 -->([\s\S]+)<!-- Exit Level 5127 -->/' "$post_edit")
     if [ ! "$level5127" = '' ]
