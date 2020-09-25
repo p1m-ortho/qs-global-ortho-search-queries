@@ -1,11 +1,11 @@
 #!/bin/bash
-v='2.1.3'
-edit=false
+v='2.1.4'
+edit=true
 date='2020-09-02' 
 vi='36–38'
 ip='1'
 
-coreutils=false
+coreutils=true
 rm_record_set=true
 rm_summary_set=false
 
@@ -145,7 +145,7 @@ if [ "$edit" = 'true' ]; then
       new_int="$(expr $old_int + 0)"
       new_int="$((new_int + 1))"
       new_file="${old_file/$old_int/$new_int}"
-      mv "${old_file}" "${new_file//record/}.md"
+      mv "${old_file}" "${new_file//record/date-}.md"
   done; cd ../../../..
 fi
 
