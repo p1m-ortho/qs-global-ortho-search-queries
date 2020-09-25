@@ -1,6 +1,6 @@
 #!/bin/bash
-v='2.1.2'
-edit=true
+v='2.1.3'
+edit=false
 date='2020-09-02' 
 vi='36–38'
 ip='1'
@@ -84,11 +84,20 @@ $rm_summary_set"; fi
 
 if [ "$coreutils" = 'true' ]; then
   dp=$(gdate -d "$date" +'%Y %b %-d')
+  record_year=$(gdate -d "$date" +'%Y')
+  record_month=$(gdate -d "$date" +'%m')
+  record_day=$(gdate -d "$date" +'%d')
   pg_postfix="d$(gdate -d "$date" +'%-d')"
 else
   dp=$(date -d "$date" +'%Y %b %-d')
+  record_year=$(date -d "$date" +'%Y')
+  record_month=$(date -d "$date" +'%m')
+  record_day=$(date -d "$date" +'%d')
   pg_postfix="d$(date -d "$date" +'%-d')"
 fi
+posts="$posts/$record_year/$record_month/$record_day"
+posts_edit="$posts_edit/$record_year/$record_month/$record_day"
+tmp="$tmp/$record_year/$record_month/$record_day"
 
 prepend='<small id="citation">Zhelnov P. A critical appraisal of _‘'
 append="’._ Zheln. $dp;$vi($ip):r\$1$pg_postfix. URI: {{ page.url | absolute_url }}.<\/small>"
@@ -122,10 +131,10 @@ if [ "$edit" = 'true' ]; then
   perl -p00e "s/(PMID: (\d+))/[\$1](https:\/\/pubmed.gov\/\$2)/g" -i "$record_set"
   perl -p00e "s/(PMCID: (PMC\d+))/[\$1](https:\/\/ncbi.nlm.nih.gov\/pmc\/\$2)/g" -i "$record_set"
 
-  mkdir $tmp; cd $tmp; if [ "$coreutils" = 'true' ]; then
-    gsplit -a 3 -l 1 -d "../$record_set" "record"
+  mkdir -p "$tmp"; cd "$tmp"; if [ "$coreutils" = 'true' ]; then
+    gsplit -a 3 -l 1 -d "../../../../$record_set" "record"
   else
-    split -a 3 -l 1 -d "../$record_set" "record"
+    split -a 3 -l 1 -d "../../../../$record_set" "record"
   fi
 
   count="$((($(ls -1 | wc -l))-1))"
@@ -136,11 +145,11 @@ if [ "$edit" = 'true' ]; then
       new_int="$(expr $old_int + 0)"
       new_int="$((new_int + 1))"
       new_file="${old_file/$old_int/$new_int}"
-      mv "${old_file}" "${new_file//record/$date-}.md"
-  done; cd ..
+      mv "${old_file}" "${new_file//record/}.md"
+  done; cd ../../../..
 fi
 
-mkdir "$posts"
+mkdir -p "$posts"
 if [ "$edit" = 'true' ]; then cd "$tmp"
 else cd "$posts_edit"; fi
 for file in *; do
@@ -156,14 +165,14 @@ for file in *; do
     "$step9"
     "$step10"
   )
-  post="../$posts/$file"
+  post="../../../../$posts/$file"
   if [ "$edit" = 'false' ]; then
     echo "$yaml" > "$post"
-    post_edit="../$posts_edit/$file"
+    post_edit="../../../../$posts_edit/$file"
     level5127=$(perl -n0777e 'print "$1" if /<!-- Enter Level 5127 -->([\s\S]+)<!-- Exit Level 5127 -->/' "$post_edit")
     if [ ! "$level5127" = '' ]
     then echo "$level5127" >> "$post"
-    else cat "../$header" >> "$post"; fi
+    else cat "../../../../$header" >> "$post"; fi
     perl -ne 'print "$&\n" if /title:.+/' "$post_edit" >> "$post"
     perl -ne 'print "$&\n" if /summary:.+/' "$post_edit" >> "$post"
     perl -ne 'print "$&\n" if /thumbnail:.+/' "$post_edit" >> "$post"
@@ -196,21 +205,21 @@ for file in *; do
     references=$(perl -n0777e 'print "$1" if /<!-- References -->([\s\S]+)<!-- EOF -->/' "$post_edit")
     level1313=$(perl -n0777e 'print "$1" if /<!-- Enter Level 1313 -->([\s\S]+)<!-- Exit Level 1313 -->/' "$post_edit")
   else
-    cat "../$header" >> "$post"
+    cat "../../../../$header" >> "$post"
     echo '' >> "$post"
     cat "$file" >> "$post"
   fi
   if [ ! "$level1313" = '' ]
   then echo "$level1313" >> "$post"
-  else echo '' >> "$post"; cat "../$footer" >> "$post"; fi
+  else echo '' >> "$post"; cat "../../../../$footer" >> "$post"; fi
   if [ ! "$references" = '' ]
   then echo "$references" >> "$post"; fi
-done; cd ".."
+done; cd ../../../..
 
 if [ "$edit" = 'true' ]; then
-  rm -r $tmp
+  rm -r "${tmp//[0-9\/]/}"
   if [ "$rm_record_set" = 'true' ]; then rm "$record_set"; fi
-  if [ "$rm_summary_set" = 'true' ]; then rm "$summary_set"; fi
+  if [ "$rm_summary_set" = 'true' ]; then rm "summary_set"; fi
 fi
 
 echo '> So uncivilized.'; exit 0
