@@ -1,13 +1,13 @@
 #!/bin/bash
-v='2.1.8'
+v='2.1.9'
 edit=false
-date='2020-09-02' 
+date='2020-09-03' 
 vi='36–38'
 ip='1'
 
 coreutils=true
 rm_record_set=true
-rm_summary_set=false
+rm_summary_set=true
 
 summary_set='summary-systematic-set.txt'
 record_set='record-set.txt'
@@ -146,7 +146,7 @@ if [ "$edit" = 'true' ]; then
       new_int="$(expr $old_int + 0)"
       new_int="$((new_int + 1))"
       new_file="${old_file/$old_int/$new_int}"
-      mv "${old_file}" "${new_file//record/date-}.md"
+      mv "${old_file}" "${new_file//record/$date-}.md"
   done; cd ../../../..
 fi
 
