@@ -1,5 +1,5 @@
 #!/bin/bash
-v='2.1.9'
+v='2.1.10'
 edit=false
 date='2020-09-03' 
 vi='36–38'
@@ -174,9 +174,9 @@ for file in *; do
     if [ ! "$level5127" = '' ]
     then echo "$level5127" >> "$post"
     else cat "../../../../$header" >> "$post"; fi
-    perl -ne 'print "$&\n" if /title:.+/' "$post_edit" >> "$post"
-    perl -ne 'print "$&\n" if /summary:.+/' "$post_edit" >> "$post"
-    perl -ne 'print "$&\n" if /thumbnail:.+/' "$post_edit" >> "$post"
+    perl -ne 'print "$&\n" if /^title:.+/' "$post_edit" >> "$post"
+    perl -ne 'print "$&\n" if /^summary:.+/' "$post_edit" >> "$post"
+    perl -ne 'print "$&\n" if /^thumbnail:.+/' "$post_edit" >> "$post"
     echo 'tags:' >> "$post"
     match=$(perl -ne 'print "$1\n" if /\[x\] (.+)/' "$post_edit")
     IFS=$'\n' read -rd '' -a checked <<< "$match"
