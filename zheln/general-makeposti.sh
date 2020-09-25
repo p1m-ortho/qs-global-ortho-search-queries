@@ -1,5 +1,5 @@
 #!/bin/bash
-v='2.1.7'
+v='2.1.8'
 edit=false
 date='2020-09-02' 
 vi='36–38'
@@ -211,7 +211,7 @@ for file in *; do
     cat "$file" >> "$post"
   fi
   if [ ! "$level1313" = '' ]
-  then echo "$level1313" >> "$post"; echo '' >> "$post"
+  then echo "$level1313" >> "$post"
   else echo '' >> "$post"; cat "../../../../$footer" >> "$post"; fi
   if [ ! "$references" = '' ]
   then echo "$references" >> "$post"; fi
