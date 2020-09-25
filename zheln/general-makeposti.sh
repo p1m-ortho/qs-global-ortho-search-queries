@@ -1,5 +1,5 @@
 #!/bin/bash
-v='2.1.5'
+v='2.1.6'
 edit=false
 date='2020-09-02' 
 vi='36–38'
@@ -211,7 +211,7 @@ for file in *; do
     cat "$file" >> "$post"
   fi
   if [ ! "$level1313" = '' ]
-  then echo "$level1313" >> "$post"
+  then echo "$level1313" >> "$post"; echo '' >> "$post"
   else echo '' >> "$post"; cat "../../../../$footer" >> "$post"; fi
   if [ ! "$references" = '' ]
   then echo "$references" >> "$post"; fi
@@ -220,7 +220,7 @@ done; cd ../../../..
 if [ "$edit" = 'true' ]; then
   rm -r "${tmp//[0-9\/]/}"
   if [ "$rm_record_set" = 'true' ]; then rm "$record_set"; fi
-  if [ "$rm_summary_set" = 'true' ]; then rm "summary_set"; fi
+  if [ "$rm_summary_set" = 'true' ]; then rm "$summary_set"; fi
 fi
 
 echo '> So uncivilized.'; exit 0
