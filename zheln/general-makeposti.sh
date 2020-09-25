@@ -1,6 +1,6 @@
 #!/bin/bash
-v='2.1.4'
-edit=true
+v='2.1.5'
+edit=false
 date='2020-09-02' 
 vi='36–38'
 ip='1'
@@ -116,7 +116,8 @@ fi
 if
 [ -d "tmp" ] ||
 [ -f "$record_set" ] ||
-[ -d "$posts" ]; then
+[ -d "$posts" ] ||
+[ -d "$posts_edit" ]; then
   echo '> Leftovers present. Check with them first.'
   exit 1
 else echo '> No leftovers detected.'; echo '> Proceed to execution…'
