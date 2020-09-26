@@ -80,12 +80,23 @@ Each step is also marked with an appraisal status icon:
 
 ### Record Screening
 
-_This is being written up._
-
 (aka **Step 2**)
 
-* See the methods to filter reviews in the [commit history of the repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
-* For the technical procedure of the screening, see [this specific issue](https://github.com/drzhelnov/zheln.github.io/issues/17). 
+* This is the step where record eligibility for Zheln appraisal is assessed.
+* This is done by checking the record title and, if the title failed, abstract against the ‘true positive criteria’ for systematic reviews taken from the publication by [Shojania & Bero 2001 (Open Access)](https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy).
+* This is a diagnostic test accuracy (DTA) assessment for the systematic review search strategy by the authors—the very search strategy that the [PubMed Systematic Subset](#pubmed-search) was originally based on. Incidentally, this is the reason I chose these criteria for Zheln in the first place.
+* I quote:
+  
+    > We regarded an article as a true positive only if the title or abstract explicitly identified the article as a systematic review or meta-analysis or if the article abstract indicated a strategy for locating the literature reviewed. Thus, an article that contained the phrase “literature review” in the title but merely stated that “relevant literature was reviewed” in the abstract would not count as a true positive. MEDLINE records without an abstract could be counted as true positives only if the title contained the words “meta-analysis,” “metaanalysis,” or “systematic review.”
+
+* Therefore, those records that do not meet these criteria are marked as **Failed Step 2** (see [this supplementary file](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/footer-edit.txt) for the current exact wording) and are not appraised further.
+* Technically, screening entails _conversion_ of the citation list downloaded from PubMed in the `Summary (text)` format (see the [list of all original PubMed exports](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/summary-systematic-set) made by Zheln) into individual editable records with further _compilation_ of the edited records into their published versions that are available from [Zheln](https://zheln.com).
+* To do both, I wrote from scratch a special [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) script that I named [_General Makeposti_](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/general-makeposti.sh).
+* For a glimpse into how an editable record looks like, see [this specific issue](https://github.com/drzhelnov/zheln.github.io/issues/17). Alternatively, you could use _General Makeposti_ to do the conversion yourself.
+* Text editors I use for record screening:
+
+    * [Visual Studio Code](https://code.visualstudio.com) with the [Markdown Preview Enhanced Extension](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) on macOS or Windows;
+    * [Epsilon Notes](https://play.google.com/store/apps/details?id=com.ekartoyev.enotes) on Android.
 
 ### Specialty Tagging
 
