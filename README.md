@@ -94,8 +94,13 @@ _This is being written up._
 * Specialty tagging is done by the appraiser themselves based on whatever information they acquired during appraisal.
 * The tags are chosen from [191 specialty tags](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags.ls) made from a [list of 171 AMA Masterfile Physician Specialties](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags_config.ls).
 * See the methods used to compile the lists of specialties and specialty tags in the [commit history](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
-* There is no limit to the number of specialty tags attached; but at least one tag should be chosen for each record.
 * While tagging, the tagger should consider if the record would be accessible from all relevant [specialty pages](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_page_filenames.ls) and ensure it would.
+* Namely, the tagger must check the record against **each** specialty on the list and decide if this record could be of interest to a typical physician working in this specialty.
+* I recognize this could be tricky.
+* Also, I do recognize the best approach to specialty grouping would be an evidence-based approach involving feedback from the physicians themselves.
+* However, this is unavailable at the moment, so specialty grouping will be theory-based. In the future, introducing empirical testing will be of interest.
+* For now, I set one more tagging principle to theoretically improve accuracy: Do not deny a specialty to the record if unsure, but do recognize more enthusiastic specialists could consult different specialties in addition to their ‘major.’
+* There is no limit to the number of specialty tags attached, but at least one tag should be chosen for each record (except those that failed and were exlcuded at Step 2).
 * I do not plan to add any new specialty tags. However, if I hear about any changes to the AMA Masterfile Physician Specialties list, I will consider updating the Zheln specialty lists accordingly.
 
 ### Collection of Reports
