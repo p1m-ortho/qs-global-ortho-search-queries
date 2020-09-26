@@ -1,6 +1,6 @@
 #!/bin/bash
-v='2.2.2'
-edit=false
+v='2.2.3'
+edit=true
 date='2020-09-02' 
 vi='36–38'
 ip='1'
@@ -252,11 +252,12 @@ for file in *; do
     echo '' >> "$post"
     custom_footer="../../../../$footer_prefix-$last_step_i-$last_step_b.txt"
     default_footer="../../../../$footer"
-    if [ -f "$custom_footer" ]
-    then cat "$custom_footer" >> "$post"
+    if ([ "$edit" = 'false' ] && [ -f "$custom_footer" ]); then
+      cat "$custom_footer" >> "$post" 
     else
       cat "$default_footer" >> "$post"
-      echo "Post $file: Used Step 1 footer, while Step $last_step_i is $last_step_b."
+      if [ "$edit" = 'false' ]
+      then echo "Post $file: Used Step 1 footer, while Step $last_step_i is $last_step_b."; fi
     fi
   fi
   if [ ! "$references" = '' ]
