@@ -1,5 +1,5 @@
 #!/bin/bash
-v='2.2.0'
+v='2.2.1'
 edit=false
 date='2020-09-02' 
 vi='36–38'
@@ -65,6 +65,23 @@ status[0]='awaiting appraisal'
 status[1]='awaiting crowdfunding'
 status[2]='appraisal in progress'
 status[3]='appraisal complete'
+status_true[1]="${status[0]}"
+status_false[2]="${status[0]}"
+status_true[2]="${status[1]}"
+status_false[3]="${status[1]}"
+status_true[3]="${status[2]}"
+status_false[4]="${status[2]}"
+status_true[4]="${status[2]}"
+status_false[5]="${status[2]}"
+status_true[5]="${status[2]}"
+status_false[6]="${status[2]}"
+status_true[6]="${status[2]}"
+status_false[7]="${status[2]}"
+status_true[7]="${status[2]}"
+status_false[8]="${status[2]}"
+status_true[8]="${status[2]}"
+status_true[9]="${status[2]}"
+status_true[10]="${status[3]}"
 specialty=()
 while read line; do
    specialty+=("$line")
@@ -190,10 +207,6 @@ for file in *; do
     echo 'tags:' >> "$post"
     match=$(perl -ne 'print "$1\n" if /\[x\] (.+)/' "$post_edit")
     IFS=$'\n' read -rd '' -a checked <<< "$match"
-    if [[ "${checked[@]}" =~ "${status[3]}" ]]; then echo " - ${status[3]}" >> "$post"
-    else if [[ "${checked[@]}" =~ "${status[2]}" ]]; then echo " - ${status[2]}" >> "$post"
-    else if [[ "${checked[@]}" =~ "${status[1]}" ]]; then echo " - ${status[1]}" >> "$post"
-    else echo " - ${status[0]}" >> "$post"; fi; fi; fi
     for line in "${checked[@]}"; do
       if [[ "${specialty[@]}" =~ "$line" ]]
       then echo " - $line" >> "$post"
@@ -209,6 +222,12 @@ for file in *; do
           fi
       done; fi
     done
+    i=$(expr $last_step_i + 0)
+    if [ "$last_step_b" = 'true' ]; then
+      echo " - ${status_true[$i]}" >> "$post";
+    else if [ "$last_step_b" = 'false' ]; then
+      echo " - ${status_false[$i]}" >> "$post"; fi
+    fi;
     echo "$yaml" >> "$post"
     echo '' >> "$post"
     perl -ne 'print "$&\n" if /<small id="citation">[^<]+<\/small>/' "$post_edit" >> "$post"
