@@ -1,0 +1,9 @@
+> I have looked at this record and found that it does not meet ‘true positive criteria’ for systematic reviews by [Shojania & Bero 2001](https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy) that I chose to use in [record screening on Zheln](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md#record-screening).
+>
+> Namely, it means this record does not mention neither ‘systematic review’ nor ‘meta-analysis’ in its title, nor does it contain a literature search strategy in its abstract.
+>
+> Therefore, this record is ineligible for a Zheln appraisal.
+>
+> Please be aware this project is independent research and is supported by crowdfunding only, so kindly consider making a minimal donation as low as $1 either on [Patreon](https://patreon.com/zheln) or via [PayPal](https://paypal.me/pjelnov).
+>
+> By all means, you are always welcome reaching out to me for whatever reason by [email](mailto:pavel@zheln.com) or on [Twitter](https://twitter.com/drzhelnov), [Instagram](https://instagram.com/igzheln), [Facebook](https://facebook.com/drzhelnov), or [Telegram](https://t.me/drzhelnov). I’m happy to get your feedback!
