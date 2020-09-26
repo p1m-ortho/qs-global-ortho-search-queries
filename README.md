@@ -77,6 +77,7 @@ Each step is also marked with an appraisal status icon:
 * The _Zheln Edition_ exists in two versions: [Live](#live-version) & [Replicated](#replicated-version). The former is a regular search query that would produce all records available by the time of search, whereas the latter produces a consistent, replicable set of records for a certain date.
 * See a detailed account of the development of the _Zheln Edition_ and its testing reports in the [commit history of the repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
 * While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
+* On [Zheln](https://zheln.com), records that are at the Step 1 of the appraisal process are automatically (since the [version 2.2.1](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/af6d75fa635c2d62169e9ec36505b9657a127ed9#diff-d556e85617be04293b0ad953ad7028b3) of the record-maker script) assigned the `awaiting appraisal` category. Also, the [corresponding footer](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/footer-1-true.txt) is attached.
 
 ### Record Screening
 
@@ -97,6 +98,10 @@ Each step is also marked with an appraisal status icon:
 
     * [Visual Studio Code](https://code.visualstudio.com) with the [Markdown Preview Enhanced Extension](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) on macOS or Windows;
     * [Epsilon Notes](https://play.google.com/store/apps/details?id=com.ekartoyev.enotes) on Android.
+
+* On [Zheln](https://zheln.com), records that **passed** the Step 2 of the appraisal process are automatically (since [_General Makeposti_ 2.2.1](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/af6d75fa635c2d62169e9ec36505b9657a127ed9#diff-d556e85617be04293b0ad953ad7028b3)) assigned the `awaiting crowdfunding` category. That is because if I found the record appealing enough to autonomously embark on its full appraisal, I would have pushed it to the Step 3 of appraisal right away.
+* From the other hand, records that **failed** the appraisal process at the Step 2 are reassigned the `awaiting appraisal` category. This is because I consider these a _ghost town_ analogy meaning that, theoretically, the appraisal could be continued, but for now, it wouldn’t.
+* Also, a [corresponding footer](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln) is attached to the record based on its Step status.
 
 ### Specialty Tagging
 
