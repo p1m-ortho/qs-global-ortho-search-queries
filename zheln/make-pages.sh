@@ -1,10 +1,10 @@
 #!/bin/bash
 coreutils=false
-files='zheln_ama_specialty_page_filenames.ls'
+files='zheln_ama_specialty_page_filenames.lst'
 html='unspecified.html'
-tags='zheln_ama_specialty_tags.ls'
-codes='zheln_ama_specialty_codes.ls'
-titles='zheln_ama_specialty_titles.ls'
+tags='zheln_ama_specialty_tags.lst'
+codes='zheln_ama_specialty_codes.lst'
+titles='zheln_ama_specialty_titles.lst'
 unspecified_tag='unspecified'
 unspecified_code='US'
 unspecified_title='Unspecified'

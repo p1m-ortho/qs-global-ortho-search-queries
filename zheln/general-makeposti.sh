@@ -1,5 +1,5 @@
 #!/bin/bash
-v='2.2.1'
+v='2.2.2'
 edit=false
 date='2020-09-02' 
 vi='36–38'
@@ -14,7 +14,7 @@ record_set='record-set.txt'
 posts='posts'
 posts_edit='posts-edit'
 tmp='tmp'
-specialty_tags='zheln_ama_specialty_tags.ls'
+specialty_tags='zheln_ama_specialty_tags.lst'
 references=''
 level5127=''
 level1313=''
