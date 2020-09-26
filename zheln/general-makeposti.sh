@@ -1,7 +1,7 @@
 #!/bin/bash
-v='2.1.10'
+v='2.2.0'
 edit=false
-date='2020-09-03' 
+date='2020-09-02' 
 vi='36–38'
 ip='1'
 
@@ -19,13 +19,19 @@ references=''
 level5127=''
 level1313=''
 appraisal=''
+footer_prefix='footer'
+header_prefix='header'
+default_last_step_i='1'
+default_last_step_b=true
+last_step_i="$default_last_step_i"
+last_step_b="$default_last_step_b"
 if [ "$edit" = 'true' ]; then
-  header="header-edit.txt"
-  footer='footer-edit.txt'
+  header="$header_prefix-edit.txt"
+  footer="$footer_prefix-edit.txt"
   posts="$posts_edit"
 else
-  header="header.txt"
-  footer='footer.txt'
+  header="$header_prefix.txt"
+  footer="$footer_prefix-$last_step_i-$last_step_b.txt"
 fi
 
 layout='layout: post'
@@ -63,6 +69,10 @@ specialty=()
 while read line; do
    specialty+=("$line")
 done < "$specialty_tags"
+fail='❌'
+pass='✅'
+dislike='👎'
+like='👍'
 
 echo "> Hello there.
 General Makeposti!
@@ -188,8 +198,15 @@ for file in *; do
       if [[ "${specialty[@]}" =~ "$line" ]]
       then echo " - $line" >> "$post"
       else for i in {1..10}; do
-          if [ "${line:0:1}" = "$i" ]
-          then step[$((i-1))]="$line"; fi
+          if [ "${line:0:1}" = "$i" ]; then
+            step[$((i-1))]="$line"
+            mark="${line:3:1}"
+            if ([ "$mark" = "$fail" ] || [ "$mark" = "$dislike" ]) 
+            then last_step_b='false'; last_step_i="$i"
+            else if ([ "$mark" = "$pass" ] || [ "$mark" = "$like" ])
+              then last_step_b='true'; last_step_i="$i"; fi
+            fi
+          fi
       done; fi
     done
     echo "$yaml" >> "$post"
@@ -212,9 +229,21 @@ for file in *; do
   fi
   if [ ! "$level1313" = '' ]
   then echo "$level1313" >> "$post"
-  else echo '' >> "$post"; cat "../../../../$footer" >> "$post"; fi
+  else
+    echo '' >> "$post"
+    custom_footer="../../../../$footer_prefix-$last_step_i-$last_step_b.txt"
+    default_footer="../../../../$footer"
+    if [ -f "$custom_footer" ]
+    then cat "$custom_footer" >> "$post"
+    else
+      cat "$default_footer" >> "$post"
+      echo "Post $file: Used Step 1 footer, while Step $last_step_i is $last_step_b."
+    fi
+  fi
   if [ ! "$references" = '' ]
   then echo "$references" >> "$post"; fi
+  last_step_i=$default_last_step_i
+  last_step_b=$default_last_step_b
 done; cd ../../../..
 
 if [ "$edit" = 'true' ]; then
