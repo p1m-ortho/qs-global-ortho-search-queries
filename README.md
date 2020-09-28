@@ -116,6 +116,7 @@ Each step is also marked with an appraisal status icon:
 * Also, I do recognize the best approach to specialty grouping would be an evidence-based approach involving feedback from the physicians themselves.
 * However, this is unavailable at the moment, so specialty grouping will be theory-based. In the future, introducing empirical testing will be of interest.
 * For now, I set one more tagging principle to theoretically improve accuracy: Do not deny a specialty to the record if unsure, but do recognize more enthusiastic specialists could consult different specialties in addition to their ‘major.’
+* If the tagger is uncertain either of the article subject or any specialty scope, they should consult Google or other information sources until both seem perfectly clear.
 * There is no limit to the number of specialty tags attached, but at least one tag should be chosen for each record (except those that failed and were exlcuded at Step 2).
 * I do not plan to add any new specialty tags. However, if I hear about any changes to the AMA Masterfile Physician Specialties list, I will consider updating the Zheln specialty lists accordingly.
 
