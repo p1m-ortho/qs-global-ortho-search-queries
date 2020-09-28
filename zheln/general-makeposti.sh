@@ -1,13 +1,13 @@
 #!/bin/bash
-v='2.2.3'
+v='2.2.4'
 edit=true
-date='2020-09-02' 
-vi='36–38'
+date='2020-09-26' 
+vi='40'
 ip='1'
 
 coreutils=true
 rm_record_set=true
-rm_summary_set=true
+rm_summary_set=false
 
 summary_set='summary-systematic-set.txt'
 record_set='record-set.txt'
@@ -242,6 +242,7 @@ for file in *; do
     references=$(perl -n0777e 'print "$1" if /<!-- References -->([\s\S]+)<!-- EOF -->/' "$post_edit")
     level1313=$(perl -n0777e 'print "$1" if /<!-- Enter Level 1313 -->([\s\S]+)<!-- Exit Level 1313 -->/' "$post_edit")
   else
+    echo "<!-- Built with General Makeposti v$v -->" > "$post"
     cat "../../../../$header" >> "$post"
     echo '' >> "$post"
     cat "$file" >> "$post"
