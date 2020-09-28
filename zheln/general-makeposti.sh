@@ -1,15 +1,16 @@
 #!/bin/bash
-v='2.2.4'
+v='2.2.5'
 edit=true
 date='2020-09-26' 
+count=447
 vi='40'
 ip='1'
 
 coreutils=true
 rm_record_set=true
-rm_summary_set=false
 
-summary_set='summary-systematic-set.txt'
+summary_set='summary-systematic-set'
+summary_set="${summary_set}/${summary_set}_${date}_${count}.txt"
 record_set='record-set.txt'
 posts='posts'
 posts_edit='posts-edit'
@@ -105,9 +106,7 @@ if [ "$edit" = 'true' ]
 then echo "> Want coreutils?
 $coreutils
 > Remove $record_set?
-$rm_record_set
-> Remove $summary_set?
-$rm_summary_set"; fi
+$rm_record_set"; fi
 
 if [ "$coreutils" = 'true' ]; then
   dp=$(gdate -d "$date" +'%Y %b %-d')
@@ -165,8 +164,9 @@ if [ "$edit" = 'true' ]; then
     split -a 3 -l 1 -d "../../../../$record_set" "record"
   fi
 
-  count="$((($(ls -1 | wc -l))-1))"
-  echo '' >> "record$count"
+  if [ "$count" = "$(($(ls -1 | wc -l) + 0))" ]
+  then echo '' >> "record$(($count - 1))"
+  else echo '> Record generation failed: Incorrect count.'; exit 1; fi
 
   for old_file in *; do
       old_int="${old_file//[^0-9]/}"
@@ -258,7 +258,7 @@ for file in *; do
     else
       cat "$default_footer" >> "$post"
       if [ "$edit" = 'false' ]
-      then echo "Post $file: Used Step 1 footer, while Step $last_step_i is $last_step_b."; fi
+      then echo "> Post $file: Used Step 1 footer, while Step $last_step_i is $last_step_b."; fi
     fi
   fi
   if [ ! "$references" = '' ]
@@ -270,7 +270,6 @@ done; cd ../../../..
 if [ "$edit" = 'true' ]; then
   rm -r "${tmp//[0-9\/]/}"
   if [ "$rm_record_set" = 'true' ]; then rm "$record_set"; fi
-  if [ "$rm_summary_set" = 'true' ]; then rm "$summary_set"; fi
 fi
 
 echo '> So uncivilized.'; exit 0
