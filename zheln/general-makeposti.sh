@@ -1,5 +1,5 @@
 #!/bin/bash
-v='2.2.5'
+v='2.2.6'
 edit=true
 date='2020-09-27' 
 count=67
@@ -12,6 +12,7 @@ rm_record_set=true
 summary_set='summary-systematic-set'
 summary_set="${summary_set}/${summary_set}_${date}_${count}.txt"
 record_set='record-set.txt'
+record_debt='record-debt'
 posts='posts'
 posts_edit='posts-edit'
 tmp='tmp'
@@ -124,6 +125,8 @@ fi
 posts="$posts/$record_year/$record_month/$record_day"
 posts_edit="$posts_edit/$record_year/$record_month/$record_day"
 tmp="$tmp/$record_year/$record_month/$record_day"
+record_debt_d="$record_debt/$record_year/$record_month"
+record_debt_f="$record_debt_d/${record_debt}_${date}_$count.lst"
 
 prepend='<small id="citation">Zhelnov P. A critical appraisal of _‘'
 append="’._ Zheln. $dp;$vi($ip):r\$1$pg_postfix. URI: {{ page.url | absolute_url }}.<\/small>"
@@ -158,16 +161,17 @@ if [ "$edit" = 'true' ]; then
   perl -p00e "s/(PMID: (\d+))/[\$1](https:\/\/pubmed.gov\/\$2)/g" -i "$record_set"
   perl -p00e "s/(PMCID: (PMC\d+))/[\$1](https:\/\/ncbi.nlm.nih.gov\/pmc\/\$2)/g" -i "$record_set"
 
+  if [ ! -d "$record_debt_d" ]; then mkdir -p "$record_debt_d"; fi
+  if [ ! -f "$record_debt_f" ]; then touch "$record_debt_f"; fi
   mkdir -p "$tmp"; cd "$tmp"; if [ "$coreutils" = 'true' ]; then
     gsplit -a 3 -l 1 -d "../../../../$record_set" "record"
   else
     split -a 3 -l 1 -d "../../../../$record_set" "record"
   fi
 
-  if [ "$count" = "$(($(ls -1 | wc -l) + 0))" ]
-  then echo '' >> "record$(($count - 1))"
-  else echo '> Record generation failed: Incorrect count.'; exit 1; fi
-
+  if [ ! "$count" = "$(($(ls -1 | wc -l) + 0))" ]
+  then echo '> Record generation failed: Incorrect count.'; exit 1; fi
+  
   for old_file in *; do
       old_int="${old_file//[^0-9]/}"
       new_int="$(expr $old_int + 0)"
