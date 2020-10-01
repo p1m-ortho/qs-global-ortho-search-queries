@@ -1,5 +1,5 @@
 #!/bin/bash
-v='2.2.6'
+v='2.2.7'
 edit=true
 date='2020-09-29' 
 count=144
@@ -101,6 +101,7 @@ You are a by-Zheln one.
 > Date: $date.
 > Vol. $vi.
 > Issue $ip.
+> Expect $count records.
 > Edit mode?
 $edit"
 if [ "$edit" = 'true' ]
