@@ -1,6 +1,6 @@
 #!/bin/bash
-v='2.2.7'
-edit=true
+v='2.3'
+edit=false
 date='2020-09-29' 
 count=144
 vi='40'
@@ -12,7 +12,7 @@ rm_record_set=true
 summary_set='summary-systematic-set'
 summary_set="${summary_set}/${summary_set}_${date}_${count}.txt"
 record_set='record-set.txt'
-record_debt='record-debt'
+rnd='rnd'
 posts='posts'
 posts_edit='posts-edit'
 tmp='tmp'
@@ -92,6 +92,9 @@ fail='❌'
 pass='✅'
 dislike='👎'
 like='👍'
+digits='^[0-9]+$'
+proceed='> Proceed to execution…'
+terminate='> Terminate.'
 
 echo "> Hello there.
 General Makeposti!
@@ -126,8 +129,10 @@ fi
 posts="$posts/$record_year/$record_month/$record_day"
 posts_edit="$posts_edit/$record_year/$record_month/$record_day"
 tmp="$tmp/$record_year/$record_month/$record_day"
-record_debt_d="$record_debt/$record_year/$record_month"
-record_debt_f="$record_debt_d/${record_debt}_${date}_$count.lst"
+rnd_d="$rnd/$record_year/$record_month"
+rnd_f="$rnd_d/${rnd}_${date}_$count.lst"
+rnd_s=''
+rnd_a=()
 
 prepend='<small id="citation">Zhelnov P. A critical appraisal of _‘'
 append="’._ Zheln. $dp;$vi($ip):r\$1$pg_postfix. URI: {{ page.url | absolute_url }}.<\/small>"
@@ -150,10 +155,49 @@ if
 ([ "$edit" = 'true' ] && [ -d "$posts_edit" ]); then
   echo '> Leftovers present. Check with them first.'
   exit 1
-else echo '> No leftovers detected.'; echo '> Proceed to execution…'
+else
+  echo '> No leftovers detected.'
+  if [ "$edit" = 'false' ]
+  then echo "$proceed"; fi
 fi
 
 if [ "$edit" = 'true' ]; then
+  if [ ! -d "$rnd_d" ]; then mkdir -p "$rnd_d"; fi
+  if [ ! -f "$rnd_f" ]; then
+    touch "$rnd_f"
+    echo '> Populate the random list first.'
+    exit 1
+  else
+    echo '> Random list in place.'
+    echo '> Check the random list…'
+    rnd_s="$(< $rnd_f)"
+    if [ "$rnd_s" = '' ]; then
+      echo '> Empty random list.'
+      echo "$terminate"
+      exit 1
+    else
+      IFS=$'\n' read -rd '' -a rnd_tmp <<< "$rnd_s"
+      i=0
+      for line in "${rnd_tmp[@]}"; do
+        if [[ ! "$line" =~ $digits ]]; then
+          echo '> Illegal random list.'
+          echo "$terminate"
+          exit 1
+        else
+          rnd_a["$(expr $line + 0)"]="$(printf '%04d' $((i+1)))"
+        fi
+        i="$((i+1))"
+      done
+      if [ ! "$i" = "$count" ]; then
+        echo '> Random list miscount.'
+        echo "$terminate"
+        exit 1
+      fi
+      echo '> Random list OK.'
+      echo "$proceed"
+    fi
+  fi
+
   perl -p00e 's/\r//g' "$summary_set" > "$record_set"
   perl -p00e 's/\n([^\n])/ $1/g' -i "$record_set"
   perl -p00e 's/\n+/\n/g' -i "$record_set"
@@ -162,8 +206,6 @@ if [ "$edit" = 'true' ]; then
   perl -p00e "s/(PMID: (\d+))/[\$1](https:\/\/pubmed.gov\/\$2)/g" -i "$record_set"
   perl -p00e "s/(PMCID: (PMC\d+))/[\$1](https:\/\/ncbi.nlm.nih.gov\/pmc\/\$2)/g" -i "$record_set"
 
-  if [ ! -d "$record_debt_d" ]; then mkdir -p "$record_debt_d"; fi
-  if [ ! -f "$record_debt_f" ]; then touch "$record_debt_f"; fi
   mkdir -p "$tmp"; cd "$tmp"; if [ "$coreutils" = 'true' ]; then
     gsplit -a 3 -l 1 -d "../../../../$record_set" "record"
   else
@@ -178,7 +220,7 @@ if [ "$edit" = 'true' ]; then
       new_int="$(expr $old_int + 0)"
       new_int="$((new_int + 1))"
       new_file="${old_file/$old_int/$new_int}"
-      mv "${old_file}" "${new_file//record/$date-}.md"
+      mv "${old_file}" "${new_file//record/${rnd_a[$new_int]}-$date-}.md"
   done; cd ../../../..
 fi
 
@@ -200,6 +242,7 @@ for file in *; do
   )
   post="../../../../$posts/$file"
   if [ "$edit" = 'false' ]; then
+    post="../../../../$posts/${file:5}"
     echo "$yaml" > "$post"
     post_edit="../../../../$posts_edit/$file"
     level5127=$(perl -n0777e 'print "$1" if /<!-- Enter Level 5127 -->([\s\S]+)<!-- Exit Level 5127 -->/' "$post_edit")
