@@ -1,10 +1,10 @@
 #!/bin/bash
-v='2.3.1'
+v='2.3.2'
 edit=false
-date='2020-09-29' 
-count=144
-vi='40'
-ip='2'
+date='2020-10-02' 
+count=841
+vi='41'
+ip='1'
 
 coreutils=true
 rm_record_set=true
@@ -104,11 +104,11 @@ You are a by-Zheln one.
 > Date: $date.
 > Vol. $vi.
 > Issue $ip.
-> Expect $count records.
 > Edit mode?
 $edit"
 if [ "$edit" = 'true' ]
-then echo "> Want coreutils?
+then echo "> Expect $count records.
+> Want coreutils?
 $coreutils
 > Remove $record_set?
 $rm_record_set"; fi
