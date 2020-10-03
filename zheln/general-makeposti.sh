@@ -1,5 +1,5 @@
 #!/bin/bash
-v='2.3'
+v='2.3.1'
 edit=false
 date='2020-09-29' 
 count=144
@@ -278,7 +278,7 @@ for file in *; do
     fi;
     echo "$yaml" >> "$post"
     echo '' >> "$post"
-    perl -ne 'print "$&\n" if /<small id="citation">[^<]+<\/small>/' "$post_edit" >> "$post"
+    perl -ne 'print "$&\n" if /<small id="citation">[\s\S]+?<\/small>/' "$post_edit" >> "$post"
     echo '' >> "$post"
     echo "> $steps" >> "$post"
     echo '>' >> "$post"
