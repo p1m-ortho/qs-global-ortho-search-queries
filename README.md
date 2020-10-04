@@ -1,5 +1,7 @@
 # Global Live Search for Systematic Reviews—Zheln.com
 
+> [![OSF Icon](https://osf.io/favicon.ico)](https://zheln.com) **[_Zheln Systematic Review Appraisals_ on Open Science Framework (DOI 10.17605/OSF.IO/EJKFC)](https://doi.org/10.17605/OSF.IO/EJKFC)**
+>
 > **This page is also available as the short links:**
 >
 > 🏷 **[p1m.org/ssb](https://p1m.org/ssb) or [p1m.org/systematic](https://p1m.org/systematic)**
