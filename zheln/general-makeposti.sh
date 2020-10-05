@@ -1,8 +1,8 @@
 #!/bin/bash
 v='2.3.2'
-edit=false
-date='2020-10-02' 
-count=841
+edit=true
+date='2020-10-04' 
+count=173
 vi='41'
 ip='1'
 
