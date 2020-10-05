@@ -1,6 +1,6 @@
 #!/bin/bash
 v='2.3.2'
-edit=true
+edit=false
 date='2020-10-04' 
 count=173
 vi='41'
