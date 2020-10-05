@@ -1,5 +1,7 @@
 # Global Live Search for Systematic Reviews—Zheln.com
 
+## _A Protocol for a Living Systematic Review_
+
 > [![OSF Icon](https://osf.io/favicon.ico)](https://zheln.com) **[_Zheln Systematic Review Appraisals_ on Open Science Framework (DOI 10.17605/OSF.IO/EJKFC)](https://doi.org/10.17605/OSF.IO/EJKFC)**
 >
 > **This page is also available as the short links:**
@@ -15,6 +17,15 @@
 On [July 11, 2019](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/70d3bebf1ed70845950aece09122b49f58fe2880), I inititated this study with the aim of creating an exhaustive registry of systematic reviews in orthopedics (in Russian). Due to the large volume of records to screen, it was not very successful; however, it still did continue up until [Feb 17, 2020](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/d44e7db892a23adb8ca3eeb36cbe55b8e05b7b45), when it went into a 200-day hiatus.
 
 Since [September 6, 2020](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/ff1f29c87483b355b9541859d4b4c39052046936), the study has continued as [![Woodpecker by Anton from The Noun Project](https://raw.githubusercontent.com/drzhelnov/zheln.github.io/gh-pages/favicons/favicon-16x16.png)](https://zheln.com) [Zheln.com](https://zheln.com), a crowdfunding project, and this repository has been a chosen methods repo, while the website itself is hosted in a [separate Zheln repo](https://github.com/drzhelnov/zheln.github.io).
+
+## Version History
+
+| Date | Version |
+|------|---------|
+| Oct 4, 2020 | [Last Pre-Protocol](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/5dd39f4b73eb6d2cd0fdc6b283479e37e05c40f1/README.md) |
+| Sep 7, 2019 | [Last Pre-Zheln](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/55c8ed4609f7ddce6bc18fd5df06661b984aa3fc/README.md) |
+| Jul 11, 2019 | [First Info Added](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/63238e94aa098a64c93780bd517b40c762fb19a7/README.md) |
+| Feb 12, 2019 | [Repo Initialized](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/deb625656621bfea1c3a4f0377156916cb090418/README.md) |
 
 ### What Has Changed as Zheln?
 
