@@ -742,7 +742,7 @@ _This is being written up._
     * `general-makeposti.sh`
     * `zheln_ama_specialty_tags.lst`
 
-8. Open the `general-makeposti.sh` file with any text editor. Then look at the first 10 lines and procure the following:
+8. Open the `general-makeposti.sh` file with any plain-text editor. Then look at the first 10 lines and procure the following:
 
     * `edit=true`
     * Set `date` to the date you used in the replicated search in the `yyyy-mm-dd` format
@@ -755,7 +755,7 @@ _This is being written up._
 
     `> Populate the random list first.`
 
-    Also, an LST file would appear in the newly created `rnd` directory (see the [rnd](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/a9b341280d55a6da24df037694a98f7bd6e4bc13/zheln/rnd) directory in this repository for comparison).
+    Also, a plain-text LST file would appear in the newly created `rnd` directory (see the [rnd](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/a9b341280d55a6da24df037694a98f7bd6e4bc13/zheln/rnd) directory in this repository for comparison).
 
 11. Go to the [RANDOM.ORG Random Sequence Generator (Advanced Mode)](https://www.random.org/sequences/?mode=advanced) and set the following parameters:
 
@@ -765,7 +765,7 @@ _This is being written up._
     * Choose Output Format: `As a bare-bones text document (type text/plain)`
     * Choose Randomization: `Generate your own personal randomization right now`
 
-12. Press `Get Sequence`; copy and paste the generated list into your LST file in the `rnd` dir.
+12. Press `Get Sequence`; open your LST file in the `rnd` directory with any plain-text editor and copy & paste the generated list of random numbers into it.
 13. Run `general-makeposti.sh` with bash again.
 14. If everything went fine, the script would produce the following message when finished:
 
@@ -778,7 +778,7 @@ _This is being written up._
 ### _Published Version_
 
 1. Procure editable versions of the records you want first. You can either take precompiled records from the [posts-edit](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/posts-edit) directory in this repository or [compile them yourself](#editable-version).
-2. Open the `general-makeposti.sh` file with any text editor. Then look at the first 10 lines and procure the following:
+2. Open the `general-makeposti.sh` file with any plain-text editor. Then look at the first 10 lines and procure the following:
 
     * `edit=false`
     * Set `date` to the date of your editable records in the `yyyy-mm-dd` format
@@ -791,6 +791,6 @@ _This is being written up._
 
     `> So uncivilized.`
 
-    In this case, you’d find your editable records in the `posts` directory.
+    In this case, you’d find your published records in the `posts` directory.
 
 5.  If unsuccessful, follow instructions by the script or feel free to contact me here on [GitHub](https://github.com/pussiatoday) or by [email](mailto:pavel@zheln.com).
