@@ -79,6 +79,21 @@ Each step is also marked with an appraisal status icon:
 > * Methods to specialty tag are not included in the steps as there is no specific time point when tagging should be complete: It starts when the record review starts and it ends when the record review ends.
 > * However, these methods are important and are, thus, summarized in this document.
 
+### Staged Record Appraisal
+
+* Zheln appraisals are conducted in _**stages**_, i.e. a record doesn’t get appraised in full from the start. This is because the number of records to appraise is overwhelming, so these are management procedures in place.
+* At first, all records undergo _**[Stage 1: Primary Appraisal](#stage-1-primary-appraisal).**_
+* There they are triaged into one of three categories:
+    
+    1. Excluded from the Zheln process
+    2. Ineligible for full appraisal unless crowdfunded
+    3. Selected for full appraisal regardless of crowdfunding
+
+    Finally, those not excluded are assigned their first specialty tags and their short record titles.
+
+* Afterwards, all records (except for those excluded from the Zheln process) get fully specialty-tagged throughout _**[Stage 2: Specialty Tagging Sessions](#specialty-tagging).**_
+* At the same time, the records selected for full appraisal (either primarily or when crowdfunded) complete their Steps 3 thru 10 at _**Stage 3: Full Appraisal.**_
+
 ### PubMed Search
 
 (aka **Step 1**)
@@ -90,7 +105,15 @@ Each step is also marked with an appraisal status icon:
 * The _Zheln Edition_ exists in two versions: [Live](#live-version) & [Replicated](#replicated-version). The former is a regular search query that would produce all records available by the time of search, whereas the latter produces a consistent, replicable set of records for a certain date.
 * See a detailed account of the development of the _Zheln Edition_ and its testing reports in the [commit history of the repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
 * While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
-* On [Zheln](https://zheln.com), records that are at the Step 1 of the appraisal process are automatically (since the [version 2.2.1](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/af6d75fa635c2d62169e9ec36505b9657a127ed9#diff-d556e85617be04293b0ad953ad7028b3) of the record-maker script) assigned the `awaiting appraisal` status tag. Also, the [corresponding footer](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/footer-1-true.txt) is attached.
+* On [Zheln](https://zheln.com), records that are at the Step 1 of the appraisal process are automatically (since the [version 2.2.1](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/af6d75fa635c2d62169e9ec36505b9657a127ed9#diff-d556e85617be04293b0ad953ad7028b3) of the record-maker script) assigned the `awaiting appraisal` status tag. Also, the [corresponding footer](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/footer-1-true.txt) is attached and the records are sorted [at random](https://www.random.org/sequences/?mode=advanced) within their date.
+
+### Stage 1: Primary Appraisal
+
+> To conduct an appraisal, compiled editable versions of the records will be required. You can either take precompiled records from the [posts-edit](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/posts-edit) directory in this repository or [compile them yourself](#editable-version). When you are ready, here is the pathway of primary appraisal.
+
+1. 
+
+There they are triaged into one of three categories: (1) excluded from the Zheln process; (2) ineligible for full appraisal unless crowdfunded; (3) selected for full appraisal regardless of crowdfunding. Finally, those not excluded are assigned their first specialty tags and their short record titles.
 
 ### Record Screening
 
@@ -679,3 +702,95 @@ _This is being written up._
     )
 )
 ```
+
+## Appendix: How to Compile Zheln Records?
+
+### General Notes
+
+* Below you will find guidance on how to compile both _editable_ and _published_ versions of Zheln records for any given date.
+* You will need [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) to run the record-maker script aka _[General Makeposti](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/a9b341280d55a6da24df037694a98f7bd6e4bc13/zheln/general-makeposti.sh)_. Set up bash on your platform before you get down to compilation.
+* I wrote this guidance for [General Makeposti 2.3.2](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/a9b341280d55a6da24df037694a98f7bd6e4bc13/zheln/general-makeposti.sh) on Oct 7, 2020. It may not work with other versions of the script or if other important changes happen after that date.
+
+### _Editable Version_
+
+1. Go to [PubMed](https://pubmed.gov); copy, paste, and run the [replicated version](#replicated-version) of the Zheln search query.
+2. Press `Display options` and ensure the following values are set:
+    
+    * Format `Summary`
+    * Sort by `Most recent` (decreasing order)
+
+3. Press `Save` and set the following values:
+    
+    * Selection: `All results`
+    * Format: `Summary (text)`
+
+4. Press `Create file`.
+5. Wait until the file is generated and downloaded. Afterwards, a `summary-systematic-set.txt` file will appear on your device.
+6. Create a `summary-systematic-set` directory on your device and put this file there. Then rename the file to follow the `summary-systematic-set_%Y-%m-%d_%count.txt` convention, where:
+
+    * `%Y` is the year used in the replicated search
+    * `%m` is the month used in the replicated search
+    * `%d` is the day used in the replicated search
+    * `%count` is the number of _results_ retrieved when running the replicated search
+
+    See examples of how these look like in the [summary-systematic-set](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/summary-systematic-set) directory in this repository.
+
+7. Download all accessory files needed to run the compilation from the [zheln](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln) directory in this repository:
+
+    * All `footer` files
+    * All `header` files
+    * `general-makeposti.sh`
+    * `zheln_ama_specialty_tags.lst`
+
+8. Open the `general-makeposti.sh` file with any text editor. Then look at the first 10 lines and procure the following:
+
+    * `edit=true`
+    * Set `date` to the date you used in the replicated search in the `yyyy-mm-dd` format
+    * Set `count` to the number of _results_ retrieved when running the replicated search
+    * Set `coreutils` to `false` if you are using the native GNU Bash; otherwise, set it to `true` if you are using the [CoreUtils](https://www.gnu.org/software/coreutils/) package
+    * Other variables are irrelevant to successful compilation
+
+9.  Run `general-makeposti.sh` with bash.
+10. If everything went fine, the script would produce the following message when finished:
+
+    `> Populate the random list first.`
+
+    Also, an LST file would appear in the newly created `rnd` directory (see the [rnd](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/a9b341280d55a6da24df037694a98f7bd6e4bc13/zheln/rnd) directory in this repository for comparison).
+
+11. Go to the [RANDOM.ORG Random Sequence Generator (Advanced Mode)](https://www.random.org/sequences/?mode=advanced) and set the following parameters:
+
+    * Leave `Smallest value` at `1`
+    * Set `Largest value` to the value of your `count` variable you set up earlier
+    * Leave `Format in … column(s)` at `1 `
+    * Choose Output Format: `As a bare-bones text document (type text/plain)`
+    * Choose Randomization: `Generate your own personal randomization right now`
+
+12. Press `Get Sequence`; copy and paste the generated list into your LST file in the `rnd` dir.
+13. Run `general-makeposti.sh` with bash again.
+14. If everything went fine, the script would produce the following message when finished:
+
+    `> So uncivilized.`
+
+    In this case, you’d find your editable records in the `posts-edit` directory.
+
+15. If unsuccessful, follow instructions by the script or feel free to contact me here on [GitHub](https://github.com/pussiatoday) or by [email](mailto:pavel@zheln.com).
+
+### _Published Version_
+
+1. Procure editable versions of the records you want first. You can either take precompiled records from the [posts-edit](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/posts-edit) directory in this repository or [compile them yourself](#editable-version).
+2. Open the `general-makeposti.sh` file with any text editor. Then look at the first 10 lines and procure the following:
+
+    * `edit=false`
+    * Set `date` to the date of your editable records in the `yyyy-mm-dd` format
+    * Set `count` to the number of your editable records (should equal the number of records retrieved by the replicated search on the date of your editable records)
+    * Set `coreutils` to `false` if you are using the native GNU Bash; otherwise, set it to `true` if you are using the [CoreUtils](https://www.gnu.org/software/coreutils/) package
+    * Other variables are irrelevant to successful compilation
+
+3. Run `general-makeposti.sh` in bash.
+4.  If everything went fine, the script would produce the following message when finished:
+
+    `> So uncivilized.`
+
+    In this case, you’d find your editable records in the `posts` directory.
+
+5.  If unsuccessful, follow instructions by the script or feel free to contact me here on [GitHub](https://github.com/pussiatoday) or by [email](mailto:pavel@zheln.com).
