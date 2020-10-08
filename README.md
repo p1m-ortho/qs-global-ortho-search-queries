@@ -111,9 +111,16 @@ Each step is also marked with an appraisal status icon:
 
 > To conduct an appraisal, compiled editable versions of the records will be required. You can either take precompiled records from the [posts-edit](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/posts-edit) directory in this repository or [compile them yourself](#editable-version). When you are ready, here is the pathway of primary appraisal.
 
-1. 
-
-There they are triaged into one of three categories: (1) excluded from the Zheln process; (2) ineligible for full appraisal unless crowdfunded; (3) selected for full appraisal regardless of crowdfunding. Finally, those not excluded are assigned their first specialty tags and their short record titles.
+1. Open an MD file from the `posts-edit` directory with any plain-text editor that supports [GitHub-Flavored Markdown](https://github.github.com/gfm/) preview, like either [Visual Studio Code](https://code.visualstudio.com) + [Markdown Preview Enhanced Extension](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) or [Epsilon Notes](https://play.google.com/store/apps/details?id=com.ekartoyev.enotes).
+2. Look at the citation title and check it against [Zheln eligibility criteria](#record-screening). If it matches, check the `2. ✅ Meets Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Title` checkbox.
+3. Else click the PMID link to open the PubMed record page and inspect the abstract. If it matches, check the `2. ✅ Meets Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Abstract` tick; else check `2. ❌ Does Not Meet Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Neither Title nor Abstract`.
+4. If the abstract is needed to assess eligibility but is unavailable, do not go for locating the full text but assess based on the title alone instead.
+5. After you’ve assessed eligibility, go for specialty-tagging unless you’d found the record to be ineligible. In the latter case, close the record, as its primary appraisal is finished.
+6. To specialty-tag, tick one major specialty tag in the specialty-tag list that best suits the record. Think about the specialty in which the specialists would likely find this record the most useful for their practice. Use the record abstract on PubMed to underpin this decision. Also, if unsure about the scope of a specialty, please research it until comfortable.
+7. If it is hard enough to choose one among several major specialties, do not push yourself and tick all the specialty tags that apply.
+8. Next, make a decision as to whether this record warrants a full appraisal regardless of crowdfunding. As a rule, it does when the topic covered is likely to have a universal or very large practice impact with regard either to both global health care workers and the public or to the minorities.
+9. If you have selected the record for full appraisal, go to the very bottom of the record to find more checkboxes. At least tick one that applies from the [Step 3](#collection-of-reports) checkbox group. Else if you haven’t selected the record for immediate full appraisal and believe it’s narrow enough, so it’s perfectly fine for it to await crowdfunding, just proceed further.
+10. Finally, devise a short title for this record that is no more than 35 characters and no more than five words in length. Have your title accurately represent the record abstract on PubMed and use [Chicago capitalization](https://titlecaseconverter.com) for this title. When ready, replace the `Record Awaiting Appraisal` string with your short title. The primary appraisal is now complete.
 
 ### Record Screening
 
