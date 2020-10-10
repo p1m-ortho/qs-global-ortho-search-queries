@@ -1,1 +1,6 @@
 .DS_Store
+*.nb.html
+*.doc*
+*.xls*
+*.ppt*
+*.pdf
