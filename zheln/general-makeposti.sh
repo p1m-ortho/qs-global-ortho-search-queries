@@ -1,12 +1,12 @@
 #!/bin/bash
-v='2.3.2'
-edit=false
-date='2020-10-04' 
-count=173
-vi='41'
+v='2.3.3'
+edit=true
+date='2020-10-08' 
+count=620
+vi='42'
 ip='1'
 
-coreutils=true
+coreutils=false
 rm_record_set=true
 
 summary_set='summary-systematic-set'
@@ -170,7 +170,7 @@ if [ "$edit" = 'true' ]; then
   else
     echo '> Random list in place.'
     echo '> Check the random list…'
-    rnd_s="$(< $rnd_f)"
+    rnd_s=$(perl -p00e 's/\r//g' "$rnd_f")
     if [ "$rnd_s" = '' ]; then
       echo '> Empty random list.'
       echo "$terminate"
