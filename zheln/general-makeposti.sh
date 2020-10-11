@@ -1,6 +1,6 @@
 #!/bin/bash
-v='2.3.3'
-edit=true
+v='2.4.0'
+edit=false
 date='2020-10-08' 
 count=620
 vi='42'
@@ -15,6 +15,7 @@ record_set='record-set.txt'
 rnd='rnd'
 posts='posts'
 posts_edit='posts-edit'
+posts_tag='posts-edit-tag'
 tmp='tmp'
 specialty_tags='zheln_ama_specialty_tags.lst'
 references=''
@@ -95,6 +96,7 @@ like='👍'
 digits='^[0-9]+$'
 proceed='> Proceed to execution…'
 terminate='> Terminate.'
+built="<!-- Built with General Makeposti v$v -->"
 
 echo "> Hello there.
 General Makeposti!
@@ -128,6 +130,7 @@ else
 fi
 posts="$posts/$record_year/$record_month/$record_day"
 posts_edit="$posts_edit/$record_year/$record_month/$record_day"
+posts_tag="$posts_tag/$record_year/$record_month/$record_day"
 tmp="$tmp/$record_year/$record_month/$record_day"
 rnd_d="$rnd/$record_year/$record_month"
 rnd_f="$rnd_d/${rnd}_${date}_$count.lst"
@@ -152,6 +155,7 @@ if
 [ -d "tmp" ] ||
 [ -f "$record_set" ] ||
 [ -d "$posts" ] ||
+([ "$edit" = 'false' ] && [ -d "$posts_tag" ]) ||
 ([ "$edit" = 'true' ] && [ -d "$posts_edit" ]); then
   echo '> Leftovers present. Check with them first.'
   exit 1
@@ -225,8 +229,12 @@ if [ "$edit" = 'true' ]; then
 fi
 
 mkdir -p "$posts"
-if [ "$edit" = 'true' ]; then cd "$tmp"
-else cd "$posts_edit"; fi
+if [ "$edit" = 'true' ]; then
+  cd "$tmp"
+else
+  mkdir -p "$posts_tag"
+  cd "$posts_edit"
+fi
 for file in *; do
   step=(
     "$step1"
@@ -245,6 +253,7 @@ for file in *; do
     post="../../../../$posts/${file:5}"
     echo "$yaml" > "$post"
     post_edit="../../../../$posts_edit/$file"
+    post_tag="../../../../$posts_tag/$file"
     level5127=$(perl -n0777e 'print "$1" if /<!-- Enter Level 5127 -->([\s\S]+)<!-- Exit Level 5127 -->/' "$post_edit")
     if [ ! "$level5127" = '' ]
     then echo "$level5127" >> "$post"
@@ -276,6 +285,11 @@ for file in *; do
     else if [ "$last_step_b" = 'false' ]; then
       echo " - ${status_false[$i]}" >> "$post"; fi
     fi;
+    if ([ "$last_step_b" = 'false' ] && [ $i = 2 ]); then
+      :
+    else
+      cp "$post_edit" "$post_tag"
+    fi
     echo "$yaml" >> "$post"
     echo '' >> "$post"
     perl -ne 'print "$&\n" if /<small id="citation">[\s\S]+?<\/small>/' "$post_edit" >> "$post"
@@ -290,7 +304,7 @@ for file in *; do
     references=$(perl -n0777e 'print "$1" if /<!-- References -->([\s\S]+)<!-- EOF -->/' "$post_edit")
     level1313=$(perl -n0777e 'print "$1" if /<!-- Enter Level 1313 -->([\s\S]+)<!-- Exit Level 1313 -->/' "$post_edit")
   else
-    echo "<!-- Built with General Makeposti v$v -->" > "$post"
+    echo "$built" > "$post"
     cat "../../../../$header" >> "$post"
     echo '' >> "$post"
     cat "$file" >> "$post"
