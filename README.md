@@ -93,6 +93,7 @@ Each step is also marked with an appraisal status icon:
 
 * Afterwards, all records (except for those excluded from the Zheln process) get fully specialty-tagged throughout _**[Stage 2: Specialty Tagging Sessions](#specialty-tagging).**_
 * At the same time, the records selected for full appraisal (either primarily or when crowdfunded) complete their Steps 3 thru 10 at _**Stage 3: Full Appraisal.**_
+* **Since Oct 16, as an experiment, a two-staged process has been undergoing tests with Primary Appraisal and Full Specialty Tagging conducted jointly. The idea behind this is to simplify the process structure.**
 
 ### PubMed Search
 
