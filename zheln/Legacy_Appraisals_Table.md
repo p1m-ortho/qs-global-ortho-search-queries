@@ -26,7 +26,7 @@
 | Sep 24, 2020 | – | – |
 | Sep 25, 2020 | – | – |
 | Sep 26, 2020 | 0% (0 of 447) | – |
-| Sep 27, 2020 | 100% (67 of 67) | https://zheln.com/record/2020/09/27/6/<br>https://zheln.com/record/2020/09/27/7/<br>https://zheln.com/record/2020/09/27/10/<br>https://zheln.com/record/2020/09/27/21/<br>https://zheln.com/record/2020/09/27/36/<br>https://zheln.com/record/2020/09/27/37/<br>https://zheln.com/record/2020/09/27/45/<br>https://zheln.com/record/2020/09/27/46/<br>https://zheln.com/record/2020/09/27/47/ |
+| Sep 27, 2020 | 100% (67 of 67) | https://zheln.com/record/2020/09/27/6/<br>https://zheln.com/record/2020/09/27/7/<br>https://zheln.com/record/2020/09/27/10/<br>https://zheln.com/record/2020/09/27/19/<br>https://zheln.com/record/2020/09/27/21/<br>https://zheln.com/record/2020/09/27/36/<br>https://zheln.com/record/2020/09/27/37/<br>https://zheln.com/record/2020/09/27/45/<br>https://zheln.com/record/2020/09/27/46/<br>https://zheln.com/record/2020/09/27/47/ |
 | Sep 28, 2020 | 0% (0 of 0) | – |
 | Sep 29, 2020 | 6% (9 of 144) | – |
 | Sep 30, 2020 | – | – |
