@@ -1,4 +1,5 @@
 #!/bin/bash
+v='1.0.0'
 coreutils=false
 files='zheln_ama_specialty_page_filenames.lst'
 html='unspecified.html'
@@ -8,7 +9,8 @@ titles='zheln_ama_specialty_titles.lst'
 unspecified_tag='unspecified'
 unspecified_code='US'
 unspecified_title='Unspecified'
-echo "> ’kay, want coreutils?
+echo "> I am Make Page v$v.
+> ’kay, want coreutils?
 $coreutils
 > Page filenames list: $files.
 > Template HTML: $html.
