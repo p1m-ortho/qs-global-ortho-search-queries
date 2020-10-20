@@ -1,9 +1,9 @@
 #!/bin/bash
 v='2.3.3'
-edit=false
-date='2020-09-02' 
-count=409
-vi='36–38'
+edit=true
+date='2020-10-19' 
+count=290
+vi='43'
 ip='1'
 
 coreutils=true
