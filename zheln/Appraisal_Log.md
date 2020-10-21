@@ -1,51 +1,51 @@
-| First 45 Days | Primary Appraisal | Full Appraisal |
-|---------------|:-----------------:|:--------------:|
-| Sep 1, 2020 | – | – |
-| Sep 2, 2020 | 1% (6 of 409) | https://zheln.com/record/2020/09/02/1/ |
-| Sep 3, 2020 | 0% (0 of 360) | – |
-| Sep 4, 2020 | 0% (0 of 498) | – |
-| Sep 5, 2020 | 0% (0 of 396) | – |
-| Sep 6, 2020 | 0% (0 of 195) | – |
-| Sep 7, 2020 | 0% (0 of 280) | – |
-| Sep 8, 2020 | 0% (0 of 616) | – |
-| Sep 9, 2020 | 0% (0 of 784) | – |
-| Sep 10, 2020 | 0% (0 of 730) | – |
-| Sep 11, 2020 | 0% (0 of 549) | – |
-| Sep 12, 2020 | 0% (0 of 644) | – |
-| Sep 13, 2020 | 0% (0 of 148) | – |
-| Sep 14, 2020 | – | – |
-| Sep 15, 2020 | – | – |
-| Sep 16, 2020 | – | – |
-| Sep 17, 2020 | – | – |
-| Sep 18, 2020 | – | – |
-| Sep 19, 2020 | – | – |
-| Sep 20, 2020 | – | – |
-| Sep 21, 2020 | – | – |
-| Sep 22, 2020 | – | – |
-| Sep 23, 2020 | – | – |
-| Sep 24, 2020 | – | – |
-| Sep 25, 2020 | – | – |
-| Sep 26, 2020 | 0% (0 of 447) | – |
-| Sep 27, 2020 | 100% (67 of 67) | https://zheln.com/record/2020/09/27/6/<br>https://zheln.com/record/2020/09/27/7/<br>https://zheln.com/record/2020/09/27/10/<br>https://zheln.com/record/2020/09/27/19/<br>https://zheln.com/record/2020/09/27/21/<br>https://zheln.com/record/2020/09/27/36/<br>https://zheln.com/record/2020/09/27/37/<br>https://zheln.com/record/2020/09/27/45/<br>https://zheln.com/record/2020/09/27/46/<br>https://zheln.com/record/2020/09/27/47/ |
-| Sep 28, 2020 | 0% (0 of 463) | – |
-| Sep 29, 2020 | 6% (9 of 144) | – |
-| Sep 30, 2020 | – | – |
-| Oct 1, 2020 | – | – |
-| Oct 2, 2020 | 1% (14 of 841) | https://zheln.com/record/2020/10/02/345/ |
-| Oct 3, 2020 | – | – |
-| Oct 4, 2020 | 4% (7 of 173) | – |
-| Oct 5, 2020 | – | – |
-| Oct 6, 2020 | – | – |
-| Oct 7, 2020 | – | – |
-| Oct 8, 2020 | 0% (0 of 620) | – |
-| Oct 9, 2020 | 2% (10 of 478) | https://zheln.com/record/2020/10/09/15/<br>https://zheln.com/record/2020/10/09/17/<br>https://zheln.com/record/2020/10/09/302/ |
-| Oct 10, 2020 | 0% (0 of 223) | – |
-| Oct 11, 2020 | – | – |
-| Oct 12, 2020 | – | – |
-| Oct 13, 2020 | – | – |
-| Oct 14, 2020 | 10% (16 of 157) | https://zheln.com/record/2020/10/14/28/<br>https://zheln.com/record/2020/10/14/87/<br>https://zheln.com/record/2020/10/14/116/ |
-| Oct 15, 2020 | 0% (0 of 452) | – |
-| Oct 16, 2020 | 0% (0 of 479) | – |
-| Oct 17, 2020 | 0% (0 of 363) | – |
-| Oct 18, 2020 | 0% (0 of 185) | – |
-| Oct 19, 2020 | 10% (29 of 290) | https://zheln.com/record/2020/10/19/44/<br>https://zheln.com/record/2020/10/19/210/<br>https://zheln.com/record/2020/10/19/267/ |
+| Date | Total | Primary Appraisal | % of Total | Full Appraisal<br><s>Crowdfunded Crossed Out</s> | Number Needed to Appraise |
+|------|:-----:|:-----------------:|:----------:|:--------------:|:------------:|
+| Sep 1, 2020 | – | – | – | – | – |
+| Sep 2, 2020 | 409 | 6 | 1.4 | https://zheln.com/record/2020/09/02/1/ | 6 |
+| Sep 3, 2020 | 360 | 0 | 0.0 | – | – |
+| Sep 4, 2020 | 498 | 0 | 0.0 | – | – |
+| Sep 5, 2020 | 396 | 0 | 0.0 | – | – |
+| Sep 6, 2020 | 195 | 0 | 0.0 | – | – |
+| Sep 7, 2020 | 280 | 0 | 0.0 | – | – |
+| Sep 8, 2020 | 616 | 0 | 0.0 | – | – |
+| Sep 9, 2020 | 784 | 0 | 0.0 | – | – |
+| Sep 10, 2020 | 730 | 0 | 0.0 | – | – |
+| Sep 11, 2020 | 549 | 0 | 0.0 | – | – |
+| Sep 12, 2020 | 644 | 0 | 0.0 | – | – |
+| Sep 13, 2020 | 148 | 0 | 0.0 | – | – |
+| Sep 14, 2020 | – | – | – | – | – |
+| Sep 15, 2020 | – | – | – | – | – |
+| Sep 16, 2020 | – | – | – | – | – |
+| Sep 17, 2020 | – | – | – | – | – |
+| Sep 18, 2020 | – | – | – | – | – |
+| Sep 19, 2020 | – | – | – | – | – |
+| Sep 20, 2020 | – | – | – | – | – |
+| Sep 21, 2020 | – | – | – | – | – |
+| Sep 22, 2020 | – | – | – | – | – |
+| Sep 23, 2020 | – | – | – | – | – |
+| Sep 24, 2020 | – | – | – | – | – |
+| Sep 25, 2020 | – | – | – | – | – |
+| Sep 26, 2020 | 447 | 0 | 0.0 | – | – |
+| Sep 27, 2020 | 67 | 67 | 100.0 | https://zheln.com/record/2020/09/27/6/<br>https://zheln.com/record/2020/09/27/7/<br>https://zheln.com/record/2020/09/27/10/<br><s>https://zheln.com/record/2020/09/27/19/</s><br>https://zheln.com/record/2020/09/27/21/<br>https://zheln.com/record/2020/09/27/36/<br>https://zheln.com/record/2020/09/27/37/<br>https://zheln.com/record/2020/09/27/45/<br>https://zheln.com/record/2020/09/27/46/<br>https://zheln.com/record/2020/09/27/47/ | 7 |
+| Sep 28, 2020 | 463 | 0 | 0.0 | – | – |
+| Sep 29, 2020 | 144 | 9 | 6.2 | – | 10+ |
+| Sep 30, 2020 | – | – | – | – | – |
+| Oct 1, 2020 | – | – | – | – | – |
+| Oct 2, 2020 | 841 | 14 | 1.6 | https://zheln.com/record/2020/10/02/345/ | 14 |
+| Oct 3, 2020 | – | – | – | – | – |
+| Oct 4, 2020 | 173 | 7 | 4.0 | – | 8+ |
+| Oct 5, 2020 | – | – | – | – | – |
+| Oct 6, 2020 | – | – | – | – | – |
+| Oct 7, 2020 | – | – | – | – | – |
+| Oct 8, 2020 | 620 | 0 | 0.0 | – | – |
+| Oct 9, 2020 | 478 | 10 | 2.0 | https://zheln.com/record/2020/10/09/15/<br>https://zheln.com/record/2020/10/09/17/<br>https://zheln.com/record/2020/10/09/302/ | 3 |
+| Oct 10, 2020 | 223 | 0 | 0.0 | – | – |
+| Oct 11, 2020 | – | – | – | – | – |
+| Oct 12, 2020 | – | – | – | – | – |
+| Oct 13, 2020 | – | – | – | – | – |
+| Oct 14, 2020 | 157 | 16 | 10.1 | https://zheln.com/record/2020/10/14/28/<br>https://zheln.com/record/2020/10/14/87/<br>https://zheln.com/record/2020/10/14/116/ | 5 |
+| Oct 15, 2020 | 452 | 0 | 0.0 | – | – |
+| Oct 16, 2020 | 479 | 0 | 0.0 | – | – |
+| Oct 17, 2020 | 363 | 0 | 0.0 | – | – |
+| Oct 18, 2020 | 185 | 0 | 0.0 | – | – |
+| Oct 19, 2020 | 290 | 29 | 10.0 | https://zheln.com/record/2020/10/19/44/<br>https://zheln.com/record/2020/10/19/210/<br>https://zheln.com/record/2020/10/19/267/ | 9 |
