@@ -1,8 +1,8 @@
 #!/bin/bash
-v='2.3.3'
+v='2.3.4'
 edit=true
-date='2020-10-15' 
-count=452
+date='2020-10-21' 
+count=1658
 vi='43'
 ip='2'
 
@@ -207,9 +207,9 @@ if [ "$edit" = 'true' ]; then
   perl -p00e "s/(PMCID: (PMC\d+))/[\$1](https:\/\/ncbi.nlm.nih.gov\/pmc\/\$2)/g" -i "$record_set"
 
   mkdir -p "$tmp"; cd "$tmp"; if [ "$coreutils" = 'true' ]; then
-    gsplit -a 3 -l 1 -d "../../../../$record_set" "record"
+    gsplit -a 4 -l 1 -d "../../../../$record_set" "record"
   else
-    split -a 3 -l 1 -d "../../../../$record_set" "record"
+    split -a 4 -l 1 -d "../../../../$record_set" "record"
   fi
 
   if [ ! "$count" = "$(($(ls -1 | wc -l) + 0))" ]
