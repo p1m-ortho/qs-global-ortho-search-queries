@@ -45,7 +45,7 @@
 | Oct 13, 2020 | 682 | 0 | 0.0 | – | – |
 | Oct 14, 2020 | 157 | 16 | 10.1 | https://zheln.com/record/2020/10/14/28/<br>https://zheln.com/record/2020/10/14/87/<br>https://zheln.com/record/2020/10/14/116/ | 5 |
 | Oct 15, 2020 | 452 | 0 | 0.0 | – | – |
-| Oct 16, 2020 | 479 | 0 | 0.0 | – | – |
+| Oct 16, 2020 | 479 | 12 | 2.5 | https://zheln.com/record/2020/10/16/49/<br>https://zheln.com/record/2020/10/16/357/<br>https://zheln.com/record/2020/10/16/425/ | 4 |
 | Oct 17, 2020 | 363 | 0 | 0.0 | – | – |
 | Oct 18, 2020 | 185 | 0 | 0.0 | – | – |
 | Oct 19, 2020 | 290 | 29 | 10.0 | https://zheln.com/record/2020/10/19/44/<br>https://zheln.com/record/2020/10/19/210/<br>https://zheln.com/record/2020/10/19/267/ | 9 |
