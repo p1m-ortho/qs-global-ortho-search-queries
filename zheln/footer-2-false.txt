@@ -4,6 +4,6 @@
 >
 > Therefore, this record is ineligible for a Zheln appraisal.
 >
-> Please be aware this project is independent research and is supported by crowdfunding only, so kindly consider making a minimal donation as low as $1 either on [Patreon](https://patreon.com/zheln) or via [PayPal](https://paypal.me/pjelnov).
+> Please be aware this project is independent research and is supported by crowdfunding only, so kindly consider making a minimal donation as low as $1 either on [Patreon](https://patreon.com/zheln), [GitHub Sponsors](https://github.com/sponsors/drzhelnov), [Open Collective](https://opencollective.com/zheln), or via [PayPal](https://paypal.me/pjelnov).
 >
 > By all means, you are always welcome reaching out to me for whatever reason by [email](mailto:pavel@zheln.com) or on [Twitter](https://twitter.com/drzhelnov), [Facebook](https://facebook.com/drzhelnov), [Instagram](https://instagram.com/igzheln), or [Telegram](https://t.me/drzhelnov). I’m happy to get your feedback!

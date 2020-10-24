@@ -1,5 +1,5 @@
 > I have already started appraisal of this article and will likely complete it within a couple of days. Please return soon or follow the progress of this page here or on [GitHub](https://github.com/drzhelnov/zheln.github.io/commits/gh-pages/{{ page.path }}) as I do the appraisal. Also, you can look for similar systematic review appraisals using [search](/search/) or by tapping on [AMA specialty tags](/browse/) at the bottom of this page or in the side menu.
 >
-> This project is independent research and is supported by crowdfunding only, so please consider making a minimal donation as low as $1 either on [Patreon](https://patreon.com/zheln) or via [PayPal](https://paypal.me/pjelnov).
+> This project is independent research and is supported by crowdfunding only, so please consider making a minimal donation as low as $1 either on [Patreon](https://patreon.com/zheln), [GitHub Sponsors](https://github.com/sponsors/drzhelnov), [Open Collective](https://opencollective.com/zheln), or via [PayPal](https://paypal.me/pjelnov).
 >
 > By all means, you are always welcome reaching out to me for whatever reason by [email](mailto:pavel@zheln.com) or on [Twitter](https://twitter.com/drzhelnov), [Facebook](https://facebook.com/drzhelnov), [Instagram](https://instagram.com/igzheln), or [Telegram](https://t.me/drzhelnov). I’m happy to get your feedback!
