@@ -7,8 +7,8 @@ specialty_tag: unspecified
 
 <div class="container-fluid index error">
   <div class="row index all-posts">
-    <h1 class="header author-header">{{ site.title }}</h1>
-    <h2 class="header" itemprop="headline">{{ site.specialty_page_headline }}</h2>
+    <h1 class="header author-header"><a href="{{ site.url }}">{{ site.title }}</a></h1>
+    <h2 class="header" itemprop="headline"><a href="/browse/">{{ site.specialty_page_headline }}</a></h2>
     <div class="col-md-12 content-panel articles">
 
       <h2 id="{{ tag | first | slugify }}-ref">

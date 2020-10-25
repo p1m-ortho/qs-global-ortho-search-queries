@@ -1,6 +1,6 @@
 #!/bin/bash
 v='1.0.0'
-coreutils=false
+coreutils=true
 files='zheln_ama_specialty_page_filenames.lst'
 html='unspecified.html'
 tags='zheln_ama_specialty_tags.lst'
