@@ -1,14 +1,14 @@
 #!/bin/bash
-v='2.3.4'
+v='3.0.0'
 edit=true
-date='2020-10-25' 
+date='2020-10-25'
+summary_date='2020-10-28'
 count=87
-vi='44'
-ip='1'
 
 coreutils=true
 rm_record_set=true
 
+vi='0'; ip='0'
 summary_set='summary-systematic-set'
 summary_set="${summary_set}/${summary_set}_${date}_${count}.txt"
 record_set='record-set.txt'
@@ -101,9 +101,8 @@ General Makeposti!
 Ha-ha-ha-ha-ha-ha…
 You are a by-Zheln one.
 > v$v
-> Date: $date.
-> Vol. $vi.
-> Issue $ip.
+> Record date: $date.
+> Summary date: $summary_date.
 > Edit mode?
 $edit"
 if [ "$edit" = 'true' ]
@@ -114,16 +113,30 @@ $coreutils
 $rm_record_set"; fi
 
 if [ "$coreutils" = 'true' ]; then
-  dp=$(gdate -d "$date" +'%Y %b %-d')
+  dp=$(gdate -d "$summary_date" +'%Y %b %-d')
   record_year=$(gdate -d "$date" +'%Y')
   record_month=$(gdate -d "$date" +'%m')
   record_day=$(gdate -d "$date" +'%d')
+  summary_week=$(gdate -d "$summary_date" +'%-U')
+  summary_week="$(($summary_week + 1))"
+  vi="$summary_week"
+  summary_weekday=$(gdate -d "$summary_date" +'%-w')
+  summary_weekday="$(($summary_weekday + 0))"
+  if [ $summary_weekday -lt 4 ]; then ip='1'
+  else ip='2'; fi
   pg_postfix="d$(gdate -d "$date" +'%-d')"
 else
-  dp=$(date -d "$date" +'%Y %b %-d')
+  dp=$(date -d "$summary_date" +'%Y %b %-d')
   record_year=$(date -d "$date" +'%Y')
   record_month=$(date -d "$date" +'%m')
   record_day=$(date -d "$date" +'%d')
+  summary_week=$(date -d "$summary_date" +'%-U')
+  summary_week="$(($summary_week + 1))"
+  vi="$summary_week"
+  summary_weekday=$(date -d "$summary_date" +'%-w')
+  summary_weekday="$(($summary_weekday + 0))"
+  if [ $summary_weekday -lt 4 ]; then ip = '1'
+  else ip = '2'; fi
   pg_postfix="d$(date -d "$date" +'%-d')"
 fi
 posts="$posts/$record_year/$record_month/$record_day"
