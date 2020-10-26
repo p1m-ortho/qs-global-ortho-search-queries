@@ -1,10 +1,10 @@
 #!/bin/bash
 v='2.3.4'
-edit=true
-date='2020-10-24' 
-count=181
+edit=false
+date='2020-10-23' 
+count=470
 vi='44'
-ip='1'
+ip='2'
 
 coreutils=true
 rm_record_set=true
