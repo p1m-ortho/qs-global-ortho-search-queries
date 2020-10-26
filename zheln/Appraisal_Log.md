@@ -54,3 +54,4 @@
 | Oct 22, 2020 | 661 | 0 | 0.0 | – | – |
 | Oct 23, 2020 | 470 | 10 | 2.1 | https://zheln.com/record/2020/10/23/235/ | 10 |
 | Oct 24, 2020 | 181 | 19 | 10.4 | https://zheln.com/record/2020/10/24/75/<br>https://zheln.com/record/2020/10/24/88/<br>https://zheln.com/record/2020/10/24/99/<br>https://zheln.com/record/2020/10/24/177/ | 4 |
+| Oct 25, 2020 | 87 | 0 | 0.0 | – | – |
