@@ -1,11 +1,11 @@
 #!/bin/bash
-v='3.0.0'
+v='3.0.1'
 edit=true
-date='2020-10-26'
+date='2020-10-27'
 summary_date='2020-10-31'
-count=388
+count=653
 
-coreutils=true
+coreutils=false
 rm_record_set=true
 
 vi='0'; ip='0'
@@ -135,8 +135,8 @@ else
   vi="$summary_week"
   summary_weekday=$(date -d "$summary_date" +'%-w')
   summary_weekday="$(($summary_weekday + 0))"
-  if [ $summary_weekday -lt 4 ]; then ip = '1'
-  else ip = '2'; fi
+  if [ $summary_weekday -lt 4 ]; then ip='1'
+  else ip='2'; fi
   pg_postfix="d$(date -d "$date" +'%-d')"
 fi
 posts="$posts/$record_year/$record_month/$record_day"
