@@ -1,11 +1,11 @@
 #!/bin/bash
 v='3.0.1'
 edit=true
-date='2020-10-29'
-summary_date='2020-11-04'
-count=643
+date='2020-10-30'
+summary_date='2020-11-07'
+count=738
 
-coreutils=false
+coreutils=true
 rm_record_set=true
 
 vi='0'; ip='0'
