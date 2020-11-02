@@ -82,18 +82,16 @@ Each step is also marked with an appraisal status icon:
 ### Staged Record Appraisal
 
 * Zheln appraisals are conducted in _**stages**_, i.e. a record doesn’t get appraised in full from the start. This is because the number of records to appraise is overwhelming, so these are management procedures in place.
-* At first, all records undergo _**[Stage 1: Primary Appraisal](#stage-1-primary-appraisal).**_
+* At first, all records undergo _**[Primary Appraisal Stage](#primary-appraisal-stage).**_
 * There they are triaged into one of three categories:
     
     1. Excluded from the Zheln process
     2. Ineligible for full appraisal unless crowdfunded
     3. Selected for full appraisal regardless of crowdfunding
 
-    Finally, those not excluded are assigned their first specialty tags and their short record titles.
+    Finally, those not excluded are assigned their specialty tags and their short record titles.
 
-* Afterwards, all records (except for those excluded from the Zheln process) get fully specialty-tagged throughout _**[Stage 2: Specialty Tagging Sessions](#specialty-tagging).**_
-* At the same time, the records selected for full appraisal (either primarily or when crowdfunded) complete their Steps 3 thru 10 at _**Stage 3: Full Appraisal.**_
-* **Since Oct 16, as an experiment, a two-staged process has been undergoing tests with Primary Appraisal and Full Specialty Tagging conducted jointly. The idea behind this is to simplify the process structure.**
+* At the same time, the records selected for full appraisal (either primarily or when crowdfunded) complete their Steps 3 thru 10 at _**Full Appraisal Stage.**_
 
 ### PubMed Search
 
@@ -108,7 +106,7 @@ Each step is also marked with an appraisal status icon:
 * While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
 * On [Zheln](https://zheln.com), records that are at the Step 1 of the appraisal process are automatically (since the [version 2.2.1](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/af6d75fa635c2d62169e9ec36505b9657a127ed9#diff-d556e85617be04293b0ad953ad7028b3) of the record-maker script) assigned the `awaiting appraisal` status tag. Also, the [corresponding footer](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/footer-1-true.txt) is attached and the records are sorted [at random](https://www.random.org/sequences/?mode=advanced) within their date.
 
-### Stage 1: Primary Appraisal
+### Primary Appraisal Stage
 
 > To conduct an appraisal, compiled editable versions of the records will be required. You can either take precompiled records from the [posts-edit](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/posts-edit) directory in this repository or [compile them yourself](#editable-version). When you are ready, here is the pathway of primary appraisal.
 
@@ -117,10 +115,10 @@ Each step is also marked with an appraisal status icon:
 3. Else click the PMID link to open the PubMed record page and inspect the abstract. If it matches, check the `2. ✅ Meets Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Abstract` tick; else check `2. ❌ Does Not Meet Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Neither Title nor Abstract`.
 4. If the abstract is needed to assess eligibility but is unavailable, do not go for locating the full text but assess based on the title alone instead. By contrast, abstract lookup at publisher’s is sometimes warranted, usually when the article is a commentary; consider [PMID 32977958](https://pubmed.gov/32977958), to give you an idea.
 5. After you’ve assessed eligibility, go for specialty-tagging unless you’d found the record to be ineligible. In the latter case, close the record, as its primary appraisal is finished.
-6. To specialty-tag, tick one major specialty tag in the specialty-tag list that best suits the record. Think about the specialty in which the specialists would likely find this record the most useful for their practice. Use the record abstract on PubMed to underpin this decision. Also, if unsure about the scope of a specialty, please research it until comfortable.
-7. If it is hard enough to choose one among several major specialties, do not push yourself and tick all the specialty tags that apply.
+6. To specialty-tag, use [specialty tagging guidance](#specialty-tagging).
+7. In short, you tick _all_ specialty tags in the specialty-tag list that suit the record. Think about the specialties in which the specialists are likely to be interested in this record. You normally use just the record abstract on PubMed to underpin these decisions. Also, if unsure about the scope of a specialty, you research it until comfortable.
 8. Next, make a decision as to whether this record warrants a full appraisal regardless of crowdfunding. As a rule, it does when the topic covered is likely to have a universal or very large practice impact with regard either to both global health care workers and the public or to the minorities. The language of publication **must not** influence this decision.
-9. If you have selected the record for full appraisal, go to the very bottom of the record to find more checkboxes. At least tick one that applies from the [Step 3](#collection-of-reports) checkbox group. Else if you haven’t selected the record for immediate full appraisal and believe it’s narrow enough, so it’s perfectly fine for it to await crowdfunding, just proceed further.
+9.  If you have selected the record for full appraisal, go to the very bottom of the record to find more checkboxes. At least tick one that applies from the [Step 3](#collection-of-reports) checkbox group. Else if you haven’t selected the record for immediate full appraisal and believe it’s narrow enough, so it’s perfectly fine for it to await crowdfunding, just proceed further.
 10. Finally, devise a short title for this record that is no more than 35 characters and no more than five words in length. Have your title accurately represent the record abstract on PubMed and use [Chicago capitalization](https://titlecaseconverter.com) for this title. When ready, replace the `Record Awaiting Appraisal` string with your short title. The primary appraisal is now complete.
 
 ### Record Screening
@@ -160,10 +158,9 @@ Each step is also marked with an appraisal status icon:
 * I recognize this could be tricky.
 * Also, I do recognize the best approach to specialty grouping would be an evidence-based approach involving feedback from the physicians themselves.
 * However, this is unavailable at the moment, so specialty grouping will be theory-based. In the future, introducing empirical testing will be of interest.
-* For now, I set one more tagging principle to theoretically improve accuracy: Do not deny a specialty to the record if unsure, but do recognize more enthusiastic specialists could consult different specialties in addition to their ‘major.’
+* For now, I set one more tagging principle to theoretically improve accuracy: Do not deny a specialty to the record if unsure, but do recognize more enthusiastic specialists could consult different specialties in addition to their ‘major’.
 * If the tagger is uncertain either of the article subject or any specialty scope, they should consult Google or other information sources until both seem perfectly clear.
 * There is no limit to the number of specialty tags attached, but at least one tag should be chosen for each record (except those that failed and were exlcuded at Step 2).
-* **As an experiment, starting from Oct 2, 2020, I will add only one major specialty (more if hard to choose one) per record at the time of [screening](#record-screening) (Step 2). To compensate, I will conduct _Specialty Tagging Sessions_ twice a week. During each session, I will do targeted specialty tagging but with the specialties from only one of the [eight Nosology Memo v14 blocks](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/8ca4b14a8bb0a394f4ed5565945b31843439104f/zheln/footer-edit.txt) chosen randomly on [RANDOM.ORG](https://www.random.org/integers/?num=1&min=1&max=8&col=1&base=10&format=html&rnd=new). So in four weeks, I will have completed a full specialty tagging cycle. These measures aim to dramatically reduce appraisal speed (from around ten minutes now to one to two minutes then).**
 * I do not plan to add any new specialty tags. However, if I hear about any changes to the AMA Masterfile Physician Specialties list, I will consider updating the Zheln specialty lists accordingly.
 
 ### Collection of Reports
