@@ -1,3 +1,3 @@
 | Week | Total Worked Time | Target Work Time |
 |------|-------------------|------------------|
-| Wk 45, 2020 | 4h 55m | 48h |
+| Wk 45, 2020 | 5h 30m | 48h |

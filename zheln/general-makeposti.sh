@@ -1,9 +1,9 @@
 #!/bin/bash
 v='3.0.1'
 edit=true
-date='2020-10-31'
+date='2020-11-01'
 summary_date='2020-11-04'
-count=521
+count=203
 
 coreutils=true
 rm_record_set=true
