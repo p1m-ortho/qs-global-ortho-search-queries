@@ -76,7 +76,7 @@ Each step is also marked with an appraisal status icon:
 
 > ⚠️ **Important!**
 >
-> * Methods to specialty tag are not included in the steps as there is no specific time point when tagging should be complete: It starts when the record review starts and it ends when the record review ends.
+> * Methods to specialty-tag are not included in the steps as there is no specific time point when tagging should be complete: It starts when the record review starts and it ends when the record review ends.
 > * However, these methods are important and are, thus, summarized in this document.
 
 ### Staged Record Appraisal
@@ -114,7 +114,7 @@ Each step is also marked with an appraisal status icon:
 2. Look at the citation title and check it against [Zheln eligibility criteria](#record-screening). If it matches, check the `2. ✅ Meets Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Title` checkbox.
 3. Else click the PMID link to open the PubMed record page and inspect the abstract. If it matches, check the `2. ✅ Meets Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Abstract` tick; else check `2. ❌ Does Not Meet Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Neither Title nor Abstract`.
 4. If the abstract is needed to assess eligibility but is unavailable, do not go for locating the full text but assess based on the title alone instead. By contrast, abstract lookup at the publisher’s is sometimes warranted, usually when the article is a commentary; consider [PMID 32977958](https://pubmed.gov/32977958), to give you an idea.
-5. After you’ve assessed eligibility, devise a short title for this record that is no more than 35 characters and no more than five words in length. Have your title accurately represent the record abstract on PubMed and use [Chicago capitalization](https://titlecaseconverter.com) for this title. If you have to narrow down the concept, try hard to preserve the context but feel more comfortable generalizing the population; e.g. consider [PMID 33126296](https://pubmed.gov/33126296) and its [corresponding Zheln record](https://zheln.com/record/2020/10/31/122/) title. When ready, replace the `Record Awaiting Appraisal` string with your short title.
+5. After you’ve assessed eligibility, unless the record has been found ineligible, devise a short title for this record that is no more than 35 characters and no more than five words in length. Have your title accurately represent the record abstract on PubMed and use [Chicago capitalization](https://titlecaseconverter.com) for this title. If you have to narrow down the concept, try hard to preserve the context but feel more comfortable generalizing the population; e.g. consider [PMID 33126296](https://pubmed.gov/33126296) and its [corresponding Zheln record](https://zheln.com/record/2020/10/31/122/) title. When ready, replace the `Record Awaiting Appraisal` string with your short title.
 6. Next, make a decision as to whether this record warrants a full appraisal regardless of crowdfunding. As a rule, it does when the topic covered is likely to have a universal or very large practice impact with regard either to both global health care workers and the public or to the minorities. The language of publication **must not** influence this decision. [COVID-19 publications are not selected](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/b86bda0b75e1103991c3d57d22c03a9d49807905).
 7. If you have selected the record for full appraisal, go to the very bottom of the record to find more checkboxes. At least tick one that applies from the [Step 3](#collection-of-reports) checkbox group. Else, if you haven’t selected the record for immediate full appraisal and believe it’s narrow enough so that it’s perfectly fine for it to await crowdfunding, just proceed further.
 8. Finally, go for specialty-tagging unless you’d found the record to be ineligible. In the latter case, close the record, as its primary appraisal is finished.
@@ -161,7 +161,9 @@ Each step is also marked with an appraisal status icon:
 * For now, I set one more tagging principle to theoretically improve accuracy: Do not deny a specialty to the record if unsure, but do recognize more enthusiastic specialists could consult different specialties in addition to their ‘major’.
 * If the tagger is uncertain either of the article subject or any specialty scope, they should consult Google or other information sources until both seem perfectly clear.
 * There is no limit to the number of specialty tags attached, but at least one tag should be chosen for each record (except those that failed and were exlcuded at Step 2).
+* However, it became evident during appraisals that some records on PubMed cover topics rather distant from health care, e.g.  [PMID 33035990](https://pubmed.gov/33035990)—see its [Zheln counterpart](https://zheln.com/record/2020/10/09/3/). For these records, as an exception, there may be no specialty tags added when each and every specialty tag clearly does not apply.
 * I do not plan to add any new specialty tags. However, if I hear about any changes to the AMA Masterfile Physician Specialties list, I will consider updating the Zheln specialty lists accordingly.
+* Specialty tags may be assigned or removed throughout further full appraisal if this is deemed appropriate to better reflect the content of the record.
 
 ### Collection of Reports
 
