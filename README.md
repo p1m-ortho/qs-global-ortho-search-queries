@@ -81,7 +81,7 @@ Each step is also marked with an appraisal status icon:
 
 ### Staged Record Appraisal
 
-* Zheln appraisals are conducted in _**stages**_, i.e. a record doesn’t get appraised in full from the start. This is because the number of records to appraise is overwhelming, so these are management procedures in place.
+* Zheln appraisals are conducted in _**stages**_, i.e. a record doesn’t get appraised in full from the start. This is because the number of [records to appraise](#pubmed-search) is overwhelming, so these are management procedures in place.
 * At first, all records undergo _**[Primary Appraisal Stage](#primary-appraisal-stage).**_
 * There they are triaged into one of three categories:
     
@@ -91,7 +91,7 @@ Each step is also marked with an appraisal status icon:
 
     Finally, those not excluded are assigned their specialty tags and their short record titles.
 
-* At the same time, the records selected for full appraisal (either primarily or when crowdfunded) complete their Steps 3 thru 10 at _**Full Appraisal Stage.**_
+* At the same time, the records selected for full appraisal (either primarily or when crowdfunded) complete their Steps 3 thru 10 at _**[Full Appraisal Stage](#full-appraisal-stage).**_
 
 ### PubMed Search
 
@@ -106,7 +106,7 @@ Each step is also marked with an appraisal status icon:
 * While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
 * On [Zheln](https://zheln.com), records that are at the Step 1 of the appraisal process are automatically (since the [version 2.2.1](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/af6d75fa635c2d62169e9ec36505b9657a127ed9#diff-d556e85617be04293b0ad953ad7028b3) of the record-maker script) assigned the `awaiting appraisal` status tag. Also, the [corresponding footer](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/footer-1-true.txt) is attached and the records are sorted [at random](https://www.random.org/sequences/?mode=advanced) within their date.
 
-### Primary Appraisal Stage
+### _Primary Appraisal Stage_
 
 > To conduct an appraisal, compiled editable versions of the records will be required. You can either take precompiled records from the [posts-edit](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/posts-edit) directory in this repository or [compile them yourself](#editable-version). When you are ready, here is the pathway of primary appraisal.
 
@@ -164,6 +164,8 @@ Each step is also marked with an appraisal status icon:
 * However, it became evident during appraisals that some records on PubMed cover topics rather distant from health care, e.g.  [PMID 33035990](https://pubmed.gov/33035990)—see its [Zheln counterpart](https://zheln.com/record/2020/10/09/3/). For these records, as an exception, there may be no specialty tags added when each and every specialty tag clearly does not apply.
 * I do not plan to add any new specialty tags. However, if I hear about any changes to the AMA Masterfile Physician Specialties list, I will consider updating the Zheln specialty lists accordingly.
 * Specialty tags may be assigned or removed throughout further full appraisal if this is deemed appropriate to better reflect the content of the record.
+
+### _Full Appraisal Stage_
 
 ### Collection of Reports
 
