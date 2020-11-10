@@ -1,14 +1,12 @@
 #!/bin/bash
-v='3.0.1'
+v='3.1.0'
 edit=true
-date='2020-11-06'
-summary_date='2020-11-11'
-count=599
+date='2020-11-07'
+count=290
 
-coreutils=true
+coreutils=false
 rm_record_set=true
 
-vi='0'; ip='0'
 summary_set='summary-systematic-set'
 summary_set="${summary_set}/${summary_set}_${date}_${count}.txt"
 record_set='record-set.txt'
@@ -102,7 +100,6 @@ Ha-ha-ha-ha-ha-ha…
 You are a by-Zheln one.
 > v$v
 > Record date: $date.
-> Summary date: $summary_date.
 > Edit mode?
 $edit"
 if [ "$edit" = 'true' ]
@@ -112,31 +109,78 @@ $coreutils
 > Remove $record_set?
 $rm_record_set"; fi
 
+summary_date="$date"
+record_year='0'
+record_month='0'
+record_day='0'
+vi='0'; ip='0'
 if [ "$coreutils" = 'true' ]; then
-  dp=$(gdate -d "$summary_date" +'%Y %b %-d')
   record_year=$(gdate -d "$date" +'%Y')
   record_month=$(gdate -d "$date" +'%m')
   record_day=$(gdate -d "$date" +'%d')
-  summary_week=$(gdate -d "$summary_date" +'%-U')
-  summary_week="$(($summary_week + 1))"
-  vi="$summary_week"
-  summary_weekday=$(gdate -d "$summary_date" +'%-w')
-  summary_weekday="$(($summary_weekday + 0))"
+  record_weekday=$(gdate -d "$date" +'%-w')
+  case $record_weekday in
+    0)
+      summary_date=$(gdate +'%Y-%m-%d' -d "$date + 3 day")
+    ;;
+    1)
+      summary_date=$(gdate +'%Y-%m-%d' -d "$date + 2 day")
+    ;;
+    2)
+      summary_date=$(gdate +'%Y-%m-%d' -d "$date + 4 day")
+    ;;
+    3)
+      summary_date=$(gdate +'%Y-%m-%d' -d "$date + 3 day")
+    ;;
+    4)
+      summary_date=$(gdate +'%Y-%m-%d' -d "$date + 2 day")
+    ;;
+    5)
+      summary_date=$(gdate +'%Y-%m-%d' -d "$date + 5 day")
+    ;;
+    6)
+      summary_date=$(gdate +'%Y-%m-%d' -d "$date + 4 day")
+    ;;
+  esac
+  vi=$(($(gdate -d "$summary_date" +'%-U') + 1))
+  summary_weekday=$(($(gdate -d "$summary_date" +'%-w') + 0))
   if [ $summary_weekday -lt 4 ]; then ip='1'
   else ip='2'; fi
+  dp=$(gdate -d "$summary_date" +'%Y %b %-d')
   pg_postfix="d$(gdate -d "$date" +'%-d')"
 else
-  dp=$(date -d "$summary_date" +'%Y %b %-d')
   record_year=$(date -d "$date" +'%Y')
   record_month=$(date -d "$date" +'%m')
   record_day=$(date -d "$date" +'%d')
-  summary_week=$(date -d "$summary_date" +'%-U')
-  summary_week="$(($summary_week + 1))"
-  vi="$summary_week"
-  summary_weekday=$(date -d "$summary_date" +'%-w')
-  summary_weekday="$(($summary_weekday + 0))"
+  record_weekday=$(date -d "$date" +'%-w')
+  case $record_weekday in
+    0)
+      summary_date=$(date +'%Y-%m-%d' -d "$date + 3 day")
+    ;;
+    1)
+      summary_date=$(date +'%Y-%m-%d' -d "$date + 2 day")
+    ;;
+    2)
+      summary_date=$(date +'%Y-%m-%d' -d "$date + 4 day")
+    ;;
+    3)
+      summary_date=$(date +'%Y-%m-%d' -d "$date + 3 day")
+    ;;
+    4)
+      summary_date=$(date +'%Y-%m-%d' -d "$date + 2 day")
+    ;;
+    5)
+      summary_date=$(date +'%Y-%m-%d' -d "$date + 5 day")
+    ;;
+    6)
+      summary_date=$(date +'%Y-%m-%d' -d "$date + 4 day")
+    ;;
+  esac
+  vi=$(($(date -d "$summary_date" +'%-U') + 1))
+  summary_weekday=$(($(date -d "$summary_date" +'%-w') + 0))
   if [ $summary_weekday -lt 4 ]; then ip='1'
   else ip='2'; fi
+  dp=$(date -d "$summary_date" +'%Y %b %-d')
   pg_postfix="d$(date -d "$date" +'%-d')"
 fi
 posts="$posts/$record_year/$record_month/$record_day"
