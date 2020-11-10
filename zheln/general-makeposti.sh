@@ -1,8 +1,8 @@
 #!/bin/bash
-v='3.1.0'
+v='3.1.1'
 edit=true
-date='2020-11-07'
-count=290
+date='2020-11-08'
+count=180
 
 coreutils=false
 rm_record_set=true
@@ -99,7 +99,7 @@ General Makeposti!
 Ha-ha-ha-ha-ha-ha…
 You are a by-Zheln one.
 > v$v
-> Record date: $date.
+> Date: $date.
 > Edit mode?
 $edit"
 if [ "$edit" = 'true' ]
