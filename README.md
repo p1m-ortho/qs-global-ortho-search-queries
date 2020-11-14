@@ -140,7 +140,7 @@ Each step is also marked with an appraisal status icon:
 * There are other special cases to be discussed.
 
     * Commentaries, reprints, and such related to an original systematic review are included as they reference a systematic review.
-    * Meta-analyses outside the context of a systematic review (variants on _data pooling_) are included if they are explicitly termed meta-analyses as this is how the Shojania & Bero criteria are worded.
+    * Meta-analyses outside the context of a systematic review (variants on _data pooling_) are included if they are explicitly termed meta-analyses as this is how the Shojania & Bero criteria are worded. So these are few false positives. See [PMID 33180528](https://pubmed.gov/33180528) for instance.
     * Protocols for systematic reviews are included as they reference a systematic review.
     * Studies nesting a systematic review are naturally included.
 
