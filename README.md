@@ -121,6 +121,8 @@ Each step is also marked with an appraisal status icon:
 9. To specialty-tag, use [specialty tagging guidance](#specialty-tagging). In short, you tick _all_ specialty tags in the specialty-tag list that suit the record. Think about the specialties in which the specialists are likely to be interested in this record. You normally use just the record abstract on PubMed to underpin these decisions. Also, if unsure about the scope of a specialty, you research it until comfortable. To reiterate, please use the [full guidance](#specialty-tagging) to really specialty-tag.
 10. The primary appraisal is now complete.
 
+> Starting with [Nov 10 records](https://github.com/drzhelnov/zheln.github.io/issues/100), as an experiment, I’m doing primary appraisal in layers. That is, I’m applying one action to all records within a given date at a time, e.g. screen all, then devise short titles for all, then select for full appraisal among all, then specialty-tag. The idea came to me because of the [need to improve appraisal performance](https://zheln.com/summary/2020/11/11/1/). It is worth noting that, after the records have been screened and undergone selection for full appraisal and their short titles have been devised, a daily-summary video can be produced and released immediately even before any specialty-tagging has been conducted.
+
 ### Record Screening
 
 (aka **Step 2**)
@@ -175,6 +177,17 @@ Each step is also marked with an appraisal status icon:
 * However, it became evident during appraisals that some records on PubMed cover topics rather distant from health care, e.g.  [PMID 33035990](https://pubmed.gov/33035990)—see its [Zheln counterpart](https://zheln.com/record/2020/10/09/3/). For these records, as an exception, there may be no specialty tags added when each and every specialty tag clearly does not apply.
 * I do not plan to add any new specialty tags. However, if I hear about any changes to the AMA Masterfile Physician Specialties list, I will consider updating the Zheln specialty lists accordingly.
 * Specialty tags may be assigned or removed throughout further full appraisal if this is deemed appropriate to better reflect the content of the record.
+
+> Starting with [Nov 10 records](https://github.com/drzhelnov/zheln.github.io/issues/100), as an experiment, I’m doing specialty-tagging in layers. Here are the layers (each applies to all records to be appraised):
+>
+> 1. Tag with _illegal_ category specialties
+> 2. Tag with _special_ category specialties
+> 3. Tag with _tumor_ category specialties
+> 4. Tag with _infection_ category specialties
+> 5. Tag with _injury_ category specialties
+> 6. Tag with _surgery_ category specialties
+> 7. Tag with _psychiatry_ category specialties
+> 8. Tag with _medicine_ category specialties
 
 ### _Full Appraisal Stage_
 
