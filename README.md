@@ -137,6 +137,11 @@ Each step is also marked with an appraisal status icon:
 * I could have modified Shojania & Bero criteria to include these; however, that would require editing and likely retesting the search query to account for the changes, reappraising all records already appraised, and many other modifications. As I am not currently ready to engage into that, I will not modify the original criteria.
 * Therefore, it is worth noting the Zheln’s screening strategy is inadequate to identify practice guidelines and the coupled systematic reviews whatsoever, so Zheln goes well for standalone-published systematic reviews only. Also, some reviews that follow other evidence-based methodologies, such as scoping or integrative reviews, are missed.
 * That said, the rate Zheln misses such records at is currently unclear and requires pragmatic estimation. It would best be done along with estimating the fraction of published systematic reviews that PubMed missed.
+* There are other special cases to be discussed.
+
+    * Commentaries, reprints, and such related to an original systematic review are included as they reference a systematic review.
+    * Meta-analyses outside the context of a systematic review (variants on _data pooling_) are included if they are explicitly termed meta-analyses as this is how the Shojania & Bero criteria are worded.
+
 * Anyway, those records that do not meet these criteria are marked as **Failed Step 2** (see [this supplementary file](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/footer-edit.txt) for the current exact wording) and are not appraised further.
 * Technically, screening entails _conversion_ of the citation list downloaded from PubMed in the `Summary (text)` format (see the [list of all original PubMed exports](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/summary-systematic-set) made by Zheln) into individual editable records with further _compilation_ of the edited records into their published versions that are available from [Zheln](https://zheln.com).
 * To do both, I wrote from scratch a special [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) script that I named [_General Makeposti_](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/general-makeposti.sh).
