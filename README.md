@@ -142,6 +142,7 @@ Each step is also marked with an appraisal status icon:
     * Commentaries, reprints, and such related to an original systematic review are included as they reference a systematic review.
     * Meta-analyses outside the context of a systematic review (variants on _data pooling_) are included if they are explicitly termed meta-analyses as this is how the Shojania & Bero criteria are worded.
     * Protocols for systematic reviews are included as they reference a systematic review.
+    * Studies nesting a systematic review are naturally included.
 
 * Anyway, those records that do not meet these criteria are marked as **Failed Step 2** (see [this supplementary file](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/footer-edit.txt) for the current exact wording) and are not appraised further.
 * Technically, screening entails _conversion_ of the citation list downloaded from PubMed in the `Summary (text)` format (see the [list of all original PubMed exports](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/summary-systematic-set) made by Zheln) into individual editable records with further _compilation_ of the edited records into their published versions that are available from [Zheln](https://zheln.com).
