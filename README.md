@@ -139,6 +139,8 @@ Each step is also marked with an appraisal status icon:
 > Layer 2 is compound because, effectively, titling and selecting are done almost simultaneously.
 > 
 > The idea of layered appraisal came to me because of the [need to improve appraisal performance](https://zheln.com/summary/2020/11/11/1/). It is worth noting that, after the records have been screened and undergone selection for full appraisal and their short titles have been devised (after Layer 2), a daily-summary video can be produced and released immediately even before any specialty-tagging has been conducted. Also, layered appraisal will probably bring some appraisal-speed benefits.
+>
+> Layered specialty-tagging will be done in sessions. See [Zheln work schedule](zheln/Work_Schedule.md) for detail.
 
 ### Record Screening
 
