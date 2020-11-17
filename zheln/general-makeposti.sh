@@ -1,8 +1,8 @@
 #!/bin/bash
 v='3.1.1'
 edit=true
-date='2020-11-14'
-count=283
+date='2020-11-15'
+count=141
 
 coreutils=false
 rm_record_set=true
