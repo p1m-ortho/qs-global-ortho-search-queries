@@ -1,10 +1,10 @@
 #!/bin/bash
 v='3.1.1'
 edit=false
-date='2020-11-20'
-count=655
+date='2020-11-21'
+count=344
 
-coreutils=false
+coreutils=true
 rm_record_set=true
 
 summary_set='summary-systematic-set'
