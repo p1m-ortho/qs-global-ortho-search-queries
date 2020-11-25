@@ -81,6 +81,6 @@
 | Nov 18, 2020 | 932 | – | – | – | – | – | – | – |
 | Nov 19, 2020 | 490 | – | – | – | – | – | – | – |
 | Nov 20, 2020 | 655 | 66 | 10.0 | 9 | 57 | 86.3 | https://zheln.com/record/2020/11/20/72/<br>https://zheln.com/record/2020/11/20/202/<br>https://zheln.com/record/2020/11/20/207/<br>https://zheln.com/record/2020/11/20/213/<br>https://zheln.com/record/2020/11/20/349/<br>https://zheln.com/record/2020/11/20/351/<br>https://zheln.com/record/2020/11/20/429/<br>https://zheln.com/record/2020/11/20/514/<br>https://zheln.com/record/2020/11/20/604/<br>https://zheln.com/record/2020/11/20/624/<br>https://zheln.com/record/2020/11/20/632/<br>https://zheln.com/record/2020/11/20/650/ | 5 |
-| Nov 21, 2020 | 344 | – | – | – | – | – | – | – |
+| Nov 21, 2020 | 344 | 35 | 10.1 | 3 | 32 | 91.4 | – | – |
 | Nov 22, 2020 | 232 | – | – | – | – | – | – | – |
 | Nov 23, 2020 | 541 | – | – | – | – | – | – | – |
