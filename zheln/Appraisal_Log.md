@@ -84,3 +84,5 @@
 | Nov 21, 2020 | 344 | 35 | 10.1 | 3 | 32 | 91.4 | https://zheln.com/record/2020/11/21/100/<br>https://zheln.com/record/2020/11/21/204/<br>https://zheln.com/record/2020/11/21/304/<br>https://zheln.com/record/2020/11/21/307/<br>https://zheln.com/record/2020/11/21/341/ | 7 |
 | Nov 22, 2020 | 232 | 24 | 10.3 | 3 | 21 | 87.5 | https://zheln.com/record/2020/11/22/148/<br>https://zheln.com/record/2020/11/22/127/ | 12 |
 | Nov 23, 2020 | 541 | – | – | – | – | – | – | – |
+| Nov 24, 2020 | 785 | – | – | – | – | – | – | – |
+
