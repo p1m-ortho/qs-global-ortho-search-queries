@@ -1,6 +1,6 @@
 #!/bin/bash
 v='3.1.1'
-edit=true
+edit=false
 date='2020-11-25'
 count=648
 
