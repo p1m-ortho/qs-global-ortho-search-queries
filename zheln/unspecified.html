@@ -25,6 +25,7 @@ permalink: /unspecified/
         {% assign i = 0 %}
         {% for posts in tag %}
         {% for post in posts %}
+        {% if post.categories contains "record" %}
         {% unless post.date == post_date %}
         {% unless post_date == '' %}</ul>{% endunless %}
         <h2><small><a href="{{ post.date | date: '/%Y/%m/%d/' }}">{% assign week_prepend = post.date | date: "%a, %b %-d (Wk " %}{% assign week_append = post.date | date: ", %Y)" %}{% assign week = post.date | date: "%-U" | plus: 1 %}{{ week | prepend: week_prepend | append: week_append }}</a></small></h2>
@@ -66,6 +67,7 @@ permalink: /unspecified/
               {% endif %}
             {% endfor %}
           </li>
+        {% endif %}
         {% endfor %}
         {% endfor %}
         </ul>
