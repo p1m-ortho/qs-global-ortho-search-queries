@@ -27,7 +27,7 @@ permalink: /unspecified/
         {% for post in posts %}
         {% unless post.date == post_date %}
         {% unless post_date == '' %}</ul>{% endunless %}
-        <h2><a href="{{ post.date | date: '/%Y/%m/%d/' }}">{% assign week_prepend = post.date | date: "%a, %b %-d (Wk " %}{% assign week_append = post.date | date: ", %Y)" %}{% assign week = post.date | date: "%-U" | plus: 1 %}{{ week | prepend: week_prepend | append: week_append }}</a></h2>
+        <h2><small><a href="{{ post.date | date: '/%Y/%m/%d/' }}">{% assign week_prepend = post.date | date: "%a, %b %-d (Wk " %}{% assign week_append = post.date | date: ", %Y)" %}{% assign week = post.date | date: "%-U" | plus: 1 %}{{ week | prepend: week_prepend | append: week_append }}</a></small></h2>
         <ul>
         {% endunless %}
           {% assign post_date = post.date %}
