@@ -244,6 +244,7 @@ Each step is also marked with an appraisal status icon:
 * In reality, the record is published as soon as it is first uploaded after Step 2 and is then updated in the course of its appraisal.
 * When I feel I am ready to submit the record for final publication and no additional appraisal work on the record is pending, I will check it as `10. ✅ Appraisal Published & Call for Crowdfunding`. Unless Step 10 is ticked, the record is not to be considered final.
 * Any record updates after the Step 10 tick have been set and published will be reported in the appraisal text.
+* Also, Zheln appraisals are disseminated on public video platforms, such as [YouTube](https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ) and [TikTok](https://tiktok.com/@drzhelnov).
 
 ### Crowdfunding
 
@@ -253,6 +254,7 @@ Each step is also marked with an appraisal status icon:
 * Currently, I have no other jobs except self-employed research assistance; see [my freelancer website](https://translate.google.com/translate?sl=ru&tl=en&u=https%3A%2F%2Fhire.p1m.org) for more info on that.
 * Therefore, there is no other funding for Zheln besides my private devotion & crowdfunding.
 * Crowdfunding details are available from the [Zheln](https://zheln.com) website.
+* If Zheln videos get popular enough in the future, will also monetize these using the [YouTube Partner Program](https://support.google.com/youtube/answer/72857).
 
 ### Project Management
 
