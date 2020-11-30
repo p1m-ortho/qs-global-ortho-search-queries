@@ -51,6 +51,12 @@ Please refer to the [Zheln main repo README](https://github.com/drzhelnov/zheln.
 2. Critically appraise and, where possible, replicate those of the systematic reviews idenitifed that are useful for evidence-based practice, in the appraiser’s mind.
 3. Tag the records under review with physician specialties to ease following the updates by practising physicians.
 
+**Pragmatic worth:**
+
+* Early disseminate findings of well-conducted systematic reviews with large practice impact to general English-speaking audience.
+* Early disseminate new systematic review records to practising physicians according to their specialty.
+* Provide both the general audience and practising physicians, who usually lack expertise in evidence synthesis, with open-access quality critical appraisals of systematic reviews.
+
 ## Methods
 
 ### The Ten Steps
