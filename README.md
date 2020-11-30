@@ -55,7 +55,9 @@ Please refer to the [Zheln main repo README](https://github.com/drzhelnov/zheln.
 
 ### The Ten Steps
 
-For clarity, I summarized the methods as **Zheln Review Appraisal in 10 Steps:**
+For clarity, I summarized the methods as **Zheln Review Appraisal in 10 Steps.** They are shipped in two versions: _Explanatory_ and _Pragmatic._ The former sheds light on what Zheln appraisal is about, whereas the latter guides how it’s actually done. Throughout Zheln, if simply a _Step_ is mentioned, usually it is safe to assume an Explanatory Step.
+
+### _Ten Explanatory Steps_
 
 1. [ℹ️](#pubmed-search) Downloaded from the PubMed Systematic Subset Daily Updates 
 2. [ℹ️](#record-screening) Meets [Shojania & Bero 2001](https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy) True Positive Criteria for Systematic Reviews by Either Title or Abstract?
@@ -79,23 +81,24 @@ Each step is also marked with an appraisal status icon:
 > * Methods to specialty-tag are not included in the steps as there is no specific time point when tagging should be complete: It starts when the record review starts and it ends when the record review ends.
 > * However, these methods are important and are, thus, summarized in this document.
 
-### Staged Record Appraisal
+### _Ten Pragmatic Steps_
 
-* Zheln appraisals are conducted in _**stages**_, i.e. a record doesn’t get appraised in full from the start. This is because the number of [records to appraise](#pubmed-search) is overwhelming, so these are management procedures in place.
-* At first, all records undergo _**[Primary Appraisal Stage](#primary-appraisal-stage).**_
-* There they are triaged into one of three categories:
-    
-    1. Excluded from the Zheln process
-    2. Ineligible for full appraisal unless crowdfunded
-    3. Selected for full appraisal regardless of crowdfunding
+> To conduct an appraisal, compiled editable versions of the records will be required. You can either take precompiled records from the [posts-edit](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/posts-edit) directory in this repository or [compile them yourself](#editable-version). When you are ready, here is the pathway of primary appraisal.
 
-    Finally, those not excluded are assigned their specialty tags and their short record titles.
-
-* At the same time, the records selected for full appraisal (either primarily or when crowdfunded) complete their Steps 3 thru 10 at _**[Full Appraisal Stage](#full-appraisal-stage).**_
+1. Open an MD file from the `posts-edit` directory with any plain-text editor that supports [GitHub-Flavored Markdown](https://github.github.com/gfm/) preview, like either [Visual Studio Code](https://code.visualstudio.com) + [Markdown Preview Enhanced Extension](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) or [Epsilon Notes](https://play.google.com/store/apps/details?id=com.ekartoyev.enotes).
+2. Look at the citation title and check it against [Zheln eligibility criteria](#record-screening) at [Explanatory Step 2](#record-screening). If it matches, check the `2. ✅ Meets Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Title` checkbox.
+3. Else click the PMID link to open the PubMed record page and inspect the abstract. If it matches, check the `2. ✅ Meets Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Abstract` tick; else check `2. ❌ Does Not Meet Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Neither Title nor Abstract`.
+4. If the abstract is needed to assess eligibility but is unavailable, do not go for locating the full text but assess based on the title alone instead. By contrast, abstract lookup at the publisher’s is sometimes warranted, usually when the article is a commentary; consider [PMID 32977958](https://pubmed.gov/32977958), to give you an idea. Also, please don’t use any information PubMed would load from _PubMed Central_ as any of it is not actually a part of the MEDLINE record.
+5. After you’ve assessed eligibility, unless you’d found the record to be ineligible, go for [specialty-tagging](#specialty-tagging). Else close the record, as its appraisal is finished.
+6. To specialty-tag, use [specialty-tagging guidance](#specialty-tagging). In short, you tick at least one specialty tag in the specialty-tag list that best suits the record. Think about the specialty in which the specialists are likely to be most interested in this record. You normally use just the record abstract on PubMed to underpin these decisions. Also, if unsure about the scope of a specialty, you research it until comfortable. To reiterate, please use the [full guidance](#specialty-tagging) to actually specialty-tag.
+7. Next, make a decision as to whether this record warrants a full appraisal regardless of crowdfunding. As a rule, it does when the topic covered is likely to have a universal or very large practice impact with regard either to both global health care workers and the public or to the minorities. The language of publication **must not** influence this decision. [COVID-19 publications are not selected](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/b86bda0b75e1103991c3d57d22c03a9d49807905).
+8. If you have selected the record for full appraisal, go to the very bottom of the record to find more checkboxes. Follow [Explanatory Steps 3 thru 9](#ten-explanatory-steps) and tick relevant checkboxes. Else, if you haven’t selected the record for immediate full appraisal and believe it’s narrow enough so that it’s perfectly fine for it to await crowdfunding, just proceed further.
+9. Finally, when at [Explanatory Step 10](#publication), ensure you are ready to submit the record for final publication. If any additional appraisal work on the record is pending, just do not check this item.
+10. The appraisal is now complete.
 
 ### PubMed Search
 
-(aka **Step 1**)
+(aka **Explanatory Step 1**)
 
 * See the [search queries in an Appendix](#appendix-pubmed-systematic-review-subset-query-zheln-edition).
 * This _PubMed Systematic Review Subset Query, Zheln Edition,_ ultimately represents the [Search Strategy Used to Create the Systematic Reviews Subset on PubMed](https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) as joined from the two versions: [February 2017](http://web.archive.org/web/20181023065423/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) and [December 2018](http://web.archive.org/web/20190711085949/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html).
@@ -106,45 +109,9 @@ Each step is also marked with an appraisal status icon:
 * While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
 * On [Zheln](https://zheln.com), records that are at the Step 1 of the appraisal process are automatically (since the [version 2.2.1](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/af6d75fa635c2d62169e9ec36505b9657a127ed9#diff-d556e85617be04293b0ad953ad7028b3) of the record-maker script) assigned the `awaiting appraisal` status tag. Also, the [corresponding footer](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/footer-1-true.txt) is attached and the records are sorted [at random](https://www.random.org/sequences/?mode=advanced) within their date.
 
-### _Primary Appraisal Stage_
-
-> To conduct an appraisal, compiled editable versions of the records will be required. You can either take precompiled records from the [posts-edit](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/posts-edit) directory in this repository or [compile them yourself](#editable-version). When you are ready, here is the pathway of primary appraisal.
-
-1. Open an MD file from the `posts-edit` directory with any plain-text editor that supports [GitHub-Flavored Markdown](https://github.github.com/gfm/) preview, like either [Visual Studio Code](https://code.visualstudio.com) + [Markdown Preview Enhanced Extension](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) or [Epsilon Notes](https://play.google.com/store/apps/details?id=com.ekartoyev.enotes).
-2. Look at the citation title and check it against [Zheln eligibility criteria](#record-screening). If it matches, check the `2. ✅ Meets Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Title` checkbox.
-3. Else click the PMID link to open the PubMed record page and inspect the abstract. If it matches, check the `2. ✅ Meets Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Abstract` tick; else check `2. ❌ Does Not Meet Shojania & Bero 2001 True Positive Criteria for Systematic Reviews by Neither Title nor Abstract`.
-4. If the abstract is needed to assess eligibility but is unavailable, do not go for locating the full text but assess based on the title alone instead. By contrast, abstract lookup at the publisher’s is sometimes warranted, usually when the article is a commentary; consider [PMID 32977958](https://pubmed.gov/32977958), to give you an idea.
-5. After you’ve assessed eligibility, unless the record has been found ineligible, devise a short title for this record that is no more than 35 characters and no more than five words in length. Have your title accurately represent the record abstract on PubMed and use [Chicago capitalization](https://titlecaseconverter.com) for this title. If you have to narrow down the concept, try hard to preserve the context but feel more comfortable generalizing the population; e.g. consider [PMID 33126296](https://pubmed.gov/33126296) and its [corresponding Zheln record](https://zheln.com/record/2020/10/31/122/) title. When ready, replace the `Record Awaiting Appraisal` string with your short title.
-6. Next, make a decision as to whether this record warrants a full appraisal regardless of crowdfunding. As a rule, it does when the topic covered is likely to have a universal or very large practice impact with regard either to both global health care workers and the public or to the minorities. The language of publication **must not** influence this decision. [COVID-19 publications are not selected](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/b86bda0b75e1103991c3d57d22c03a9d49807905).
-7. If you have selected the record for full appraisal, go to the very bottom of the record to find more checkboxes. At least tick one that applies from the [Step 3](#collection-of-reports) checkbox group. Else, if you haven’t selected the record for immediate full appraisal and believe it’s narrow enough so that it’s perfectly fine for it to await crowdfunding, just proceed further.
-8. Finally, go for specialty-tagging unless you’d found the record to be ineligible. In the latter case, close the record, as its primary appraisal is finished.
-9. To specialty-tag, use [specialty tagging guidance](#specialty-tagging). In short, you tick _all_ specialty tags in the specialty-tag list that suit the record. Think about the specialties in which the specialists are likely to be interested in this record. You normally use just the record abstract on PubMed to underpin these decisions. Also, if unsure about the scope of a specialty, you research it until comfortable. To reiterate, please use the [full guidance](#specialty-tagging) to really specialty-tag.
-10. The primary appraisal is now complete.
-
-> Starting with [Nov 10 records](https://github.com/drzhelnov/zheln.github.io/issues/100), as an experiment, I’m doing primary appraisal in layers. That is, I’m applying one action to all records within a given date at a time, e.g. screen all, then devise short titles for all, then select for full appraisal among all, then specialty-tag. Moreover, I’m specialty-tagging in layers as well. 
-> 
-> Overall, there are ten layers of primary appraisal:
->
-> 1. Screen against Shojania & Bero 2001 criteria
-> 2. Devise short titles & select for full appraisal
-> 3. Tag with _illegal_ category specialties
-> 4. Tag with _special_ category specialties
-> 5. Tag with _tumor_ category specialties
-> 6. Tag with _infection_ category specialties
-> 7. Tag with _injury_ category specialties
-> 8. Tag with _surgery_ category specialties
-> 9. Tag with _psychiatry_ category specialties
-> 10. Tag with _medicine_ category specialties
->
-> Layer 2 is compound because, effectively, titling and selecting are done almost simultaneously.
-> 
-> The idea of layered appraisal came to me because of the [need to improve appraisal performance](https://zheln.com/summary/2020/11/11/1/). It is worth noting that, after the records have been screened and undergone selection for full appraisal and their short titles have been devised (after Layer 2), a daily-summary video can be produced and released immediately even before any specialty-tagging has been conducted. Also, layered appraisal will probably bring some appraisal-speed benefits.
->
-> Layered specialty-tagging will be done in sessions. See [Zheln work schedule](zheln/Work_Schedule.md) for detail.
-
 ### Record Screening
 
-(aka **Step 2**)
+(aka **Explanatory Step 2**)
 
 * This is the step where record eligibility for Zheln appraisal is assessed.
 * This is done by checking the record title and, if the title failed, abstract against the ‘true positive criteria’ for systematic reviews taken from the publication by [Shojania & Bero 2001 (Open Access)](https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy) and extended further for Zheln (see below).
@@ -180,32 +147,26 @@ Each step is also marked with an appraisal status icon:
 
 ### Specialty Tagging
 
-(done at **Steps 2 thru 10**)
-
-> Starting with [Nov 10 records](https://github.com/drzhelnov/zheln.github.io/issues/100), as an experiment, I’m doing specialty-tagging in layers.
-> 
-> See _**[Primary Appraisal Stage](#primary-appraisal-stage)**_ for more info.
+(done at **Explanatory Steps 2 thru 10**)
 
 * Specialty tagging is done by the appraiser themselves based on whatever information they acquired during appraisal.
 * The tags are chosen from [191 specialty tags](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags.ls) made from a [list of 171 AMA Masterfile Physician Specialties](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags_config.ls).
 * See the methods used to compile the lists of specialties and specialty tags in the [commit history](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
-* While tagging, the tagger should consider if the record would be accessible from all relevant [specialty pages](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_page_filenames.ls) and ensure it would.
-* Namely, the tagger must check the record against **each** specialty on the list and decide if this record could be of interest to a typical physician working in this specialty.
-* I recognize this could be tricky.
-* Also, I do recognize the best approach to specialty grouping would be an evidence-based approach involving feedback from the physicians themselves.
-* However, this is unavailable at the moment, so specialty grouping will be theory-based. In the future, introducing empirical testing will be of interest.
-* For now, I set one more tagging principle to theoretically improve accuracy: Do not deny a specialty to the record if unsure, but do recognize more enthusiastic specialists could consult different specialties in addition to their ‘major’.
+* While tagging, the tagger should consider if the record would be accessible from its most relevant [specialty page](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_page_filenames.ls) and ensure it would.
+* Namely, the tagger must check the record against **each** specialty on the list, assess if this record could be of interest to a typical physician working in this specialty, and choose one specialty that looks most relevant in this regard; if choosing one such specialty is hard enough, choosing more than one is acceptable but is never required.
+* I do recognize the best approach to specialty-grouping would be an evidence-based approach involving feedback from the physicians themselves. However, this is unavailable at the moment, so specialty-grouping will be theory-based. In the future, introducing empirical testing will be of interest.
 * If the tagger is uncertain either of the article subject or any specialty scope, they should consult Google or other information sources until both seem perfectly clear.
-* There is no limit to the number of specialty tags attached, but at least one tag should be chosen for each record (except those that failed and were exlcuded at Step 2).
-* However, it became evident during appraisals that some records on PubMed cover topics rather distant from health care, e.g.  [PMID 33035990](https://pubmed.gov/33035990)—see its [Zheln counterpart](https://zheln.com/record/2020/10/09/3/). For these records, as an exception, there may be no specialty tags added when each and every specialty tag clearly does not apply.
+* There is no limit to the number of specialty tags attached, but at least one tag should be chosen for each record. Exceptions:
+
+    * Those records that failed and were exlcuded at Step 2 do not require specialty-tagging.
+    * It became evident during appraisals that some records on PubMed cover topics rather distant from health care, e.g. [PMID 33035990](https://pubmed.gov/33035990)—see its [Zheln counterpart](https://zheln.com/record/2020/10/09/3/). For these records, there may be no specialty tags added when each and every specialty tag clearly does not apply.
+
 * I do not plan to add any new specialty tags. However, if I hear about any changes to the AMA Masterfile Physician Specialties list, I will consider updating the Zheln specialty lists accordingly.
 * Specialty tags may be assigned or removed throughout further full appraisal if this is deemed appropriate to better reflect the content of the record.
 
-### _Full Appraisal Stage_
-
 ### Collection of Reports
 
-(aka **Step 3**)
+(aka **Explanatory Step 3**)
 
 _This is being written up._
 
@@ -214,7 +175,7 @@ _This is being written up._
 
 ### Data Extraction
 
-(done at **Step 4**)
+(done at **Explanatory Step 4**)
 
 _This is being written up._
 
@@ -223,7 +184,7 @@ _This is being written up._
 
 ### Critical Appraisal
 
-(done at **Steps 4 thru 8**)
+(done at **Explanatory Steps 4 thru 8**)
 
 _This is being written up._
 
@@ -236,7 +197,7 @@ _This is being written up._
 
 ### Data Synthesis
 
-(aka **Step 9**)
+(aka **Explanatory Step 9**)
 
 _This is being written up._
 
@@ -245,7 +206,7 @@ _This is being written up._
 
 ### Publication
 
-(done at **Step 10**)
+(done at **Explanatory Step 10**)
 
 _This is being written up._
 
@@ -254,7 +215,7 @@ _This is being written up._
 
 ### Crowdfunding
 
-(done at **Step 10** and throughout Zheln)
+(done at **Explanatory Step 10** and throughout Zheln)
 
 * I ended all my institutional affiliations except for being a member of the [Society of Specialists in Evidence-Based Medicine, Moscow, Russia](http://osdm.org/english/). See [my employment history on ORCID](http://orcid.org/0000-0003-2767-5123) for more detail.
 * Currently, I have no other jobs except self-employed research assistance; see [my freelancer website](https://translate.google.com/translate?sl=ru&tl=en&u=https%3A%2F%2Fhire.p1m.org) for more info on that.
@@ -266,12 +227,11 @@ _This is being written up._
 (irrespective of **Steps**)
 
 * Zheln uses public [GitHub kanban boards](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards) to manage its workflow.
-* Namely, important tasks needed to accomplish the [Zheln’s mission](#zhelns-mission) are created as public Projects on the [Zheln GitHub page](https://github.com/drzhelnov/zheln.github.io/projects).
-* Currently, there are two such tasks on Zheln: [Streamline Zheln](https://github.com/drzhelnov/zheln.github.io/projects/1) and [Register with PROSPERO](https://github.com/drzhelnov/zheln.github.io/projects/2).
+* Namely, important tasks needed to accomplish the [Zheln’s mission](#zhelns-mission) are created as public Projects on the [Zheln GitHub page](https://github.com/drzhelnov/zheln.github.io/projects), e.g. [Streamline Zheln](https://github.com/drzhelnov/zheln.github.io/projects/1) or [Register with PROSPERO](https://github.com/drzhelnov/zheln.github.io/projects/2).
 * Further, these tasks are broken down into smaller blocks ([GitHub Issues](https://github.com/drzhelnov/zheln.github.io/issues)) and are displayed on the projects’ kanban boards.
 * Finally, each week, short-term [GitHub Milestones](https://github.com/drzhelnov/zheln.github.io/milestones) are created and then assigned to the Issues to track weekly progress.
 * All of these elements are public. Issues are open for public comment (GitHub registration needed).
-* To maximize publicity, Zheln additionally endeavors to publish [summary posts](https://zheln.com) biweekly, where I overview all the events that happened on Zheln since the last summary.
+* To maximize publicity, Zheln additionally endeavors to publish [summary posts](https://zheln.com) twice a week, where I overview the events that happened on Zheln since the last summary and that I consider important.
 
 ## Results
 
