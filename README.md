@@ -78,7 +78,7 @@ Each step is also marked with an appraisal status icon:
 
 > ⚠️ **Important!**
 >
-> * Methods to specialty-tag are not included in the steps as there is no specific time point when tagging should be complete: It starts when the record review starts and it ends when the record review ends.
+> * Methods to [specialty-tag](#specialty-tagging) are not included in the steps as there is no specific time point when tagging should be complete: It starts when the record review starts and it ends when the record review ends.
 > * However, these methods are important and are, thus, summarized in this document.
 
 ### _Ten Pragmatic Steps_
