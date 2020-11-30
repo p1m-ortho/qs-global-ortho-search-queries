@@ -108,6 +108,7 @@ Each step is also marked with an appraisal status icon:
 * See a detailed account of the development of the _Zheln Edition_ and its testing reports in the [commit history of the repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
 * While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
 * On [Zheln](https://zheln.com), records that are at the Step 1 of the appraisal process are automatically (since the [version 2.2.1](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/af6d75fa635c2d62169e9ec36505b9657a127ed9#diff-d556e85617be04293b0ad953ad7028b3) of the record-maker script) assigned the `awaiting appraisal` status tag. Also, the [corresponding footer](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/footer-1-true.txt) is attached and the records are sorted [at random](https://www.random.org/sequences/?mode=advanced) within their date.
+* Adding other search sources, such as Scopus, PROSPERO, OSF, and medRxiv, is planned in the future when more appraiser become available.
 
 ### Record Screening
 
@@ -145,11 +146,11 @@ Each step is also marked with an appraisal status icon:
 * From the other hand, records that **failed** the appraisal process at the Step 2 are reassigned the `awaiting appraisal` status tag. This is because I consider these a _ghost town_ analogy meaning that, theoretically, the appraisal could be continued, but for now, it wouldn’t.
 * Also, a [corresponding footer](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln) is attached to the record based on its Step status.
 
-### Specialty Tagging
+### Specialty-Tagging
 
 (done at **Explanatory Steps 2 thru 10**)
 
-* Specialty tagging is done by the appraiser themselves based on whatever information they acquired during appraisal.
+* Specialty-tagging is done by the appraiser themselves based on whatever information they acquired during appraisal.
 * The tags are chosen from [191 specialty tags](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags.ls) made from a [list of 171 AMA Masterfile Physician Specialties](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags_config.ls).
 * See the methods used to compile the lists of specialties and specialty tags in the [commit history](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
 * While tagging, the tagger should consider if the record would be accessible from its most relevant [specialty page](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_page_filenames.ls) and ensure it would.
@@ -169,50 +170,74 @@ Each step is also marked with an appraisal status icon:
 
 (aka **Explanatory Step 3**)
 
-_This is being written up._
-
-* Will try to collect the full text of the publication under appraisal.
-* For some publications, collection of other reports (either written by the same authors or by different authors, like in case of important referenced research) will be required and will be done.
+* Will try to collect the original full text associated with the record under appraisal either using publicly available electronic resources or via private subscriptions or communication.
+* For some records, collection of other reports (either written by the same authors or by different authors, like in case of important referenced research) will be required and will be done: `3. ✅ Full Text & Other Reports Collected by Zheln`.
+* In some, only _other reports_ but not the original record full text will be available: `3. ✅ Other Reports Collected by Zheln`.
+* If I have collected the original full-text report and this report only, will put the `3. ✅ Full Text Collected by Zheln` label. If no full-text report is available for the record, I will put the `3. ❌ No Full Text Available to Zheln` label, place the record in the `awaiting crowdfunding` category, and reference it in the **Full Text Wanted** section of [twice-weekly summary posts](https://github.com/drzhelnov/zheln.github.io/issues?q=is%3Aissue+summary+in%3Atitle).
+* I will not routinely contact the authors or search extensively for additional reports, but if the study is somehow specifically important or additional appraisal is crowdfunded, will do that.
 
 ### Data Extraction
 
 (done at **Explanatory Step 4**)
 
-_This is being written up._
-
-* Involves extracting the pragmatic outcomes that were deemed relevant for evidence-based practice.
-* This is done only if the Step 9 summary is conducted.
+* Involves extracting the pragmatic outcomes that I deemed relevant for evidence-based practice.
+* This is done only if the Step 9 summary is conducted. If so, I will extract the data directly in the text of the appraisal.
+* I will decide what outcomes to extract depending on the research question. As a rule, I will choose one among all outcomes mentioned in the study reports and will contrast it to the outcomes usually used in similar studies to decide if this is an acceptably practice-important and question-relevant outcome.
+* To learn what outcomes are best studied for similar research questions, I’m planning to use informal electronic search (Google, PubMed, etc.), that I’m not planning to document, but I will summarize important information on this matter, including references, if applicable, in the text of the appraisal.
+* If I did find such appropriate outcome in the study reports, I will use it as a _primary outcome_ to then assess effectiveness of the interventions. Also, I will tick this study as `4. ✅ Generates Pragmatic Evidence Directly Relevant to Evidence-Based Practice`.
+* Otherwise, if I did not find any appropriate outcomes reported, I will put the `4. ❌ Does Not Generate Pragmatic Evidence Directly Relevant to Evidence-Based Practice` label and abstain from further appraisal.
 
 ### Critical Appraisal
 
 (done at **Explanatory Steps 4 thru 8**)
 
-_This is being written up._
-
 * The methods of critical appraisal may be described in one phrase:
   
   Informal study of the review documentation with replication of some of the elements of the review by a single appraiser to formulate their expert impression as to whether the review is reproducible and whether it is useful for evidence-based practice.
 
-* Will elaborate on the process in further revisions of this doc.
-* Step 8 was designed as solely subjective; will provide any personal comment if my decision did not seem obvious.
+* Please find by-step description below.
+* [Step 4](#data-extraction) has been described in detail previously.
+* Step 5:
+
+    * First of all, I will assess if the study under appraisal looks duplicate. To find out, I’m planning to use informal electronic search (Google, PubMed, etc.), that I’m not planning to document, but I will summarize important information on this matter, including references, if applicable, in the text of the appraisal.
+    * If I find evidence the study is duplicate (same population, same context, same interventions, same outcomes, with no reasonable reference to previous research), I should naturally not start answering the research question at this study but use previous research first. Therefore, I will abstain from appraising duplicate studies and will mark them as `5. ❌ Is Duplicate`.
+    * Otherwise, I will mark the study appropriately as `5. ✅ Not Found Duplicate by Zheln` and go on with the appraisal.
+
+* Step 6:
+
+    * If a systematic review features practice-important outcomes _and_ does not look duplicate, it feels safe and appropriate to embark on its replication.
+    * In the course of Zheln, I’m not planning to conduct exhaustive replications. In contrast, I’m going to try and replicate selectively those review steps that look both easiest and most natural to redo.
+    * For example, rerunning PubMed/MEDLINE searches and replicating the review study set is usually simple enough and appealing, as is reproducing a random couple of data extraction forms. I will document these replication processes in the text of the appraisal.
+    * If I deem the replication attempts more or less successful, I will label the study as `6. ✅ Passed Replication`.
+    * Otherwise, if the replication has largely failed, I will mark the study as `6. ❌ Failed Replication` and abstain from further appraisal because an irreproducible review is hardly systematic anymore.
+
+* Step 7:
+
+    * Replicability is a sign of sound conduct and good reporting but does not guarantee robustness of the review. Therefore, additional quality-of-conduct assessment is required.
+    * Some tools have been developed to assess risk of bias in systematic reviews, such as [ROBIS](https://www.bristol.ac.uk/population-health-sciences/projects/robis) or [CINeMA](https://doi.org/10.1371/journal.pmed.1003082). However, they are rather recent, and there is evidence agreement is low at least for some of them ([Gates 2020](https://doi.org/10.1016/j.jclinepi.2020.04.026)).
+    * In contrast, [MECIR](https://community.cochrane.org/mecir-manual) have been out there for quite some time now. Also, it has been neatly integrated into [Cochrane Handbook 6](https://training.cochrane.org/handbook/current) that provides further insight into these issues.
+    * Thus, I elect to use the [MECIR conduct standards](https://community.cochrane.org/mecir-manual/standards-conduct-new-cochrane-intervention-reviews-c1-c75) to assess quality of conduct. I will go over all 75 MECIR conduct items at Step 7 to get an understanding and will document for each item if it was followed, in my view. I will also provide rationale where relevant. All the documentation will take place directly in the appraisal text.
+    * In general, I expect _mandatory_ MECIR items to be followed, whereas _highly desirable_ items may be ignored. However, I acknowledge that MECIR standards (1) are not absolute and (2) were developed for intervention reviews only (whereas Zheln may feature other systematic reviews as well). Also, some of the items would look critical for one review and not critical for another.
+    * Hence, the final decision about whether or not I have observed evidence of critical conduct flaws is always mine to make; at the same time, I will do my best to accurately substantiate my findings in the appraisal text. My decision may be `7. ❌ Has Critical Conduct Flaws`, `7. ✅ No Critical Conduct Flaws Identified by Zheln`, or `7. ✅ No Conduct Flaws Identified by Zheln`, depending on those findings.
+
+* Step 8 was designed as solely subjective: `8. 👍 Liked by Zheln` if I find the review useful overall and `8. 👎 Disliked by Zheln` if I find otherwise. I will provide any personal comment if my decision did not seem obvious.
 
 ### Data Synthesis
 
 (aka **Explanatory Step 9**)
 
-_This is being written up._
-
-* Only done if Steps 2 thru 7 checked green.
-* Involves formulating explicit practice-relevant statements based on the health outcomes extracted at Step 4.
+* Only done if Steps 2 thru 7 checked green. Otherwise, I don’t find the review robust enough to look at or disseminate its findings.
+* Involves formulating explicit practice-relevant statements based on the health outcomes extracted at Step 4 and quality-of-conduct assessment at Step 7.
+* Will be done directly in the appraisal text, stressed, and placed at its top.
 
 ### Publication
 
 (done at **Explanatory Step 10**)
 
-_This is being written up._
-
 * Involves creating a citation for each post on Zheln, see [this issue](https://github.com/drzhelnov/zheln.github.io/issues/4).
-* Also, will need to introduce a checklist of items that have to be secured before the Step 10 tick is allowed to be set.
+* In reality, the record is published as soon as it is first uploaded after Step 2 and is then updated in the course of its appraisal.
+* When I feel I am ready to submit the record for final publication and no additional appraisal work on the record is pending, I will check it as `10. ✅ Appraisal Published & Call for Crowdfunding`. Unless Step 10 is ticked, the record is not to be considered final.
+* Any record updates after the Step 10 tick have been set and published will be reported in the appraisal text.
 
 ### Crowdfunding
 
