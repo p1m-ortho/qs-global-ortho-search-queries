@@ -121,7 +121,8 @@ Each step is also marked with an appraisal status icon:
 (aka **Explanatory Step 2**)
 
 * This is the step where record eligibility for Zheln appraisal is assessed.
-* This is done by checking the record title and, if the title failed, abstract against the ‘true positive criteria’ for systematic reviews taken from the publication by [Shojania & Bero 2001 (Open Access)](https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy) and extended further for Zheln (see below).
+* As appraising all retrieved records turned out to be very resource-intensive, will probably appraise only random 10% of records at first (see the [randomization protocol](#editable-version)). When enough resources are available, all records will be appraised. Current information on this matter is available from the [latest Zheln summary posts](https://zheln.com).
+* Record eligibility is assessed by checking the record title and, if the title failed, abstract against the ‘true positive criteria’ for systematic reviews taken from the publication by [Shojania & Bero 2001 (Open Access)](https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy) and extended further for Zheln (see below).
 * This is a diagnostic test accuracy (DTA) assessment for the systematic review search strategy by the authors—the very search strategy that the [PubMed Systematic Subset](#pubmed-search) was originally based on. Incidentally, this is the reason I chose these criteria for Zheln in the first place.
 * I quote:
   
