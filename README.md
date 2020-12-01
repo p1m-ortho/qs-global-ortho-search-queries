@@ -270,9 +270,8 @@ Each step is also marked with an appraisal status icon:
 
 ## Results
 
-_This is being written up._
-
 * The monitoring continued from September 2, 2020. Currently, I do not plan to go back to whatever material that I left unreviewed as I do not have capacity for such an undertaking.
+* Please see all current information on the results in the [latest Zheln summary posts](https://zheln.com).
 
 ## Appendix: PubMed Systematic Review Subset Query, Zheln Edition
 
