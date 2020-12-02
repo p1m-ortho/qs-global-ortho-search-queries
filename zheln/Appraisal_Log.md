@@ -85,9 +85,9 @@
 | Nov 22, 2020 | 232 | 24 | 10.3 | 3 | 21 | 87.5 | https://zheln.com/record/2020/11/22/127/<br>https://zheln.com/record/2020/11/22/148/ | 12 |
 | Nov 23, 2020 | 541 | – | – | – | – | – | – | – |
 | Nov 24, 2020 | 785 | – | – | – | – | – | – | – |
-| Nov 25, 2020 | 648 | 65 | 10.0 | 8 | 57 | 87.6 | https://zheln.com/record/2020/11/25/45/<br>https://zheln.com/record/2020/11/25/67/<br>https://zheln.com/record/2020/11/25/139/ | – |
+| Nov 25, 2020 | 648 | 65 | 10.0 | 8 | 57 | 87.6 | https://zheln.com/record/2020/11/25/45/<br>https://zheln.com/record/2020/11/25/67/<br>https://zheln.com/record/2020/11/25/139/ | 21 |
 | Nov 26, 2020 | 561 | – | – | – | – | – | – | – |
-| Nov 27, 2020 | 389 | 389 | 100.0 | – | – | – | – | – |
+| Nov 27, 2020 | 389 | 389 | 100.0 | 71 | 318 | 81.7 | https://zheln.com/record/2020/11/27/92/<br>https://zheln.com/record/2020/11/27/148/<br>https://zheln.com/record/2020/11/27/194/<br>https://zheln.com/record/2020/11/27/251/<br>https://zheln.com/record/2020/11/27/256/<br>https://zheln.com/record/2020/11/27/271/<br>https://zheln.com/record/2020/11/27/273/<br>https://zheln.com/record/2020/11/27/274/<br>https://zheln.com/record/2020/11/27/275/<br>https://zheln.com/record/2020/11/27/361/ | 38 |
 | Nov 28, 2020 | 211 | – | – | – | – | – | – | – |
 | Nov 29, 2020 | 112 | – | – | – | – | – | – | – |
 | Nov 30, 2020 | 528 | – | – | – | – | – | – | – |
