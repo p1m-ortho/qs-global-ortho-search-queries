@@ -288,7 +288,7 @@ Please see [12 Effect measures](#12-effect-measures-specify-for-each-outcome-the
 
 ## 24a Registration and protocol: Provide registration information for the review, including register name and registration number, or state that the review was not registered
 
-The project is hosted on GitHub. Also, there is an [umbrella Open Science Framework project](https://doi.org/10.17605/OSF.IO/EJKFC) that mediates publication of Zheln methods between raw GitHub data (the [primary](https://github.com/drzhelnov/zheln.github.io) and [methods](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query) repos) and stable Open Science Framework preprints (project components such as the [replicated PubMed systematic subset](https://doi.org/10.17605/OSF.IO/Z3JU7), [systematic review protocol](https://doi.org/10.17605/OSF.IO/K4Y83), [living systematic review report](https://doi.org/10.17605/OSF.IO/G6RA9)).
+The project is hosted on GitHub. Also, there is an [umbrella Open Science Framework project](https://doi.org/10.17605/OSF.IO/EJKFC) that mediates publication of Zheln methods between raw GitHub data (the [primary](https://github.com/drzhelnov/zheln.github.io) and [methods](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query) repositories) and stable Open Science Framework preprints (project components, such as the [replicated PubMed systematic subset](https://doi.org/10.17605/OSF.IO/Z3JU7), [systematic review protocol](https://doi.org/10.17605/OSF.IO/K4Y83), [living systematic review report](https://doi.org/10.17605/OSF.IO/G6RA9)).
 
 Operational information on how the [Zheln website](https://zheln.com) works and how to recreate the research environment in use are also available from these repositories.
 
