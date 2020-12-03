@@ -53,7 +53,33 @@ Evidence-based practitioners involve healthcare practitioners, in the first plac
 
 ## 5 Eligibility criteria: Specify the inclusion and exclusion criteria for the review and how studies were grouped for the syntheses
 
+Record eligibility is assessed by checking the record title and, if the title failed, abstract against the ‘true positive criteria’ for systematic reviews taken from the publication by [Shojania & Bero 2001][Shojania2001157162]. The publication is a diagnostic test accuracy assessment for the systematic review search strategy by the authors—the very search strategy that the search strategy of this review is based on. I quote:
+  
+> We regarded an article as a true positive only if the title or abstract explicitly identified the article as a systematic review or meta-analysis or if the article abstract indicated a strategy for locating the literature reviewed. Thus, an article that contained the phrase “literature review” in the title but merely stated that “relevant literature was reviewed” in the abstract would not count as a true positive. MEDLINE records without an abstract could be counted as true positives only if the title contained the words “meta-analysis,” “metaanalysis,” or “systematic review.”
 
+There are special cases to be discussed:
+
+* Practice guidelines as well as various review types that make use of systematic methodology (e.g., scoping reviews, realist syntheses, etc.) are not treated separately and are eligible only if the Shojania & Bero criteria are met. This is to ensure integrity of these criteria use.
+* Commentaries, editorials, reprints, and other similar documents related to an original systematic review are included, as they reference a systematic review.
+* Meta-analyses outside the context of a systematic review (variants on _data pooling_) are included if they are explicitly termed meta-analyses, as this is how the Shojania & Bero criteria are worded. See [Dickens 2020][Dickens2020emo0000905], for instance.
+* Protocols for systematic reviews are included, as they reference a systematic review.
+* Studies nesting a systematic review (e.g., case studies) are naturally included.
+
+The record/study flow in this review is as follows:
+
+* There is no instance when a record identified through search could be excluded from the review database, regardless of its eligibility status. However, ineligible records are not tagged and not appraised further. In contrast, all eligible records are amenable for tagging, selection, and crowdfunding process.
+* Only those eligible records that have been selected or crowdfunded are subject to critical appraisal. Please find a description of the selection/crowdfunding process below.
+* For all records that have been selected, all relevant reports are collected (either written by the same authors or by different authors, like in case of important referenced research). Reports are grouped into studies.
+* Only for the studies appraised positively (ticked with `7. ✅ No Critical Conduct Flaws Identified by Zheln` at Step 7, see below), practical implications are summarized and disseminated.
+
+Selection/crowdfunding process:
+
+* As a rule, I select a record for critical appraisal regardless of crowdfunding when I find the covered topic likely to have a very large practice impact with regard either to both global health care workers and the public or to the minorities. However, the decision to select is subjective and always mine to make.
+* Language, date, peer-review status of the publication do not influence this decision. Also, content area of the publication (e.g., healthcare, ecology, chemistry, etc.) is also irrelevant to this decision.
+* **COVID-19 publications are not selected, because there already are plenty of great resources, such as covid-nma.com, covidex.ai, cord19.vespa.ai,
+WHO and Cochrane resources, just to name a few.
+Also, I do not like the idea of changing universal focus of the project toward COVID-19.**
+* Crowdfunding an appraisal of any eligible record is possible for any individual or organization. Such records are marked with different icons but are otherwise treated in the same way as the selected ones.
 
 ## 6 Information sources: Specify all databases, registers, websites, organisations, reference lists and other sources searched or consulted to identify studies. Specify the date when each source was last searched or consulted
 
@@ -225,3 +251,7 @@ Evidence-based practitioners involve healthcare practitioners, in the first plac
 [Chandran2020147154]: https://doi.org/10.7324/JAPS.2020.10717 "Chandran PV, Khan S, Pai KG, Khera K, Devi ES, Athira B, Thunga G. Evidence-based medicine databases: an overview. J Appl Pharm Sci. 2020 Jul;10(7):147-154. doi: 10.7324/JAPS.2020.10717."
 
 [Booth2019e001107]: https://doi.org/10.1136/bmjgh-2018-001107 "Booth A, Noyes J, Flemming K, Moore G, Tunçalp Ö, Shakibazadeh E. Formulating questions to explore complex interventions within qualitative evidence synthesis. BMJ Glob Health. 2019 Jan 25;4(Suppl 1):e001107. doi: 10.1136/bmjgh-2018-001107. PMID: 30775019; PMCID: PMC6350737."
+
+[Shojania2001157162]: https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy "Shojania KG, Bero LA. Taking advantage of the explosion of systematic reviews: an efficient MEDLINE search strategy. Eff Clin Pract. 2001 Jul-Aug;4(4):157-62. PMID: 11525102."
+
+[Dickens2020emo0000905]: https://doi.org/10.1037/emo0000905 "Dickens LR, Robins RW. Pride: A meta-analytic project. Emotion. 2020 Nov 12. doi: 10.1037/emo0000905. Epub ahead of print. PMID: 33180528."
