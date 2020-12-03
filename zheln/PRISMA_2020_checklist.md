@@ -70,7 +70,7 @@ The record/study flow in this review is as follows:
 * There is no instance when a record identified through search could be excluded from the review database, regardless of its eligibility status. However, ineligible records are not tagged and not appraised further. In contrast, all eligible records are amenable for tagging, selection, and crowdfunding process.
 * Only those eligible records that have been selected or crowdfunded are subject to critical appraisal. Please find a description of the selection/crowdfunding process below.
 * For all records that have been selected, all relevant reports are collected (either written by the same authors or by different authors, like in case of important referenced research). Reports are grouped into studies.
-* Only for the studies appraised positively (ticked with `7. ✅ No Critical Conduct Flaws Identified by Zheln` at Step 7, see below), practical implications are summarized and disseminated.
+* Only for the studies appraised positively (ticked with `7. ✅ No Critical Conduct Flaws Identified by Zheln`, see below), practical implications are summarized and disseminated.
 
 Selection/crowdfunding process:
 
@@ -83,59 +83,128 @@ Also, I do not like the idea of changing universal focus of the project toward C
 
 ## 6 Information sources: Specify all databases, registers, websites, organisations, reference lists and other sources searched or consulted to identify studies. Specify the date when each source was last searched or consulted
 
-
+[PRISMA-S checklist](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/PRISMA-S_checklist.md)
 
 ## 7 Search strategy: Present the full search strategies for all databases, registers and websites, including any filters and limits used
 
-
+[PRISMA-S checklist](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/PRISMA-S_checklist.md)
 
 ## 8 Selection process: Specify the methods used to decide whether a study met the inclusion criteria of the review, including how many reviewers screened each record and each report retrieved, whether they worked independently, and if applicable, details of automation tools used in the process
 
+Please see the [5 Eligibility criteria](#5-eligibility-criteria-specify-the-inclusion-and-exclusion-criteria-for-the-review-and-how-studies-were-grouped-for-the-syntheses) section above.
 
+Currently, I am the only person who undertakes the whole selection process. In the future, when more staff is available, other people will get involved; this will be additionally reported.
+
+Likewise, no automation tools or crowdsourcing are currently used in the selection process. They are considered for future use; this will be additionally reported.
 
 ## 9 Data collection process: Specify the methods used to collect data from reports, including how many reviewers collected data from each report, whether they worked independently, any processes for obtaining or confirming data from study investigators, and if applicable, details of automation tools used in the process
 
+Currently, I am the only person who undertakes the whole data collection process. In the future, when more staff is available, other people will get involved; this will be additionally reported.
 
+Tagging of records:
+
+* Specialty-tagging is done by the appraiser themselves based on whatever information they acquired during record screening.
+* Specialty tags may also be assigned or removed throughout further full appraisal if this is deemed appropriate to better reflect the content of the record.
+* The tags are chosen from [191 specialty tags](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags.ls) made from a [list of 171 AMA Masterfile Physician Specialties](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags_config.ls). I have chosen this specialty classification because it is, arguably, the most elaborate one (in terms of listed subspecialties) among those widely used. See the methods used to compile the lists of specialties and specialty tags in the [commit history of the Zheln methods repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
+* While tagging, the tagger should consider if the record would be accessible from its most relevant [specialty page](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_page_filenames.ls) and ensure it would. Namely, the tagger must check the record against **each** specialty on the list, assess if this record could be of interest to a typical physician working in this specialty, and choose one specialty that looks most relevant in this regard.
+* If choosing one such specialty is hard enough, choosing more than one is acceptable. As such, adding more than one specialty tag is actively discouraged unless absolutely unavoidable, as it remarkably compromises appraisal speed. Therefore, multiple specialties are warranted if and only if it is perceived to be faster to multiselect than choose one among several.
+* I do recognize the best approach to specialty-grouping would be an evidence-based approach involving feedback from the physicians themselves. However, this is unavailable at the moment, so specialty-grouping will be theory-based. In the future, introducing empirical testing will be of interest.
+* If the tagger is uncertain either of the article subject or any specialty scope, they should consult Google or other information sources until both seem perfectly clear.
+* There is no limit to the number of specialty tags attached, but at least one tag should be chosen for each record. However, it became evident during pilot appraisals that some records on PubMed cover topics rather distant from health care. For these records, as an exception, there may be no specialty tags added when each and every specialty tag clearly does not apply.
+
+* I do not plan to add any new specialty tags. However, if I hear about any changes to the AMA Masterfile Physician Specialties list, I will consider updating the Zheln specialty lists accordingly.
+
+Collection of reports:
+
+* I will try to collect the original full text and all other relevant reports associated with the record under review, if applicable, either using publicly available electronic resources or via private subscriptions or communication.
+* If no full-text report is available for the record, I will put the `3. ❌ No Full Text Available to Zheln` label, place the record in the `awaiting crowdfunding` category, and reference it in the **Full Text Wanted** section of twice-weekly summary posts at Zheln.com. When new reports become available, I will go on with the critical appraisal.
+* I will not routinely contact the authors or search extensively for additional reports, but if the study is somehow specifically important or additional appraisal is crowdfunded, will do that.
+
+Data extraction from reports:
+
+* Involves extracting the pragmatic outcomes that I deemed relevant for evidence-based practice. This is done only if the study has been positively appraised (ticked with `7. ✅ No Critical Conduct Flaws Identified by Zheln`). If so, I will extract the data directly in the text on the record page at Zheln.com.
+* I will decide what outcomes to extract depending on the research question. As a rule, I will choose one among all outcomes mentioned in the study reports and will contrast it to the outcomes usually used in similar studies to decide if this is an acceptably practice-important and question-relevant outcome.
+* To learn what outcomes are best suited for similar research questions, I am planning to use informal electronic search (Google, PubMed, etc.), that I am not planning to document, but I will summarize important information on this matter, including references, if applicable, in the text of the appraisal.
+* No automation tools are currently used. If any are in the future, this will be additionally reported.
+* Translation of reports written in languages other than English will usually be handled using [Google Translate](https://translate.google.com). In any way, this will be reported in the text on the record page at Zheln.com.
+* Any inconsistencies met when collating multiple reports will be discussed and resolved narratively in the text on the record page at Zheln.com.
+* If I did find an appropriate outcome in the study reports, I will use it as a _primary outcome_ to then assess effectiveness of the interventions. Otherwise, if I did not find any appropriate outcomes reported, I will mark the record as `4. ❌ Does Not Generate Pragmatic Evidence Directly Relevant to Evidence-Based Practice` and abstain from further appraisal.
+* Eventually, I will formulate explicit practice-relevant statements based on the extracted health outcomes and quality-of-conduct assessment (see below). It will be done directly in the text on the record page at Zheln.com, stressed, and placed at its top.
 
 ## 10a Data items: List and define all outcomes for which data were sought. Specify whether all results that were compatible with each outcome domain in each study were sought(e.g. for all measures, time points, analyses), and if not, the methods used to decide which results to collect
 
+Unfortunately, due to universal nature of the review, data items cannot be predefined. However, I will discuss all issues and report all decisions for each appraisal separately in the text on their record page at Zheln.com.
 
+Please also see [9 Data collection process](#9-data-collection-process-specify-the-methods-used-to-collect-data-from-reports-including-how-many-reviewers-collected-data-from-each-report-whether-they-worked-independently-any-processes-for-obtaining-or-confirming-data-from-study-investigators-and-if-applicable-details-of-automation-tools-used-in-the-process).
 
 ## 10b Data items: List and define all other variables for which data were sought (e.g. participant and intervention characteristics, funding sources). Describe any assumptions made about any missing or unclear information
 
-
+Please see [10a Data items](#10a-data-items-list-and-define-all-outcomes-for-which-data-were-sought-specify-whether-all-results-that-were-compatible-with-each-outcome-domain-in-each-study-were-soughteg-for-all-measures-time-points-analyses-and-if-not-the-methods-used-to-decide-which-results-to-collect).
 
 ## 11 Study risk of bias assessment: Specify the methods used to assess risk of bias in the included studies, including details of the tool(s) used, how many reviewers assessed each study and whether they worked independently, and if applicable, details of automation tools used in the process
 
+Currently, I am the only person who undertakes the whole risk-of-bias assessment process. In the future, when more staff is available, other people will get involved; this will be additionally reported. Likewise, no automation tools are currently in use.
 
+The methods of critical appraisal may be described in one phrase:
+  
+Informal study of the review documentation with replication of some of the elements of the review by a single appraiser to formulate their expert impression as to whether the review is reproducible and whether it is useful for evidence-based practice.
+
+Please find by-step description below.
+
+Assessing duplication:
+
+* To find out, I am planning to use informal electronic search (Google, PubMed, etc.), that I am not planning to document, but I will summarize important information on this matter, including references, if applicable, in the text on the record page at Zheln.com.
+* If I find evidence the study is duplicate (same population, same context, same interventions, same outcomes, with no reasonable reference to previous research), I should naturally not start answering the research question at this study but use previous research first. Therefore, I will abstain from appraising duplicate studies and will mark them as `5. ❌ Is Duplicate`.
+* Otherwise, I will mark the study appropriately as `5. ✅ Not Found Duplicate by Zheln` and go on with the appraisal.
+
+Replication:
+
+* If a systematic review features practice-important outcomes _and_ does not look duplicate, it feels safe and appropriate to embark on its replication.
+* In the course of this review, I am not planning to conduct exhaustive replications. In contrast, I am going to try and replicate selectively those review steps that look both easiest and most natural to redo.
+* For example, rerunning PubMed/MEDLINE searches and replicating the review study set is usually simple enough and appealing, as is reproducing a random couple of data extraction forms. I will document these replication processes in the text on the record page at Zheln.com.
+* If I deem the replication attempts more or less successful, I will label the study as `6. ✅ Passed Replication`.
+* Otherwise, if the replication has largely failed, I will mark the study as `6. ❌ Failed Replication` and abstain from further appraisal because an irreproducible review is hardly systematic anymore.
+
+Quality-of-conduct assessment:
+
+* Replicability is a sign of sound conduct and good reporting but does not guarantee robustness of the review. Therefore, additional quality-of-conduct assessment is required.
+* Some tools have been developed to assess risk of bias in systematic reviews, such as [ROBIS](https://www.bristol.ac.uk/population-health-sciences/projects/robis) or [CINeMA](https://doi.org/10.1371/journal.pmed.1003082). However, they are rather recent, and there is evidence agreement is low at least for some of them ([Gates 2020][Gates2020915]).
+* In contrast, [MECIR](https://community.cochrane.org/mecir-manual) have been out there for quite some time now. Also, it has been neatly integrated into [Cochrane Handbook 6](https://training.cochrane.org/handbook/current) that provides further insight into these issues.
+* Thus, I elect to use the [MECIR conduct standards](https://community.cochrane.org/mecir-manual/standards-conduct-new-cochrane-intervention-reviews-c1-c75) to assess quality of conduct. I will go over all 75 MECIR conduct items to get an understanding and will document for each item if it was followed, in my view. I will also provide rationale where relevant. All the documentation will take place directly in the text on the record page at Zheln.com.
+* In general, I expect _mandatory_ MECIR items to be followed, whereas _highly desirable_ items may be ignored. However, I acknowledge that MECIR standards (1) are not absolute and (2) were developed for intervention reviews only (whereas this overview may feature other systematic reviews as well). Also, some of the items would look critical for one review and not critical for another.
+* Hence, the final decision about whether or not I have observed evidence of critical conduct flaws is always mine to make; at the same time, I will do my best to accurately substantiate my findings in the appraisal text. My decision may be `7. ❌ Has Critical Conduct Flaws`, `7. ✅ No Critical Conduct Flaws Identified by Zheln`, or `7. ✅ No Conduct Flaws Identified by Zheln`, depending on those findings.
+
+I am not planning to conduct any assessment of quality of reporting.
+
+Also, I will note this as a solely subjective item: `8. 👍 Liked by Zheln` if I find the review useful overall and `8. 👎 Disliked by Zheln` if I find otherwise. I will provide any personal comment if my decision did not seem obvious.
 
 ## 12 Effect measures: Specify for each outcome the effect measure(s) (e.g. risk ratio, mean difference) used in the synthesis or presentation of results
 
-
+No across-studies synthesis is planned at the moment. If any is conducted, it will be reported separately for each study in the text on the record page at Zheln.com.
 
 ## 13a Synthesis methods: Describe the processes used to decide which studies were eligible for each synthesis
 
-
+Please see [12 Effect measures](#12-effect-measures-specify-for-each-outcome-the-effect-measures-eg-risk-ratio-mean-difference-used-in-the-synthesis-or-presentation-of-results).
 
 ## 13b Synthesis methods: Describe any methods required to prepare the data for presentation or synthesis, such as handling of missing summary statistics, or data conversions
 
-
+Please see [12 Effect measures](#12-effect-measures-specify-for-each-outcome-the-effect-measures-eg-risk-ratio-mean-difference-used-in-the-synthesis-or-presentation-of-results).
 
 ## 13c Synthesis methods: Describe any methods used to tabulate or visually display results of individual studies and syntheses
 
-
+Please see [12 Effect measures](#12-effect-measures-specify-for-each-outcome-the-effect-measures-eg-risk-ratio-mean-difference-used-in-the-synthesis-or-presentation-of-results).
 
 ## 13d Synthesis methods: Describe anymethods used to synthesize results and provide a rationale for the choice(s). If meta-analysis was performed, describe the model(s), method(s) to identify the presence and extent of statistical heterogeneity, and software package(s) used
 
-
+Please see [12 Effect measures](#12-effect-measures-specify-for-each-outcome-the-effect-measures-eg-risk-ratio-mean-difference-used-in-the-synthesis-or-presentation-of-results).
 
 ## 13e Synthesis methods: Describe any methods used to explore possible causes of heterogeneity among study results
 
-
+Please see [12 Effect measures](#12-effect-measures-specify-for-each-outcome-the-effect-measures-eg-risk-ratio-mean-difference-used-in-the-synthesis-or-presentation-of-results).
 
 ## 13f Synthesis methods: Describe any sensitivity analyses conducted to assess robustness of the synthesized results
 
-
+Please see [12 Effect measures](#12-effect-measures-specify-for-each-outcome-the-effect-measures-eg-risk-ratio-mean-difference-used-in-the-synthesis-or-presentation-of-results).
 
 ## 14 Reporting bias assessment: Describe any methods used to assess risk of bias due to missing results in a synthesis (arising from reporting biases)
 
@@ -255,3 +324,5 @@ Also, I do not like the idea of changing universal focus of the project toward C
 [Shojania2001157162]: https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy "Shojania KG, Bero LA. Taking advantage of the explosion of systematic reviews: an efficient MEDLINE search strategy. Eff Clin Pract. 2001 Jul-Aug;4(4):157-62. PMID: 11525102."
 
 [Dickens2020emo0000905]: https://doi.org/10.1037/emo0000905 "Dickens LR, Robins RW. Pride: A meta-analytic project. Emotion. 2020 Nov 12. doi: 10.1037/emo0000905. Epub ahead of print. PMID: 33180528."
+
+[Gates2020915]: https://doi.org/10.1016/j.jclinepi.2020.04.026 "Gates M, Gates A, Duarte G, Cary M, Becker M, Prediger B, Vandermeer B, Fernandes RM, Pieper D, Hartling L. Quality and risk of bias appraisals of systematic reviews are inconsistent across reviewers and centers. J Clin Epidemiol. 2020 Sep;125:9-15. doi: 10.1016/j.jclinepi.2020.04.026. Epub 2020 May 19. PMID: 32416337."
