@@ -216,6 +216,7 @@ Data extraction from reports:
 * Any inconsistencies met when collating multiple reports will be discussed and resolved narratively in the text on the record page at Zheln.com.
 * If I did find an appropriate outcome in the study reports, I will use it as a _primary outcome_ to then assess effectiveness of the interventions. Otherwise, if I did not find any appropriate outcomes reported, I will mark the record as `4. ❌ Does Not Generate Pragmatic Evidence Directly Relevant to Evidence-Based Practice` and abstain from further appraisal.
 * Eventually, I will formulate explicit practice-relevant statements based on the extracted health outcomes and quality-of-conduct assessment (see below). It will be done directly in the text on the record page at Zheln.com, stressed, and placed at its top.
+* Also, the process of each critical appraisal is video-recorded and published on [YouTube](https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ) to disseminate this information among general audiences. One video-appraisal is uploaded [every working day](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/Work_Schedule.md).
 
 ## 12 Data items: List and define all variables for which data will be sought (such as PICO items, funding sources), any pre-planned data assumptions and simplifications
 

@@ -38,7 +38,7 @@ Critical appraisal will feature: Duplication assessment; Replication; Assessment
 
 ## 6 Synthesis of results: Specify the methods used to present and synthesize results
 
-No across-studies synthesis is planned. Within-studies, I will formulate explicit practice-relevant statements based on the extracted health outcomes and quality-of-conduct assessment.
+No across-studies synthesis is planned. Within-studies, I will formulate explicit practice-relevant statements based on the extracted health outcomes and quality-of-conduct assessment. Also, the process of each critical appraisal is video-recorded and published on [YouTube](https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ) daily.
 
 # RESULTS
 
