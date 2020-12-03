@@ -208,11 +208,17 @@ Please see [12 Effect measures](#12-effect-measures-specify-for-each-outcome-the
 
 ## 14 Reporting bias assessment: Describe any methods used to assess risk of bias due to missing results in a synthesis (arising from reporting biases)
 
-
+* I will use the preliminary version of the [ROB-ME](https://www.riskofbias.info/welcome/rob-me-tool) tool. All documentation will take place directly in the text on the record page at Zheln.com. However, I do not have in mind any generic algorithm to assess overall risk of bias, so I will elaborate on it for each appraisal separately.
+* I will be the only assessor for now.
+* No automation tools will be used.
+* The authors will not be contacted routinely. However, if specifically requested when crowdfunded or at will, will be done.
 
 ## 15 Certainty assessment: Describe any methods used to assess certainty (or confidence) in the body of evidence for an outcome
 
-
+* I will use the [GRADE](https://gdt.gradepro.org/app/handbook/handbook.html) tool in its interpretation for systematic review authors. All documentation will take place directly in the text on the record page at Zheln.com. I do not have in mind any generic algorithm to assess certainty of evidence, so I will elaborate on it for each appraisal separately.
+* I will be the only assessor for now.
+* No automation tools will be used.
+* The authors will not be contacted routinely. However, if specifically requested when crowdfunded or at will, will be done.
 
 # RESULTS
 
@@ -282,26 +288,42 @@ Please see [12 Effect measures](#12-effect-measures-specify-for-each-outcome-the
 
 ## 24a Registration and protocol: Provide registration information for the review, including register name and registration number, or state that the review was not registered
 
+The project is hosted on GitHub. Also, there is an [umbrella Open Science Framework project](https://doi.org/10.17605/OSF.IO/EJKFC) that mediates publication of Zheln methods between raw GitHub data (the [primary](https://github.com/drzhelnov/zheln.github.io) and [methods](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query) repos) and stable Open Science Framework preprints (project components such as the [replicated PubMed systematic subset](https://doi.org/10.17605/OSF.IO/Z3JU7), [systematic review protocol](https://doi.org/10.17605/OSF.IO/K4Y83), [living systematic review report](https://doi.org/10.17605/OSF.IO/G6RA9)).
 
+Operational information on how the [Zheln website](https://zheln.com) works and how to recreate the research environment in use are also available from these repositories.
+
+The protocol for this overview of systematic reviews is about to be registered in [PROSPERO](https://www.crd.york.ac.uk/prospero/). Any amendments to the protocol will be available from the above-mentioned repositories and will be reported in summary posts at Zheln.com.
 
 ## 24b Registration and protocol: Indicate where the review protocol can be accessed, or state that a protocol was not prepared
 
-
+Please see [24a Registration and protocol](#24a-registration-and-protocol-provide-registration-information-for-the-review-including-register-name-and-registration-number-or-state-that-the-review-was-not-registered).
 
 ## 24c Registration and protocol: Describe and explain any amendments to information provided at registration or in the protocol
 
-
+Please see [24a Registration and protocol](#24a-registration-and-protocol-provide-registration-information-for-the-review-including-register-name-and-registration-number-or-state-that-the-review-was-not-registered).
 
 ## 25 Support: Describe sources of financial or non-financial support for the review, and the role of the funders or sponsors in the review
 
-
+* There is no other funding for Zheln besides my private devotion and crowdfunding.
+* Crowdfunding details are available from the [Zheln website](https://zheln.com). Crowd funders had no role in the design of the protocol. They will be able to request critical appraisal and additional critical appraisal (with new data provided) of any eligible record but will not influence the review process otherwise.
+* If Zheln videos get popular enough in the future, will also monetize these using the [YouTube Partner Program](https://support.google.com/youtube/answer/72857).
 
 ## 26 Competing interests: Declare any competing interests of review authors
 
-
+I, Pavel Zhelnov ([ORCID 0000-0003-2767-5123](http://orcid.org/0000-0003-2767-5123)), am the only author so far and declare no competing interests.
 
 ## 27 Availability of data, code and other materials: Report which of the following are publicly available and where they can be found: template data collection forms; data extracted from included studies; data used for all analyses; analytic code; any other materials used in the review
 
+Please see [24a Registration and protocol](#24a-registration-and-protocol-provide-registration-information-for-the-review-including-register-name-and-registration-number-or-state-that-the-review-was-not-registered).
+
+In addition to all review data being publicly available, the project management information is also publicly available:
+
+* Zheln uses public [GitHub kanban boards](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards) to manage its workflow.
+* Namely, important tasks needed to accomplish the [Zheln’s mission](#zhelns-mission) are created as public Projects on the [Zheln GitHub page](https://github.com/drzhelnov/zheln.github.io/projects), e.g., [Streamline Zheln](https://github.com/drzhelnov/zheln.github.io/projects/1) or [Register with PROSPERO](https://github.com/drzhelnov/zheln.github.io/projects/2).
+* Further, these tasks are broken down into smaller blocks ([GitHub Issues](https://github.com/drzhelnov/zheln.github.io/issues)) and are displayed on the projects’ kanban boards.
+* Finally, each week, short-term [GitHub Milestones](https://github.com/drzhelnov/zheln.github.io/milestones) are created and then assigned to the Issues to track weekly progress.
+* All of these elements are public. Issues are open for public comment (GitHub registration needed).
+* To maximize publicity, Zheln additionally endeavors to publish [summary posts](https://zheln.com) twice a week, where I overview the events that happened on Zheln since the last summary and that I consider important.
 
 [Page2020gwdhk]: https://doi.org/10.31222/osf.io/gwdhk "Page MJ, Moher D, Bossuyt P, Boutron I, Hoffmann T, Mulrow CD, Shamseer L, Tetzlaff J, Akl E, Brennan SE, Chou R, Glanville J, Grimshaw J, Hróbjartsson A, Lalu MM, Li T, Loder E, Mayo-Wilson E, McDonald S, McGuinness LA, Stewart L, Thomas J, Tricco A, Welch VA, Whiting P, McKenzie J. PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews. MetaArXiv. 2020 Sep 14. doi: 10.31222/osf.io/gwdhk"
 
