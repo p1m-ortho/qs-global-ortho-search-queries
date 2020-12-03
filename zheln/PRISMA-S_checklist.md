@@ -497,10 +497,8 @@ None used except those built in the query.
 ## 10 Search filters: Indicate whether published search filters were used (as originally designed or modified), and if so, cite the filter(s) used
 
 * The _PubMed Systematic Review Subset Query, Zheln Edition,_ ultimately represents the [Search Strategy Used to Create the Systematic Reviews Subset on PubMed](https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) as joined from the two versions: [February 2017](http://web.archive.org/web/20181023065423/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) and [December 2018](http://web.archive.org/web/20190711085949/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html).
-* The February 2017 version is [based](https://wayback.archive-it.org/org-350/20180406175620/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_sources.html) on the study by [Shojania & Bero 2001][Shojania2001157162].
-* I do not know what the December 2018 version is based on, as it has not been written there.
-* See a detailed account of the development of the _Zheln Edition_ and its testing reports in the [commit history of the Zheln methods repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
-* While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
+* The February 2017 version is [based](https://wayback.archive-it.org/org-350/20180406175620/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_sources.html) on the study by [Shojania & Bero 2001][Shojania2001157162]. I do not know what the December 2018 version is based on, as it has not been written there.
+* See a detailed account of the development of the _Zheln Edition_ and its testing reports in the [commit history of the Zheln methods repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query). While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository). This information is also going to be republished on a [dedicated Open Science Framework page](10.17605/OSF.IO/Z3JU7).
 
 ## 11 Prior work: Indicate when search strategies from other literature reviews were adapted or reused for a substantive part or all of the search, citing the previous review(s)
 
@@ -527,6 +525,8 @@ None.
 ## 15 Total records: Document the total number of records identified from each database and other information sources
 
 Please consult the [Appraisal Log](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/Appraisal_Log.md).
+
+Also, this information is available from flow diagrams in the latest summary posts at the [Zheln website](https://zheln.com).
 
 ## 16 Deduplication: Describe the processes and any software used to deduplicate records from multiple database searches and other information sources
 
