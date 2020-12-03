@@ -10,31 +10,35 @@ Page MJ, McKenzie J, Bossuyt P, Boutron I, Hoffmann T, Mulrow CD, Shamseer L, Te
 
 ## 1 Title: Identify the report as a systematic review
 
-
+Zheln.com: A protocol for a universal living overview of health-related systematic reviews
 
 # BACKGROUND
 
 ## 2 Objectives: Provide an explicit statement of the main objective(s) or question(s) the review addresses
 
-
+1. Identify and monitor most of published systematic reviews.
+2. Tag the identified systematic records with medical specialties.
+3. Select or crowdfund reviews for further appraisal.
+4. Critically appraise and replicate the selected systematic reviews.
+5. Disseminate practice implications of positively appraised reviews to both the public and evidence-based practitioners in health care and other fields associated with intervention into a human life, such as education, business, policy, or ecology.
 
 # METHODS
 
 ## 3 Eligibility criteria: Specify the inclusion and exclusion criteria for the review
 
-
+Record eligibility is assessed by checking the record title and, if the title failed, abstract against the ‘true positive criteria’ for systematic reviews taken from the publication by [Shojania & Bero 2001][Shojania2001157162]. The record/study flow is as follows: All eligible records are amenable for tagging, selection, and crowdfunding process; Only those eligible records that have been selected or crowdfunded are subject to critical appraisal; For all records that have been selected, all relevant reports are collected; Reports are grouped into studies; Only for the studies appraised positively, practical implications are summarized and disseminated. COVID-19 publications are not selected. Crowdfunding an appraisal of any eligible record is possible for any individual or organization.
 
 ## 4 Information sources: Specify the information sources (e.g. databases, registers) used to identify studies and the date when each was last searched
 
-
+MEDLINE via [PubMed](https://pubmed.ncbi.nlm.nih.gov). Adding other search sources, such as Scopus, OSF, and medRxiv, is planned in the future when more appraisers become available. The [Replicated Version of the PubMed Systematic Review Subset Query, Zheln Edition](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/PRISMA-S_checklist.md#8-full-search-strategies-include-the-search-strategies-for-each-database-and-information-source-copied-and-pasted-exactly-as-run) will be used. The searches are run daily.
 
 ## 5 Risk of bias: Specify the methods used to assess risk of bias in the included studies
 
-
+Critical appraisal will feature: Duplication assessment; Replication; Assessment against the [MECIR conduct standards](https://community.cochrane.org/mecir-manual/standards-conduct-new-cochrane-intervention-reviews-c1-c75); [ROB-ME](https://www.riskofbias.info/welcome/rob-me-tool) assessment; [GRADE](https://gdt.gradepro.org/app/handbook/handbook.html) assessment.
 
 ## 6 Synthesis of results: Specify the methods used to present and synthesize results
 
-
+No across-studies synthesis is planned. Within-studies, I will formulate explicit practice-relevant statements based on the extracted health outcomes and quality-of-conduct assessment.
 
 # RESULTS
 
@@ -65,3 +69,5 @@ Page MJ, McKenzie J, Bossuyt P, Boutron I, Hoffmann T, Mulrow CD, Shamseer L, Te
 ## 12 Registration: Provide the register name and registration number
 
 
+
+[Shojania2001157162]: https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy "Shojania KG, Bero LA. Taking advantage of the explosion of systematic reviews: an efficient MEDLINE search strategy. Eff Clin Pract. 2001 Jul-Aug;4(4):157-62. PMID: 11525102."
