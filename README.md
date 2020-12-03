@@ -190,7 +190,7 @@ Each step is also marked with an appraisal status icon:
 * Involves extracting the pragmatic outcomes that I deemed relevant for evidence-based practice.
 * This is done only if the Step 9 summary is conducted. If so, I will extract the data directly in the text of the appraisal.
 * I will decide what outcomes to extract depending on the research question. As a rule, I will choose one among all outcomes mentioned in the study reports and will contrast it to the outcomes usually used in similar studies to decide if this is an acceptably practice-important and question-relevant outcome.
-* To learn what outcomes are best studied for similar research questions, I’m planning to use informal electronic search (Google, PubMed, etc.), that I’m not planning to document, but I will summarize important information on this matter, including references, if applicable, in the text of the appraisal.
+* To learn what outcomes are best suited for similar research questions, I’m planning to use informal electronic search (Google, PubMed, etc.), that I’m not planning to document, but I will summarize important information on this matter, including references, if applicable, in the text of the appraisal.
 * If I did find such appropriate outcome in the study reports, I will use it as a _primary outcome_ to then assess effectiveness of the interventions. Also, I will tick this study as `4. ✅ Generates Pragmatic Evidence Directly Relevant to Evidence-Based Practice`.
 * Otherwise, if I did not find any appropriate outcomes reported, I will put the `4. ❌ Does Not Generate Pragmatic Evidence Directly Relevant to Evidence-Based Practice` label and abstain from further appraisal.
 
