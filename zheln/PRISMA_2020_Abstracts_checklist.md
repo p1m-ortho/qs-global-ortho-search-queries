@@ -64,10 +64,10 @@ No across-studies synthesis is planned. Within-studies, I will formulate explici
 
 ## 11 Funding: Specify the primary source of funding for the review
 
-
+The review is crowdfunded; the details are available from the [Zheln website](https://zheln.com). Crowd funders had no role in the design of the protocol. They will be able to request critical appraisal and additional critical appraisal (with new data provided) of any eligible record but will not influence the review process otherwise.
 
 ## 12 Registration: Provide the register name and registration number
 
-
+The project is hosted on GitHub. Also, there is an umbrella Open Science Framework project that links repositories and preprints ([DOI 10.17605/OSF.IO/EJKFC](https://doi.org/10.17605/OSF.IO/EJKFC)). The protocol for this overview of systematic reviews is about to be registered in [PROSPERO](https://www.crd.york.ac.uk/prospero/).
 
 [Shojania2001157162]: https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy "Shojania KG, Bero LA. Taking advantage of the explosion of systematic reviews: an efficient MEDLINE search strategy. Eff Clin Pract. 2001 Jul-Aug;4(4):157-62. PMID: 11525102."
