@@ -39,9 +39,15 @@ _History of the project:_ On [July 11, 2019](https://github.com/p1m-ortho/qs-glo
 
 ## 4 Objectives: Provide an explicit statement of the objective(s) or question(s) the review addresses
 
-1. Monitor most of published systematic reviews to rapidly identify and disseminate new systematic reviews.
-2. Critically appraise and, where possible, replicate those of the systematic reviews identified that, in the appraiser’s mind, are useful to evidence-based practitioners and the public. Evidence-based practitioners involve healthcare practitioners, in the first place, but also practitioners in other fields associated with intervention into a human life, such as education, business, policy, or ecology.
-3. Tag the identified systematic records with medical specialties to facilitate their discovery by healthcare practitioners.
+PRISMA 2020 requires use of PICO or PerSPEcTiF ([Booth 2019][Booth2019e001107]) frameworks in this section. However, I could not find these relevant to this review. Therefore, I am using custom formulations:
+
+1. Identify and monitor most of published systematic reviews.
+2. Tag the identified systematic records with medical specialties.
+3. Select or crowdfund reviews for further appraisal.
+4. Critically appraise and replicate the selected systematic reviews.
+5. Disseminate practice implications of positively appraised reviews to both the public and evidence-based practitioners.
+ 
+Evidence-based practitioners involve healthcare practitioners, in the first place, but also practitioners in other fields associated with intervention into a human life, such as education, business, policy, or ecology.
 
 # METHODS
 
@@ -217,3 +223,5 @@ _History of the project:_ On [July 11, 2019](https://github.com/p1m-ortho/qs-glo
 [Haynes2006162164]: https://doi.org/10.1136/ebm.11.6.162-a "Haynes RB. Of studies, syntheses, synopses, summaries, and systems: the “5S” evolution of information services for evidence-based health care decisions. ACP J Club. 2006 Nov-Dec;145(3):A8. doi: 10.1136/ebm.11.6.162-a. PMID: 17080967."
 
 [Chandran2020147154]: https://doi.org/10.7324/JAPS.2020.10717 "Chandran PV, Khan S, Pai KG, Khera K, Devi ES, Athira B, Thunga G. Evidence-based medicine databases: an overview. J Appl Pharm Sci. 2020 Jul;10(7):147-154. doi: 10.7324/JAPS.2020.10717."
+
+[Booth2019e001107]: https://doi.org/10.1136/bmjgh-2018-001107 "Booth A, Noyes J, Flemming K, Moore G, Tunçalp Ö, Shakibazadeh E. Formulating questions to explore complex interventions within qualitative evidence synthesis. BMJ Glob Health. 2019 Jan 25;4(Suppl 1):e001107. doi: 10.1136/bmjgh-2018-001107. PMID: 30775019; PMCID: PMC6350737."
