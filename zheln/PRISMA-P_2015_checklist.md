@@ -1,10 +1,14 @@
 # README
 
-This document is compliant with PRISMA (2020) and PRISMA-P (2015) reporting guidelines.
+This document is compliant with PRISMA (2020), PRISMA-S (2020), and PRISMA-P (2015) reporting guidelines.
 
 **PRISMA 2020 item checklist**
 
 Page MJ, McKenzie J, Bossuyt P, Boutron I, Hoffmann T, Mulrow CD, Shamseer L, Tetzlaff J, Akl E, Brennan SE, Chou R, Glanville J, Grimshaw J, Hróbjartsson A, Lalu MM, Li T, Loder E, Mayo-Wilson E, McDonald S, McGuinness LA, Stewart L, Thomas J, Tricco A, Welch VA, Whiting P, Moher D. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. MetaArXiv. 2020 Sep 14. [doi: 10.31222/osf.io/v7gm2](https://doi.org/10.31222/osf.io/v7gm2).
+
+**PRISMA-S checklist**
+
+Rethlefsen M, Kirtley S, Waffenschmidt S, Ayala AP, Moher D, Page MJ, Koffel J. PRISMA-S: An Extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews. Version: 5. OSF Preprints. 2020 Jul 16. [doi: 10.31219/osf.io/sfc38](https://doi.org/10.31219/osf.io/sfc38).
 
 **PRISMA-P (Preferred Reporting Items for Systematic review and Meta-Analysis Protocols) 2015 checklist: recommended items to address in a systematic review protocol**
 
