@@ -48,7 +48,7 @@ Please refer to the [Zheln main repo README](https://github.com/drzhelnov/zheln.
 ## Objectives
 
 1. Monitor most of all published systematic reviews to rapidly identify new systematic reviews. Systematic reviews, in their turn, are known to be, today, the best source of information for evidence-based practice.
-2. Critically appraise and, where possible, replicate those of the systematic reviews idenitifed that are useful for evidence-based practice, in the appraiser’s mind.
+2. Critically appraise and, where possible, replicate those of the systematic reviews identified that are useful for evidence-based practice, in the appraiser’s mind.
 3. Tag the records under review with physician specialties to ease following the updates by practising physicians.
 
 **Pragmatic worth:**
