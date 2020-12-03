@@ -169,11 +169,19 @@ All raw records and data are publicly available from the project [primary](https
 * [Raw search query results](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/summary-systematic-set)
 * [Guidance on record generation](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md#appendix-how-to-compile-zheln-records)
 * [Editable records](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/posts-edit)
-* [Published records](https://github.com/drzhelnov/zheln.github.io/tree/master/_posts/record)
 * [Appraisal log](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/Appraisal_Log.md)
 * [PRISMA 2020 flow diagrams](https://github.com/drzhelnov/zheln.github.io/tree/master/flow-diagram)
 
 All processed records is available from the [Zheln website](https://zheln.com). Operational information on how this website works and how to recreate the research environment in use are also available from these repositories.
+
+In addition to all review data being publicly available, the project management information is also publicly available:
+
+* Zheln uses public [GitHub kanban boards](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards) to manage its workflow.
+* Namely, important tasks needed to accomplish the [Zheln’s mission](#zhelns-mission) are created as public Projects on the [Zheln GitHub page](https://github.com/drzhelnov/zheln.github.io/projects), e.g., [Streamline Zheln](https://github.com/drzhelnov/zheln.github.io/projects/1) or [Register with PROSPERO](https://github.com/drzhelnov/zheln.github.io/projects/2).
+* Further, these tasks are broken down into smaller blocks ([GitHub Issues](https://github.com/drzhelnov/zheln.github.io/issues)) and are displayed on the projects’ kanban boards.
+* Finally, each week, short-term [GitHub Milestones](https://github.com/drzhelnov/zheln.github.io/milestones) are created and then assigned to the Issues to track weekly progress.
+* All of these elements are public. Issues are open for public comment (GitHub registration needed).
+* To maximize publicity, Zheln additionally endeavors to publish [summary posts](https://zheln.com) twice a week, where I overview the events that happened on Zheln since the last summary and that I consider important.
 
 ### 11b Selection process: State the process that will be used for selecting studies (such as two independent reviewers) through each phase of the review (that is, screening, eligibility and inclusion in meta-analysis)
 
