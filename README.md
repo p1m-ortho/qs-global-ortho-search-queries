@@ -114,7 +114,7 @@ Each step is also marked with an appraisal status icon:
 * See a detailed account of the development of the _Zheln Edition_ and its testing reports in the [commit history of the repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
 * While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
 * On [Zheln](https://zheln.com), records that are at the Step 1 of the appraisal process are automatically (since the [version 2.2.1](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/af6d75fa635c2d62169e9ec36505b9657a127ed9#diff-d556e85617be04293b0ad953ad7028b3) of the record-maker script) assigned the `awaiting appraisal` status tag. Also, the [corresponding footer](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/footer-1-true.txt) is attached and the records are sorted [at random](https://www.random.org/sequences/?mode=advanced) within their date.
-* Adding other search sources, such as Scopus, PROSPERO, OSF, and medRxiv, is planned in the future when more appraiser become available.
+* Adding other search sources, such as Scopus, PROSPERO, OSF, and medRxiv, is planned in the future when more appraisers become available.
 
 ### Record Screening
 
