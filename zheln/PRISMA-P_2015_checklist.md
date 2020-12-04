@@ -39,7 +39,7 @@ This is a protocol for a living overview of reviews, so it is updated incrementa
 
 ## 2 Registration: If registered, provide the name of the registry (such as PROSPERO) and registration number
 
-The project is hosted on GitHub. Also, there is an [umbrella Open Science Framework project](https://doi.org/10.17605/OSF.IO/EJKFC) that mediates publication of Zheln methods between raw GitHub data (the [primary](https://github.com/drzhelnov/zheln.github.io) and [methods](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query) repos) and stable Open Science Framework preprints (project components, such as the [replicated PubMed systematic subset](https://doi.org/10.17605/OSF.IO/Z3JU7), [systematic review protocol](https://doi.org/10.17605/OSF.IO/K4Y83), [living systematic review report](https://doi.org/10.17605/OSF.IO/G6RA9)).
+The project is hosted on GitHub. Also, there is an [umbrella Open Science Framework project](https://doi.org/10.17605/OSF.IO/EJKFC) that mediates publication of Zheln methods between raw GitHub data (the [primary](https://github.com/drzhelnov/zheln.github.io) and [methods](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query) repositories) and stable Open Science Framework preprints (project components, such as the [replicated PubMed systematic subset](https://doi.org/10.17605/OSF.IO/Z3JU7), [systematic review protocol](https://doi.org/10.17605/OSF.IO/K4Y83), [living systematic review report](https://doi.org/10.17605/OSF.IO/G6RA9)).
 
 This protocol for an overview of systematic reviews is also about to be registered in [PROSPERO](https://www.crd.york.ac.uk/prospero/).
 
@@ -106,7 +106,7 @@ In spite of that, I never found a resource that would have the following feature
 
 Therefore, I embarked on creating such a resource.
 
-_History of the project:_ On [July 11, 2019](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/70d3bebf1ed70845950aece09122b49f58fe2880), I inititated a study with the aim of creating an exhaustive registry of systematic reviews in orthopedics (in Russian). Due to the large volume of records to screen, it was not very successful; however, it still did continue up until [Feb 17, 2020](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/d44e7db892a23adb8ca3eeb36cbe55b8e05b7b45), when it went into a 200-day hiatus. Since [September 6, 2020](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/ff1f29c87483b355b9541859d4b4c39052046936), the study has continued as [![Woodpecker by Anton from The Noun Project](https://raw.githubusercontent.com/drzhelnov/zheln.github.io/gh-pages/favicons/favicon-16x16.png)](https://zheln.com) [Zheln.com](https://zheln.com), a crowdfunding project.
+_History of the project:_ On [July 11, 2019](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/70d3bebf1ed70845950aece09122b49f58fe2880), I inititated a study with the aim of creating an exhaustive registry of systematic reviews in orthopedics (in Russian). Due to the large volume of records to screen, it was not very successful; however, it still did continue up until [Feb 17, 2020](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/d44e7db892a23adb8ca3eeb36cbe55b8e05b7b45), when it went into a 200-day hiatus. Since [September 6, 2020](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/ff1f29c87483b355b9541859d4b4c39052046936), the study has continued as [Zheln.com](https://zheln.com), a crowdfunded project.
 
 ## 7 Objectives: Provide an explicit statement of the question(s) the review will address with reference to participants, interventions, comparators, and outcomes (PICO)
 
@@ -172,16 +172,16 @@ All raw records and data are publicly available from the project [primary](https
 * [Appraisal log](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/Appraisal_Log.md)
 * [PRISMA 2020 flow diagrams](https://github.com/drzhelnov/zheln.github.io/tree/master/flow-diagram)
 
-All processed records is available from the [Zheln website](https://zheln.com). Operational information on how this website works and how to recreate the research environment in use are also available from these repositories.
+All processed records are available from the [Zheln website](https://zheln.com). Operational information on how this website works and how to recreate the research environment in use are also available from these repositories.
 
 In addition to all review data being publicly available, the project management information is also publicly available:
 
 * Zheln uses public [GitHub kanban boards](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards) to manage its workflow.
-* Namely, important tasks needed to accomplish the [Zheln’s mission](#zhelns-mission) are created as public Projects on the [Zheln GitHub page](https://github.com/drzhelnov/zheln.github.io/projects), e.g., [Streamline Zheln](https://github.com/drzhelnov/zheln.github.io/projects/1) or [Register with PROSPERO](https://github.com/drzhelnov/zheln.github.io/projects/2).
+* Namely, important tasks needed to accomplish the [Zheln’s mission](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md#zhelns-mission) are created as public Projects on the [Zheln GitHub page](https://github.com/drzhelnov/zheln.github.io/projects), e.g., [Streamline Zheln](https://github.com/drzhelnov/zheln.github.io/projects/1) or [Register with PROSPERO](https://github.com/drzhelnov/zheln.github.io/projects/2).
 * Further, these tasks are broken down into smaller blocks ([GitHub Issues](https://github.com/drzhelnov/zheln.github.io/issues)) and are displayed on the projects’ kanban boards.
 * Finally, each week, short-term [GitHub Milestones](https://github.com/drzhelnov/zheln.github.io/milestones) are created and then assigned to the Issues to track weekly progress.
 * All of these elements are public. Issues are open for public comment (GitHub registration needed).
-* To maximize publicity, Zheln additionally endeavors to publish [summary posts](https://zheln.com) twice a week, where I overview the events that happened on Zheln since the last summary and that I consider important.
+* To maximize publicity, I additionally endeavor to publish [summary posts](https://zheln.com) twice a week, where I overview the events that happened on Zheln since the last summary and that I consider important.
 
 ### 11b Selection process: State the process that will be used for selecting studies (such as two independent reviewers) through each phase of the review (that is, screening, eligibility and inclusion in meta-analysis)
 
@@ -199,8 +199,8 @@ Tagging of records:
 
 * Specialty-tagging is done by the appraiser themselves based on whatever information they acquired during record screening.
 * Specialty tags may also be assigned or removed throughout further full appraisal if this is deemed appropriate to better reflect the content of the record.
-* The tags are chosen from [191 specialty tags](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags.ls) made from a [list of 171 AMA Masterfile Physician Specialties](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags_config.ls). I have chosen this specialty classification because it is, arguably, the most elaborate one (in terms of listed subspecialties) among those widely used. See the methods used to compile the lists of specialties and specialty tags in the [commit history of the Zheln methods repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
-* While tagging, the tagger should consider if the record would be accessible from its most relevant [specialty page](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_page_filenames.ls) and ensure it would. Namely, the tagger must check the record against **each** specialty on the list, assess if this record could be of interest to a typical physician working in this specialty, and choose one specialty that looks most relevant in this regard.
+* The tags are chosen from [191 specialty tags](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags.lst) made from a [list of 171 AMA Masterfile Physician Specialties](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags_config.lst). I have chosen this specialty classification because it is, arguably, the most elaborate one (in terms of listed subspecialties) among those widely used. See the methods used to compile the lists of specialties and specialty tags in the [commit history of the Zheln methods repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
+* While tagging, the tagger should consider if the record would be accessible from its most relevant [specialty page](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_page_filenames.lst) and ensure it would. Namely, the tagger must check the record against **each** specialty on the list, assess if this record could be of interest to a typical physician working in this specialty, and choose one specialty that looks most relevant in this regard.
 * If choosing one such specialty is hard enough, choosing more than one is acceptable. As such, adding more than one specialty tag is actively discouraged unless absolutely unavoidable, as it remarkably compromises appraisal speed. Therefore, multiple specialties are warranted if and only if it is perceived to be faster to multiselect than choose one among several.
 * I do recognize the best approach to specialty-grouping would be an evidence-based approach involving feedback from the physicians themselves. However, this is unavailable at the moment, so specialty-grouping will be theory-based. In the future, introducing empirical testing will be of interest.
 * If the tagger is uncertain either of the article subject or any specialty scope, they should consult Google or other information sources until both seem perfectly clear.
@@ -264,7 +264,7 @@ Quality-of-conduct assessment:
 
 * Replicability is a sign of sound conduct and good reporting but does not guarantee robustness of the review. Therefore, additional quality-of-conduct assessment is required.
 * Some tools have been developed to assess risk of bias in systematic reviews, such as [ROBIS](https://www.bristol.ac.uk/population-health-sciences/projects/robis) or [CINeMA](https://doi.org/10.1371/journal.pmed.1003082). However, they are rather recent, and there is evidence agreement is low at least for some of them ([Gates 2020][Gates2020915]).
-* In contrast, [MECIR](https://community.cochrane.org/mecir-manual) have been out there for quite some time now. Also, it has been neatly integrated into [Cochrane Handbook 6](https://training.cochrane.org/handbook/current) that provides further insight into these issues.
+* In contrast, [MECIR](https://community.cochrane.org/mecir-manual) have been out there for quite some time now. Also, they have been neatly integrated into [Cochrane Handbook 6](https://training.cochrane.org/handbook/current) that provides further insight into these issues.
 * Thus, I elect to use the [MECIR conduct standards](https://community.cochrane.org/mecir-manual/standards-conduct-new-cochrane-intervention-reviews-c1-c75) to assess quality of conduct. I will go over all 75 MECIR conduct items to get an understanding and will document for each item if it was followed, in my view. I will also provide rationale where relevant. All the documentation will take place directly in the text on the record page at Zheln.com.
 * In general, I expect _mandatory_ MECIR items to be followed, whereas _highly desirable_ items may be ignored. However, I acknowledge that MECIR standards (1) are not absolute and (2) were developed for intervention reviews only (whereas this overview may feature other systematic reviews as well). Also, some of the items would look critical for one review and not critical for another.
 * Hence, the final decision about whether or not I have observed evidence of critical conduct flaws is always mine to make; at the same time, I will do my best to accurately substantiate my findings in the appraisal text. My decision may be `7. ❌ Has Critical Conduct Flaws`, `7. ✅ No Critical Conduct Flaws Identified by Zheln`, or `7. ✅ No Conduct Flaws Identified by Zheln`, depending on those findings.
@@ -304,30 +304,6 @@ Please see [15a Describe criteria under which study data will be quantitatively 
 * I will be the only assessor for now.
 * No automation tools will be used.
 * The authors will not be contacted routinely. However, if specifically requested when crowdfunded or at will, will be done.
-
-[Page2020gwdhk]: https://doi.org/10.31222/osf.io/gwdhk "Page MJ, Moher D, Bossuyt P, Boutron I, Hoffmann T, Mulrow CD, Shamseer L, Tetzlaff J, Akl E, Brennan SE, Chou R, Glanville J, Grimshaw J, Hróbjartsson A, Lalu MM, Li T, Loder E, Mayo-Wilson E, McDonald S, McGuinness LA, Stewart L, Thomas J, Tricco A, Welch VA, Whiting P, McKenzie J. PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews. MetaArXiv. 2020 Sep 14. doi: 10.31222/osf.io/gwdhk"
-
-[Papes2020e13301]: https://doi.org/10.1111/eci.13301 "Papes D, Jeroncic A, Ozimec E. Redundancy and methodological issues in articles on COVID-19. Eur J Clin Invest. 2020 Jun 7:e13301. doi: 10.1111/eci.13301. Epub ahead of print. PMID: 32506512; PMCID: PMC7300618."
-
-[Bastian2010e1000326]: https://doi.org/10.1371/journal.pmed.1000326 "Bastian H, Glasziou P, Chalmers I. Seventy-five trials and eleven systematic reviews a day: how will we ever keep up? PLoS Med. 2010 Sep 21;7(9):e1000326. doi: 10.1371/journal.pmed.1000326. PMID: 20877712; PMCID: PMC2943439."
-
-[Contou202070]: https://doi.org/10.1186/s13613-020-00688-2 "Contou D, Thirion M, Pajot O, Plantefève G, Mentec H. Journal club in an ICU: rate and factors associated with practice-changing articles. Analysis of 1712 articles read over a 13-year period (2007-2019). Ann Intensive Care. 2020 Jun 1;10(1):70. doi: 10.1186/s13613-020-00688-2. PMID: 32488529; PMCID: PMC7266895."
-
-[Bougioukas2020e12318]: https://doi.org/10.1111/hir.12318 "Bougioukas KI, Bouras EC, Avgerinos KI, Dardavessis T, Haidich AB. How to keep up to date with medical information using web-based resources: a systematised review and narrative synthesis. Health Info Libr J. 2020 Jul 21. doi: 10.1111/hir.12318. Epub ahead of print. PMID: 32691960."
-
-[Boutron2020135142]: https://doi.org/10.1016/j.jclinepi.2020.01.024 "Boutron I, Créquit P, Williams H, Meerpohl J, Craig JC, Ravaud P. Future of evidence ecosystem series: 1. Introduction Evidence synthesis ecosystem needs dramatic change. J Clin Epidemiol. 2020 Jul;123:135-142. doi: 10.1016/j.jclinepi.2020.01.024. Epub 2020 Mar 4. PMID: 32145367."
-
-[Haynes2006162164]: https://doi.org/10.1136/ebm.11.6.162-a "Haynes RB. Of studies, syntheses, synopses, summaries, and systems: the “5S” evolution of information services for evidence-based health care decisions. ACP J Club. 2006 Nov-Dec;145(3):A8. doi: 10.1136/ebm.11.6.162-a. PMID: 17080967."
-
-[Chandran2020147154]: https://doi.org/10.7324/JAPS.2020.10717 "Chandran PV, Khan S, Pai KG, Khera K, Devi ES, Athira B, Thunga G. Evidence-based medicine databases: an overview. J Appl Pharm Sci. 2020 Jul;10(7):147-154. doi: 10.7324/JAPS.2020.10717."
-
-[Booth2019e001107]: https://doi.org/10.1136/bmjgh-2018-001107 "Booth A, Noyes J, Flemming K, Moore G, Tunçalp Ö, Shakibazadeh E. Formulating questions to explore complex interventions within qualitative evidence synthesis. BMJ Glob Health. 2019 Jan 25;4(Suppl 1):e001107. doi: 10.1136/bmjgh-2018-001107. PMID: 30775019; PMCID: PMC6350737."
-
-[Shojania2001157162]: https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy "Shojania KG, Bero LA. Taking advantage of the explosion of systematic reviews: an efficient MEDLINE search strategy. Eff Clin Pract. 2001 Jul-Aug;4(4):157-62. PMID: 11525102."
-
-[Dickens2020emo0000905]: https://doi.org/10.1037/emo0000905 "Dickens LR, Robins RW. Pride: A meta-analytic project. Emotion. 2020 Nov 12. doi: 10.1037/emo0000905. Epub ahead of print. PMID: 33180528."
-
-[Gates2020915]: https://doi.org/10.1016/j.jclinepi.2020.04.026 "Gates M, Gates A, Duarte G, Cary M, Becker M, Prediger B, Vandermeer B, Fernandes RM, Pieper D, Hartling L. Quality and risk of bias appraisals of systematic reviews are inconsistent across reviewers and centers. J Clin Epidemiol. 2020 Sep;125:9-15. doi: 10.1016/j.jclinepi.2020.04.026. Epub 2020 May 19. PMID: 32416337."
 
 # PRISMA-S checklist
 
@@ -825,7 +801,7 @@ None used except those built in the query.
 
 * The _PubMed Systematic Review Subset Query, Zheln Edition,_ ultimately represents the [Search Strategy Used to Create the Systematic Reviews Subset on PubMed](https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) as joined from the two versions: [February 2017](http://web.archive.org/web/20181023065423/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) and [December 2018](http://web.archive.org/web/20190711085949/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html).
 * The February 2017 version is [based](https://wayback.archive-it.org/org-350/20180406175620/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_sources.html) on the study by [Shojania & Bero 2001][Shojania2001157162]. I do not know what the December 2018 version is based on, as it has not been written there.
-* See a detailed account of the development of the _Zheln Edition_ and its testing reports in the [commit history of the Zheln methods repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query). While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository). This information is also going to be republished on a [dedicated Open Science Framework page](10.17605/OSF.IO/Z3JU7).
+* See a detailed account of the development of the _Zheln Edition_ and its testing reports in the [commit history of the Zheln methods repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query). While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository). This information is also going to be republished on a [dedicated Open Science Framework page](https://doi.org/10.17605/OSF.IO/Z3JU7).
 
 ## 11 Prior work: Indicate when search strategies from other literature reviews were adapted or reused for a substantive part or all of the search, citing the previous review(s)
 
@@ -859,4 +835,26 @@ Also, this information is available from flow diagrams in the latest summary pos
 
 None done, because records are reviewed separately for each date and are unlikely to be duplicate within a single PubMed search.
 
+[Page2020gwdhk]: https://doi.org/10.31222/osf.io/gwdhk "Page MJ, Moher D, Bossuyt P, Boutron I, Hoffmann T, Mulrow CD, Shamseer L, Tetzlaff J, Akl E, Brennan SE, Chou R, Glanville J, Grimshaw J, Hróbjartsson A, Lalu MM, Li T, Loder E, Mayo-Wilson E, McDonald S, McGuinness LA, Stewart L, Thomas J, Tricco A, Welch VA, Whiting P, McKenzie J. PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews. MetaArXiv. 2020 Sep 14. doi: 10.31222/osf.io/gwdhk"
+
+[Papes2020e13301]: https://doi.org/10.1111/eci.13301 "Papes D, Jeroncic A, Ozimec E. Redundancy and methodological issues in articles on COVID-19. Eur J Clin Invest. 2020 Jun 7:e13301. doi: 10.1111/eci.13301. Epub ahead of print. PMID: 32506512; PMCID: PMC7300618."
+
+[Bastian2010e1000326]: https://doi.org/10.1371/journal.pmed.1000326 "Bastian H, Glasziou P, Chalmers I. Seventy-five trials and eleven systematic reviews a day: how will we ever keep up? PLoS Med. 2010 Sep 21;7(9):e1000326. doi: 10.1371/journal.pmed.1000326. PMID: 20877712; PMCID: PMC2943439."
+
+[Contou202070]: https://doi.org/10.1186/s13613-020-00688-2 "Contou D, Thirion M, Pajot O, Plantefève G, Mentec H. Journal club in an ICU: rate and factors associated with practice-changing articles. Analysis of 1712 articles read over a 13-year period (2007-2019). Ann Intensive Care. 2020 Jun 1;10(1):70. doi: 10.1186/s13613-020-00688-2. PMID: 32488529; PMCID: PMC7266895."
+
+[Bougioukas2020e12318]: https://doi.org/10.1111/hir.12318 "Bougioukas KI, Bouras EC, Avgerinos KI, Dardavessis T, Haidich AB. How to keep up to date with medical information using web-based resources: a systematised review and narrative synthesis. Health Info Libr J. 2020 Jul 21. doi: 10.1111/hir.12318. Epub ahead of print. PMID: 32691960."
+
+[Boutron2020135142]: https://doi.org/10.1016/j.jclinepi.2020.01.024 "Boutron I, Créquit P, Williams H, Meerpohl J, Craig JC, Ravaud P. Future of evidence ecosystem series: 1. Introduction Evidence synthesis ecosystem needs dramatic change. J Clin Epidemiol. 2020 Jul;123:135-142. doi: 10.1016/j.jclinepi.2020.01.024. Epub 2020 Mar 4. PMID: 32145367."
+
+[Haynes2006162164]: https://doi.org/10.1136/ebm.11.6.162-a "Haynes RB. Of studies, syntheses, synopses, summaries, and systems: the “5S” evolution of information services for evidence-based health care decisions. ACP J Club. 2006 Nov-Dec;145(3):A8. doi: 10.1136/ebm.11.6.162-a. PMID: 17080967."
+
+[Chandran2020147154]: https://doi.org/10.7324/JAPS.2020.10717 "Chandran PV, Khan S, Pai KG, Khera K, Devi ES, Athira B, Thunga G. Evidence-based medicine databases: an overview. J Appl Pharm Sci. 2020 Jul;10(7):147-154. doi: 10.7324/JAPS.2020.10717."
+
+[Booth2019e001107]: https://doi.org/10.1136/bmjgh-2018-001107 "Booth A, Noyes J, Flemming K, Moore G, Tunçalp Ö, Shakibazadeh E. Formulating questions to explore complex interventions within qualitative evidence synthesis. BMJ Glob Health. 2019 Jan 25;4(Suppl 1):e001107. doi: 10.1136/bmjgh-2018-001107. PMID: 30775019; PMCID: PMC6350737."
+
 [Shojania2001157162]: https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy "Shojania KG, Bero LA. Taking advantage of the explosion of systematic reviews: an efficient MEDLINE search strategy. Eff Clin Pract. 2001 Jul-Aug;4(4):157-62. PMID: 11525102."
+
+[Dickens2020emo0000905]: https://doi.org/10.1037/emo0000905 "Dickens LR, Robins RW. Pride: A meta-analytic project. Emotion. 2020 Nov 12. doi: 10.1037/emo0000905. Epub ahead of print. PMID: 33180528."
+
+[Gates2020915]: https://doi.org/10.1016/j.jclinepi.2020.04.026 "Gates M, Gates A, Duarte G, Cary M, Becker M, Prediger B, Vandermeer B, Fernandes RM, Pieper D, Hartling L. Quality and risk of bias appraisals of systematic reviews are inconsistent across reviewers and centers. J Clin Epidemiol. 2020 Sep;125:9-15. doi: 10.1016/j.jclinepi.2020.04.026. Epub 2020 May 19. PMID: 32416337."
