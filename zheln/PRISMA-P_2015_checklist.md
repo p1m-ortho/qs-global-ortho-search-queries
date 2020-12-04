@@ -839,7 +839,7 @@ None.
 
 ## 15 Total records: Document the total number of records identified from each database and other information sources
 
-Please consult the [Appraisal Log](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/Appraisal_Log.md).
+Please consult the [appraisal log in the Zheln methods repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/Appraisal_Log.md).
 
 Also, this information is available from flow diagrams in the latest summary posts at the [Zheln website](https://zheln.com).
 
@@ -868,7 +868,7 @@ None done, because records are reviewed separately for each date and are unlikel
 17. Gates M, Gates A, Duarte G, Cary M, Becker M, Prediger B, Vandermeer B, Fernandes RM, Pieper D, Hartling L. Quality and risk of bias appraisals of systematic reviews are inconsistent across reviewers and centers. J Clin Epidemiol. 2020 Sep;125:9-15. [doi: 10.1016/j.jclinepi.2020.04.026](https://doi.org/10.1016/j.jclinepi.2020.04.026). Epub 2020 May 19. [PMID: 32416337](https://pubmed.gov/32416337).
 18. Higgins JPT, Lasserson T, Chandler J, Tovey D, Thomas J, Flemyng E, Churchill R. Standards for the conduct and reporting of new Cochrane Intervention Reviews, reporting of protocols and the planning, conduct and reporting of updates (Version March 2020). Cochrane, 2020. Available from [community.cochrane.org/mecir-manual](https://community.cochrane.org/mecir-manual).
 19. Higgins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, Welch VA (editors). Cochrane Handbook for Systematic Reviews of Interventions version 6.1 (updated September 2020). Cochrane, 2020. Available from [training.cochrane.org/handbook](https://training.cochrane.org/handbook).
-20. Page MJ, Sterne JAC, Boutron I, Hróbjartsson A, Kirkham JJ, Li T, Lundh A, Mayo-Wilson E, McKenzie JE, Stewart LA, Sutton AJ, Bero L, Dawson S, Dunn AG, Dwan K, Elbers RG, Kanukula R, Meerpohl JJ, Turner EH, Higgins JPT.. Risk Of Bias due to Missing Evidence (ROB-ME): a new tool for assessing risk of non-reporting biases in evidence syntheses (Version 24 October 2020). 2020. Available from [riskofbias.info/welcome/rob-me-tool](https://www.riskofbias.info/welcome/rob-me-tool).
+20. Page MJ, Sterne JAC, Boutron I, Hróbjartsson A, Kirkham JJ, Li T, Lundh A, Mayo-Wilson E, McKenzie JE, Stewart LA, Sutton AJ, Bero L, Dawson S, Dunn AG, Dwan K, Elbers RG, Kanukula R, Meerpohl JJ, Turner EH, Higgins JPT. Risk Of Bias due to Missing Evidence (ROB-ME): a new tool for assessing risk of non-reporting biases in evidence syntheses (Version 24 October 2020). 2020. Available from [riskofbias.info/welcome/rob-me-tool](https://www.riskofbias.info/welcome/rob-me-tool).
 21. Schünemann H, Brożek J, Guyatt G, Oxman A (editors). GRADE handbook (updated October 2013). GRADE Working Group, 2013. Available from [gdt.gradepro.org/app/handbook/handbook.html](https://gdt.gradepro.org/app/handbook/handbook.html).
 
 [Page2020v7gm2]: https://doi.org/10.31222/osf.io/v7gm2 "Page MJ, McKenzie J, Bossuyt P, Boutron I, Hoffmann T, Mulrow CD, Shamseer L, Tetzlaff J, Akl E, Brennan SE, Chou R, Glanville J, Grimshaw J, Hróbjartsson A, Lalu MM, Li T, Loder E, Mayo-Wilson E, McDonald S, McGuinness LA, Stewart L, Thomas J, Tricco A, Welch VA, Whiting P, Moher D. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. MetaArXiv. 2020 Sep 14. doi: 10.31222/osf.io/v7gm2."
@@ -909,6 +909,6 @@ None done, because records are reviewed separately for each date and are unlikel
 
 [Higgins2020handbook]: https://training.cochrane.org/handbook "Higgins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, Welch VA (editors). Cochrane Handbook for Systematic Reviews of Interventions version 6.1 (updated September 2020). Cochrane, 2020. Available from training.cochrane.org/handbook."
 
-[Page2020robmetool]: https://www.riskofbias.info/welcome/rob-me-tool "Page MJ, Sterne JAC, Boutron I, Hróbjartsson A, Kirkham JJ, Li T, Lundh A, Mayo-Wilson E, McKenzie JE, Stewart LA, Sutton AJ, Bero L, Dawson S, Dunn AG, Dwan K, Elbers RG, Kanukula R, Meerpohl JJ, Turner EH, Higgins JPT.. Risk Of Bias due to Missing Evidence (ROB-ME): a new tool for assessing risk of non-reporting biases in evidence syntheses (version 24 October 2020). 2020. Available from riskofbias.info/welcome/rob-me-tool."
+[Page2020robmetool]: https://www.riskofbias.info/welcome/rob-me-tool "Page MJ, Sterne JAC, Boutron I, Hróbjartsson A, Kirkham JJ, Li T, Lundh A, Mayo-Wilson E, McKenzie JE, Stewart LA, Sutton AJ, Bero L, Dawson S, Dunn AG, Dwan K, Elbers RG, Kanukula R, Meerpohl JJ, Turner EH, Higgins JPT. Risk Of Bias due to Missing Evidence (ROB-ME): a new tool for assessing risk of non-reporting biases in evidence syntheses (version 24 October 2020). 2020. Available from riskofbias.info/welcome/rob-me-tool."
 
 [Schunemann2013handbook]: https://gdt.gradepro.org/app/handbook/handbook.html "Schünemann H, Brożek J, Guyatt G, Oxman A (editors). GRADE handbook (updated October 2013). GRADE Working Group, 2013. Available from gdt.gradepro.org/app/handbook/handbook.html."
