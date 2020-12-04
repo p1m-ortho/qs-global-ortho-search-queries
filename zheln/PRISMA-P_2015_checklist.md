@@ -1,37 +1,16 @@
-# README
+# Zheln.com: A protocol for a universal living overview of health-related systematic reviews
 
-This document is compliant with PRISMA (2020), PRISMA-S (2020), and PRISMA-P (2015) reporting guidelines. It is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+## Pavel Zhelnov<sup>1</sup>
 
-Please find the links to the filled-in checklists:
-
-* [PRISMA 2020](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/PRISMA_2020_checklist.md)
-* [PRISMA 2020 for Abstracts](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/PRISMA_2020_Abstracts_checklist.md)
-* [PRISMA-S](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/PRISMA-S_checklist.md)
-* [PRISMA-P 2015](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/PRISMA-P_2015_checklist.md)
-
-Checklist references:
-
-**PRISMA 2020 item checklist**
-
-Page MJ, McKenzie J, Bossuyt P, Boutron I, Hoffmann T, Mulrow CD, Shamseer L, Tetzlaff J, Akl E, Brennan SE, Chou R, Glanville J, Grimshaw J, Hróbjartsson A, Lalu MM, Li T, Loder E, Mayo-Wilson E, McDonald S, McGuinness LA, Stewart L, Thomas J, Tricco A, Welch VA, Whiting P, Moher D. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. MetaArXiv. 2020 Sep 14. [doi: 10.31222/osf.io/v7gm2](https://doi.org/10.31222/osf.io/v7gm2).
-
-**PRISMA-S checklist**
-
-Rethlefsen M, Kirtley S, Waffenschmidt S, Ayala AP, Moher D, Page MJ, Koffel J. PRISMA-S: An Extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews. Version: 5. OSF Preprints. 2020 Jul 16. [doi: 10.31219/osf.io/sfc38](https://doi.org/10.31219/osf.io/sfc38).
-
-**PRISMA-P (Preferred Reporting Items for Systematic review and Meta-Analysis Protocols) 2015 checklist: recommended items to address in a systematic review protocol**
-
-Shamseer L, Moher D, Clarke M, Ghersi D, Liberati A, Petticrew M, Shekelle P, Stewart LA; PRISMA-P Group. Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015: elaboration and explanation. BMJ. 2015 Jan 2;350:g7647. [doi: 10.1136/bmj.g7647](https://doi.org/10.1136/bmj.g7647). Erratum in: BMJ. 2016 Jul 21;354:i4086. [PMID: 25555855](https://pubmed.gov/25555855).
-
-> It is strongly recommended that this checklist be read in conjunction with the PRISMA-P Explanation and Elaboration (cite when available) for important clarification on the items. Amendments to a review protocol should be tracked and dated. The copyright for PRISMA-P (including checklist) is held by the PRISMA-P Group and is distributed under a Creative Commons Attribution Licence 4.0.
+_<sup>1</sup> Independent Researcher, Saint Petersburg, Russia._
 
 # ABSTRACT
 
-BACKGROUND
+**BACKGROUND**
 
 _Objectives._ 1. Identify and monitor most of published systematic reviews. 2. Tag the identified systematic records with medical specialties. 3. Select or crowdfund reviews for further appraisal. 4. Critically appraise and replicate the selected systematic reviews. 5. Disseminate practice implications of positively appraised reviews to both the public and evidence-based practitioners in health care and other fields associated with intervention into a human life, such as education, business, policy, or ecology.
 
-METHODS
+**METHODS**
 
 _Eligibility criteria._ Record eligibility is assessed by checking the record title and, if the title failed, abstract against the ‘true positive criteria’ for systematic reviews taken from the publication by Shojania & Bero, 2001 (PMID 11525102). The record/study flow is as follows: All eligible records are amenable for tagging, selection, and crowdfunding process; Only those eligible records that have been selected or crowdfunded are subject to critical appraisal; For all records that have been selected, all relevant reports are collected; Reports are grouped into studies; Only for the studies appraised positively, practical implications are summarized and disseminated. COVID-19 publications are not selected. Crowdfunding an appraisal of any eligible record is possible for any individual or organization.
 
@@ -41,11 +20,22 @@ _Risk of bias._ Critical appraisal will feature: Duplication assessment; Replica
 
 _Synthesis of results._ No across-studies synthesis is planned. Within-studies, I will formulate explicit practice-relevant statements based on the extracted health outcomes and quality-of-conduct assessment. Also, the process of each critical appraisal is video-recorded and published on YouTube daily.
 
-OTHER
+**OTHER**
 
 _Funding._ The review is crowdfunded; the details are available from the Zheln website (https://zheln.com). Crowd funders had no role in the design of the protocol. They will be able to request critical appraisal and additional critical appraisal (with new data provided) of any eligible record but will not influence the review process otherwise.
 
 _Registration._ The project is hosted on GitHub. Also, there is an umbrella Open Science Framework project that links repositories and preprints (DOI 10.17605/OSF.IO/EJKFC). The protocol for this overview of systematic reviews has been submitted for registration in PROSPERO.
+
+# README
+
+This document is compliant with PRISMA 2020 ([Page 2020a][Page2020v7gm2]), PRISMA-S ([Rethlefsen 2020][Rethlefsen2020sfc38]), and PRISMA-P 2015 ([Shamseer 2015][Shamseer2015g7647]) reporting guidelines. It is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Please find the links to the filled-in checklists:
+
+* [PRISMA 2020](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/PRISMA_2020_checklist.md).
+* [PRISMA 2020 for Abstracts](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/PRISMA_2020_Abstracts_checklist.md).
+* [PRISMA-S](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/PRISMA-S_checklist.md).
+* [PRISMA-P 2015](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/PRISMA-P_2015_checklist.md).
 
 # ADMINISTRATIVE INFORMATION
 
@@ -61,7 +51,7 @@ This is a protocol for a living overview of reviews, so it is updated incrementa
 
 ## 2 Registration: If registered, provide the name of the registry (such as PROSPERO) and registration number
 
-The project is hosted on GitHub. Also, there is an [umbrella Open Science Framework project](https://doi.org/10.17605/OSF.IO/EJKFC) that mediates publication of Zheln methods between raw GitHub data (the [primary](https://github.com/drzhelnov/zheln.github.io) and [methods](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query) repositories) and stable Open Science Framework preprints (project components, such as the [replicated PubMed systematic subset](https://doi.org/10.17605/OSF.IO/Z3JU7), [systematic review protocol](https://doi.org/10.17605/OSF.IO/K4Y83), [living systematic review report](https://doi.org/10.17605/OSF.IO/G6RA9)).
+The project is hosted on GitHub. Also, there is an [umbrella Open Science Framework project (DOI 10.17605/OSF.IO/EJKFC)](https://doi.org/10.17605/OSF.IO/EJKFC) that mediates publication of Zheln methods between raw GitHub data (the [primary](https://github.com/drzhelnov/zheln.github.io) and [methods](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query) repositories) and stable Open Science Framework preprints (project components, such as the [replicated PubMed systematic subset](https://doi.org/10.17605/OSF.IO/Z3JU7), [systematic review protocol](https://doi.org/10.17605/OSF.IO/K4Y83), [living systematic review report](https://doi.org/10.17605/OSF.IO/G6RA9)).
 
 This protocol for an overview of systematic reviews is also about to be registered in [PROSPERO](https://www.crd.york.ac.uk/prospero/).
 
@@ -115,7 +105,7 @@ Crowd funders had no role in the design of the protocol. They will be able to re
 
 Currently ([Papes 2020][Papes2020e13301]) and for more than 10 years now ([Bastian 2010][Bastian2010e1000326]), a wide gap has been recognized between the fast pace research is published and the limited capacity of evidence-based practitioners to promptly process it while also separating the practice-changing wheat from the chaff ([Contou 2020][Contou202070]). And, to my utmost disappointment, it is in contrast to a variety of solutions available ([Bougioukas 2020][Bougioukas2020e12318]) that the call for a dramatic change is out in 2020 ([Boutron 2020][Boutron2020135142]).
 
-Systematic reviews represent a means of tackling the problem ([Page 2020][Page2020gwdhk]). However, they, too, are overwhelming, having given rise to _preappraised evidence summaries_ ([Haynes 2006][Haynes2006162164]). There are many resources that provide this service: [ACP Journal Club](https://www.acpjournals.org/topic/category/journal-club), [Cochrane Clinical Answers](https://www.cochranelibrary.com/cca), now legacy [DARE](https://www.crd.york.ac.uk/crdweb/ShowRecord.asp?ID=32004000332&ID=32004000332) summaries, and [L·OVE](https://iloveevidence.com) by the Epistemonikos Foundation, just to mention a few ([Chandran 2020][Chandran2020147154]).
+Systematic reviews represent a means of tackling the problem ([Page 2020b][Page2020gwdhk]). However, they, too, are overwhelming, having given rise to _preappraised evidence summaries_ ([Haynes 2006][Haynes2006162164]). There are many resources that provide this service: [ACP Journal Club](https://www.acpjournals.org/topic/category/journal-club), [Cochrane Clinical Answers](https://www.cochranelibrary.com/cca), now legacy [DARE](https://www.crd.york.ac.uk/crdweb/ShowRecord.asp?ID=32004000332&ID=32004000332) summaries, and [L·OVE](https://iloveevidence.com) by the Epistemonikos Foundation, just to mention a few ([Chandran 2020][Chandran2020147154]).
 
 In spite of that, I never found a resource that would have the following features at the same time (but if you did, I invite you to publicly discuss it on [Twitter](https://twitter.com/drzhelnov)):
 
@@ -146,7 +136,7 @@ Evidence-based practitioners involve healthcare practitioners, in the first plac
 
 ## 8 Eligibility criteria: Specify the study characteristics (such as PICO, study design, setting, time frame) and report characteristics (such as years considered, language, publication status) to be used as criteria for eligibility for the review
 
-Record eligibility is assessed by checking the record title and, if the title failed, abstract against the ‘true positive criteria’ for systematic reviews taken from the publication by [Shojania & Bero 2001][Shojania2001157162]. The publication is a diagnostic test accuracy assessment for the systematic review search strategy by the authors—the very search strategy that the search strategy of this review is based on. I quote:
+Record eligibility is assessed by checking the record title and, if the title failed, abstract against the ‘true positive criteria’ for systematic reviews taken from the publication by [Shojania & Bero (2001)][Shojania2001157162]. The publication is a diagnostic test accuracy assessment for the systematic review search strategy by the authors—the very search strategy that the search strategy of this review is based on. I quote:
   
 > We regarded an article as a true positive only if the title or abstract explicitly identified the article as a systematic review or meta-analysis or if the article abstract indicated a strategy for locating the literature reviewed. Thus, an article that contained the phrase “literature review” in the title but merely stated that “relevant literature was reviewed” in the abstract would not count as a true positive. MEDLINE records without an abstract could be counted as true positives only if the title contained the words “meta-analysis,” “metaanalysis,” or “systematic review.”
 
@@ -285,8 +275,8 @@ Replication:
 Quality-of-conduct assessment:
 
 * Replicability is a sign of sound conduct and good reporting but does not guarantee robustness of the review. Therefore, additional quality-of-conduct assessment is required.
-* Some tools have been developed to assess risk of bias in systematic reviews, such as [ROBIS](https://www.bristol.ac.uk/population-health-sciences/projects/robis) or [CINeMA](https://doi.org/10.1371/journal.pmed.1003082). However, they are rather recent, and there is evidence agreement is low at least for some of them ([Gates 2020][Gates2020915]).
-* In contrast, [MECIR](https://community.cochrane.org/mecir-manual) have been out there for quite some time now. Also, they have been neatly integrated into [Cochrane Handbook 6](https://training.cochrane.org/handbook/current) that provides further insight into these issues.
+* Some tools have been developed to assess risk of bias in systematic reviews, such as [ROBIS](https://www.bristol.ac.uk/population-health-sciences/projects/robis) ([Whiting 2016][Whiting2016225234]) or CINeMA ([Nikolakopoulou 2020][Nikolakopoulou2020e1003082]). However, they are rather recent, and there is evidence agreement is low at least for some of them ([Gates 2020][Gates2020915]).
+* In contrast, MECIR ([Higgins 2020a][Higgins2020mecirmanual]) have been out there for quite some time now. Also, they have been neatly integrated into Cochrane Handbook 6 ([Higgins 2020b][Higgins2020handbook]) that provides further insight into these issues.
 * Thus, I elect to use the [MECIR conduct standards](https://community.cochrane.org/mecir-manual/standards-conduct-new-cochrane-intervention-reviews-c1-c75) to assess quality of conduct. I will go over all 75 MECIR conduct items to get an understanding and will document for each item if it was followed, in my view. I will also provide rationale where relevant. All the documentation will take place directly in the text on the record page at Zheln.com.
 * In general, I expect _mandatory_ MECIR items to be followed, whereas _highly desirable_ items may be ignored. However, I acknowledge that MECIR standards (1) are not absolute and (2) were developed for intervention reviews only (whereas this overview may feature other systematic reviews as well). Also, some of the items would look critical for one review and not critical for another.
 * Hence, the final decision about whether or not I have observed evidence of critical conduct flaws is always mine to make; at the same time, I will do my best to accurately substantiate my findings in the appraisal text. My decision may be `7. ❌ Has Critical Conduct Flaws`, `7. ✅ No Critical Conduct Flaws Identified by Zheln`, or `7. ✅ No Conduct Flaws Identified by Zheln`, depending on those findings.
@@ -315,14 +305,14 @@ Please see [15a Describe criteria under which study data will be quantitatively 
 
 ## 16 Meta-bias(es): Specify any planned assessment of meta-bias(es) (such as publication bias across studies, selective reporting within studies)
 
-* I will use the preliminary version of the [ROB-ME](https://www.riskofbias.info/welcome/rob-me-tool) tool for reporting bias assessment. All documentation will take place directly in the text on the record page at Zheln.com. However, I do not have in mind any generic algorithm to assess overall risk of bias, so I will elaborate on it for each appraisal separately.
+* I will use the preliminary version of the ROB-ME tool ([Page 2020c][Page2020robmetool]) for reporting bias assessment. All documentation will take place directly in the text on the record page at Zheln.com. However, I do not have in mind any generic algorithm to assess overall risk of bias, so I will elaborate on it for each appraisal separately.
 * I will be the only assessor for now.
 * No automation tools will be used.
 * The authors will not be contacted routinely. However, if specifically requested when crowdfunded or at will, it will be done.
 
 ## 17 Confidence in cumulative evidence: Describe how the strength of the body of evidence will be assessed (such as GRADE)
 
-* I will use the [GRADE](https://gdt.gradepro.org/app/handbook/handbook.html) tool in its interpretation for systematic review authors. All documentation will take place directly in the text on the record page at Zheln.com. I do not have in mind any generic algorithm to assess certainty of evidence, so I will elaborate on it for each appraisal separately.
+* I will use the GRADE approach ([Schünemann 2013][Schunemann2013handbook]) in its interpretation for systematic review authors. All documentation will take place directly in the text on the record page at Zheln.com. I do not have in mind any generic algorithm to assess certainty of evidence, so I will elaborate on it for each appraisal separately.
 * I will be the only assessor for now.
 * No automation tools will be used.
 * The authors will not be contacted routinely. However, if specifically requested when crowdfunded or at will, it will be done.
@@ -822,8 +812,8 @@ None used except those built in the query.
 ## 10 Search filters: Indicate whether published search filters were used (as originally designed or modified), and if so, cite the filter(s) used
 
 * The _PubMed Systematic Review Subset Query, Zheln Edition,_ ultimately represents the [Search Strategy Used to Create the Systematic Reviews Subset on PubMed](https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) as joined from the two versions: [February 2017](http://web.archive.org/web/20181023065423/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) and [December 2018](http://web.archive.org/web/20190711085949/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html).
-* The February 2017 version is [based](https://wayback.archive-it.org/org-350/20180406175620/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_sources.html) on the study by [Shojania & Bero 2001][Shojania2001157162]. I do not know what the December 2018 version is based on, as it has not been written there.
-* See a detailed account of the development of the _Zheln Edition_ and its testing reports in the [commit history of the Zheln methods repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query). While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository). This information is also going to be republished on a [dedicated Open Science Framework page](https://doi.org/10.17605/OSF.IO/Z3JU7).
+* The February 2017 version is [based](https://wayback.archive-it.org/org-350/20180406175620/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_sources.html) on the study by [Shojania & Bero (2001)][Shojania2001157162]. I do not know what the December 2018 version is based on, as it has not been written there.
+* See a detailed account of the development of the _Zheln Edition_ and its testing reports in the [commit history of the Zheln methods repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query). While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository). This information is also going to be republished on a [dedicated Open Science Framework page (DOI 10.17605/OSF.IO/Z3JU7)](https://doi.org/10.17605/OSF.IO/Z3JU7).
 
 ## 11 Prior work: Indicate when search strategies from other literature reviews were adapted or reused for a substantive part or all of the search, citing the previous review(s)
 
@@ -857,7 +847,37 @@ Also, this information is available from flow diagrams in the latest summary pos
 
 None done, because records are reviewed separately for each date and are unlikely to be duplicate within a single PubMed search.
 
-[Page2020gwdhk]: https://doi.org/10.31222/osf.io/gwdhk "Page MJ, Moher D, Bossuyt P, Boutron I, Hoffmann T, Mulrow CD, Shamseer L, Tetzlaff J, Akl E, Brennan SE, Chou R, Glanville J, Grimshaw J, Hróbjartsson A, Lalu MM, Li T, Loder E, Mayo-Wilson E, McDonald S, McGuinness LA, Stewart L, Thomas J, Tricco A, Welch VA, Whiting P, McKenzie J. PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews. MetaArXiv. 2020 Sep 14. doi: 10.31222/osf.io/gwdhk"
+# REFERENCES
+
+1. Page MJ, McKenzie J, Bossuyt P, Boutron I, Hoffmann T, Mulrow CD, Shamseer L, Tetzlaff J, Akl E, Brennan SE, Chou R, Glanville J, Grimshaw J, Hróbjartsson A, Lalu MM, Li T, Loder E, Mayo-Wilson E, McDonald S, McGuinness LA, Stewart L, Thomas J, Tricco A, Welch VA, Whiting P, Moher D. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. MetaArXiv. 2020 Sep 14. [doi: 10.31222/osf.io/v7gm2](https://doi.org/10.31222/osf.io/v7gm2).
+2. Rethlefsen M, Kirtley S, Waffenschmidt S, Ayala AP, Moher D, Page MJ, Koffel J. PRISMA-S: An Extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews. Version: 5. OSF Preprints. 2020 Jul 16. [doi: 10.31219/osf.io/sfc38](https://doi.org/10.31219/osf.io/sfc38).
+3. Shamseer L, Moher D, Clarke M, Ghersi D, Liberati A, Petticrew M, Shekelle P, Stewart LA; PRISMA-P Group. Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015: elaboration and explanation. BMJ. 2015 Jan 2;350:g7647. [doi: 10.1136/bmj.g7647](https://doi.org/10.1136/bmj.g7647). Erratum in: BMJ. 2016 Jul 21;354:i4086. [PMID: 25555855](https://pubmed.gov/25555855).
+4. [Page2020gwdhk]: https://doi.org/10.31222/osf.io/gwdhk "Page MJ, Moher D, Bossuyt P, Boutron I, Hoffmann T, Mulrow CD, Shamseer L, Tetzlaff J, Akl E, Brennan SE, Chou R, Glanville J, Grimshaw J, Hróbjartsson A, Lalu MM, Li T, Loder E, Mayo-Wilson E, McDonald S, McGuinness LA, Stewart L, Thomas J, Tricco A, Welch VA, Whiting P, McKenzie J. PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews. MetaArXiv. 2020 Sep 14. doi: 10.31222/osf.io/gwdhk"
+5. Papes D, Jeroncic A, Ozimec E. Redundancy and methodological issues in articles on COVID-19. Eur J Clin Invest. 2020 Jun 7:e13301. [doi: 10.1111/eci.13301](https://doi.org/10.1111/eci.13301). Epub ahead of print. [PMID: 32506512](https://pubmed.gov/32506512); [PMCID: PMC7300618](https://ncbi.nlm.nih.gov/pmc/PMC7300618).
+6. Bastian H, Glasziou P, Chalmers I. Seventy-five trials and eleven systematic reviews a day: how will we ever keep up? PLoS Med. 2010 Sep 21;7(9):e1000326. [doi: 10.1371/journal.pmed.1000326](https://doi.org/10.1371/journal.pmed.1000326). [PMID: 20877712](https://pubmed.gov/20877712); [PMCID: PMC2943439](https://ncbi.nlm.nih.gov/pmc/PMC2943439).
+7. Contou D, Thirion M, Pajot O, Plantefève G, Mentec H. Journal club in an ICU: rate and factors associated with practice-changing articles. Analysis of 1712 articles read over a 13-year period (2007-2019). Ann Intensive Care. 2020 Jun 1;10(1):70. [doi: 10.1186/s13613-020-00688-2](https://doi.org/10.1186/s13613-020-00688-2). [PMID: 32488529](https://pubmed.gov/32488529); [PMCID: PMC7266895](https://ncbi.nlm.nih.gov/pmc/PMC7266895).
+8. Bougioukas KI, Bouras EC, Avgerinos KI, Dardavessis T, Haidich AB. How to keep up to date with medical information using web-based resources: a systematised review and narrative synthesis. Health Info Libr J. 2020 Jul 21. [doi: 10.1111/hir.12318](https://doi.org/10.1111/hir.12318). Epub ahead of print. [PMID: 32691960](https://pubmed.gov/32691960).
+9. Boutron I, Créquit P, Williams H, Meerpohl J, Craig JC, Ravaud P. Future of evidence ecosystem series: 1. Introduction Evidence synthesis ecosystem needs dramatic change. J Clin Epidemiol. 2020 Jul;123:135-142. [doi: 10.1016/j.jclinepi.2020.01.024](https://doi.org/10.1016/j.jclinepi.2020.01.024). Epub 2020 Mar 4. [PMID: 32145367](https://pubmed.gov/32145367).
+10. Haynes RB. Of studies, syntheses, synopses, summaries, and systems: the “5S” evolution of information services for evidence-based health care decisions. ACP J Club. 2006 Nov-Dec;145(3):A8. [doi: 10.1136/ebm.11.6.162-a](https://doi.org/10.1136/ebm.11.6.162-a). [PMID: 17080967](https://pubmed.gov/17080967).
+11. Chandran PV, Khan S, Pai KG, Khera K, Devi ES, Athira B, Thunga G. Evidence-based medicine databases: an overview. J Appl Pharm Sci. 2020 Jul;10(7):147-154. [doi: 10.7324/JAPS.2020.10717](https://doi.org/10.7324/JAPS.2020.10717).
+12. Booth A, Noyes J, Flemming K, Moore G, Tunçalp Ö, Shakibazadeh E. Formulating questions to explore complex interventions within qualitative evidence synthesis. BMJ Glob Health. 2019 Jan 25;4(Suppl 1):e001107. [doi: 10.1136/bmjgh-2018-001107](https://doi.org/10.1136/bmjgh-2018-001107). [PMID: 30775019](https://pubmed.gov/30775019); [PMCID: PMC6350737](https://ncbi.nlm.nih.gov/pmc/PMC6350737).
+13. Shojania KG, Bero LA. Taking advantage of the explosion of systematic reviews: an efficient MEDLINE search strategy. Eff Clin Pract. 2001 Jul-Aug;4(4):157-62. [PMID: 11525102](https://pubmed.gov/11525102).
+14. Dickens LR, Robins RW. Pride: A meta-analytic project. Emotion. 2020 Nov 12. [doi: 10.1037/emo0000905](https://doi.org/10.1037/emo0000905). Epub ahead of print. [PMID: 33180528](https://pubmed.gov/33180528).
+15. Whiting P, Savović J, Higgins JP, Caldwell DM, Reeves BC, Shea B, Davies P, Kleijnen J, Churchill R; ROBIS group. ROBIS: A new tool to assess risk of bias in systematic reviews was developed. J Clin Epidemiol. 2016 Jan;69:225-34. [doi: 10.1016/j.jclinepi.2015.06.005](https://doi.org/10.1016/j.jclinepi.2015.06.005). Epub 2015 Jun 16. [PMID: 26092286](https://pubmed.gov/26092286); [PMCID: PMC4687950](https://ncbi.nlm.nih.gov/pmc/PMC4687950).
+16. Nikolakopoulou A, Higgins JPT, Papakonstantinou T, Chaimani A, Del Giovane C, Egger M, Salanti G. CINeMA: An approach for assessing confidence in the results of a network meta-analysis. PLoS Med. 2020 Apr 3;17(4):e1003082. [doi: 10.1371/journal.pmed.1003082](https://doi.org/10.1371/journal.pmed.1003082). [PMID: 32243458](https://pubmed.gov/32243458); [PMCID: PMC7122720](https://ncbi.nlm.nih.gov/pmc/PMC7122720).
+17. Gates M, Gates A, Duarte G, Cary M, Becker M, Prediger B, Vandermeer B, Fernandes RM, Pieper D, Hartling L. Quality and risk of bias appraisals of systematic reviews are inconsistent across reviewers and centers. J Clin Epidemiol. 2020 Sep;125:9-15. [doi: 10.1016/j.jclinepi.2020.04.026](https://doi.org/10.1016/j.jclinepi.2020.04.026). Epub 2020 May 19. [PMID: 32416337](https://pubmed.gov/32416337).
+18. Higgins JPT, Lasserson T, Chandler J, Tovey D, Thomas J, Flemyng E, Churchill R. Standards for the conduct and reporting of new Cochrane Intervention Reviews, reporting of protocols and the planning, conduct and reporting of updates (Version March 2020). Cochrane, 2020. Available from [community.cochrane.org/mecir-manual](https://community.cochrane.org/mecir-manual).
+19. Higgins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, Welch VA (editors). Cochrane Handbook for Systematic Reviews of Interventions version 6.1 (updated September 2020). Cochrane, 2020. Available from [training.cochrane.org/handbook](https://training.cochrane.org/handbook).
+20. Page MJ, Sterne JAC, Boutron I, Hróbjartsson A, Kirkham JJ, Li T, Lundh A, Mayo-Wilson E, McKenzie JE, Stewart LA, Sutton AJ, Bero L, Dawson S, Dunn AG, Dwan K, Elbers RG, Kanukula R, Meerpohl JJ, Turner EH, Higgins JPT.. Risk Of Bias due to Missing Evidence (ROB-ME): a new tool for assessing risk of non-reporting biases in evidence syntheses (Version 24 October 2020). 2020. Available from [riskofbias.info/welcome/rob-me-tool](https://www.riskofbias.info/welcome/rob-me-tool).
+21. Schünemann H, Brożek J, Guyatt G, Oxman A (editors). GRADE handbook (updated October 2013). GRADE Working Group, 2013. Available from [gdt.gradepro.org/app/handbook/handbook.html](https://gdt.gradepro.org/app/handbook/handbook.html).
+
+[Page2020v7gm2]: https://doi.org/10.31222/osf.io/v7gm2 "Page MJ, McKenzie J, Bossuyt P, Boutron I, Hoffmann T, Mulrow CD, Shamseer L, Tetzlaff J, Akl E, Brennan SE, Chou R, Glanville J, Grimshaw J, Hróbjartsson A, Lalu MM, Li T, Loder E, Mayo-Wilson E, McDonald S, McGuinness LA, Stewart L, Thomas J, Tricco A, Welch VA, Whiting P, Moher D. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. MetaArXiv. 2020 Sep 14. doi: 10.31222/osf.io/v7gm2."
+
+[Rethlefsen2020sfc38]: https://doi.org/10.31219/osf.io/sfc38 "Rethlefsen M, Kirtley S, Waffenschmidt S, Ayala AP, Moher D, Page MJ, Koffel J. PRISMA-S: An Extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews. Version: 5. OSF Preprints. 2020 Jul 16. doi: 10.31219/osf.io/sfc38."
+
+[Shamseer2015g7647]: https://doi.org/10.1136/bmj.g7647 "Shamseer L, Moher D, Clarke M, Ghersi D, Liberati A, Petticrew M, Shekelle P, Stewart LA; PRISMA-P Group. Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015: elaboration and explanation. BMJ. 2015 Jan 2;350:g7647. doi: 10.1136/bmj.g7647. Erratum in: BMJ. 2016 Jul 21;354:i4086. PMID: 25555855."
+
+[Page2020gwdhk]: https://doi.org/10.31222/osf.io/gwdhk "Page MJ, Moher D, Bossuyt P, Boutron I, Hoffmann T, Mulrow CD, Shamseer L, Tetzlaff J, Akl E, Brennan SE, Chou R, Glanville J, Grimshaw J, Hróbjartsson A, Lalu MM, Li T, Loder E, Mayo-Wilson E, McDonald S, McGuinness LA, Stewart L, Thomas J, Tricco A, Welch VA, Whiting P, McKenzie J. PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews. MetaArXiv. 2020 Sep 14. doi: 10.31222/osf.io/gwdhk."
 
 [Papes2020e13301]: https://doi.org/10.1111/eci.13301 "Papes D, Jeroncic A, Ozimec E. Redundancy and methodological issues in articles on COVID-19. Eur J Clin Invest. 2020 Jun 7:e13301. doi: 10.1111/eci.13301. Epub ahead of print. PMID: 32506512; PMCID: PMC7300618."
 
@@ -879,4 +899,16 @@ None done, because records are reviewed separately for each date and are unlikel
 
 [Dickens2020emo0000905]: https://doi.org/10.1037/emo0000905 "Dickens LR, Robins RW. Pride: A meta-analytic project. Emotion. 2020 Nov 12. doi: 10.1037/emo0000905. Epub ahead of print. PMID: 33180528."
 
+[Whiting2016225234]: https://doi.org/10.1016/j.jclinepi.2015.06.005 "Whiting P, Savović J, Higgins JP, Caldwell DM, Reeves BC, Shea B, Davies P, Kleijnen J, Churchill R; ROBIS group. ROBIS: A new tool to assess risk of bias in systematic reviews was developed. J Clin Epidemiol. 2016 Jan;69:225-34. doi: 10.1016/j.jclinepi.2015.06.005. Epub 2015 Jun 16. PMID: 26092286; PMCID: PMC4687950."
+
+[Nikolakopoulou2020e1003082]: https://doi.org/10.1371/journal.pmed.1003082 "Nikolakopoulou A, Higgins JPT, Papakonstantinou T, Chaimani A, Del Giovane C, Egger M, Salanti G. CINeMA: An approach for assessing confidence in the results of a network meta-analysis. PLoS Med. 2020 Apr 3;17(4):e1003082. doi: 10.1371/journal.pmed.1003082. PMID: 32243458; PMCID: PMC7122720."
+
 [Gates2020915]: https://doi.org/10.1016/j.jclinepi.2020.04.026 "Gates M, Gates A, Duarte G, Cary M, Becker M, Prediger B, Vandermeer B, Fernandes RM, Pieper D, Hartling L. Quality and risk of bias appraisals of systematic reviews are inconsistent across reviewers and centers. J Clin Epidemiol. 2020 Sep;125:9-15. doi: 10.1016/j.jclinepi.2020.04.026. Epub 2020 May 19. PMID: 32416337."
+
+[Higgins2020mecirmanual]: https://community.cochrane.org/mecir-manual "Higgins JPT, Lasserson T, Chandler J, Tovey D, Thomas J, Flemyng E, Churchill R. Standards for the conduct and reporting of new Cochrane Intervention Reviews, reporting of protocols and the planning, conduct and reporting of updates (version March 2020). Cochrane, 2020. Available from community.cochrane.org/mecir-manual."
+
+[Higgins2020handbook]: https://training.cochrane.org/handbook "Higgins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, Welch VA (editors). Cochrane Handbook for Systematic Reviews of Interventions version 6.1 (updated September 2020). Cochrane, 2020. Available from training.cochrane.org/handbook."
+
+[Page2020robmetool]: https://www.riskofbias.info/welcome/rob-me-tool "Page MJ, Sterne JAC, Boutron I, Hróbjartsson A, Kirkham JJ, Li T, Lundh A, Mayo-Wilson E, McKenzie JE, Stewart LA, Sutton AJ, Bero L, Dawson S, Dunn AG, Dwan K, Elbers RG, Kanukula R, Meerpohl JJ, Turner EH, Higgins JPT.. Risk Of Bias due to Missing Evidence (ROB-ME): a new tool for assessing risk of non-reporting biases in evidence syntheses (version 24 October 2020). 2020. Available from riskofbias.info/welcome/rob-me-tool."
+
+[Schunemann2013handbook]: https://gdt.gradepro.org/app/handbook/handbook.html "Schünemann H, Brożek J, Guyatt G, Oxman A (editors). GRADE handbook (updated October 2013). GRADE Working Group, 2013. Available from gdt.gradepro.org/app/handbook/handbook.html."
