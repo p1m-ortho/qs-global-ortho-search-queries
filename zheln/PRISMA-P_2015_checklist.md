@@ -31,7 +31,7 @@ Shamseer L, Moher D, Clarke M, Ghersi D, Liberati A, Petticrew M, Shekelle P, St
 
 ### 1a Identification: Identify the report as a protocol of a systematic review
 
-Zheln.com: A protocol for a universal living overview of health-related systematic reviews
+Zheln.com: A protocol for a universal living overview of health-related systematic reviews.
 
 ### 1b Update: If the protocol is for an update of a previous systematic review, identify as such
 
@@ -47,14 +47,14 @@ This protocol for an overview of systematic reviews is also about to be register
 
 ### 3a Contact: Provide name, institutional affiliation, e-mail address of all protocol authors; provide physical mailing address of corresponding author
 
-Pavel Zhelnov, MD ([ORCID 0000-0003-2767-5123](http://orcid.org/0000-0003-2767-5123)). He has no institutional affiliation doing this study as an independent researcher currently based in Saint Petersburg, Russia.
+Pavel Zhelnov, MD ([ORCID 0000-0003-2767-5123](http://orcid.org/0000-0003-2767-5123)). He has no institutional affiliations doing this study as an independent researcher currently based in Saint Petersburg, Russia.
 
-34 Sobstvenny Ave, Bldg 2, Apt 105 <br>
-Peterhof Saint Petersburg 198504 <br>
+34 Sobstvenny Ave, Bldg 2, Apt 105
+Peterhof Saint Petersburg 198504
 Russian Federation
 
-Tel: +7 921 657 2472 <br>
-Email: [pavel@zheln.com](mailto:pavel@zheln.com) <br>
+Tel: +7 921 657 2472
+Email: [pavel@zheln.com](mailto:pavel@zheln.com)
 Twitter: [@drzhelnov](https://twitter.com/drzhelnov)
 
 Pavel is the only and corresponding author.
@@ -77,7 +77,7 @@ Any amendments to the protocol will be available from the above-mentioned reposi
 
 * There is no other funding for Zheln besides my private devotion and crowdfunding.
 * Crowdfunding details are available from the [Zheln website](https://zheln.com).
-* If Zheln videos get popular enough in the future, will also monetize these using the [YouTube Partner Program](https://support.google.com/youtube/answer/72857).
+* If Zheln videos get popular enough in the future, I will also monetize these using the [YouTube Partner Program](https://support.google.com/youtube/answer/72857).
 
 ### 5b Sponsor: Provide name for the review funder and/or sponsor
 
@@ -97,16 +97,16 @@ Systematic reviews represent a means of tackling the problem ([Page 2020][Page20
 
 In spite of that, I never found a resource that would have the following features at the same time (but if you did, I invite you to publicly discuss it on [Twitter](https://twitter.com/drzhelnov)):
 
-* Exhaustive research coverage
-* Focus on secondary research only
-* Rigorous _conduct_ appraisals with replication attempts
-* Independence proven by full process transparency
-* Full Open Access
-* Easy to use and friendly to general audiences
+* Exhaustive research coverage.
+* Focus on secondary research only.
+* Rigorous _conduct_ appraisals with replication attempts.
+* Independence proven by full process transparency.
+* Full Open Access.
+* Easy to use and friendly to general audiences.
 
 Therefore, I embarked on creating such a resource.
 
-_History of the project:_ On [July 11, 2019](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/70d3bebf1ed70845950aece09122b49f58fe2880), I inititated a study with the aim of creating an exhaustive registry of systematic reviews in orthopedics (in Russian). Due to the large volume of records to screen, it was not very successful; however, it still did continue up until [Feb 17, 2020](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/d44e7db892a23adb8ca3eeb36cbe55b8e05b7b45), when it went into a 200-day hiatus. Since [September 6, 2020](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/ff1f29c87483b355b9541859d4b4c39052046936), the study has continued as [Zheln.com](https://zheln.com), a crowdfunded project.
+_History of the project:_ On [July 11, 2019](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/70d3bebf1ed70845950aece09122b49f58fe2880), I inititated a study with the aim of creating an exhaustive registry of systematic reviews in orthopedics (in Russian). Due to large volume of records to screen, it was not very successful; however, it still did continue up until [February 17, 2020](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/d44e7db892a23adb8ca3eeb36cbe55b8e05b7b45), when it went into a 200-day hiatus. Since [September 6, 2020](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/ff1f29c87483b355b9541859d4b4c39052046936), the study has continued as [Zheln.com](https://zheln.com), a crowdfunded project.
 
 ## 7 Objectives: Provide an explicit statement of the question(s) the review will address with reference to participants, interventions, comparators, and outcomes (PICO)
 
@@ -130,7 +130,7 @@ Record eligibility is assessed by checking the record title and, if the title fa
 
 There are special cases to be discussed:
 
-* Practice guidelines as well as various review types that make use of systematic methodology (e.g., scoping reviews, realist syntheses, etc.) are not treated separately and are eligible only if the Shojania & Bero criteria are met. This is to ensure integrity of these criteria use.
+* Practice guidelines as well as various review types that make use of systematic methodology (e.g., scoping reviews, realist syntheses, etc.) are not treated separately and are eligible only if the Shojania & Bero criteria are met. This is to ensure integrity of use of these criteria.
 * Commentaries, editorials, reprints, and other similar documents related to an original systematic review are included, as they reference a systematic review.
 * Meta-analyses outside the context of a systematic review (variants on _data pooling_) are included if they are explicitly termed meta-analyses, as this is how the Shojania & Bero criteria are worded. See [Dickens 2020][Dickens2020emo0000905], for instance.
 * Protocols for systematic reviews are included, as they reference a systematic review.
@@ -146,7 +146,7 @@ The record/study flow in this review is as follows:
 Selection/crowdfunding process:
 
 * As a rule, I select a record for critical appraisal regardless of crowdfunding when I find the covered topic likely to have a very large practice impact with regard either to both global health care workers and the public or to the minorities. However, the decision to select is subjective and always mine to make.
-* Language, date, peer-review status of the publication do not influence this decision. Also, content area of the publication (e.g., healthcare, ecology, chemistry, etc.) is also irrelevant to this decision.
+* The language, date, peer-review status of the publication do not influence this decision. Also, the content area of the publication (e.g., healthcare, ecology, chemistry, etc.) is also irrelevant to this decision.
 * **COVID-19 publications are not selected, because there already are plenty of great resources, such as covid-nma.com, covidex.ai, cord19.vespa.ai,
 WHO and Cochrane resources, just to name a few.
 Also, I do not like the idea of changing universal focus of the project toward COVID-19.**
@@ -166,11 +166,11 @@ Please see the [PRISMA-S checklist](#prisma-s-checklist) below.
 
 All raw records and data are publicly available from the project [primary](https://github.com/drzhelnov/zheln.github.io) and [methods](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query) repositories:
 
-* [Raw search query results](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/summary-systematic-set)
-* [Guidance on record generation](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md#appendix-how-to-compile-zheln-records)
-* [Editable records](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/posts-edit)
-* [Appraisal log](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/Appraisal_Log.md)
-* [PRISMA 2020 flow diagrams](https://github.com/drzhelnov/zheln.github.io/tree/master/flow-diagram)
+* [Raw search query results](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/summary-systematic-set).
+* [Guidance on record generation](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md#appendix-how-to-compile-zheln-records).
+* [Editable records](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/posts-edit).
+* [Appraisal log](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/Appraisal_Log.md).
+* [PRISMA 2020 flow diagrams](https://github.com/drzhelnov/zheln.github.io/tree/master/flow-diagram).
 
 All processed records are available from the [Zheln website](https://zheln.com). Operational information on how this website works and how to recreate the research environment in use are also available from these repositories.
 
@@ -179,8 +179,8 @@ In addition to all review data being publicly available, the project management 
 * Zheln uses public [GitHub kanban boards](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards) to manage its workflow.
 * Namely, important tasks needed to accomplish the [Zheln’s mission](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md#zhelns-mission) are created as public Projects on the [Zheln GitHub page](https://github.com/drzhelnov/zheln.github.io/projects), e.g., [Streamline Zheln](https://github.com/drzhelnov/zheln.github.io/projects/1) or [Register with PROSPERO](https://github.com/drzhelnov/zheln.github.io/projects/2).
 * Further, these tasks are broken down into smaller blocks ([GitHub Issues](https://github.com/drzhelnov/zheln.github.io/issues)) and are displayed on the projects’ kanban boards.
-* Finally, each week, short-term [GitHub Milestones](https://github.com/drzhelnov/zheln.github.io/milestones) are created and then assigned to the Issues to track weekly progress.
-* All of these elements are public. Issues are open for public comment (GitHub registration needed).
+* Finally, each week, short-term [GitHub Milestones](https://github.com/drzhelnov/zheln.github.io/milestones) are created and then assigned to the _Issues_ to track weekly progress.
+* All of these elements are public. _Issues_ are open for public comment (GitHub registration needed).
 * To maximize publicity, I additionally endeavor to publish [summary posts](https://zheln.com) twice a week, where I overview the events that happened on Zheln since the last summary and that I consider important.
 
 ### 11b Selection process: State the process that will be used for selecting studies (such as two independent reviewers) through each phase of the review (that is, screening, eligibility and inclusion in meta-analysis)
@@ -198,7 +198,7 @@ Currently, I am the only person who undertakes the whole data collection process
 Tagging of records:
 
 * Specialty-tagging is done by the appraiser themselves based on whatever information they acquired during record screening.
-* Specialty tags may also be assigned or removed throughout further full appraisal if this is deemed appropriate to better reflect the content of the record.
+* Specialty tags may also be assigned or removed throughout further data collection and critical appraisal if this is deemed appropriate to better reflect the content of the record.
 * The tags are chosen from [191 specialty tags](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags.lst) made from a [list of 171 AMA Masterfile Physician Specialties](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags_config.lst). I have chosen this specialty classification because it is, arguably, the most elaborate one (in terms of listed subspecialties) among those widely used. See the methods used to compile the lists of specialties and specialty tags in the [commit history of the Zheln methods repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query).
 * While tagging, the tagger should consider if the record would be accessible from its most relevant [specialty page](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_page_filenames.lst) and ensure it would. Namely, the tagger must check the record against **each** specialty on the list, assess if this record could be of interest to a typical physician working in this specialty, and choose one specialty that looks most relevant in this regard.
 * If choosing one such specialty is hard enough, choosing more than one is acceptable. As such, adding more than one specialty tag is actively discouraged unless absolutely unavoidable, as it remarkably compromises appraisal speed. Therefore, multiple specialties are warranted if and only if it is perceived to be faster to multiselect than choose one among several.
@@ -212,13 +212,13 @@ Collection of reports:
 
 * I will try to collect the original full text and all other relevant reports associated with the record under review, if applicable, either using publicly available electronic resources or via private subscriptions or communication.
 * If no full-text report is available for the record, I will put the `3. ❌ No Full Text Available to Zheln` label, place the record in the `awaiting crowdfunding` category, and reference it in the **Full Text Wanted** section of twice-weekly summary posts at Zheln.com. When new reports become available, I will go on with the critical appraisal.
-* I will not routinely contact the authors or search extensively for additional reports, but if the study is somehow specifically important or additional appraisal is crowdfunded, will do that.
+* I will not routinely contact the authors or search extensively for additional reports, but if the study is somehow specifically important or additional appraisal is crowdfunded, I will do that.
 
 Data extraction from reports:
 
 * Involves extracting the pragmatic outcomes that I deemed relevant for evidence-based practice. This is done only if the study has been positively appraised (ticked with `7. ✅ No Critical Conduct Flaws Identified by Zheln`). If so, I will extract the data directly in the text on the record page at Zheln.com.
 * I will decide what outcomes to extract depending on the research question. As a rule, I will choose one among all outcomes mentioned in the study reports and will contrast it to the outcomes usually used in similar studies to decide if this is an acceptably practice-important and question-relevant outcome.
-* To learn what outcomes are best suited for similar research questions, I am planning to use informal electronic search (Google, PubMed, etc.), that I am not planning to document, but I will summarize important information on this matter, including references, if applicable, in the text of the appraisal.
+* To learn what outcomes are best suited for similar research questions, I am planning to use informal electronic search (Google, PubMed, etc.), that I am not planning to document, but I will summarize important information on this matter, including references, if applicable, in the text on the record page at Zheln.com.
 * No automation tools are currently used. If any are in the future, this will be additionally reported.
 * Translation of reports written in languages other than English will usually be handled using [Google Translate](https://translate.google.com). In any way, this will be reported in the text on the record page at Zheln.com.
 * Any inconsistencies met when collating multiple reports will be discussed and resolved narratively in the text on the record page at Zheln.com.
@@ -271,7 +271,7 @@ Quality-of-conduct assessment:
 
 I am not planning to conduct any assessment of quality of reporting.
 
-Also, I will note this as a solely subjective item: `8. 👍 Liked by Zheln` if I find the review useful overall and `8. 👎 Disliked by Zheln` if I find otherwise. I will provide any personal comment if my decision did not seem obvious.
+Also, I will note a solely subjective item: `8. 👍 Liked by Zheln` if I find the review useful overall and `8. 👎 Disliked by Zheln` if I find otherwise. I will provide any personal comment if my decision did not seem obvious.
 
 ## 15 Data synthesis
 
@@ -296,14 +296,14 @@ Please see [15a Describe criteria under which study data will be quantitatively 
 * I will use the preliminary version of the [ROB-ME](https://www.riskofbias.info/welcome/rob-me-tool) tool for reporting bias assessment. All documentation will take place directly in the text on the record page at Zheln.com. However, I do not have in mind any generic algorithm to assess overall risk of bias, so I will elaborate on it for each appraisal separately.
 * I will be the only assessor for now.
 * No automation tools will be used.
-* The authors will not be contacted routinely. However, if specifically requested when crowdfunded or at will, will be done.
+* The authors will not be contacted routinely. However, if specifically requested when crowdfunded or at will, it will be done.
 
 ## 17 Confidence in cumulative evidence: Describe how the strength of the body of evidence will be assessed (such as GRADE)
 
 * I will use the [GRADE](https://gdt.gradepro.org/app/handbook/handbook.html) tool in its interpretation for systematic review authors. All documentation will take place directly in the text on the record page at Zheln.com. I do not have in mind any generic algorithm to assess certainty of evidence, so I will elaborate on it for each appraisal separately.
 * I will be the only assessor for now.
 * No automation tools will be used.
-* The authors will not be contacted routinely. However, if specifically requested when crowdfunded or at will, will be done.
+* The authors will not be contacted routinely. However, if specifically requested when crowdfunded or at will, it will be done.
 
 # PRISMA-S checklist
 
@@ -311,7 +311,7 @@ Please see [15a Describe criteria under which study data will be quantitatively 
 
 ## 1 Database name: Name each individual database searched, stating the platform for each
 
-MEDLINE via PubMed (https://pubmed.ncbi.nlm.nih.gov)
+MEDLINE via PubMed (https://pubmed.ncbi.nlm.nih.gov).
 
 Adding other search sources, such as Scopus, OSF, and medRxiv, is planned in the future when more appraisers become available.
 
@@ -337,7 +337,7 @@ If relevant references are somehow identified _during_ critical appraisal, their
 
 ## 6 Contacts: Indicate whether additional studies or data were sought by contacting authors, experts, manufacturers, or others
 
-Will not be done routinely. However, if specifically requested when crowdfunded or at will, will be done.
+It will not be done routinely. However, if specifically requested when crowdfunded or at will, it will be done.
 
 ## 7 Other methods: Describe any additional information sources or search methods used
 
