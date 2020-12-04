@@ -1,9 +1,10 @@
 #!/bin/bash
-v='1.1.0'
+v='1.2.0'
 coreutils=true
 files='zheln_ama_specialty_page_filenames.lst'
 html='unspecified.html'
 tags='zheln_ama_specialty_tags.lst'
+tag_groups='zheln_ama_specialty_tag_groups.lst'
 codes='zheln_ama_specialty_codes.lst'
 titles='zheln_ama_specialty_titles.lst'
 unspecified_tag='unspecified'
@@ -17,6 +18,7 @@ $coreutils
 > Page filenames list: $files.
 > Template HTML: $html.
 > Tags list: $tags.
+> Tag groups list: $tag_groups.
 > Title codes list: $codes.
 > Titles list: $titles"
 
@@ -24,6 +26,7 @@ if
 [ ! -f "$files" ] ||
 [ ! -f "$html" ] ||
 [ ! -f "$tags" ] ||
+[ ! -f "$tag_groups" ] ||
 [ ! -f "$codes" ] ||
 [ ! -f "$titles" ]; then
   echo '> Text files missing. Collect them first.'
@@ -46,6 +49,10 @@ while read file; do
     if [ "$k" = "$i" ]; then echo "${content/title: $unspecified_title/title: $title}" > "$file"; fi
     k=$((k + 1))
   done < "../../$titles"; k=0
+  content=$(< $file); while read tag_group; do
+    if [ "$k" = "$i" ]; then echo "${content/specialty_tags: $unspecified_tag/specialty_tags: $tag_group}" > "$file"; fi
+    k=$((k + 1))
+  done < "../../$tag_groups"; k=0
   content=$(< $file); while read tag; do
     if [ "$k" = "$i" ]; then echo "${content/$unspecified_tag/$tag}" > "$file"; fi
     k=$((k + 1))

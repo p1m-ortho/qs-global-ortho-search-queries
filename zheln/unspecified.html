@@ -2,7 +2,7 @@
 layout: default
 title: Unspecified
 make-smaller-titles: false
-specialty_tag: unspecified
+specialty_tags: unspecified
 permalink: /unspecified/
 ---
 
@@ -18,19 +18,18 @@ permalink: /unspecified/
       </h2>
 
       {% assign has_no_posts = true %}
-      {% for tag in site.tags %}
-      {% if tag contains page.specialty_tag %}
+      {% for post in site.posts %}
+      {% if post.categories contains "record" %}
+      {% assign post_date = '' %}
+      {% assign i = 0 %}
+      {% unless post.date == post_date %}
+      {% unless post_date == '' %}</ul>{% endunless %}
+      <h2><small><a href="{{ post.date | date: '/%Y/%m/%d/' }}">{% assign week_prepend = post.date | date: "%a, %b %-d (Wk " %}{% assign week_append = post.date | date: ", %Y)" %}{% assign week = post.date | date: "%-U" | plus: 1 %}{{ week | prepend: week_prepend | append: week_append }}</a></small></h2>
+      <ul>
+      {% endunless %}
+      {% for tag in page.specialty_tags %}
+      {% if post.tags contains tag %}
         {% assign has_no_posts = false %}
-        {% assign post_date = '' %}
-        {% assign i = 0 %}
-        {% for posts in tag %}
-        {% for post in posts %}
-        {% if post.categories contains "record" %}
-        {% unless post.date == post_date %}
-        {% unless post_date == '' %}</ul>{% endunless %}
-        <h2><small><a href="{{ post.date | date: '/%Y/%m/%d/' }}">{% assign week_prepend = post.date | date: "%a, %b %-d (Wk " %}{% assign week_append = post.date | date: ", %Y)" %}{% assign week = post.date | date: "%-U" | plus: 1 %}{{ week | prepend: week_prepend | append: week_append }}</a></small></h2>
-        <ul>
-        {% endunless %}
           {% assign post_date = post.date %}
           {% assign i = i | plus: 1 %}
           {% assign cond = i | modulo: 2 %}
@@ -61,18 +60,17 @@ permalink: /unspecified/
               {% assign title = title | append: '</strong>' %}
             {% endif %}
             <a href="{{ post.url | prepend: site.baseurl }}">{{ title }}</a>
-            {% for tag in post.tags %}
-              {% if site.status_tags contains tag %}
-                <small class="hidden-xs">{{ tag | capitalize }}</small>
+            {% for post_tag in post.tags %}
+              {% if site.status_tags contains post_tag %}
+                <small class="hidden-xs">{{ post_tag | capitalize }}</small>
               {% endif %}
             {% endfor %}
           </li>
-        {% endif %}
-        {% endfor %}
-        {% endfor %}
-        </ul>
       {% endif %}
       {% endfor %}
+      {% endif %}
+      {% endfor %}
+      </ul>
       
       {% if has_no_posts %}
         <div class="error-text">
