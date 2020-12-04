@@ -847,6 +847,10 @@ Also, this information is available from flow diagrams in the latest summary pos
 
 None done, because records are reviewed separately for each date and are unlikely to be duplicate within a single PubMed search.
 
+# ACKNOWLEDGEMENTS
+
+I would like to thank Dr Oleg Gordienko for providing his desktop PC to work comfortably on the review and for becoming its first crowd funder. Also, I am indebted to my wife, Natalia Menshova, for her patience and continuous support.
+
 # REFERENCES
 
 1. Page MJ, McKenzie J, Bossuyt P, Boutron I, Hoffmann T, Mulrow CD, Shamseer L, Tetzlaff J, Akl E, Brennan SE, Chou R, Glanville J, Grimshaw J, Hróbjartsson A, Lalu MM, Li T, Loder E, Mayo-Wilson E, McDonald S, McGuinness LA, Stewart L, Thomas J, Tricco A, Welch VA, Whiting P, Moher D. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. MetaArXiv. 2020 Sep 14. [doi: 10.31222/osf.io/v7gm2](https://doi.org/10.31222/osf.io/v7gm2).
