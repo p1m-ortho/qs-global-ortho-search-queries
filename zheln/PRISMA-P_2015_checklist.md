@@ -25,6 +25,28 @@ Shamseer L, Moher D, Clarke M, Ghersi D, Liberati A, Petticrew M, Shekelle P, St
 
 > It is strongly recommended that this checklist be read in conjunction with the PRISMA-P Explanation and Elaboration (cite when available) for important clarification on the items. Amendments to a review protocol should be tracked and dated. The copyright for PRISMA-P (including checklist) is held by the PRISMA-P Group and is distributed under a Creative Commons Attribution Licence 4.0.
 
+# ABSTRACT
+
+BACKGROUND
+
+_Objectives._ 1. Identify and monitor most of published systematic reviews. 2. Tag the identified systematic records with medical specialties. 3. Select or crowdfund reviews for further appraisal. 4. Critically appraise and replicate the selected systematic reviews. 5. Disseminate practice implications of positively appraised reviews to both the public and evidence-based practitioners in health care and other fields associated with intervention into a human life, such as education, business, policy, or ecology.
+
+METHODS
+
+_Eligibility criteria._ Record eligibility is assessed by checking the record title and, if the title failed, abstract against the ‘true positive criteria’ for systematic reviews taken from the publication by Shojania & Bero, 2001 (PMID 11525102). The record/study flow is as follows: All eligible records are amenable for tagging, selection, and crowdfunding process; Only those eligible records that have been selected or crowdfunded are subject to critical appraisal; For all records that have been selected, all relevant reports are collected; Reports are grouped into studies; Only for the studies appraised positively, practical implications are summarized and disseminated. COVID-19 publications are not selected. Crowdfunding an appraisal of any eligible record is possible for any individual or organization.
+
+_Information sources._ MEDLINE via PubMed. Adding other search sources, such as Scopus, OSF, and medRxiv, is planned in the future when more appraisers become available. The Replicated Version of the PubMed Systematic Review Subset Query Zheln Edition (DOI 10.17605/OSF.IO/Z3JU7) will be used. The searches are run daily.
+
+_Risk of bias._ Critical appraisal will feature: Duplication assessment; Replication; Assessment against the MECIR conduct standards; ROB-ME assessment; GRADE assessment.
+
+_Synthesis of results._ No across-studies synthesis is planned. Within-studies, I will formulate explicit practice-relevant statements based on the extracted health outcomes and quality-of-conduct assessment. Also, the process of each critical appraisal is video-recorded and published on YouTube daily.
+
+OTHER
+
+_Funding._ The review is crowdfunded; the details are available from the Zheln website (https://zheln.com). Crowd funders had no role in the design of the protocol. They will be able to request critical appraisal and additional critical appraisal (with new data provided) of any eligible record but will not influence the review process otherwise.
+
+_Registration._ The project is hosted on GitHub. Also, there is an umbrella Open Science Framework project that links repositories and preprints (DOI 10.17605/OSF.IO/EJKFC). The protocol for this overview of systematic reviews has been submitted for registration in PROSPERO.
+
 # ADMINISTRATIVE INFORMATION
 
 ## 1 Title
