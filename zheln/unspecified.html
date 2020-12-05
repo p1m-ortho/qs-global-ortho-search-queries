@@ -18,56 +18,58 @@ permalink: /unspecified/
       </h2>
 
       {% assign has_no_posts = true %}
-      {% for post in site.posts %}
-      {% if post.categories contains "record" %}
       {% assign post_date = '' %}
       {% assign i = 0 %}
-      {% unless post.date == post_date %}
-      {% unless post_date == '' %}</ul>{% endunless %}
-      <h2><small><a href="{{ post.date | date: '/%Y/%m/%d/' }}">{% assign week_prepend = post.date | date: "%a, %b %-d (Wk " %}{% assign week_append = post.date | date: ", %Y)" %}{% assign week = post.date | date: "%-U" | plus: 1 %}{{ week | prepend: week_prepend | append: week_append }}</a></small></h2>
-      <ul>
-      {% endunless %}
-      {% for tag in page.specialty_tags %}
-      {% if post.tags contains tag %}
-        {% assign has_no_posts = false %}
+      {% for post in site.posts %}
+      {% if post.categories contains "record" %}
+        {% assign has_tags = false %}
+        {% for tag in page.specialty_tags %}
+          {% if post.tags contains tag %}{% assign has_tags = true %}{% endif %}
+        {% endfor %}
+        {% if has_tags %}
+          {% assign has_no_posts = false %}
+          {% unless post.date == post_date %}
+            {% unless post_date == '' %}</ul>{% endunless %}
+            <h2><small><a href="{{ post.date | date: '/%Y/%m/%d/' }}">{% assign week_prepend = post.date | date: "%a, %b %-d (Wk " %}{% assign week_append = post.date | date: ", %Y)" %}{% assign week = post.date | date: "%-U" | plus: 1 %}{{ week | prepend: week_prepend | append: week_append }}</a></small></h2>
+            <ul>
+          {% endunless %}
           {% assign post_date = post.date %}
           {% assign i = i | plus: 1 %}
           {% assign cond = i | modulo: 2 %}
           {% assign content = post.content | strip_html | strip_newlines %}
           {% if content contains site.step_2_waiting %}
-          {% if cond == 1 %}<li>{% else %}<li class="dark-container">{% endif %}
+            {% if cond == 1 %}<li>{% else %}<li class="dark-container">{% endif %}
           {% elsif content contains site.step_2_fail %}
-          <li class="red-container">
+            <li class="red-container">
           {% else %}
-          <li class="green-container">
+            <li class="green-container">
           {% endif %}
-            {% assign title = post.title %}
-            {% if title == "Record Awaiting Appraisal" %}
-              {% assign a = content | split: 'A critical appraisal of ‘' %}
-              {% assign b = a[1] | split: '’. Zheln.' %}
-              {% assign c = b[0] | split: '.' %}
-              {% assign title = '' %}
-              {% for d in c %}
-                {% if forloop.index0 > 0 %}
-                  {% assign title = title | append: d %}
-                  {% if forloop.rindex0 > 0 %}
-                      {% assign title = title | append: '.' %}
-                  {% endif %}
+          {% assign title = post.title %}
+          {% if title == "Record Awaiting Appraisal" %}
+            {% assign a = content | split: 'A critical appraisal of ‘' %}
+            {% assign b = a[1] | split: '’. Zheln.' %}
+            {% assign c = b[0] | split: '.' %}
+            {% assign title = '' %}
+            {% for d in c %}
+              {% if forloop.index0 > 0 %}
+                {% assign title = title | append: d %}
+                {% if forloop.rindex0 > 0 %}
+                    {% assign title = title | append: '.' %}
                 {% endif %}
-              {% endfor %}
-            {% else %}
-              {% assign title = title | prepend: '<strong>' %}
-              {% assign title = title | append: '</strong>' %}
-            {% endif %}
-            <a href="{{ post.url | prepend: site.baseurl }}">{{ title }}</a>
-            {% for post_tag in post.tags %}
-              {% if site.status_tags contains post_tag %}
-                <small class="hidden-xs">{{ post_tag | capitalize }}</small>
               {% endif %}
             {% endfor %}
+          {% else %}
+            {% assign title = title | prepend: '<strong>' %}
+            {% assign title = title | append: '</strong>' %}
+          {% endif %}
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ title }}</a>
+          {% for post_tag in post.tags %}
+            {% if site.status_tags contains post_tag %}
+              <small class="hidden-xs">{{ post_tag | capitalize }}</small>
+            {% endif %}
+          {% endfor %}
           </li>
-      {% endif %}
-      {% endfor %}
+        {% endif %}
       {% endif %}
       {% endfor %}
       </ul>
