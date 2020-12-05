@@ -225,8 +225,8 @@ Please see [12 Effect measures](#12-effect-measures-specify-for-each-outcome-the
 
 ## 16a Study selection: Describe the results of the search and selection process, from the number of records identified in the search to the number of studies included in the review, ideally using a flow diagram (see Figure 1)
 
-* [Living appraisal log (Table)](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/Appraisal_Log.md).
-* [Living PRISMA 2020 flow diagrams](https://github.com/drzhelnov/zheln.github.io/tree/master/flow-diagram).
+* [Living appraisal log](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/Appraisal_Log.md) (Table).
+* [Living PRISMA 2020 flow diagrams](https://github.com/drzhelnov/zheln.github.io/tree/master/flow-diagram) (an updated diagram image is uploaded every Wednesday and Saturday).
 
 ## 16b Study selection: Cite studies that met many but not all inclusion criteria (‘near-misses’) and explain why they were excluded
 
