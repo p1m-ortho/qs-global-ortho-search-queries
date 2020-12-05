@@ -1,5 +1,5 @@
 #!/bin/bash
-v='1.2.1'
+v='1.2.2'
 coreutils=true
 files='zheln_ama_specialty_page_filenames.lst'
 html='unspecified.html'
@@ -56,10 +56,6 @@ while read file; do
   content=$(< $file); while read tag; do
     tag="${tag// /-}"
     if [ "$k" = "$i" ]; then echo "${content/permalink: \/$unspecified_tag\//permalink: /$tag/}" > "$file"; fi
-    k=$((k + 1))
-  done < "../../$tags"; k=0
-  content=$(< $file); while read tag; do
-    if [ "$k" = "$i" ]; then echo "${content/$unspecified_tag/$tag}" > "$file"; fi
     k=$((k + 1))
   done < "../../$tags"; k=0
   content=$(< $file); while read code; do
