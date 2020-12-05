@@ -1,10 +1,10 @@
-[ "abdominal radiology", "diagnostic radiology", "radiology" ]
-[ "abdominal surgery", "general surgery" ]
-[ "acute pain medicine", "regional anesthesiology", "pain medicine", "pain management", "anesthesiology" ]
-[ "addiction medicine", "addiction psychiatry", "psychiatry" ]
-[ "addiction psychiatry", "addiction medicine", "psychiatry" ]
-[ "adolescent medicine", "pediatrics" ]
-[ "adolescent psychiatry", "psychiatry", "pediatrics" ]
+[ "abdominal radiology" ]
+[ "abdominal surgery" ]
+[ "acute pain medicine", "regional anesthesiology" ]
+[ "addiction medicine", "addiction psychiatry" ]
+[ "addiction psychiatry", "addiction medicine" ]
+[ "adolescent medicine" ]
+[ "adolescent psychiatry" ]
 adult cardiothoracic anesthesiology
 adult congenital heart disease
 adult reconstructive orthopedics
