@@ -1,0 +1,1807 @@
+1: Bitchell CL, Varley-Campbell J, Robinson G, Stiles V, Mathema P, Moore IS.
+Recurrent and Subsequent Injuries in Professional and Elite Sport: a Systematic
+Review. Sports Med Open. 2020 Dec 3;6(1):58. doi: 10.1186/s40798-020-00286-3.
+PMID: 33270184; PMCID: PMC7714809.
+
+2: Wang J, Sui Y, Li Q, Zhao Y, Dong X, Yang J, Liang Z, Han Y, Tang Y, Ma J.
+Effective inhibition of MYC-amplified group 3 medulloblastoma by FACT-targeted
+curaxin drug CBL0137. Cell Death Dis. 2020 Dec 2;11(12):1029. doi:
+10.1038/s41419-020-03201-6. PMID: 33268769; PMCID: PMC7710710.
+
+3: Shao SC, Kuo LT, Chien RN, Hung MJ, Lai EC. SGLT2 inhibitors in patients with
+type 2 diabetes with non-alcoholic fatty liver diseases: an umbrella review of
+systematic reviews. BMJ Open Diabetes Res Care. 2020 Dec;8(2):e001956. doi:
+10.1136/bmjdrc-2020-001956. PMID: 33268450; PMCID: PMC7712399.
+
+4: Woods JB, Greenfield G, Majeed A, Hayhoe B. Clinical effectiveness and cost
+effectiveness of individual mental health workers colocated within primary care
+practices: a systematic literature review. BMJ Open. 2020 Dec 2;10(12):e042052.
+doi: 10.1136/bmjopen-2020-042052. PMID: 33268432; PMCID: PMC7713190.
+
+5: Annane D, Pirracchio R, Billot L, Waschka A, Chevret S, Cohen J, Finfer S,
+Gordon A, Hammond N, Myburgh J, Venkatesh B, Delaney A; ULYSSES IPDMA
+Collaborators. Effects of low-dose hydrocortisone and hydrocortisone plus
+fludrocortisone in adults with septic shock: a protocol for a systematic review
+and meta-analysis of individual participant data. BMJ Open. 2020 Dec
+2;10(12):e040931. doi: 10.1136/bmjopen-2020-040931. PMID: 33268422; PMCID:
+PMC7713227.
+
+6: Njuguna IN, Beima-Sofie K, Mburu CW, Mugo C, Neary J, Itindi J, Onyango A,
+Richardson BA, Rubin Means A, Sharma M, Weiner BJ, Wagner AD, Oyiengo L, Wamalwa
+D, John-Stewart G. Adolescent transition to adult care for HIV-infected
+adolescents in Kenya (ATTACH): study protocol for a hybrid effectiveness-
+implementation cluster randomised trial. BMJ Open. 2020 Dec 2;10(12):e039972.
+doi: 10.1136/bmjopen-2020-039972. PMID: 33268417; PMCID: PMC7713196.
+
+7: Matos Fialho PM, Dragano N, Reuter M, Metzendorf MI, Richter B, Hoffmann S,
+Diehl K, Wachtler B, Sundmacher L, Herke M, Pischke C. Mapping the evidence
+regarding school-to-work/university transition and health inequalities among
+young adults: a scoping review protocol. BMJ Open. 2020 Dec 2;10(12):e039831.
+doi: 10.1136/bmjopen-2020-039831. PMID: 33268415; PMCID: PMC7713198.
+
+8: Shenton LM, Wagner AL, Ji M, Carlson BF, Boulton ML. Vaccination assessments
+using the Demographic and Health Survey, 2005-2018: a scoping review. BMJ Open.
+2020 Dec 2;10(12):e039693. doi: 10.1136/bmjopen-2020-039693. PMID: 33268412;
+PMCID: PMC7713201.
+
+9: Hilla A, Reese V, Nonvignon J, Dolan CB. Methods for estimating economic
+benefits of surgical interventions in low-income and middle-income countries: a
+scoping review. BMJ Open. 2020 Dec 2;10(12):e039644. doi:
+10.1136/bmjopen-2020-039644. PMID: 33268411; PMCID: PMC7713224.
+
+10: Zhong S, Hu Y, Fu Y, Cao L, Zhang B. Functional MRI in the effect of
+transcranial magnetic stimulation therapy for patients with schizophrenia: a
+meta-analysis protocol. BMJ Open. 2020 Dec 2;10(12):e038557. doi:
+10.1136/bmjopen-2020-038557. PMID: 33268405; PMCID: PMC7713205.
+
+11: Zeng L, Helsingen LM, Kenji Nampo F, Wang Y, Yao L, Siemieniuk RA,
+Bretthauer M, Guyatt GH. How do cancer screening guidelines trade off benefits
+versus harms and burdens of screening? A systematic survey. BMJ Open. 2020 Dec
+2;10(12):e038322. doi: 10.1136/bmjopen-2020-038322. PMID: 33268404; PMCID:
+PMC7713181.
+
+12: Islam R, Adams AM, Hasan SM, Ahmed R, Bhattacharyya DS, Shafique S. Making
+information and communications technologies (ICTs) work for health: protocol for
+a mixed-methods study exploring processes for institutionalising geo-referenced
+health information systems to strengthen maternal neonatal and child health
+(MNCH) service planning, referral and oversight in urban Bangladesh. BMJ Open.
+2020 Dec 2;10(12):e032820. doi: 10.1136/bmjopen-2019-032820. PMID: 33268397;
+PMCID: PMC7712401.
+
+13: Patel R, Naqvi SA, Griffiths C, Bloom CI. Systemic adverse effects from
+inhaled corticosteroid use in asthma: a systematic review. BMJ Open Respir Res.
+2020 Dec;7(1):e000756. doi: 10.1136/bmjresp-2020-000756. PMID: 33268342; PMCID:
+PMC7713222.
+
+14: Hessami A, Shamshirian A, Heydari K, Pourali F, Alizadeh-Navaei R,
+Moosazadeh M, Abrotan S, Shojaie L, Sedighi S, Shamshirian D, Rezaei N.
+Cardiovascular diseases burden in COVID-19: Systematic review and meta-analysis.
+Am J Emerg Med. 2020 Oct 16:S0735-6757(20)30908-6. doi:
+10.1016/j.ajem.2020.10.022. Epub ahead of print. PMID: 33268238; PMCID:
+PMC7561581.
+
+15: Li J, Liu R, Rai S, Ze R, Tang X, Hong P. Intra-articular vs. intravenous
+administration: a meta-analysis of tranexamic acid in primary total knee
+arthroplasty. J Orthop Surg Res. 2020 Dec 2;15(1):581. doi:
+10.1186/s13018-020-02119-1. PMID: 33267906; PMCID: PMC7709322.
+
+16: Witzel TC, Eshun-Wilson I, Jamil MS, Tilouche N, Figueroa C, Johnson CC,
+Reid D, Baggaley R, Siegfried N, Burns FM, Rodger AJ, Weatherburn P. Comparing
+the effects of HIV self-testing to standard HIV testing for key populations: a
+systematic review and meta-analysis. BMC Med. 2020 Dec 3;18(1):381. doi:
+10.1186/s12916-020-01835-z. PMID: 33267890; PMCID: PMC7713313.
+
+17: Gu S, Shi L, Shao H, Wang X, Hu X, Gu Y, Dong H. Choice across 10
+pharmacologic combination strategies for type 2 diabetes: a cost-effectiveness
+analysis. BMC Med. 2020 Dec 3;18(1):378. doi: 10.1186/s12916-020-01837-x. PMID:
+33267884; PMCID: PMC7713153.
+
+18: Gon G, de Barra M, Dansero L, Nash S, Campbell OMR. Birth attendants' hand
+hygiene compliance in healthcare facilities in low and middle-income countries:
+a systematic review. BMC Health Serv Res. 2020 Dec 3;20(1):1116. doi:
+10.1186/s12913-020-05925-9. PMID: 33267879; PMCID: PMC7713338.
+
+19: Chu Y, Yang J, Shi J, Zhang P, Wang X. Obesity is associated with increased
+severity of disease in COVID-19 pneumonia: a systematic review and meta-
+analysis. Eur J Med Res. 2020 Dec 2;25(1):64. doi: 10.1186/s40001-020-00464-9.
+PMID: 33267871; PMCID: PMC7708895.
+
+20: Anantapong K, Davies N, Chan J, McInnerney D, Sampson EL. Mapping and
+understanding the decision-making process for providing nutrition and hydration
+to people living with dementia: a systematic review. BMC Geriatr. 2020 Dec
+2;20(1):520. doi: 10.1186/s12877-020-01931-y. PMID: 33267831; PMCID: PMC7709405.
+
+21: Li Y, Ma L. Efficacy of chemotherapy for lymph node-positive luminal A
+subtype breast cancer patients: an updated meta-analysis. World J Surg Oncol.
+2020 Dec 2;18(1):316. doi: 10.1186/s12957-020-02089-y. PMID: 33267822; PMCID:
+PMC7712980.
+
+22: Del-Moral-García M, Obrero-Gaitán E, Rodríguez-Almagro D, Rodríguez-Huguet
+M, Osuna-Pérez MC, Lomas-Vega R. Effectiveness of Active Therapy-Based Training
+to Improve the Balance in Patients with Fibromyalgia: A Systematic Review with
+Meta-Analysis. J Clin Med. 2020 Nov 22;9(11):3771. doi: 10.3390/jcm9113771.
+PMID: 33266511; PMCID: PMC7700277.
+
+23: Wang J, Vallee I, Dutta A, Wang Y, Mo Z, Liu Z, Cui H, Su AI, Yang XL.
+Multi-Omics Database Analysis of Aminoacyl-tRNA Synthetases in Cancer. Genes
+(Basel). 2020 Nov 22;11(11):1384. doi: 10.3390/genes11111384. PMID: 33266490;
+PMCID: PMC7700366.
+
+24: Zelenika S, Hadas Z, Bader S, Becker T, Gljušćić P, Hlinka J, Janak L,
+Kamenar E, Ksica F, Kyratsi T, Louca L, Mrlik M, Osmanović A, Pakrashi V, Rubes
+O, Ševeček O, Silva JPB, Tofel P, Trkulja B, Unnthorsson R, Velagić J, Vrcan Ž.
+Energy Harvesting Technologies for Structural Health Monitoring of Airplane
+Components-A Review. Sensors (Basel). 2020 Nov 22;20(22):6685. doi:
+10.3390/s20226685. PMID: 33266489; PMCID: PMC7700503.
+
+25: Artiaco S, Fusini F, Sard A, Dutto E, Massè A, Battiston B. Fracture-
+dislocations of the forearm joint: a systematic review of the literature and a
+comprehensive locker-based classification system. J Orthop Traumatol. 2020 Dec
+2;21(1):21. doi: 10.1186/s10195-020-00562-8. PMID: 33263862; PMCID: PMC7710780.
+
+26: Menger JL, Mafaldo LR, Schiwe D, Schaan CW, Heinzmann-Filho JP. EFFECTS OF
+HAMMOCK POSITIONING ON CLINICAL PARAMETERS IN PRETERM INFANTS ADMITTED TO A
+NEONATAL INTENSIVE CARE UNIT: A SYSTEMATIC REVIEW. Rev Paul Pediatr. 2020 Nov
+30;39:e2019399. doi: 10.1590/1984-0462/2021/39/2019399. PMID: 33263617; PMCID:
+PMC7703730.
+
+27: von Peter S, Schwarz J. Gegenseitige Unterstützung Psychiatrieerfahrener in
+Krisenunterkünften – ein Scoping Review [Mutual Support by People with Lived
+Experience of Mental Distress in Crisis Respites - A Scoping Review]. Psychiatr
+Prax. 2020 Dec 3. German. doi: 10.1055/a-1307-7160. Epub ahead of print. PMID:
+33271624.
+
+28: Pohl S, Carvalho Fernando S, Leggemann M, Driessen M. Familien mit Kindern
+psychisch kranker Eltern: Ein Überblick über ambulante, familienorientierte
+Komplexangebote im deutschsprachigen Raum [Supporting Interventions for Families
+with Children of Mentally Ill Parents: An Overview of Family-Oriented Complex
+Interventions in German-Speaking Countries]. Psychiatr Prax. 2020 Dec 3. German.
+doi: 10.1055/a-1310-4833. Epub ahead of print. PMID: 33271623.
+
+29: Blank D, Brieger P, Hamann J. Rückkehr an den Arbeitsplatz nach psychischer
+Erkrankung – Ein Scoping Review [Return to Work after Mental Disorders - A
+Scoping Review]. Psychiatr Prax. 2020 Dec 3. German. doi: 10.1055/a-1310-2591.
+Epub ahead of print. PMID: 33271622.
+
+30: Pallauf K, Günther I, Kühn G, Chin D, de Pascual-Teresa S, Rimbach G. The
+Potential of Resveratrol to Act as a Caloric Restriction Mimetic Appears to Be
+Limited: Insights from Studies in Mice. Adv Nutr. 2020 Dec 3:nmaa148. doi:
+10.1093/advances/nmaa148. Epub ahead of print. PMID: 33271594.
+
+31: Kazemi A, Barati-Boldaji R, Soltani S, Mohammadipoor N, Esmaeilinezhad Z,
+Clark CCT, Babajafari S, Akbarzadeh M. Intake of Various Food Groups and Risk of
+Breast Cancer: A Systematic Review and Dose-Response Meta-Analysis of
+Prospective Studies. Adv Nutr. 2020 Dec 3:nmaa147. doi:
+10.1093/advances/nmaa147. Epub ahead of print. PMID: 33271590.
+
+32: Ashrafian H, Sounderajah V, Glen R, Ebbels T, Blaise BJ, Kalra D, Kultima K,
+Spjuth O, Tenori L, Salek R, Kale N, Haug K, Schober D, Rocca-Serra P, O'Donovan
+C, Steinbeck C, Cano I, de Atauri P, Cascante M. Metabolomics - the stethoscope
+for the 21st century. Med Princ Pract. 2020 Dec 3. doi: 10.1159/000513545. Epub
+ahead of print. PMID: 33271569.
+
+33: van Raath MI, Chohan S, Wolkerstorfer A, van der Horst CMAM, Limpens J,
+Huang X, Ding B, Storm G, van der Hulst RRWJ, Heger M. Treatment Outcome
+Measurement Instruments for Port Wine Stains: A Systematic Review of Their
+Measurement Properties. Dermatology. 2020 Dec 3:1-17. doi: 10.1159/000511438.
+Epub ahead of print. PMID: 33271556.
+
+34: Rajar P, Saugstad OD, Berild D, Dutta A, Greisen G, Lausten-Thomsen U, Mande
+SS, Nangia S, Petersen FC, Dahle UR, Haaland K. Antibiotic Stewardship in
+Premature Infants: A Systematic Review. Neonatology. 2020 Dec 3:1-14. doi:
+10.1159/000511710. Epub ahead of print. PMID: 33271554.
+
+35: Balcombe L, De Leo D. Psychological screening and tracking of athletes and
+the potential for digital mental health solutions in a hybrid model of care: A
+mini review. JMIR Form Res. 2020 Oct 17. doi: 10.2196/22755. Epub ahead of
+print. PMID: 33271497.
+
+36: Carroll AH, Ramirez MP, Dowlati E, Mueller KB, Borazjani A, Chang JJ,
+Felbaum DR. Management of Intracranial Hemorrhage in Patients with a Left
+Ventricular Assist Device: A Systematic Review and Meta-Analysis. J Stroke
+Cerebrovasc Dis. 2020 Nov 30;30(2):105501. doi:
+10.1016/j.jstrokecerebrovasdis.2020.105501. Epub ahead of print. PMID: 33271486.
+
+37: Arunagiri N, Kelly SM, Dunlea C, Dixon O, Cantwell J, Bhudia P, Boterberg T,
+Janssens GO, Gains JE, Chang YC, Gaze MN; SIOP-Europe Radiation Oncology Working
+Group. The spleen as an organ at risk in paediatric radiotherapy: A SIOP-Europe
+Radiation Oncology Working Group report. Eur J Cancer. 2020 Nov 30;143:1-10.
+doi: 10.1016/j.ejca.2020.10.025. Epub ahead of print. PMID: 33271483.
+
+38: Roberts KJ, Binns HJ, Vincent C, Koenig MD. A scoping review: Family and
+child perspectives of clinic-based obesity treatment. J Pediatr Nurs. 2020 Nov
+30;57:56-72. doi: 10.1016/j.pedn.2020.10.025. Epub ahead of print. PMID:
+33271477.
+
+39: Mohamedahmed AYY, Zaman S, Srinivasan A, Peterknecht E, Saeed S Mohammed S,
+AlBendary M, Alnzaer AA, Elsamani K. Do we need to routinely perform cavity
+shaving with breast-conserving surgery for breast cancer? A systematic review
+and meta-analysis. Surg Oncol. 2020 Nov 25;36:7-14. doi:
+10.1016/j.suronc.2020.11.003. Epub ahead of print. PMID: 33271465.
+
+40: Simpson CA, Diaz-Arteche C, Eliby D, Schwartz OS, Simmons JG, Cowan CSM. The
+gut microbiota in anxiety and depression - A systematic review. Clin Psychol
+Rev. 2020 Oct 29;83:101943. doi: 10.1016/j.cpr.2020.101943. Epub ahead of print.
+PMID: 33271426.
+
+41: Barba M, Schivardi G, Manodoro S, Frigerio M. Obstetric outcomes after
+uterus-sparing surgery for uterine prolapse: A systematic review and meta-
+analysis. Eur J Obstet Gynecol Reprod Biol. 2020 Nov 20;256:333-338. doi:
+10.1016/j.ejogrb.2020.11.054. Epub ahead of print. PMID: 33271407.
+
+42: Liu B, Chen G, Yu Z, Ji C, Liang T, He J, Dai W, Shao Y, Jiang H, Zhang W,
+Yang H, Luo Z. Bone mineral density and related scores in Parkinson's disease: a
+systematic review and meta-analysis. World Neurosurg. 2020 Nov
+30:S1878-8750(20)32517-1. doi: 10.1016/j.wneu.2020.11.132. Epub ahead of print.
+PMID: 33271382.
+
+43: Amoo M, Henry J, Javadpour M. Common trajectories for freehand frontal
+ventriculostomy: A systematic review. World Neurosurg. 2020 Nov
+30:S1878-8750(20)32440-2. doi: 10.1016/j.wneu.2020.11.065. Epub ahead of print.
+PMID: 33271380.
+
+44: Butterfield JT, Chen CC, Grande AW, Jagadeesan B, Tummala R, Venteicher AS.
+The Rate of Symptomatic Ischemic Events after PassingBalloon Test Occlusion of
+the Major Intracranial Arteries: Meta-Analysis. World Neurosurg. 2020 Nov
+30:S1878-8750(20)32519-5. doi: 10.1016/j.wneu.2020.11.134. Epub ahead of print.
+PMID: 33271379.
+
+45: Chakravarthi SS, Lyons L, Orozco AR, Verhey L, Mazaris P, Zacharia J, Singer
+JA. Combined decompressive hemicraniectomy (DHC) and port-based minimally-
+invasive parafascicular surgery (MIPS) for the treatment of subcortical
+intracerebral hemorrhage: Case series, Technical Note, and Review of Literature.
+World Neurosurg. 2020 Nov 30:S1878-8750(20)32515-8. doi:
+10.1016/j.wneu.2020.11.130. Epub ahead of print. PMID: 33271377.
+
+46: Xiang G, Wu Q, Wu X, Hao S, Xie L, Li S. Non-invasive ventilation
+intervention during exercise training in individuals with chronic obstructive
+pulmonary disease: a systematic review and meta-analysis. Ann Phys Rehabil Med.
+2020 Nov 30:101460. doi: 10.1016/j.rehab.2020.101460. Epub ahead of print. PMID:
+33271344.
+
+47: Dang H, Dekkers N, le Cessie S, van Hooft JE, van Leerdam ME, Oldenburg PP,
+Flothuis L, Schoones JW, Langers AMJ, Hardwick JCH, van der Kraan J, Boonstra
+JJ. Risk and time pattern of recurrences after local endoscopic resection of T1
+colorectal cancer: a meta-analysis. Clin Gastroenterol Hepatol. 2020 Nov
+30:S1542-3565(20)31622-0. doi: 10.1016/j.cgh.2020.11.032. Epub ahead of print.
+PMID: 33271339.
+
+48: Alam A, Imam N, Siddiqui MF, Ali MK, Ahmed MM, Ishrat R. Human gene
+expression profiling identifies key therapeutic targets in tuberculosis
+infection: A systematic network meta-analysis. Infect Genet Evol. 2020 Nov
+30:104649. doi: 10.1016/j.meegid.2020.104649. Epub ahead of print. PMID:
+33271338.
+
+49: McCormick KL, Tedesco LJ, Swindell HW, Forrester LA, Jobin CM, Levine WN.
+Statistical Fragility of Randomized Clinical Trials in Shoulder Arthroplasty. J
+Shoulder Elbow Surg. 2020 Nov 30:S1058-2746(20)30902-2. doi:
+10.1016/j.jse.2020.10.028. Epub ahead of print. PMID: 33271323.
+
+50: Hou L, Rashid M, Chehabra M, Chandrasekhar B, Amirthalingam P, Ray S, Li Z.
+The effect of Bertholletia excelsa on body weight, cholestrol, and c-reactive
+protein: A systematic review and meta-analysis of randomized controlled trials.
+Complement Ther Med. 2020 Nov 30:102636. doi: 10.1016/j.ctim.2020.102636. Epub
+ahead of print. PMID: 33271300.
+
+51: Wei S, Yu X. Efficacy of resveratrol supplementation on liver enzymes in
+patients with non-alcoholic fatty liver disease: A systematic review and meta-
+analysis. Complement Ther Med. 2020 Nov 30:102635. doi:
+10.1016/j.ctim.2020.102635. Epub ahead of print. PMID: 33271299.
+
+52: Jia P, Lin L, Kwong JSW, Xu C. Many meta-analyses of rare events in the
+Cochrane Database of Systematic Reviews were underpowered. J Clin Epidemiol.
+2020 Nov 30:S0895-4356(20)31188-4. doi: 10.1016/j.jclinepi.2020.11.017. Epub
+ahead of print. PMID: 33271288.
+
+53: Zhang C, de A F Fonseca L, Shi Z, Zhu C, Dekker A, Bermejo I, Wee L.
+Systematic review of radiomic biomarkers for predicting immune checkpoint
+inhibitor treatment outcomes. Methods. 2020 Nov 30:S1046-2023(20)30262-0. doi:
+10.1016/j.ymeth.2020.11.005. Epub ahead of print. PMID: 33271285.
+
+54: Gad H, Hayat T, Al-Muhannadi H, Rasheed Malik B, Mussleman P, Malik RA.
+Efficacy and Safety of the Newer Oral Hypoglycemic Agents in Patients with T2DM
+During Ramadan: A Systematic Review and Meta-analysis. Diabetes Res Clin Pract.
+2020 Nov 30:108562. doi: 10.1016/j.diabres.2020.108562. Epub ahead of print.
+PMID: 33271228.
+
+55: Ligezka AN, Sonmez AI, Corral-Frias MP, Golebiowski R, Lynch B, Croarkin PE,
+Romanowicz M. A systematic review of microbiome changes and impact of probiotic
+supplementation in children and adolescents with neuropsychiatric disorders.
+Prog Neuropsychopharmacol Biol Psychiatry. 2020 Nov 30:110187. doi:
+10.1016/j.pnpbp.2020.110187. Epub ahead of print. PMID: 33271210.
+
+56: Nosrat A, Dianat O, Verma P, Nixdorf DR, Law AS. Post-operative Pain: An
+Analysis on Evolution of Research in Half-Century. J Endod. 2020 Nov
+30:S0099-2399(20)30927-4. doi: 10.1016/j.joen.2020.11.021. Epub ahead of print.
+PMID: 33271179.
+
+57: Roydeva MI, Reinders AATS. Biomarkers of Pathological Dissociation: A
+Systematic Review. Neurosci Biobehav Rev. 2020 Nov 30:S0149-7634(20)30648-5.
+doi: 10.1016/j.neubiorev.2020.11.019. Epub ahead of print. PMID: 33271160.
+
+58: Crozier JA, Pezzi TA, Hodge C, Janeva S, Lesnikoski BA, Samiian L, Devereaux
+A, Hammond W, Audisio RA, Pezzi CM. Addition of chemotherapy to local therapy in
+women aged 70 years or older with triple-negative breast cancer: a propensity-
+matched analysis. Lancet Oncol. 2020 Dec;21(12):1611-1619. doi:
+10.1016/S1470-2045(20)30538-6. PMID: 33271091.
+
+59: De Roover K, Vermunt JK, Ceulemans E. Mixture multigroup factor analysis for
+unraveling factor loading noninvariance across many groups. Psychol Methods.
+2020 Dec 3. doi: 10.1037/met0000355. Epub ahead of print. PMID: 33271027.
+
+60: Demian MN, Thornton AE, Shapiro RJ, Loken Thornton W. Negative affect and
+self-agency's association with immunosuppressant adherence in organ transplant:
+A meta-analysis. Health Psychol. 2020 Dec 3. doi: 10.1037/hea0001047. Epub ahead
+of print. PMID: 33271025.
+
+61: Polanin JR, Espelage DL, Grotpeter JK, Spinney E, Ingram KM, Valido A, El
+Sheikh A, Torgal C, Robinson L. A meta-analysis of longitudinal partial
+correlations between school violence and mental health, school performance, and
+criminal or delinquent acts. Psychol Bull. 2020 Dec 3. doi: 10.1037/bul0000314.
+Epub ahead of print. PMID: 33271024.
+
+62: Zalta AK, Tirone V, Orlowska D, Blais RK, Lofgreen A, Klassen B, Held P,
+Stevens NR, Adkins E, Dent AL. Examining moderators of the relationship between
+social support and self-reported PTSD symptoms: A meta-analysis. Psychol Bull.
+2020 Dec 3. doi: 10.1037/bul0000316. Epub ahead of print. PMID: 33271023.
+
+63: Nguyen KA, Pachter R, Day PN. Systematic Study of the Properties of CdS
+Clusters with Carboxylate Ligands Using a Deep Neural Network Potential
+Developed with Data from Density Functional Theory Calculations. J Phys Chem A.
+2020 Dec 3. doi: 10.1021/acs.jpca.0c06965. Epub ahead of print. PMID: 33271016.
+
+64: Adams DR, Petukhova Y, Halpern LR. The versatile "lip switch" or
+transitional flap vestibuloplasty combined with alveoloplasty and implant
+placement to treat atrophic mandibles with inadequate vestibules and attached
+tissue: A case series and review of the literature. Spec Care Dentist. 2020 Dec
+3. doi: 10.1111/scd.12546. Epub ahead of print. PMID: 33270928.
+
+65: Kyler-Yano JZ, Mankowski ES. A human diversity analysis of culture and
+gender in Asian American men's intimate partner violence perpetration. J
+Community Psychol. 2020 Dec 3. doi: 10.1002/jcop.22485. Epub ahead of print.
+PMID: 33270922.
+
+66: Balachandra S, Kusin SB, Lee R, Blackwell JM, Tiro JA, Cowell LG, Chiang CM,
+Wu SY, Varma S, Rivera EL, Mayo HG, Ding L, Sumer BD, Lea JS, Bagrodia A, Farkas
+LM, Wang R, Fakhry C, Dahlstrom KR, Sturgis EM, Day AT. Blood-based biomarkers
+of human papillomavirus-associated cancers: A systematic review and meta-
+analysis. Cancer. 2020 Dec 3. doi: 10.1002/cncr.33221. Epub ahead of print.
+PMID: 33270909.
+
+67: Jakob T, Tesfamariam YM, Macherey S, Kuhr K, Adams A, Monsef I, Heidenreich
+A, Skoetz N. Bisphosphonates or RANK-ligand-inhibitors for men with prostate
+cancer and bone metastases: a network meta-analysis. Cochrane Database Syst Rev.
+2020 Dec 3;12:CD013020. doi: 10.1002/14651858.CD013020.pub2. PMID: 33270906.
+
+68: Abbasalizad Farhangi M, Vajdi M. Gut microbiota-associated trimethylamine
+N-oxide and increased cardiometabolic risk in adults: a systematic review and
+dose-response meta-analysis. Nutr Rev. 2020 Dec 3:nuaa111. doi:
+10.1093/nutrit/nuaa111. Epub ahead of print. PMID: 33270896.
+
+69: Chen H, Kinchla A, Richard N, Shaw A, Feng Y. Produce Growers' On-Farm Food
+Safety Education: A Review. J Food Prot. 2020 Dec 3. doi: 10.4315/JFP-20-320.
+Epub ahead of print. PMID: 33270894.
+
+70: Sabatino J, De Rosa S, Di Salvo G, Indolfi C. Correction: Impact of
+cardiovascular risk profile on COVID-19 outcome. A meta-analysis. PLoS One. 2020
+Dec 3;15(12):e0243471. doi: 10.1371/journal.pone.0243471. Erratum for: PLoS One.
+2020 Aug 14;15(8):e0237131. PMID: 33270773.
+
+71: Puyat JH, Ahmad H, Avina-Galindo AM, Kazanjian A, Gupta A, Ellis U, Ashe MC,
+Vila-Rodriguez F, Halli P, Salmon A, Vigo D, Almeida A, De Bono CE. A rapid
+review of home-based activities that can promote mental wellness during the
+COVID-19 pandemic. PLoS One. 2020 Dec 3;15(12):e0243125. doi:
+10.1371/journal.pone.0243125. PMID: 33270755.
+
+72: Zacharia A, Mushi V, Makene T. A systematic review and meta-analysis on the
+rate of human schistosomiasis reinfection. PLoS One. 2020 Dec 3;15(12):e0243224.
+doi: 10.1371/journal.pone.0243224. PMID: 33270752.
+
+73: Parri N, Lazzeri S. Efficacy of ibuprofen in musculoskeletal post-traumatic
+pain in children: A systematic review. PLoS One. 2020 Dec 3;15(12):e0243314.
+doi: 10.1371/journal.pone.0243314. PMID: 33270748.
+
+74: Szakács Z, Hegyi PJ, Farkas N, Hegyi P, Balaskó M, Erős A, Szujó S, Pammer
+J, Mosdósi B, Simon M, Nagy A, Für G, Hussain A. Pregnancy outcomes of women
+whom spouse fathered children after tyrosine kinase inhibitor therapy for
+chronic myeloid leukemia: A systematic review. PLoS One. 2020 Dec
+3;15(12):e0243045. doi: 10.1371/journal.pone.0243045. PMID: 33270732.
+
+75: Cai YF, Tian TZ, Chen LY, Liu BX, Zhou JP, Shi M, Liang HD. The effect of
+platelet-rich plasma on the fusion rate and clinical outcome of spinal fusion
+surgery: A systematic review and meta-analysis. PLoS One. 2020 Dec
+3;15(12):e0243204. doi: 10.1371/journal.pone.0243204. PMID: 33270711.
+
+76: Singh-Franco D, Mastropietro DR, Metzner M, Dressler MD, Fares A, Johnson M,
+De La Rosa D, Wolowich WR. Impact of pharmacy-supported interventions on
+proportion of patients receiving non-indicated acid suppressive therapy upon
+discharge: A systematic review and meta-analysis. PLoS One. 2020 Dec
+3;15(12):e0243134. doi: 10.1371/journal.pone.0243134. PMID: 33270710.
+
+77: Mosoro E, Wilson AN, Homer CSE, Vogel JP. Assessing the quality of antenatal
+corticosteroids in low- and middle-income countries: A systematic review. PLoS
+One. 2020 Dec 3;15(12):e0243034. doi: 10.1371/journal.pone.0243034. PMID:
+33270682.
+
+78: Karpińska-Mirecka A, Bartosińska J, Krasowska D. The effects of selected
+biologics and a small molecule on Health-Related Quality of Life in adult plaque
+psoriasis patients: A systematic review and meta-analysis. PLoS One. 2020 Dec
+3;15(12):e0241604. doi: 10.1371/journal.pone.0241604. PMID: 33270647.
+
+79: Zampieri FG, Casey JD, Shankar-Hari M, Harrell FE Jr, Harhay MO. Using
+Bayesian Methods to Augment the Interpretation of Critical Care Trials: An
+Overview of Theory and Example Reanalysis of the Alveolar Recruitment Trial. Am
+J Respir Crit Care Med. 2020 Dec 3. doi: 10.1164/rccm.202006-2381CP. Epub ahead
+of print. PMID: 33270526.
+
+80: Vashishtha VM, Kumar P. Development of SARS-CoV-2 vaccines: challenges,
+risks, and the way forward. Hum Vaccin Immunother. 2020 Dec 3:1-15. doi:
+10.1080/21645515.2020.1845524. Epub ahead of print. PMID: 33270478.
+
+81: Gouron D, Vignault C, Quintin J, Semaan W, Djahanbakhsh Asli K. Impacts de
+la légalisation du cannabis récréatif sur la santé mentale : une recension des
+écrits [Impacts of Cannabis Legalisation on Mental Health: A Literature Review].
+Sante Ment Que. 2020 Spring;45(1):201-220. French. PMID: 33270406.
+
+82: Giné Servén E, Boix Quintana E, Martínez Ramírez M, Guanyabens Buscà N,
+Muriana Batiste D, Guasp M, Torres Rivas C, Davi Loscos E, Casado Ruiz V.
+Cycloid psychosis as a psychiatric expression of anti-NMDAR encephalitis. A
+systematic review of case reports accomplished with the authors' cooperation.
+Brain Behav. 2020 Dec 3:e01980. doi: 10.1002/brb3.1980. Epub ahead of print.
+PMID: 33270360.
+
+83: Li Q, Zhao Y, Huang Z, Guo Y, Long J, Luo L, You W, Sweeney JA, Li F, Gong
+Q. Microstructural white matter abnormalities in pediatric and adult obsessive-
+compulsive disorder: A systematic review and meta-analysis. Brain Behav. 2020
+Dec 3:e01975. doi: 10.1002/brb3.1975. Epub ahead of print. PMID: 33270358.
+
+84: Nugent WA, RajanBabu TV. Four Mechanistic Mysteries: The Benefits of Writing
+a Critical Review. Angew Chem Int Ed Engl. 2020 Dec 3. doi:
+10.1002/anie.202011838. Epub ahead of print. PMID: 33270349.
+
+85: Wilson A, Hurley J, Hutchinson M, Lakeman R. 'Can mental health nurses
+working in acute mental health units really be trauma-informed? An integrative
+review of the literature. J Psychiatr Ment Health Nurs. 2020 Dec 3. doi:
+10.1111/jpm.12717. Epub ahead of print. PMID: 33270336.
+
+86: Monaco D, Iovino P, Lommi M, Marano G, Zaghini F, Vellone E, Alvaro R, Sili
+A. Outcomes of Wound Care Nurses' Practice in Patients with Pressure Ulcers: An
+Integrative Review. J Clin Nurs. 2020 Dec 3. doi: 10.1111/jocn.15583. Epub ahead
+of print. PMID: 33270322.
+
+87: Eisenhauer L, Hansen BR, Pandian V. Strategies to Improve Human
+Papillomavirus Vaccination Rates among Adolescents in Family Practice Settings
+in the United States: A Systematic Review. J Clin Nurs. 2020 Dec 3. doi:
+10.1111/jocn.15579. Epub ahead of print. PMID: 33270305.
+
+88: Pilkington PD, Bishop A, Younan R. Adverse Childhood Experiences and Early
+Maladaptive Schemas in Adulthood: A Systematic Review and Meta-analysis. Clin
+Psychol Psychother. 2020 Dec 3. doi: 10.1002/cpp.2533. Epub ahead of print.
+PMID: 33270299.
+
+89: Purdy JC, Shatzel JJ. The Hematologic Consequences of Obesity. Eur J
+Haematol. 2020 Dec 3. doi: 10.1111/ejh.13560. Epub ahead of print. PMID:
+33270290.
+
+90: Racine L, Johnson L, Fowler-Kerry S. An integrative review of empirical
+literature on indigenous cognitive impairment and dementia. J Adv Nurs. 2020 Dec
+3. doi: 10.1111/jan.14665. Epub ahead of print. PMID: 33270270.
+
+91: Lu Y, Wang YJ, Lu Q. The effect of oral nutritional supplement on muscle
+fitness of patients undergoing dialysis: A systematic review and meta-analysis.
+J Adv Nurs. 2020 Dec 3. doi: 10.1111/jan.14684. Epub ahead of print. PMID:
+33270269.
+
+92: Báez-Gutiérrez N, Rodríguez-Ramallo H, Flores-Moreno S, Abdel-Kader Martín
+L. Subgroup analysis in Haematologic Malignancies Phase III Clinical Trials: A
+systematic review. Br J Clin Pharmacol. 2020 Dec 3. doi: 10.1111/bcp.14689. Epub
+ahead of print. PMID: 33270263.
+
+93: Farahmand M, Malekshahi SS, Jabbari MR, Shayestehpour M. The landscape of
+extrapulmonary manifestations of human parainfluenza viruses: A systematic
+narrative review. Microbiol Immunol. 2020 Dec 3. doi: 10.1111/1348-0421.12865.
+Epub ahead of print. PMID: 33270253.
+
+94: Chauhan N, Soni S, Gupta A, Aslam M, Jain U. Interpretative immune targets
+and contemporary position for vaccine development against SARS-CoV-2: A
+systematic review. J Med Virol. 2020 Dec 3. doi: 10.1002/jmv.26709. Epub ahead
+of print. PMID: 33270225.
+
+95: Iordache E, Robertson EL, Hirschmann A, Hirschmann MT. Typical MRI-pattern
+suggests peak maturation of the ACI graft 2 years after third-generation ACI: a
+systematic review. Knee Surg Sports Traumatol Arthrosc. 2020 Dec 3. doi:
+10.1007/s00167-020-06339-0. Epub ahead of print. PMID: 33270154.
+
+96: Jefferson T, Spencer EA, Brassey J, Heneghan C. Viral cultures for COVID-19
+infectious potential assessment - a systematic review. Clin Infect Dis. 2020 Dec
+3:ciaa1764. doi: 10.1093/cid/ciaa1764. Epub ahead of print. PMID: 33270107.
+
+97: Bhatt NK, Mendoza J, Kallogjeri D, Hardi AC, Bradley JP. Comparison of
+Surgical Treatments for Zenker Diverticulum: A Systematic Review and Network
+Meta-analysis. JAMA Otolaryngol Head Neck Surg. 2020 Dec 3. doi:
+10.1001/jamaoto.2020.4091. Epub ahead of print. PMID: 33270099.
+
+98: Cloutier MM, Dixon AE, Krishnan JA, Lemanske RF Jr, Pace W, Schatz M.
+Managing Asthma in Adolescents and Adults: 2020 Asthma Guideline Update From the
+National Asthma Education and Prevention Program. JAMA. 2020 Dec
+8;324(22):2301-2317. doi: 10.1001/jama.2020.21974. PMID: 33270095.
+
+99: Gargallo-Albiol J, Barootchi S, Marqués-Guasch J, Wang HL. Fully Guided
+Versus Half-Guided and Freehand Implant Placement: Systematic Review and Meta-
+analysis. Int J Oral Maxillofac Implants. 2020 Nov/Dec;35(6):1159-1169. doi:
+10.11607/jomi.7942. PMID: 33270056.
+
+100: Canullo L, Laino L, Longo F, Filetici P, D'Onofrio I, Troiano G. Does
+Chlorhexidine Prevent Complications in Extractive, Periodontal, and Implant
+Surgery? A Systematic Review and Meta-analysis with Trial Sequential Analysis.
+Int J Oral Maxillofac Implants. 2020 Nov/Dec;35(6):1149-1158. doi:
+10.11607/jomi.8216. PMID: 33270055.
+
+101: Oh WS, Oh J, Valcanaia AJ. Open Proximal Contact with Implant-Supported
+Fixed Prostheses Compared with Tooth-Supported Fixed Prostheses: A Systematic
+Review and Meta-analysis. Int J Oral Maxillofac Implants. 2020
+Nov/Dec;30(6):e99-e108. doi: 10.11607/jomi.8415. PMID: 33270050.
+
+102: Norton MR, Åström M. The Influence of Implant Surface on Maintenance of
+Marginal Bone Levels for Three Premium Implant Brands: A Systematic Review and
+Meta-analysis. Int J Oral Maxillofac Implants. 2020 Nov/Dec;35(6):1099-1111.
+doi: 10.11607/jomi.8393. PMID: 33270049.
+
+103: Berlin-Broner Y, Levin L. Dental Implant Success and Endodontic Condition
+of Adjacent Teeth: A Systematic Review. Int J Oral Maxillofac Implants. 2020
+Nov/Dec;35(6):e91-e97. doi: 10.11607/jomi.8311. PMID: 33270048.
+
+104: De Miguel-Rubio A, Rubio MD, Alba-Rueda A, Salazar A, Moral-Munoz JA,
+Lucena-Anton D. Virtual Reality Systems for Upper Limb Motor Function Recovery
+in Patients With Spinal Cord Injury: Systematic Review and Meta-Analysis. JMIR
+Mhealth Uhealth. 2020 Dec 3;8(12):e22537. doi: 10.2196/22537. PMID: 33270040.
+
+105: Gilbey D, Morgan H, Lin A, Perry Y. Effectiveness, Acceptability, and
+Feasibility of Digital Health Interventions for LGBTIQ+ Young People: Systematic
+Review. J Med Internet Res. 2020 Dec 3;22(12):e20158. doi: 10.2196/20158. PMID:
+33270039.
+
+106: Rai HK, Cavalcanti Barroso A, Yates L, Schneider J, Orrell M. Involvement
+of People With Dementia in the Development of Technology-Based Interventions:
+Narrative Synthesis Review and Best Practice Guidelines. J Med Internet Res.
+2020 Dec 3;22(12):e17531. doi: 10.2196/17531. PMID: 33270034.
+
+107: Chishtie JA, Marchand JS, Turcotte LA, Bielska IA, Babineau J, Cepoiu-
+Martin M, Irvine M, Munce S, Abudiab S, Bjelica M, Hossain S, Imran M, Jeji T,
+Jaglal S. Visual Analytic Tools and Techniques in Population Health and Health
+Services Research: Scoping Review. J Med Internet Res. 2020 Dec 3;22(12):e17892.
+doi: 10.2196/17892. PMID: 33270029.
+
+108: Rivera Zavala R, Martinez P. The Impact of Pretrained Language Models on
+Negation and Speculation Detection in Cross-Lingual Medical Text: Comparative
+Study. JMIR Med Inform. 2020 Dec 3;8(12):e18953. doi: 10.2196/18953. PMID:
+33270027.
+
+109: McRobbie HJ, Phillips-Waller A, El Zerbi C, McNeill A, Hajek P, Pesola F,
+Balmford J, Ferguson SG, Li L, Lewis S, Courtney RJ, Gartner C, Bauld L, Borland
+R. Nicotine replacement treatment, e-cigarettes and an online behavioural
+intervention to reduce relapse in recent ex-smokers: a multinational four-arm
+RCT. Health Technol Assess. 2020 Dec;24(68):1-82. doi: 10.3310/hta24680. PMID:
+33270009.
+
+110: Wang B, He B, Zhu YD, Wu W. The predictive value of pre-treatment
+paroxysmal nocturnal hemoglobinuria clone on response to immunosuppressive
+therapy in patients with aplastic anemia: a meta-analysis. Hematology. 2020
+Dec;25(1):464-472. doi: 10.1080/16078454.2020.1848083. PMID: 33269994.
+
+111: Groenke BR, Daline IH, Nixdorf DR. SUNCT/SUNA: Case series presenting in an
+orofacial pain clinic. Cephalalgia. 2020 Dec 3:333102420977292. doi:
+10.1177/0333102420977292. Epub ahead of print. PMID: 33269943.
+
+112: Cesanelli L, Indaburu A. Evaluation of strategy and tactics in cycling: a
+systematic review of evaluation methods and possible performance implications. J
+Sports Med Phys Fitness. 2020 Dec 3. doi: 10.23736/S0022-4707.20.11397-5. Epub
+ahead of print. PMID: 33269879.
+
+113: Chen S, Grimm MJ. Childbirth Computational Models: Characteristics and
+Applications. J Biomech Eng. 2020 Dec 3. doi: 10.1115/1.4049226. Epub ahead of
+print. PMID: 33269787.
+
+114: Xie YJ, Chen Y, Tan HX, Guo QF, Lau BW, Gao Q. Repetitive transcranial
+magnetic stimulation for lower extremity motor function in patients with stroke:
+a systematic review and network meta-analysis. Neural Regen Res. 2021
+Jun;16(6):1168-1176. doi: 10.4103/1673-5374.300341. PMID: 33269766.
+
+115: Quesada-Olarte J, Álvarez-Maestro M, Gómez-Rivas J, Toribio-Vázquez C,
+Aguilera Bazán A, Martínez-Piñeiro L. Organ-sparing cystectomy techniques:
+Functional and oncological outcomes, review and current recommendations. Arch
+Esp Urol. 2021 Dec;73(10):961-970. English, Spanish. PMID: 33269715.
+
+116: Gray BJ, Grey C, Hookway A, Homolova L, Davies AR. Differences in the
+impact of precarious employment on health across population subgroups: a scoping
+review. Perspect Public Health. 2020 Dec 3:1757913920971333. doi:
+10.1177/1757913920971333. Epub ahead of print. PMID: 33269663.
+
+117: Levy CJ, Yatsonsky D 2nd, Moral MZ, Liu J, Ebraheim NA. Arthrodesis or Open
+Reduction Internal Fixation for Lisfranc Injuries: A Meta-analysis. Foot Ankle
+Spec. 2020 Dec 3:1938640020971419. doi: 10.1177/1938640020971419. Epub ahead of
+print. PMID: 33269645.
+
+118: Alvarenga WA, Leite ACAB, Menochelli AA, Ortiz La Banca R, De Bortoli PS,
+Neris RR, Nascimento LC. How to Talk to Children and Adolescents With Cancer
+About Spirituality? Establishing a Conversation Model. J Pediatr Oncol Nurs.
+2020 Dec 3:1043454220975703. doi: 10.1177/1043454220975703. Epub ahead of print.
+PMID: 33269629.
+
+119: Luo X, Yu B, Jiang N, Du Q, Ye X, Li H, Wang WQ, Zhai Q. Chemotherapy-
+Induced Reduction of Neutrophil-to-Lymphocyte Ratio Is Associated With Better
+Survival in Pancreatic Adenocarcinoma: A Meta-Analysis. Cancer Control. 2020
+Jan-Dec;27(1):1073274820977135. doi: 10.1177/1073274820977135. PMID: 33269614.
+
+120: Çetinkaya Ü, Caner A. Prevalence of Microsporidiosis in Different Hosts in
+Turkey: A Meta-analysis. Turkiye Parazitol Derg. 2020 Dec 2;44(4):232-238. doi:
+10.4274/tpd.galenos.2020.7093. PMID: 33269566.
+
+121: Alhumaid SM, Alharbi A 4th, Aljubair H. Magnetic Resonance Imaging Role in
+the Differentiation Between Atypical Cartilaginous Tumors and High-Grade
+Chondrosarcoma: An Updated Systematic Review. Cureus. 2020 Oct 29;12(10):e11237.
+doi: 10.7759/cureus.11237. PMID: 33269165; PMCID: PMC7704161.
+
+122: Chan A, Philpott H, Lim AH, Au M, Tee D, Harding D, Chinnaratha MA, George
+B, Singh R. Anticoagulation and antiplatelet management in gastrointestinal
+endoscopy: A review of current evidence. World J Gastrointest Endosc. 2020 Nov
+16;12(11):408-450. doi: 10.4253/wjge.v12.i11.408. PMID: 33269053; PMCID:
+PMC7677885.
+
+123: Limeta A, Ji B, Levin M, Gatto F, Nielsen J. Meta-analysis of the gut
+microbiota in predicting response to cancer immunotherapy in metastatic
+melanoma. JCI Insight. 2020 Dec 3;5(23):140940. doi: 10.1172/jci.insight.140940.
+PMID: 33268597.
+
+124: Vojinovic D, Kalaoja M, Trompet S, Fischer K, Shipley MJ, Li S, Havulinna
+AS, Perola M, Salomaa V, Yang Q, Sattar N, Jousilahti P, Amin N, Satizabal CL,
+Taba N, Sabayan B, Vasan RS, Ikram MA, Stott DJ, Ala-Korpela M, Jukema JW,
+Seshadri S, Kettunen J, Kivimaki M, Esko T, van Duijn CM. Association of
+circulating metabolites in plasma or serum and risk of stroke: Meta-analysis
+from seven prospective cohorts. Neurology. 2020 Dec
+2:10.1212/WNL.0000000000011236. doi: 10.1212/WNL.0000000000011236. Epub ahead of
+print. PMID: 33268560.
+
+125: Laucho-Contreras ME, Cohen-Todd M. Early diagnosis of COPD: myth or a true
+perspective. Eur Respir Rev. 2020 Dec 2;29(158):200131. doi:
+10.1183/16000617.0131-2020. PMID: 33268437.
+
+126: Yap M, Debenham L, Kew T, Chatterjee SR, Allotey J, Stallings E, Coomar D,
+Lee SI, Qiu X, Yuan M, Clavé Llavall A, Dixit A, Zhou D, Balaji R, van Wely M,
+Kostova E, van Leeuwen E, Mofenson L, Kunst H, Khalil A, Tiberi S, Thomas J,
+Brizuela V, Broutet N, Kara E, Kim C, Thorson A, Rayco-Solon P, Pardo-Hernandez
+H, Oladapo OT, Zamora J, Bonet M, Thangaratinam S; PregCOV-19 Consortium.
+Clinical manifestations, prevalence, risk factors, outcomes, transmission,
+diagnosis and treatment of COVID-19 in pregnancy and postpartum: a living
+systematic review protocol. BMJ Open. 2020 Dec 2;10(12):e041868. doi:
+10.1136/bmjopen-2020-041868. PMID: 33268430; PMCID: PMC7712931.
+
+127: Helsingen LM, Zeng L, Siemieniuk RA, Lytvyn L, Vandvik PO, Agoritsas T,
+Bretthauer M, Guyatt G. Establishing thresholds for important benefits
+considering the harms of screening interventions. BMJ Open. 2020 Dec
+2;10(12):e037854. doi: 10.1136/bmjopen-2020-037854. PMID: 33268400; PMCID:
+PMC7716371.
+
+128: Coolen RL, Groen J, Scheepe JR, Blok BFM. Transcutaneous Electrical Nerve
+Stimulation and Percutaneous Tibial Nerve Stimulation to Treat Idiopathic
+Nonobstructive Urinary Retention: A Systematic Review. Eur Urol Focus. 2020 Oct
+22:S2405-4569(20)30282-0. doi: 10.1016/j.euf.2020.09.019. Epub ahead of print.
+PMID: 33268327.
+
+129: Aryaie AH, Reddy V, Dattilo Z, Janik MR. Safety of same-day discharge after
+laparoscopic sleeve gastrectomy: propensity score-matched analysis of the
+Metabolic and Bariatric Surgery Accreditation and Quality Improvement Program
+Registry. Surg Obes Relat Dis. 2020 Sep 6:S1550-7289(20)30507-4. doi:
+10.1016/j.soard.2020.08.039. Epub ahead of print. PMID: 33268322.
+
+130: Kay VR, Wedel N, Smith GN. Family History of Hypertension, Cardiovascular
+Disease, or Diabetes and Risk of Developing Preeclampsia: A Systematic Review. J
+Obstet Gynaecol Can. 2020 Aug 25:S1701-2163(20)30608-3. doi:
+10.1016/j.jogc.2020.08.010. Epub ahead of print. PMID: 33268309.
+
+131: Zhang J, Wu H, Wang R. Effect of nonsteroidal anti-inflammatory drugs on
+Barrett's esophagus risk: a systematic review and meta-analysis. Clin Res
+Hepatol Gastroenterol. 2020 Oct 22:S2210-7401(20)30293-X. doi:
+10.1016/j.clinre.2020.09.013. Epub ahead of print. PMID: 33268293.
+
+132: Zacks B, Confroy K, Frino S, Skelton JA. Delayed motor skills associated
+with pediatric obesity. Obes Res Clin Pract. 2020 Oct 22:S1871-403X(20)30598-6.
+doi: 10.1016/j.orcp.2020.10.003. Epub ahead of print. PMID: 33268277.
+
+133: Kato H, Hagihara M, Asai N, Shibata Y, Koizumi Y, Yamagishi Y, Mikamo H.
+Meta-analysis of fluoroquinolones versus macrolides for treatment of legionella
+pneumonia. J Infect Chemother. 2020 Oct 22:S1341-321X(20)30361-5. doi:
+10.1016/j.jiac.2020.10.002. Epub ahead of print. PMID: 33268272.
+
+134: Lindemann J, du Toit L, Kotze U, Bernon M, Krige J, Jonas E. Survival
+equivalence in patients treated for borderline resectable and unresectable
+locally advanced pancreatic ductal adenocarcinoma: a systematic review and
+network meta-analysis. HPB (Oxford). 2020 Oct 22:S1365-182X(20)31181-3. doi:
+10.1016/j.hpb.2020.09.022. Epub ahead of print. PMID: 33268268.
+
+135: Chen XD, He FQ, Liao MS, Chen M. Laparoscopic versus open transhiatal
+approach for adenocarcinoma of the esophagogastric junction: A systematic review
+and meta-analysis. Eur J Surg Oncol. 2020 Oct 20:S0748-7983(20)30859-3. doi:
+10.1016/j.ejso.2020.10.022. Epub ahead of print. PMID: 33268214.
+
+136: Vandenbulcke A, Messerer M, Starnoni D, Puccinelli F, Daniel RT, Cossu G.
+Complete spontaneous thrombosis in unruptured non-giant intracranial aneurysms:
+A case report and systematic review. Clin Neurol Neurosurg. 2020 Oct 19:106319.
+doi: 10.1016/j.clineuro.2020.106319. Epub ahead of print. PMID: 33268195.
+
+137: Florez WA, García-Ballestas E, Maeda F, Joaquim A, Pavlov O, Moscote-
+Salazar LR, Tsimpas A, Martinez-Perez R. Relationship between aspirin use and
+subarachnoid hemorrhage: A systematic Review and meta-analysis. Clin Neurol
+Neurosurg. 2020 Oct 19:106320. doi: 10.1016/j.clineuro.2020.106320. Epub ahead
+of print. PMID: 33268193.
+
+138: Moore LH 3rd, Grubbs JB. Gambling Disorder and comorbid PTSD: A systematic
+review of empirical research. Addict Behav. 2020 Oct 14:106713. doi:
+10.1016/j.addbeh.2020.106713. Epub ahead of print. PMID: 33268184.
+
+139: Reintam Blaser A, Gunst J, Ichai C, Casaer MP, Benstoem C, Besch G, Dauger
+S, Fruhwald SM, Hiesmayr M, Joannes-Boyau O, Malbrain MLNG, Perez MH, Schaller
+SJ, de Man A, Starkopf J, Tamme K, Wernerman J, Berger MM. Hypophosphatemia in
+critically ill adults and children - A systematic review. Clin Nutr. 2020 Oct
+8:S0261-5614(20)30517-3. doi: 10.1016/j.clnu.2020.09.045. Epub ahead of print.
+PMID: 33268142.
+
+140: de la Cuesta-Benjumea C, Arredondo-González CP, Lidón-Cerezuela B, Abad-
+Corpa E. La prevención de las caídas de las personas mayores y sus familiares:
+una síntesis cualitativa [Fall prevention in older people and their families: a
+qualitative synthesis]. Gac Sanit. 2020 Oct 22:S0213-9111(19)30265-1. Spanish.
+doi: 10.1016/j.gaceta.2019.10.004. Epub ahead of print. PMID: 33268110.
+
+141: Bleeker NJ, van de Wall BJM, IJpma FFA, Doornberg JN, Kerkhoffs GMMJ,
+Jaarsma RL, Knobe M, Link BC, Babst R, Beeres FJP. Plate vs. nail for extra-
+articular distal tibia fractures: How should we personalize surgical treatment?
+A meta-analysis of 1332 patients. Injury. 2020 Oct 14:S0020-1383(20)30826-3.
+doi: 10.1016/j.injury.2020.10.026. Epub ahead of print. PMID: 33268081.
+
+142: Cha SM, Shin HD. Risk factors for atypical forearm fractures associated
+with bisphosphonate usage. Injury. 2020 Oct 19:S0020-1383(20)30907-4. doi:
+10.1016/j.injury.2020.10.087. Epub ahead of print. PMID: 33268075.
+
+143: Carneiro Pereira AL, Medeiros VR, da Fonte Porto Carreiro A. Influence of
+implant position on the accuracy of intraoral scanning in fully edentulous
+arches: A systematic review. J Prosthet Dent. 2020 Oct 22:S0022-3913(20)30472-8.
+doi: 10.1016/j.prosdent.2020.09.008. Epub ahead of print. PMID: 33268069.
+
+144: Thakker A, Sharma SC, Hussain NM, Devani P, Lahiri A. Nerve wrapping for
+recurrent compression neuropathy: A systematic review. J Plast Reconstr Aesthet
+Surg. 2020 Nov 8:S1748-6815(20)30583-0. doi: 10.1016/j.bjps.2020.10.085. Epub
+ahead of print. PMID: 33268044.
+
+145: Pozzi E, Vijayakumar N, Rakesh D, Whittle S. Neural Correlates of Emotion
+Regulation in Adolescents and Emerging Adults: A Meta-analytic Study. Biol
+Psychiatry. 2020 Aug 14:S0006-3223(20)31837-0. doi:
+10.1016/j.biopsych.2020.08.006. Epub ahead of print. PMID: 33268030.
+
+146: Gray V, Douglas KM, Porter RJ. Emotion processing in depression and anxiety
+disorders in older adults: systematic review. BJPsych Open. 2020 Dec 3;7(1):e7.
+doi: 10.1192/bjo.2020.143. PMID: 33267933.
+
+147: Kinjo M, Wada M, Nakajima S, Tsugawa S, Nakahara T, Blumberger DM, Mimura
+M, Noda Y. Transcranial magnetic stimulation neurophysiology of patients with
+major depressive disorder: a systematic review and meta-analysis. Psychol Med.
+2020 Dec 3:1-10. doi: 10.1017/S0033291720004729. Epub ahead of print. PMID:
+33267920.
+
+148: Toledo-Chávarri A, Gagnon MP, Álvarez-Pérez Y, Perestelo-Pérez L, Triñanes
+Pego Y, Serrano Aguilar P; Patient Involvement Interest Group of the Spanish
+Network for Health Technology Assessment of the National Health System (RedETS).
+Development of a decisional flowchart for meaningful patient involvement in
+Health Technology Assessment. Int J Technol Assess Health Care. 2020 Dec 3:1-7.
+doi: 10.1017/S0266462320001956. Epub ahead of print. PMID: 33267914.
+
+149: Cullis B, Al-Hwiesh A, Kilonzo K, McCulloch M, Niang A, Nourse P,
+Parapiboon W, Ponce D, Finkelstein FO. ISPD guidelines for peritoneal dialysis
+in acute kidney injury: 2020 update (adults). Perit Dial Int. 2020 Dec
+3:896860820970834. doi: 10.1177/0896860820970834. Epub ahead of print. PMID:
+33267747.
+
+150: Cao H, Ma R, Li X, Liang Y, Wu Q, Chi P, Li JB, Zhou N. Childhood Emotional
+Maltreatment and Adulthood Romantic Relationship Well-Being: A Multilevel, Meta-
+Analytic Review. Trauma Violence Abuse. 2020 Dec 3:1524838020975895. doi:
+10.1177/1524838020975895. Epub ahead of print. PMID: 33267741.
+
+151: Tan X, Yang W, Wichmann D, Huang C, Mothes B, Grund KE, Chen Z, Chen Z.
+Magnetic endoscopic imaging as a rational investment for specific colonoscopies:
+a systematic review and meta-analysis. Expert Rev Gastroenterol Hepatol. 2020
+Dec 3:1-12. doi: 10.1080/17474124.2021.1842192. Epub ahead of print. PMID:
+33267703.
+
+152: Marcos LA, Maco V, Terashima A. Triclabendazole for the treatment of human
+fascioliasis and the threat of treatment failures. Expert Rev Anti Infect Ther.
+2020 Dec 2. doi: 10.1080/14787210.2021.1858798. Epub ahead of print. PMID:
+33267701.
+
+153: Colibazzi V, Coladonato A, Zanazzo M, Romanini E. Evidence based
+rehabilitation after hip arthroplasty. Hip Int. 2020 Dec;30(2_suppl):20-29. doi:
+10.1177/1120700020971314. PMID: 33267691.
+
+154: Lepri AC, Villano M, Matassi F, Carulli C, Innocenti M, Civinini R.
+"Anterolateral" approach to the hip: a systematic review of the correct
+definition of terms. Hip Int. 2020 Dec;30(2_suppl):13-19. doi:
+10.1177/1120700020966800. PMID: 33267690.
+
+155: Marchetti D, Cittadini F, De Giovanni N. Did poisoning play a role in
+Napoleon's death? A systematic review. Clin Toxicol (Phila). 2020 Dec 3:1-15.
+doi: 10.1080/15563650.2020.1843658. Epub ahead of print. PMID: 33267676.
+
+156: Pedrosa Carrasco AJ, Volberg C, Pedrosa DJ, Berthold D. Patient Safety in
+Palliative and End-of-Life Care: A Text Mining Approach and Systematic Review of
+Definitions. Am J Hosp Palliat Care. 2020 Dec 3:1049909120971825. doi:
+10.1177/1049909120971825. Epub ahead of print. PMID: 33267627.
+
+157: Akinosoglou K, Antonopoulou S, Katsarolis I, Gogos CA. Patient-reported
+outcomes in HIV clinical trials evaluating antiretroviral treatment: a
+systematic review. AIDS Care. 2020 Dec 3:1-9. doi:
+10.1080/09540121.2020.1852160. Epub ahead of print. PMID: 33267620.
+
+158: Rokni AM, Kearney AM, Brandt KE, Gosain AK. Clinical Practice Patterns and
+Evidence-Based Medicine in Secondary Cleft Rhinoplasty: A 14-Year Review of
+Maintenance of Certification Tracer Data From the American Board of Plastic
+Surgery. Cleft Palate Craniofac J. 2020 Dec 3:1055665620977367. doi:
+10.1177/1055665620977367. Epub ahead of print. PMID: 33267607.
+
+159: Ampuero J, Sánchez-Torrijos Y, García Lozano MDR, Maya D, Romero-Gómez M.
+Impact of liver injury on the severity of COVID-19: Systematic Review with Meta-
+analysis. Rev Esp Enferm Dig. 2020 Dec 3. doi: 10.17235/reed.2020.7397/2020.
+Epub ahead of print. PMID: 33267597.
+
+160: Cai Q, Zhang Y, Liao Y, Gong J, Xiong B. Is Endoscopic Drainage Better than
+Percutaneous Drainage for Patients with Pancreatic Fluid Collections? A
+Comparative Meta-Analysis. Rev Esp Enferm Dig. 2020 Dec 3. doi:
+10.17235/reed.2020.7170/2020. Epub ahead of print. PMID: 33267596.
+
+161: Kessler P, Türp JC. Influence of Coca-Cola on orthodontic materials. A
+systematic review. Swiss Dent J. 2020 Dec 7;130(12):983-993. PMID: 33267535.
+
+162: Kędziorek J, Błażkiewicz M. Nonlinear Measures to Evaluate Upright Postural
+Stability: A Systematic Review. Entropy (Basel). 2020 Nov 30;22(12):E1357. doi:
+10.3390/e22121357. PMID: 33266239.
+
+163: Cannarella R, Crafa A, Barbagallo F, Mongioì LM, Condorelli RA, Aversa A,
+Calogero AE, La Vignera S. Seminal Plasma Proteomic Biomarkers of Oxidative
+Stress. Int J Mol Sci. 2020 Nov 30;21(23):E9113. doi: 10.3390/ijms21239113.
+PMID: 33266209.
+
+164: Sánchez M, Sanchez-Sanchez J, Nakamura FY, Clemente FM, Romero-Moraleda B,
+Ramirez-Campillo R. Effects of Plyometric Jump Training in Female Soccer
+Player's Physical Fitness: A Systematic Review with Meta-Analysis. Int J Environ
+Res Public Health. 2020 Nov 30;17(23):E8911. doi: 10.3390/ijerph17238911. PMID:
+33266195.
+
+165: Nalewajska M, Marchelek-Myśliwiec M, Opara-Bajerowicz M, Dziedziejko V,
+Pawlik A. Connexins-Therapeutic Targets in Cancers. Int J Mol Sci. 2020 Nov
+30;21(23):E9119. doi: 10.3390/ijms21239119. PMID: 33266154.
+
+166: Oancea M, Ciortea R, Diculescu D, Poienar AA, Grigore M, Lupean RA, Nicula
+R, Chira D, Strilciuc S, Mihu D. Spontaneous Heterotopic Pregnancy with
+Unaffected Intrauterine Pregnancy: Systematic Review of Clinical Outcomes.
+Medicina (Kaunas). 2020 Nov 30;56(12):E665. doi: 10.3390/medicina56120665. PMID:
+33266145.
+
+167: Mu S, Cui M, Huang X. Multimodal Data Fusion in Learning Analytics: A
+Systematic Review. Sensors (Basel). 2020 Nov 30;20(23):E6856. doi:
+10.3390/s20236856. PMID: 33266131.
+
+168: Nyambuya TM, Nkambule BB, Mazibuko-Mbeje SE, Mxinwa V, Mokgalaboni K,
+Orlando P, Silvestri S, Louw J, Tiano L, Dludla PV. A Meta-Analysis of the
+Impact of Resveratrol Supplementation on Markers of Renal Function and Blood
+Pressure in Type 2 Diabetic Patients on Hypoglycemic Therapy. Molecules. 2020
+Nov 30;25(23):E5645. doi: 10.3390/molecules25235645. PMID: 33266114.
+
+169: Bonomo P, Maruelli A, Saieva C, Taylor K, Singer S, Patelli Z, Rogers S,
+Mattavelli D, Simon C, Scotté F, de Oliveira TB, Murphy B, Rhoten BA, Tassini U,
+Fallon M, Gatidis ON, Yarom N, Bergamini C, Bossi P. Assessing Preferences in
+Patients with Head and Neck Squamous Cell Carcinoma: Phase I and II of
+Questionnaire Development. Cancers (Basel). 2020 Nov 30;12(12):E3577. doi:
+10.3390/cancers12123577. PMID: 33266011.
+
+170: Chapple LS, Ridley EJ, Chapman MJ. Trial Design in Critical Care Nutrition:
+The Past, Present and Future. Nutrients. 2020 Nov 30;12(12):E3694. doi:
+10.3390/nu12123694. PMID: 33265999.
+
+171: Sorgho R, Quiñonez CAM, Louis VR, Winkler V, Dambach P, Sauerborn R,
+Horstick O. Climate Change Policies in 16 West African Countries: A Systematic
+Review of Adaptation with a Focus on Agriculture, Food Security, and Nutrition.
+Int J Environ Res Public Health. 2020 Nov 30;17(23):E8897. doi:
+10.3390/ijerph17238897. PMID: 33265971.
+
+172: Mersha AG, Gould GS, Bovill M, Eftekhari P. Barriers and Facilitators of
+Adherence to Nicotine Replacement Therapy: A Systematic Review and Analysis
+Using the Capability, Opportunity, Motivation, and Behaviour (COM-B) Model. Int
+J Environ Res Public Health. 2020 Nov 30;17(23):E8895. doi:
+10.3390/ijerph17238895. PMID: 33265956.
+
+173: Martín MA, Goya L, de Pascual-Teresa S. Effect of Cocoa and Cocoa Products
+on Cognitive Performance in Young Adults. Nutrients. 2020 Nov 30;12(12):E3691.
+doi: 10.3390/nu12123691. PMID: 33265948.
+
+174: Aribi Al-Zoobaee FW, Yee Shen L, Veettil SK, Gopinath D, Maharajan MK,
+Menon RK. Antiviral Agents for the Prevention and Treatment of Herpes Simplex
+Virus Type-1 Infection in Clinical Oncology: A Network Meta-Analysis. Int J
+Environ Res Public Health. 2020 Nov 30;17(23):E8891. doi:
+10.3390/ijerph17238891. PMID: 33265920.
+
+175: Abate A, Cavagnetto D, Fama A, Maspero C, Farronato G. Relationship between
+Breastfeeding and Malocclusion: A Systematic Review of the Literature.
+Nutrients. 2020 Nov 30;12(12):E3688. doi: 10.3390/nu12123688. PMID: 33265907.
+
+176: Gronlund C, Christoffersen KS, Thomsen K, Masud T, Jepsen DB, Ryg J. Effect
+of blood-flow restriction exercise on falls and fall related risk factors in
+older adults 60 years or above: a systematic review. J Musculoskelet Neuronal
+Interact. 2020 Dec 1;20(4):513-525. PMID: 33265079.
+
+177: Lee J, Chae KJ. A systematic protocol of microplastics analysis from their
+identification to quantification in water environment: A comprehensive review. J
+Hazard Mater. 2021 Feb 5;403:124049. doi: 10.1016/j.jhazmat.2020.124049. Epub
+2020 Sep 19. PMID: 33265057.
+
+178: Hong J, Kang H, An J, Choi J, Hong T, Park HS, Lee DE. Towards
+environmental sustainability in the local community: Future insights for
+managing the hazardous pollutants at construction sites. J Hazard Mater. 2021
+Feb 5;403:123804. doi: 10.1016/j.jhazmat.2020.123804. Epub 2020 Sep 2. PMID:
+33264906.
+
+179: Bhat AP, Gogate PR. Degradation of nitrogen-containing hazardous compounds
+using advanced oxidation processes: A review on aliphatic and aromatic amines,
+dyes, and pesticides. J Hazard Mater. 2021 Feb 5;403:123657. doi:
+10.1016/j.jhazmat.2020.123657. Epub 2020 Aug 15. PMID: 33264866.
+
+180: Noor NM, Pett SL, Esmail H, Crook AM, Vale CL, Sydes MR, Parmar MKB.
+Adaptive platform trials using multi-arm, multi-stage protocols: getting fast
+answers in pandemic settings. F1000Res. 2020 Sep 9;9:1109. doi:
+10.12688/f1000research.26253.2. PMID: 33149899; PMCID: PMC7596806.
+
+181: Wang F, Wang D, Lyu XL, Sun XM, Duan BH. Continuous glucose monitoring in
+diabetes patients with chronic kidney disease on dialysis: a meta-analysis.
+Minerva Endocrinol. 2020 Dec 3. doi: 10.23736/S0391-1977.20.03284-8. Epub ahead
+of print. PMID: 33269570.
+
+182: Xuan K, Jha AR, Zhao T, Uy JP, Sun C. Is periodontal disease associated
+with increased risk of colorectal cancer? A meta-analysis. Int J Dent Hyg. 2020
+Dec 2. doi: 10.1111/idh.12483. Epub ahead of print. PMID: 33269543.
+
+183: O'Hara DV, Parkhill Tr TR, Badve SV, Jun M, Jardine MJ, Perkovic V. The
+Effects of Dipeptidyl Peptidase-4 Inhibitors on Kidney Outcomes. Diabetes Obes
+Metab. 2020 Dec 2. doi: 10.1111/dom.14281. Epub ahead of print. PMID: 33269512.
+
+184: Hassani Zadeh S, Mansoori A, Hosseinzadeh M. Relationship between Dietary
+Patterns and Non-Alcoholic Fatty Liver Disease: a systematic review and meta-
+analysis. J Gastroenterol Hepatol. 2020 Dec 2. doi: 10.1111/jgh.15363. Epub
+ahead of print. PMID: 33269500.
+
+185: Alic L, Griffin JF 4th, Eresen A, Kornegay JN, Ji JX. Using MRI to quantify
+skeletal muscle pathology in Duchenne muscular dystrophy: A systematic mapping
+review. Muscle Nerve. 2020 Dec 2. doi: 10.1002/mus.27133. Epub ahead of print.
+PMID: 33269474.
+
+186: Samuel SR, Gururaj R, Kumar KV, Vira P, Saxena PUP, Keogh JWL. Randomized
+control trial evidence for the benefits of massage and relaxation therapy on
+sleep in cancer survivors-a systematic review. J Cancer Surviv. 2020 Dec 2. doi:
+10.1007/s11764-020-00972-x. Epub ahead of print. PMID: 33269414.
+
+187: Sheerin D, Abhimanyu, Wang X, Johnson WE, Coussens A. Systematic evaluation
+of transcriptomic disease risk and diagnostic biomarker overlap between COVID-19
+and tuberculosis: a patient-level meta-analysis. medRxiv [Preprint]. 2020 Nov
+26:2020.11.25.20236646. doi: 10.1101/2020.11.25.20236646. PMID: 33269371; PMCID:
+PMC7709192.
+
+188: Jolliffe DA, Camargo CA, Sluyter JD, Aglipay M, Aloia JF, Ganmaa D, Bergman
+P, Borzutzky A, Damsgaard CT, Dubnov-Raz G, Esposito S, Gilham C, Ginde AA,
+Golan-Tripto I, Goodall EC, Grant CC, Griffiths CJ, Hibbs AM, Janssens W,
+Khadilkar AV, Laaksi I, Lee MT, Loeb M, Maguire JL, Majak P, Mauger DT,
+Manaseki-Holland S, Murdoch DR, Nakashima A, Neale RE, Pham H, Rake C, Rees JR,
+Rosendahl J, Scragg R, Shah D, Shimizu Y, Simpson-Yap S, Kumar GT, Urashima M,
+Martineau AR. Vitamin D supplementation to prevent acute respiratory infections:
+systematic review and meta-analysis of aggregate data from randomised controlled
+trials. medRxiv [Preprint]. 2020 Nov 25:2020.07.14.20152728. doi:
+10.1101/2020.07.14.20152728. PMID: 33269357; PMCID: PMC7709175.
+
+189: Garg R, Singh A, Mohan BP, Mankaney G, Regueiro M, Chahal P. Underwater
+versus conventional endoscopic mucosal resection for colorectal lesions: a
+systematic review and meta-analysis. Endosc Int Open. 2020
+Dec;8(12):E1884-E1894. doi: 10.1055/a-1287-9621. Epub 2020 Nov 27. PMID:
+33269325; PMCID: PMC7695518.
+
+190: Nutalapati V, Desai M, Thoguluva-Chandrasekar VS, Olyaee M, Rastogi A.
+Effect of dynamic position changes on adenoma detection rate during colonoscope
+withdrawal: systematic review and meta-analysis. Endosc Int Open. 2020
+Dec;8(12):E1842-E1849. doi: 10.1055/a-1265-6634. Epub 2020 Nov 17. PMID:
+33269319; PMCID: PMC7671762.
+
+191: Imperatore N, de Nucci G, Mandelli ED, de Leone A, Zito FP, Lombardi G,
+Manes G. Endoscopic ultrasound-guided radiofrequency ablation of pancreatic
+neuroendocrine tumors: a systematic review of the literature. Endosc Int Open.
+2020 Dec;8(12):E1759-E1764. doi: 10.1055/a-1261-9605. Epub 2020 Nov 17. PMID:
+33269308; PMCID: PMC7671767.
+
+192: Ávila-Sansores SM, Rodríguez-Gómez G, Tachtsidis I, Orihuela-Espina F.
+Interpolated functional manifold for functional near-infrared spectroscopy
+analysis at group level. Neurophotonics. 2020 Oct;7(4):045009. doi:
+10.1117/1.NPh.7.4.045009. Epub 2020 Nov 27. PMID: 33269300; PMCID: PMC7695443.
+
+193: Wang XF, Meng Y, Liu H, Hong Y, Wang BY. Anterior bone loss after cervical
+disc replacement: A systematic review. World J Clin Cases. 2020 Nov
+6;8(21):5284-5295. doi: 10.12998/wjcc.v8.i21.5284. PMID: 33269261; PMCID:
+PMC7674730.
+
+194: Rodriguez-Gonzalez M, Castellano-Martinez A, Cascales-Poyatos HM, Perez-
+Reviriego AA. Cardiovascular impact of COVID-19 with a focus on children: A
+systematic review. World J Clin Cases. 2020 Nov 6;8(21):5250-5283. doi:
+10.12998/wjcc.v8.i21.5250. PMID: 33269260; PMCID: PMC7674714.
+
+195: Dajani AI, Popovic B. Essential phospholipids for nonalcoholic fatty liver
+disease associated with metabolic syndrome: A systematic review and network
+meta-analysis. World J Clin Cases. 2020 Nov 6;8(21):5235-5249. doi:
+10.12998/wjcc.v8.i21.5235. PMID: 33269259; PMCID: PMC7674728.
+
+196: Liu JY, Xu KK, Zhu GL, Zhang QQ, Li XM. Effects of smartphone-based
+interventions and monitoring on bipolar disorder: A systematic review and meta-
+analysis. World J Psychiatry. 2020 Nov 19;10(11):272-285. doi:
+10.5498/wjp.v10.i11.272. PMID: 33269223; PMCID: PMC7672788.
+
+197: Ashraf M, Purudappa PP, Sakthivelnathan V, Sambandam S, Mounsamy V.
+Proximal fibular osteotomy: Systematic review on its outcomes. World J Orthop.
+2020 Nov 18;11(11):499-506. doi: 10.5312/wjo.v11.i11.499. PMID: 33269216; PMCID:
+PMC7672796.
+
+198: Sipila-Thomas ES, Brodhead MT. A Review of <i>Remote Fieldwork Supervision
+for BCBA® Trainees</i> by Lisa N. Britton and Matthew J. Cicoria. Behav Anal
+Pract. 2020 Jan 9;13(4):992-999. doi: 10.1007/s40617-019-00407-9. PMID:
+33269210; PMCID: PMC7666256.
+
+199: Zhang L, Xue S, Hou J, Chen G, Xu ZG. Endothelin receptor antagonists for
+the treatment of diabetic nephropathy: A meta-analysis and systematic review.
+World J Diabetes. 2020 Nov 15;11(11):553-566. doi: 10.4239/wjd.v11.i11.553.
+PMID: 33269066; PMCID: PMC7672789.
+
+200: Serrano JPR, Jukemura J, Romanini SG, Aguilar PFG, de Castro JSL, Torres
+IT, Pulla JAS, Neto OM, Taglieri E, Ardengh JC. Nonsteroidal anti-inflammatory
+drug effectivity in preventing post-endoscopic retrograde
+cholangiopancreatography pancreatitis: A systematic review and meta-analysis.
+World J Gastrointest Endosc. 2020 Nov 16;12(11):469-487. doi:
+10.4253/wjge.v12.i11.469. PMID: 33269056; PMCID: PMC7677884.
+
+201: Campanella TA, Gallagher JC. A Clinical Review and Critical Evaluation of
+Imipenem-Relebactam: Evidence to Date. Infect Drug Resist. 2020 Nov
+25;13:4297-4308. doi: 10.2147/IDR.S224228. PMID: 33268997; PMCID: PMC7701153.
+
+202: Lai Q, Spoletini G, Mennini G, Laureiro ZL, Tsilimigras DI, Pawlik TM,
+Rossi M. Prognostic role of artificial intelligence among patients with
+hepatocellular cancer: A systematic review. World J Gastroenterol. 2020 Nov
+14;26(42):6679-6688. doi: 10.3748/wjg.v26.i42.6679. PMID: 33268955; PMCID:
+PMC7673961.
+
+203: Lai NM, Lee SWH, Wai SX, Teh ZW, Chan MY, Lim YS, Ovelman C, Soll R. The
+Choice of Population and Outcomes in Neonatal Trials on Hyperbilirubinemia: Are
+They Relevant? An Analysis of Cochrane Neonatal Reviews. Neonatology. 2020 Dec
+2:1-7. doi: 10.1159/000511656. Epub ahead of print. PMID: 33264799.
+
+204: Lim JU, Yoon HK. Potential predictive value of change in inflammatory
+cytokines levels subsequent to initiation of immune checkpoint inhibitor in
+patients with advanced non-small cell lung cancer. Cytokine. 2020 Nov
+29;138:155363. doi: 10.1016/j.cyto.2020.155363. Epub ahead of print. PMID:
+33264749.
+
+205: Michels N, van Aart C, Morisse J, Mullee A, Huybrechts I. Chronic
+inflammation towards cancer incidence: A systematic review and meta-analysis of
+epidemiological studies. Crit Rev Oncol Hematol. 2020 Nov 13;157:103177. doi:
+10.1016/j.critrevonc.2020.103177. Epub ahead of print. PMID: 33264718.
+
+206: Jafarzadeh L, Khakpoor-Koosheh M, Mirzaei H, Mirzaei HR. Biomarkers for
+predicting the outcome of various cancer immunotherapies. Crit Rev Oncol
+Hematol. 2020 Nov 11;157:103161. doi: 10.1016/j.critrevonc.2020.103161. Epub
+ahead of print. PMID: 33264716.
+
+207: Attauabi M, Burisch J, Seidelin JB. Efficacy of ustekinumab for active
+perianal fistulizing Crohn's disease: a systematic review and meta-analysis of
+the current literature. Scand J Gastroenterol. 2020 Dec 2:1-6. doi:
+10.1080/00365521.2020.1854848. Epub ahead of print. PMID: 33264569.
+
+208: Papakonstantinou T, Nikolakopoulou A, Egger M, Salanti G. Meta-analysis as
+a system of springs. Res Synth Methods. 2020 Dec 2. doi: 10.1002/jrsm.1470. Epub
+ahead of print. PMID: 33264498.
+
+209: Weber F, Knapp G, Glass Ä, Kundt G, Ickstadt K. Interval estimation of the
+overall treatment effect in randomeffects meta-analyses: Recommendations from a
+simulation study comparing frequentist, Bayesian, and bootstrap methods. Res
+Synth Methods. 2020 Dec 2. doi: 10.1002/jrsm.1471. Epub ahead of print. PMID:
+33264488.
+
+210: Larkin J, Foley L, Smith SM, Harrington P, Clyne B. The experience of
+financial burden for people with multimorbidity: A systematic review of
+qualitative research. Health Expect. 2020 Dec 2. doi: 10.1111/hex.13166. Epub
+ahead of print. PMID: 33264478.
+
+211: Lee DS, Ramirez RJ, Lee JJ, Valenzuela CV, Zevallos JP, Mazul AL, Puram SV,
+Doering MM, Pipkorn P, Jackson RS. Survival of Young Versus Old Patients With
+Oral Cavity Squamous Cell Carcinoma: A Meta-Analysis. Laryngoscope. 2020 Dec 2.
+doi: 10.1002/lary.29260. Epub ahead of print. PMID: 33264444.
+
+212: Hamill CS, Maatouk CM, Clancy K, Zender CA, Rezaee RP. Cancellous Tibial
+Bone Graft for Malunion after Mandibular Reconstruction in Head and Neck Cancer.
+Laryngoscope. 2020 Dec 2. doi: 10.1002/lary.29267. Epub ahead of print. PMID:
+33264425.
+
+213: Verano-Braga T, Martins ALV, Motta-Santos D, Campagnole-Santos MJ, Santos
+RAS. ACE2 in the renin-angiotensin system. Clin Sci (Lond). 2020 Dec
+11;134(23):3063-3078. doi: 10.1042/CS20200478. PMID: 33264412.
+
+214: Ghosh A, Mahintamani T, Choudhury S, Sharma N, Das S. The Effectiveness of
+Non-Benzodiazepine, Non-Barbiturate Medications for Alcohol Withdrawal Syndrome:
+A Rapid Systematic Review. Alcohol Alcohol. 2020 Dec 3:agaa125. doi:
+10.1093/alcalc/agaa125. Epub ahead of print. PMID: 33264386.
+
+215: Rodriguez KE, Greer J, Yatcilla JK, Beck AM, O'Haire ME. The effects of
+assistance dogs on psychosocial health and wellbeing: A systematic literature
+review. PLoS One. 2020 Dec 2;15(12):e0243302. doi: 10.1371/journal.pone.0243302.
+PMID: 33264370; PMCID: PMC7710121.
+
+216: Wang D, Tong X, Wang L, Zhang S, Huang J, Zhang L, Fan H. The association
+between osteopontin and tuberculosis: A systematic review and meta-analysis.
+PLoS One. 2020 Dec 2;15(12):e0242702. doi: 10.1371/journal.pone.0242702. PMID:
+33264357; PMCID: PMC7710079.
+
+217: Li P, Qin X, Tao F, Huang K. Maternal exposure to sulfonamides and adverse
+pregnancy outcomes: A systematic review and meta-analysis. PLoS One. 2020 Dec
+2;15(12):e0242523. doi: 10.1371/journal.pone.0242523. PMID: 33264319; PMCID:
+PMC7710089.
+
+218: Neuenschwander M, Barbaresko J, Pischke CR, Iser N, Beckhaus J,
+Schwingshackl L, Schlesinger S. Intake of dietary fats and fatty acids and the
+incidence of type 2 diabetes: A systematic review and dose-response meta-
+analysis of prospective observational studies. PLoS Med. 2020 Dec
+2;17(12):e1003347. doi: 10.1371/journal.pmed.1003347. PMID: 33264277; PMCID:
+PMC7710077.
+
+219: Von Visger TT, Lee D, Lyons A, Chang YP. Integrated Review of Psychosocial
+and Behavioral Health Assessments and Interventions in Pulmonary Hypertension.
+Nurs Res. 2020 Dec 1. doi: 10.1097/NNR.0000000000000490. Epub ahead of print.
+PMID: 33264261.
+
+220: Sanfilippo F, La Rosa V, Grasso C, Santonocito C, Minardi C, Oliveri F,
+Iacobelli R, Astuto M. Echocardiographic Parameters and Mortality in Pediatric
+Sepsis: A Systematic Review and Meta-Analysis. Pediatr Crit Care Med. 2020 Dec
+2. doi: 10.1097/PCC.0000000000002622. Epub ahead of print. PMID: 33264235.
+
+221: Wei H, Zhang C, Silveyra P. The Relationships Between Prenatal Smoking
+Exposure and Telomere Lengths in Fetuses, Infants, and Children: A Systematic
+Literature Review. J Addict Nurs. 2020 Oct/Dec;31(4):243-252. doi:
+10.1097/JAN.0000000000000364. PMID: 33264196.
+
+222: Kohler MJ, Hendrickx MD, Powell-Jones A, Bryan-Hancock C. A Systematic
+Review of Cognitive Functioning After Traumatic Brain Injury in Individuals Aged
+10-30 Years. Cogn Behav Neurol. 2020 Dec;33(4):233-252. doi:
+10.1097/WNN.0000000000000236. PMID: 33264151.
+
+223: Collier AY, Ledyard R, Montoya-Williams D, Qiu M, Dereix AE, Farrokhi MR,
+Hacker MR, Burris HH. Racial and ethnic representation in epigenomic studies of
+preterm birth: a systematic review. Epigenomics. 2020 Dec 2. doi:
+10.2217/epi-2020-0007. Epub ahead of print. PMID: 33264049.
+
+224: Imam MA, Shehata MSA, Martin A, Attia H, Sinokrot M, Bahbah EI, Gwilym S,
+Jacob J, Narvani AA, Meyer DC. Repair Versus Latarjet Procedure for Recurrent
+Anterior Shoulder Instability: A Systematic Review and Meta-analysis of 3275
+Shoulders. Am J Sports Med. 2020 Dec 2:363546520962082. doi:
+10.1177/0363546520962082. Epub ahead of print. PMID: 33264030.
+
+225: Chiara A, Giannici F, Pipitone C, Longo A, Aliotta C, Gambino M, Martorana
+A. Solid-Solid Interfaces in Protonic Ceramic Devices: A Critical Review. ACS
+Appl Mater Interfaces. 2020 Dec 2. doi: 10.1021/acsami.0c13092. Epub ahead of
+print. PMID: 33263981.
+
+226: Paśnik-Chwalik B, Konopka T. Impact of periodontitis on the Oral Health
+Impact Profile: A systematic review and meta-analysis. Dent Med Probl. 2020 Dec
+2. doi: 10.17219/dmp/125028. Epub ahead of print. PMID: 33263952.
+
+227: Sara GO, Javier ÁF, Yolanda GÁ, Esther GM, Irene SC, Luis LMJ. Topical
+treatment for plantar warts: A systematic review. Dermatol Ther. 2020 Dec
+2:e14621. doi: 10.1111/dth.14621. Epub ahead of print. PMID: 33263934.
+
+228: Meglioli M, Naveau A, Macaluso GM, Catros S. Correction to: 3D printed bone
+models in oral and craniomaxillofacial surgery: a systematic review. 3D Print
+Med. 2020 Dec 2;6(1):36. doi: 10.1186/s41205-020-00088-z. Erratum for: 3D Print
+Med. 2020 Oct 20;6(1):30. PMID: 33263897; PMCID: PMC7713336.
+
+229: Spiegl UJ, Osterhoff G, Bula P, Hartmann F, Scheyerer MJ, Schnake KJ,
+Ullrich BW. Biomechanics and clinical outcome after posterior stabilization of
+mid-thoracic vertebral body fractures: a systematic literature review. Eur J
+Trauma Emerg Surg. 2020 Dec 2. doi: 10.1007/s00068-020-01560-5. Epub ahead of
+print. PMID: 33263816.
+
+230: Grothausmann R, Labode J, Hernandez-Cerdan P, Haberthür D, Hlushchuk R,
+Lobachev O, Brandenberger C, Gie AG, Salaets T, Toelen J, Wagner WL, Mühlfeld C.
+Combination of µCT and light microscopy for generation-specific stereological
+analysis of pulmonary arterial branches: a proof-of-concept study. Histochem
+Cell Biol. 2020 Dec 2:1–13. doi: 10.1007/s00418-020-01946-x. Epub ahead of
+print. PMID: 33263790; PMCID: PMC7709482.
+
+231: Li HJ, Zhang C, Hui L, Zhou DS, Li Y, Zhang CY, Wang C, Wang L, Li W, Yang
+Y, Qu N, Tang J, He Y, Zhou J, Yang Z, Li X, Cai J, Yang L, Chen J, Fan W, Tang
+W, Tang W, Jia QF, Liu W, Zhuo C, Song X, Liu F, Bai Y, Zhong BL, Zhang SF, Chen
+J, Xia B, Lv L, Liu Z, Hu S, Li XY, Liu JW, Cai X, Yao YG, Zhang Y, Yan H, Chang
+S, Zhao JP, Yue WH, Luo XJ, Chen X, Xiao X, Fang Y, Li M; GeseDNA Research Team.
+Novel Risk Loci Associated With Genetic Risk for Bipolar Disorder Among Han
+Chinese Individuals: A Genome-Wide Association Study and Meta-analysis. JAMA
+Psychiatry. 2020 Dec 2:e203738. doi: 10.1001/jamapsychiatry.2020.3738. Epub
+ahead of print. PMID: 33263727; PMCID: PMC7711567.
+
+232: Silva FAFD, Brito BB, Santos MLC, Marques HS, Silva Júnior RTD, Carvalho
+LS, Vieira ES, Oliveira MV, Melo FF. COVID-19 gastrointestinal manifestations: a
+systematic review. Rev Soc Bras Med Trop. 2020 Nov 25;53:e20200714. doi:
+10.1590/0037-8682-0714-2020. PMID: 33263693.
+
+233: Luna NMS, Brech GC, Canonica A, Ernandes RC, Bocalini DS, Greve JMD, Alonso
+AC. Effects of treadmill training on gait of elders with Parkinson's disease: a
+literature review. Einstein (Sao Paulo). 2020 Nov 27;18:eRW5233. doi:
+10.31744/einstein_journal/2020RW5233. PMID: 33263679; PMCID: PMC7687915.
+
+234: Morais BX, Ongaro JD, Almeida FO, Luz EMFD, Greco PBT, Magnago TSBS.
+Auriculotherapy and reducing chronic musculoskeletal pain: integrative review.
+Rev Bras Enferm. 2020 Nov 9;73(s6):e20190394. English, Portuguese. doi:
+10.1590/0034-7167-2019-0394. PMID: 33263671.
+
+235: Martins ACA, Costa Neto DCD, Silva JDDE, Moraes YM, LeÃo CS, Martins C.
+Adult primary liver sarcoma: systematic review. Rev Col Bras Cir. 2020 Nov
+30;47:e20202647. English, Portuguese. doi: 10.1590/0100-6991e-20202647. PMID:
+33263653.
+
+236: Schmucker C, Titscher V, Braun C, Nussbaumer-Streit B, Gartlehner G,
+Meerpohl J. Surgical and Non-Surgical Interventions in Complete Rotator Cuff
+Tears. Dtsch Arztebl Int. 2020 Sep 18;117(38):633-640. doi:
+10.3238/arztebl.2020.0633. PMID: 33263527.
+
+237: Lakra C, Cohen H. A clinical review of the use of Botulinum Toxin type A in
+managing central neuropathic pain in patients with spinal cord injury. J Spinal
+Cord Med. 2020 Dec 2:1-5. doi: 10.1080/10790268.2020.1848278. Epub ahead of
+print. PMID: 33263489.
+
+238: Krassas A, Tzifa A, Boulia S, Iliadis K. Posture Dependent Hypoxia
+Following Lobectomy: The Achilles Tendon of the Lung Surgeon? J Invest Surg.
+2020 Dec 2:1-6. doi: 10.1080/08941939.2020.1825883. Epub ahead of print. PMID:
+33263463.
+
+239: Steffens ANV, Langerhuizen DWG, Doornberg JN, Ring D, Janssen SJ. Emotional
+tones in scientific writing: comparison of commercially funded studies and non-
+commercially funded orthopedic studies. Acta Orthop. 2020 Dec 2:1-4. doi:
+10.1080/17453674.2020.1853341. Epub ahead of print. PMID: 33263445.
+
+240: Armstrong N, Quek RG, Ryder S, Ross J, Titas Buksnys, Forbes C, Fox KM,
+Castro E. DNA damage repair gene mutation testing and genetic counseling in men
+with/without prostate cancer: a systematic review. Future Oncol. 2020 Dec 2.
+doi: 10.2217/fon-2020-0569. Epub ahead of print. PMID: 33263430.
+
+241: Bolen MA. Editorial Comment on "Clinicopathologic and Longitudinal Imaging
+Features of Lung Cancer Associated with Cystic Airspaces: A Systematic Review
+and Meta-Analysis". AJR Am J Roentgenol. 2020 Dec 2. doi: 10.2214/AJR.20.24243.
+Epub ahead of print. PMID: 33263422.
+
+242: Polo-Alonso E, Kuk C, Guruli G, Paul AK, Thalmann G, Kamat A, Solsona E,
+Thalmann G, Urdaneta AI, Zlotta AR, Mir MC. Trimodal therapy in muscle invasive
+bladder cancer management. Minerva Urol Nefrol. 2020 Dec;72(6):650-662. doi:
+10.23736/S0393-2249.20.04018-7. PMID: 33263367.
+
+243: Scheiman M, Kulp MT, Cotter SA, Lawrenson JG, Wang L, Li T. Interventions
+for convergence insufficiency: a network meta-analysis. Cochrane Database Syst
+Rev. 2020 Dec 2;12:CD006768. doi: 10.1002/14651858.CD006768.pub3. PMID:
+33263359.
+
+244: Cosentino C, Harrad RA, Sulla F, Bertuol M, Sarli L, Artioli G. Nursing
+spiritual assessment instruments in adult patients: a narrative literature
+review. Acta Biomed. 2020 Nov 30;91(12-S):e2020015. doi:
+10.23750/abm.v91i12-S.10998. PMID: 33263349.
+
+245: D'Ettorre G, Pellicani V, Ceccarelli G. Post-traumatic stress disorder
+symptoms in healthcare workers: a ten-year systematic review. Acta Biomed. 2020
+Nov 30;91(12-S):e2020009. doi: 10.23750/abm.v91i12-S.9459. PMID: 33263341.
+
+246: Horváth LO, Mészáros G, Balázs J. [When is self-injury nonsuicidal?
+Reviewing the relationship between suicial and nonsuicidal self-injury].
+Psychiatr Hung. 2020;35(4):476-483. Hungarian. PMID: 33263297.
+
+247: Lukmanji A, Basmadjian RB, Vallerand IA, Patten SB, Tang KL. Risk of
+Depression in Patients With Psoriatic Disease: A Systematic Review and Meta-
+Analysis. J Cutan Med Surg. 2020 Dec 2:1203475420977477. doi:
+10.1177/1203475420977477. Epub ahead of print. PMID: 33263264.
+
+248: Negrini F, De Sire A, Andrenelli E, Lazzarini SG, Patrini M, Ceravolo MG;
+International Multiprofessional Steering Committee of Cochrane Rehabilitation
+REH-COVER action. Rehabilitation and COVID-19: a rapid living systematic review
+2020 by Cochrane Rehabilitation Field. Update as of October 31st, 2020. Eur J
+Phys Rehabil Med. 2020 Dec 2. doi: 10.23736/S1973-9087.20.06723-4. Epub ahead of
+print. PMID: 33263249.
+
+249: Földi M, Farkas N, Kiss S, Dembrovszky F, Szakács Z, Balaskó M, Erőss B,
+Hegyi P, Szentesi A. Visceral adiposity elevates the risk of critical condition
+in COVID-19: A systematic review and meta-analysis. Obesity (Silver Spring).
+2020 Dec 1. doi: 10.1002/oby.23096. Epub ahead of print. PMID: 33263191.
+
+250: Soares RC, da Rosa SV, Moysés ST, Rocha JS, Bettega PVC, Werneck RI, Moysés
+SJ. Methods for prevention of early childhood caries: overview of systematic
+reviews. Int J Paediatr Dent. 2020 Dec 1. doi: 10.1111/ipd.12766. Epub ahead of
+print. PMID: 33263186.
+
+251: Gheshlagh RG, Rezaei H, Goli M, Ausili D, Dalvand S, Ghafouri H, Dehkordi
+AH. Prevalence of celiac disease in Iranian patients with type 1 diabetes:
+A systematic review and meta-analysis. Indian J Gastroenterol. 2020 Dec 1. doi:
+10.1007/s12664-020-01046-7. Epub ahead of print. PMID: 33263176.
+
+252: Huizinga TWJ, Torii Y, Muniz R. Adalimumab Biosimilars in the Treatment of
+Rheumatoid Arthritis: A Systematic Review of the Evidence for Biosimilarity.
+Rheumatol Ther. 2020 Dec 1. doi: 10.1007/s40744-020-00259-8. Epub ahead of
+print. PMID: 33263165.
+
+253: Khan SA, Asokan A, Handford C, Logan P, Moores T. How useful are virtual
+fracture clinics?: a systematic review. Bone Jt Open. 2020 Nov 1;1(11):683-690.
+doi: 10.1302/2633-1462.111.BJO-2020-0107.R1. PMID: 33263108; PMCID: PMC7690759.
+
+254: van Delft B, Van Ginderdeuren F, Lefevere J, van Delft C, Cools F. Weaning
+strategies for the withdrawal of non-invasive respiratory support applying
+continuous positive airway pressure in preterm infants: a systematic review and
+meta-analysis. BMJ Paediatr Open. 2020 Nov 19;4(1):e000858. doi:
+10.1136/bmjpo-2020-000858. PMID: 33263087; PMCID: PMC7678397.
+
+255: Shiroshita A, Nozaki S, Tanaka Y, Luo Y, Kataoka Y. Thoracic ultrasound for
+malignant pleural effusion: a systematic review and meta-analysis. ERJ Open Res.
+2020 Nov 10;6(4):00464-2020. doi: 10.1183/23120541.00464-2020. PMID: 33263053;
+PMCID: PMC7682705.
+
+256: Wu Y, Zhao T, Li Y, Wu S, Wu C, Wei G. Use of Extracorporeal Membrane
+Oxygenation After Congenital Heart Disease Repair: A Systematic Review and Meta-
+Analysis. Front Cardiovasc Med. 2020 Nov 11;7:583289. doi:
+10.3389/fcvm.2020.583289. PMID: 33263008; PMCID: PMC7686034.
+
+257: Zürcher SJ, Kerksieck P, Adamus C, Burr CM, Lehmann AI, Huber FK, Richter
+D. Prevalence of Mental Health Problems During Virus Epidemics in the General
+Public, Health Care Workers and Survivors: A Rapid Review of the Evidence. Front
+Public Health. 2020 Nov 11;8:560389. doi: 10.3389/fpubh.2020.560389. PMID:
+33262966; PMCID: PMC7688009.
+
+258: Grainha T, Jorge P, Alves D, Lopes SP, Pereira MO. Unraveling
+<i>Pseudomonas aeruginosa</i> and <i>Candida albicans</i> Communication in
+Coinfection Scenarios: Insights Through Network Analysis. Front Cell Infect
+Microbiol. 2020 Nov 11;10:550505. doi: 10.3389/fcimb.2020.550505. PMID:
+33262953; PMCID: PMC7686562.
+
+259: Zhu T, Bao X, Chen M, Lin R, Zhuyan J, Zhen T, Xing K, Zhou W, Zhu S.
+Mechanisms and Future of Non-Small Cell Lung Cancer Metastasis. Front Oncol.
+2020 Nov 11;10:585284. doi: 10.3389/fonc.2020.585284. PMID: 33262947; PMCID:
+PMC7686569.
+
+260: Dao L, Ragoonanan D, Yi S, Swinford R, Petropoulos D, Mahadeo KM, Li S. The
+Organ Trail: A Review of Biomarkers of Organ Failure. Front Oncol. 2020 Nov
+11;10:579219. doi: 10.3389/fonc.2020.579219. PMID: 33262945; PMCID: PMC7686565.
+
+261: Alaofe H, Lott B, Kimaru L, Okusanya B, Okechukwu A, Chebet J, Meremikwu M,
+Ehiri J. Emergency Transportation Interventions for Reducing Adverse Pregnancy
+Outcomes in Low- and Middle-Income Countries: A Systematic Review. Ann Glob
+Health. 2020 Nov 18;86(1):147. doi: 10.5334/aogh.2934. PMID: 33262936; PMCID:
+PMC7678559.
+
+262: Kaur A, Basavanagowda DM, Rathod B, Mishra N, Fuad S, Nosher S, Alrashid
+ZA, Mohan D, Heindl SE. Structural and Functional Alterations of the Temporal
+lobe in Schizophrenia: A Literature Review. Cureus. 2020 Oct 26;12(10):e11177.
+doi: 10.7759/cureus.11177. PMID: 33262914; PMCID: PMC7689947.
+
+263: Abdullahi AM, Sarmast ST, Jahan N. Viral Infections of the Central Nervous
+System in Children: A Systematic Review. Cureus. 2020 Oct 26;12(10):e11174. doi:
+10.7759/cureus.11174. PMID: 33262911; PMCID: PMC7689876.
+
+264: Valaiyaduppu Subas S, Mishra V, Busa V, Antony I, Marudhai S, Patel M,
+Cancarevic I. Cardiovascular Involvement in Psoriasis, Diagnosing Subclinical
+Atherosclerosis, Effects of Biological and Non-Biological Therapy: A Literature
+Review. Cureus. 2020 Oct 26;12(10):e11173. doi: 10.7759/cureus.11173. PMID:
+33262910; PMCID: PMC7689809.
+
+265: Starch-Jensen T, Deluiz D, Bruun NH, Tinoco EMB. Maxillary Sinus Floor
+Augmentation with Autogenous Bone Graft Alone Compared with Alternate Grafting
+Materials: a Systematic Review and Meta-Analysis Focusing on Histomorphometric
+Outcome. J Oral Maxillofac Res. 2020 Nov 30;11(3):e2. doi:
+10.5037/jomr.2020.11302. PMID: 33262881; PMCID: PMC7644272.
+
+266: Starch-Jensen T, Deluiz D, Deb S, Bruun NH, Tinoco EMB. Harvesting of
+Autogenous Bone Graft from the Ascending Mandibular Ramus Compared with the Chin
+Region: a Systematic Review and Meta-Analysis Focusing on Complications and
+Donor Site Morbidity. J Oral Maxillofac Res. 2020 Nov 30;11(3):e1. doi:
+10.5037/jomr.2020.11301. PMID: 33262880; PMCID: PMC7644273.
+
+267: Chen JJ, Zhang LN, Hou H, Xu L, Ji K. Interleukin-6 signaling blockade
+treatment for cytokine release syndrome in COVID-19 (Review). Exp Ther Med. 2021
+Jan;21(1):24. doi: 10.3892/etm.2020.9456. Epub 2020 Nov 9. PMID: 33262810;
+PMCID: PMC7690237.
+
+268: Shih YW, O'Brien AP, Hung CS, Chen KH, Hou WH, Tsai HT. Exposure to
+radiofrequency radiation increases the risk of breast cancer: A systematic
+review and meta-analysis. Exp Ther Med. 2021 Jan;21(1):23. doi:
+10.3892/etm.2020.9455. Epub 2020 Nov 9. PMID: 33262809; PMCID: PMC7690245.
+
+269: Isenberg DA, Kao AH, Aydemir A, Merrill JT. Commentary: Systematic Review
+of Safety and Efficacy of Atacicept in Treating Immune-Mediated Disorders. Front
+Immunol. 2020 Nov 11;11:592639. doi: 10.3389/fimmu.2020.592639. PMID: 33262771;
+PMCID: PMC7687657.
+
+270: Rodríguez-Cerdeira C, Martínez-Herrera E, Carnero-Gregorio M, López-
+Barcenas A, Fabbrocini G, Fida M, El-Samahy M, González-Cespón JL. Pathogenesis
+and Clinical Relevance of <i>Candida</i> Biofilms in Vulvovaginal Candidiasis.
+Front Microbiol. 2020 Nov 11;11:544480. doi: 10.3389/fmicb.2020.544480. PMID:
+33262741; PMCID: PMC7686049.
+
+271: Yifan C, Jun P. Understanding the Clinical Features of Coronavirus Disease
+2019 From the Perspective of Aging: A Systematic Review and Meta-Analysis. Front
+Endocrinol (Lausanne). 2020 Nov 11;11:557333. doi: 10.3389/fendo.2020.557333.
+PMID: 33262739; PMCID: PMC7686551.
+
+272: McLoone P, Tabys D, Fyfe L. Honey Combination Therapies for Skin and Wound
+Infections: A Systematic Review of the Literature. Clin Cosmet Investig
+Dermatol. 2020 Nov 24;13:875-888. doi: 10.2147/CCID.S282143. PMID: 33262630;
+PMCID: PMC7700082.
+
+273: Lee LJ, Kwon CS, Forsythe A, Mamolo CM, Masters ET, Jacobs IA. Humanistic
+and Economic Burden of Non-Muscle Invasive Bladder Cancer: Results of Two
+Systematic Literature Reviews. Clinicoecon Outcomes Res. 2020 Nov 23;12:693-709.
+doi: 10.2147/CEOR.S274951. PMID: 33262624; PMCID: PMC7695604.
+
+274: Huang Y, Lin J, Yi W, Liu Q, Cao L, Yan Y, Fu A, Huang T, Lyu Y, Huang Q,
+Wang J. Research on the Potential Mechanism of Gentiopicroside Against Gastric
+Cancer Based on Network Pharmacology. Drug Des Devel Ther. 2020 Nov
+23;14:5109-5118. doi: 10.2147/DDDT.S270757. PMID: 33262572; PMCID: PMC7700081.
+
+275: Bhapkar V, Sawant T, Bhalerao S. A Critical Analysis of CTRI registered
+AYUSH studies for COVID- 19. J Ayurveda Integr Med. 2020 Nov 26. doi:
+10.1016/j.jaim.2020.10.012. Epub ahead of print. PMID: 33262559; PMCID:
+PMC7690275.
+
+276: Aghamohammadi D, Dolatkhah N, Bakhtiari F, Eslamian F, Hashemian M.
+Nutraceutical supplements in management of pain and disability in
+osteoarthritis: a systematic review and meta-analysis of randomized clinical
+trials. Sci Rep. 2020 Dec 1;10(1):20892. doi: 10.1038/s41598-020-78075-x. PMID:
+33262447; PMCID: PMC7708648.
+
+277: Shuto H, Komiya K, Yamasue M, Uchida S, Ogura T, Mukae H, Tateda K,
+Hiramatsu K, Kadota JI. A systematic review of corticosteroid treatment for
+noncritically ill patients with COVID-19. Sci Rep. 2020 Dec 1;10(1):20935. doi:
+10.1038/s41598-020-78054-2. PMID: 33262415; PMCID: PMC7708623.
+
+278: Jang HH, Lee J, Lee SH, Lee YM. Effects of Capsicum annuum supplementation
+on the components of metabolic syndrome: a systematic review and meta-analysis.
+Sci Rep. 2020 Dec 1;10(1):20912. doi: 10.1038/s41598-020-77983-2. PMID:
+33262398; PMCID: PMC7708630.
+
+279: Hasan LK, Aljabban J, Rohr M, Mukhtar M, Adapa N, Salim R, Aljabban N, Syed
+S, Syed S, Panahiazar M, Hadley D, Jarjour W. Meta-analysis Reveals Genetic
+Correlates of Osteoporosis Pathogenesis. J Rheumatol. 2020 Dec 1:jrheum.200951.
+doi: 10.3899/jrheum.200951. Epub ahead of print. PMID: 33262303.
+
+280: Sutherland AE, Presland M, Harrop E, Carey M, Miller M, Wong ICKC.
+Orodispersible and transmucosal alternative medications for symptom control in
+adults. BMJ Support Palliat Care. 2020 Dec 1:bmjspcare-2020-002784. doi:
+10.1136/bmjspcare-2020-002784. Epub ahead of print. PMID: 33262121; PMCID:
+PMC7712928.
+
+281: MacDonell R, Woods O, Whelan S, Cushen B, Carroll A, Brennan J, Kelly E,
+Bolger K, McNamara N, Lanigan A, McDonnell T, Prihodova L. Interventions to
+standardise hospital care at presentation, admission or discharge or to reduce
+unnecessary admissions or readmissions for patients with acute exacerbation of
+chronic obstructive pulmonary disease: a scoping review. BMJ Open Respir Res.
+2020 Dec;7(1):e000733. doi: 10.1136/bmjresp-2020-000733. PMID: 33262103.
+
+282: Yamada T, Yoneoka D, Hiraike Y, Hino K, Toyoshiba H, Shishido A, Noma H,
+Shojima N, Yamauchi T. Deep neural network-based machine learning reduces the
+screening workload for systematic review: Investigation based on recent clinical
+guidelines. J Med Internet Res. 2020 Nov 30. doi: 10.2196/22422. Epub ahead of
+print. PMID: 33262102.
+
+283: Torres-Castro R, Vasconcello-Castillo L, Alsina-Restoy X, Solis-Navarro L,
+Burgos F, Puppo H, Vilaró J. Respiratory function in patients post-infection by
+COVID-19: a systematic review and meta-analysis. Pulmonology. 2020 Nov
+25:S2531-0437(20)30245-2. doi: 10.1016/j.pulmoe.2020.10.013. Epub ahead of
+print. PMID: 33262076; PMCID: PMC7687368.
+
+284: Guo Z, Gu C, Li S, Gan S, Li Y, Xiang S, Gong L, Wang S. Incidence and risk
+factors of suicide among patients diagnosed with bladder cancer: A systematic
+review and meta-analysis. Urol Oncol. 2020 Nov 28:S1078-1439(20)30611-6. doi:
+10.1016/j.urolonc.2020.11.022. Epub ahead of print. PMID: 33262027.
+
+285: Zarifkar P, Kamath A, Robinson C, Morgulchik N, Shah SFH, Cheng TKM,
+Dominic C, Fehintola AO, Bhalla G, Ahillan T, Mourgue d'Algue L, Lee J, Pareek
+A, Carey M, Hughes DJ, Miller M, Woodcock VK, Shrotri M. Clinical
+Characteristics and Outcomes in Patients with COVID-19 and Cancer: a Systematic
+Review and Meta-analysis. Clin Oncol (R Coll Radiol). 2020 Nov
+19:S0936-6555(20)30420-9. doi: 10.1016/j.clon.2020.11.006. Epub ahead of print.
+PMID: 33261978; PMCID: PMC7674130.
+
+286: Bunting SY, Lapworth DJ, Crane EJ, Grima-Olmedo J, Koroša A, Kuczyńska A,
+Mali N, Rosenqvist L, van Vliet ME, Togola A, Lopez B. Emerging organic
+compounds in European groundwater. Environ Pollut. 2020 Nov 3:115945. doi:
+10.1016/j.envpol.2020.115945. Epub ahead of print. PMID: 33261962.
+
+287: Macii F, Biver T. Spectrofluorimetric analysis of the binding of a target
+molecule to serum albumin: tricky aspects and tips. J Inorg Biochem. 2020 Nov
+21:111305. doi: 10.1016/j.jinorgbio.2020.111305. Epub ahead of print. PMID:
+33261935.
+
+288: Hoxha E, Vignisdottir HR, Barbieri DM, Wang F, Bohne RA, Kristensen T,
+Passer A. Life cycle assessment of roads: Exploring research trends and
+harmonization challenges. Sci Total Environ. 2020 Nov 12:143506. doi:
+10.1016/j.scitotenv.2020.143506. Epub ahead of print. PMID: 33261866.
+
+289: Soloperto D, Spinnato F, Di Gioia S, Di Maro F, Pinter P, Bisceglia A,
+Marchioni D. Acquired subglottic cysts in children: A rare and challenging
+clinical entity. A systematic review. Int J Pediatr Otorhinolaryngol. 2020 Nov
+26:110523. doi: 10.1016/j.ijporl.2020.110523. Epub ahead of print. PMID:
+33261859.
+
+290: Mohamed K, Yazdanpanah N, Saghazadeh A, Rezaei N. Computational drug
+discovery and repurposing for the treatment of COVID-19: A systematic review.
+Bioorg Chem. 2020 Nov 19:104490. doi: 10.1016/j.bioorg.2020.104490. Epub ahead
+of print. PMID: 33261845; PMCID: PMC7676368.
+
+291: Lindahl JF, Mutua F, Grace D. Evaluating farm-level livestock interventions
+in low-income countries: a scoping review of what works, how, and why. Anim
+Health Res Rev. 2020 Dec 2:1-14. doi: 10.1017/S1466252320000146. Epub ahead of
+print. PMID: 33261710.
+
+292: Brainard J, Hammer CC, Hunter PR, Katzer F, Hurle G, Tyler K. Efficacy of
+halofuginone products to prevent or treat cryptosporidiosis in bovine calves: A
+systematic review and meta-analyses. Parasitology. 2020 Dec 2:1-43. doi:
+10.1017/S0031182020002267. Epub ahead of print. PMID: 33261668.
+
+293: Martín-Pérez JA, Torres-Silva C, Tenorio-Arguelles R, García-Corona DA,
+Silva-González S, Dominguez-Rodriguez JA, De Alba-Cruz I, Nagore-Ancona JF,
+González-Luna JA, López-Bochm KA. Gastric carcinoma and renal cell carcinoma as
+an atypical presentation of multiple primary malignancies: a case report and
+review of the literature. J Med Case Rep. 2020 Dec 2;14(1):234. doi:
+10.1186/s13256-020-02576-6. PMID: 33261664; PMCID: PMC7709286.
+
+294: So J, Avendano EE, Raman G, Johnson EJ. Potato consumption and risk of
+cardio-metabolic diseases: evidence mapping of observational studies. Syst Rev.
+2020 Dec 1;9(1):274. doi: 10.1186/s13643-020-01519-y. PMID: 33261659; PMCID:
+PMC7706195.
+
+295: Pan L, Wu H, Liu H, Yang X, Meng Z, Cao Y. Dexmedetomidine as an adjunct to
+local anesthetics in nerve block relieved pain more effectively after TKA: a
+meta-analysis of randomized controlled trials. J Orthop Surg Res. 2020 Dec
+1;15(1):577. doi: 10.1186/s13018-020-02105-7. PMID: 33261646; PMCID: PMC7709255.
+
+296: Wilkinson R, Hines L, Holland A, Mandal S, Phipps E. Rapid evidence review
+of harm reduction interventions and messaging for people who inject drugs during
+pandemic events: implications for the ongoing COVID-19 response. Harm Reduct J.
+2020 Dec 1;17(1):95. doi: 10.1186/s12954-020-00445-5. PMID: 33261636; PMCID:
+PMC7705852.
+
+297: Copper FA, Mayigane LN, Pei Y, Charles D, Nguyen TN, Vente C, Chiu de
+Vázquez C, Bell A, Njenge HK, Kandel N, Ho ZJM, Omaar A, de la Rocque S,
+Chungong S. Simulation exercises and after action reviews - analysis of outputs
+during 2016-2019 to strengthen global health emergency preparedness and
+response. Global Health. 2020 Dec 1;16(1):115. doi: 10.1186/s12992-020-00632-w.
+PMID: 33261622; PMCID: PMC7705853.
+
+298: Chen X, Wang W, Wang Y, Lai S, Yang J, Cowling BJ, Horby PW, Uyeki TM, Yu
+H. Serological evidence of human infections with highly pathogenic avian
+influenza A(H5N1) virus: a systematic review and meta-analysis. BMC Med. 2020
+Dec 2;18(1):377. doi: 10.1186/s12916-020-01836-y. PMID: 33261599; PMCID:
+PMC7709391.
+
+299: Guo W, Yi L, Zhou B, Li M. Chitosan modifies glycemic levels in people with
+metabolic syndrome and related disorders: meta-analysis with trial sequential
+analysis. Nutr J. 2020 Dec 1;19(1):130. doi: 10.1186/s12937-020-00647-4. PMID:
+33261597; PMCID: PMC7709411.
+
+300: Okonji EF, Mukumbang FC, Orth Z, Vickerman-Delport SA, Van Wyk B.
+Psychosocial support interventions for improved adherence and retention in ART
+care for young people living with HIV (10-24 years): a scoping review. BMC
+Public Health. 2020 Dec 1;20(1):1841. doi: 10.1186/s12889-020-09717-y. PMID:
+33261566; PMCID: PMC7708133.
+
+301: Niu Z, Liu F, Li B, Li N, Yu H, Wang Y, Tang H, Chen X, Lu Y, Cheng Z, Liu
+S, Chen G, Zhang Y, Xiang H. Acute effect of ambient fine particulate matter on
+heart rate variability: an updated systematic review and meta-analysis of panel
+studies. Environ Health Prev Med. 2020 Dec 1;25(1):77. doi:
+10.1186/s12199-020-00912-2. PMID: 33261557; PMCID: PMC7706193.
+
+302: Bouhlouli M, Izadi N, Khojasteh A. Various Cell Therapy Approaches for Bone
+Diseases in the Controlled Clinical Trials: A Systematic Review and Meta-
+analysis study. Curr Stem Cell Res Ther. 2020 Nov 30. doi:
+10.2174/1574888X16666201201104927. Epub ahead of print. PMID: 33261544.
+
+303: Jayedi A, Soltani S, Jenkins D, Sievenpiper J, Shab-Bidar S. Dietary
+glycemic index, glycemic load, and chronic disease: an umbrella review of meta-
+analyses of prospective cohort studies. Crit Rev Food Sci Nutr. 2020 Dec 1:1-10.
+doi: 10.1080/10408398.2020.1854168. Epub ahead of print. PMID: 33261511.
+
+304: CONGRESS OF THE ITALIAN ORTHOPAEDIC RESEARCH SOCIETY 2019, Evangelisti G,
+Sartini F, Bandiera S, Barbanti Brodano G, Griffoni C, Girolami M, Pipola V,
+Gasbarrini A. Carbon Ion Radiotherapy for sacral chordoma: a systematic review
+of the literature. J Biol Regul Homeost Agents. 2019 Nov-Dec;33(6 Suppl. 3):0-.
+Congress of the Italian Orthopaedic Research Society. PMID: 33261300.
+
+305: CONGRESS OF THE ITALIAN ORTHOPAEDIC RESEARCH SOCIETY 2019, Diaz Balzani L,
+Ciuffreda M, Vadalà G, Di Pino G, Papalia R, Denaro V. Osseointegration for
+lower and upper-limb amputation a systematic review of clinical outcomes and
+complications. J Biol Regul Homeost Agents. 2019 Nov-Dec;33(6 Suppl. 3):0-.
+Congress of the Italian Orthopaedic Research Society. PMID: 33261296.
+
+306: Lo Moro G, Sinigaglia T, Bert F, Savatteri A, Gualano MR, Siliquini R.
+Reopening Schools during the COVID-19 Pandemic: Overview and Rapid Systematic
+Review of Guidelines and Recommendations on Preventive Measures and the
+Management of Cases. Int J Environ Res Public Health. 2020 Nov 27;17(23):E8839.
+doi: 10.3390/ijerph17238839. PMID: 33261208.
+
+307: Forte G, Casagrande M. Effects of Blood Pressure on Cognitive Performance
+in Aging: A Systematic Review. Brain Sci. 2020 Nov 27;10(12):E919. doi:
+10.3390/brainsci10120919. PMID: 33261205.
+
+308: Sumsuzzman DM, Choi J, Khan ZA, Hong Y. Protective Effects of Melatonin
+against Severe Burn-Induced Distant Organ Injury: A Systematic Review and Meta-
+Analysis of Experimental Studies. Antioxidants (Basel). 2020 Nov 27;9(12):E1196.
+doi: 10.3390/antiox9121196. PMID: 33261180.
+
+309: Kenny TA, Little M, Lemieux T, Griffin PJ, Wesche SD, Ota Y, Batal M, Chan
+HM, Lemire M. The Retail Food Sector and Indigenous Peoples in High-Income
+Countries: A Systematic Scoping Review. Int J Environ Res Public Health. 2020
+Nov 27;17(23):E8818. doi: 10.3390/ijerph17238818. PMID: 33261090.
+
+310: Manivannan A, Chin WCB, Barrat A, Bouffanais R. On the Challenges and
+Potential of Using Barometric Sensors to Track Human Activity. Sensors (Basel).
+2020 Nov 27;20(23):E6786. doi: 10.3390/s20236786. PMID: 33261064.
+
+311: Obasohan PE, Walters SJ, Jacques R, Khatab K. A Scoping Review of the Risk
+Factors Associated with Anaemia among Children Under Five Years in Sub-Saharan
+African Countries. Int J Environ Res Public Health. 2020 Nov 27;17(23):E8829.
+doi: 10.3390/ijerph17238829. PMID: 33261060.
+
+312: Watanabe J, Watanabe J, Kotani K. Early vs. Delayed Feeding after
+Endoscopic Submucosal Dissection for Gastric Cancer: A Systematic Review and
+Meta-Analysis. Medicina (Kaunas). 2020 Nov 27;56(12):E653. doi:
+10.3390/medicina56120653. PMID: 33261059.
+
+313: Farronato M, Lanteri V, Fama A, Maspero C. Correlation between Malocclusion
+and Allergic Rhinitis in Pediatric Patients: A Systematic Review. Children
+(Basel). 2020 Nov 27;7(12):E260. doi: 10.3390/children7120260. PMID: 33261020.
+
+314: Bellacchio E. Mutations Causing Mild or No Structural Damage in Interfaces
+of Multimerization of the Fibrinogen γ-Module More Likely Confer Negative
+Dominant Behaviors. Int J Mol Sci. 2020 Nov 27;21(23):E9016. doi:
+10.3390/ijms21239016. PMID: 33260935.
+
+315: Escalera-Balsera A, Roman-Naranjo P, Lopez-Escamez JA. Systematic Review of
+Sequencing Studies and Gene Expression Profiling in Familial Meniere Disease.
+Genes (Basel). 2020 Nov 27;11(12):E1414. doi: 10.3390/genes11121414. PMID:
+33260921.
+
+316: Pacilli M, Tartaglia N, Gerundo A, Pavone G, Fersini A, Ambrosi A. Energy
+Based Vessel Sealing Devices in Thyroid Surgery: A Systematic Review to Clarify
+the Relationship with Recurrent Laryngeal Nerve Injuries. Medicina (Kaunas).
+2020 Nov 27;56(12):E651. doi: 10.3390/medicina56120651. PMID: 33260912.
+
+317: Grammatikopoulou MG, Goulis DG, Gkiouras K, Nigdelis MP, Papageorgiou ST,
+Papamitsou T, Forbes A, Bogdanos DP. Low FODMAP Diet for Functional
+Gastrointestinal Symptoms in Quiescent Inflammatory Bowel Disease: A Systematic
+Review of Randomized Controlled Trials. Nutrients. 2020 Nov 27;12(12):E3648.
+doi: 10.3390/nu12123648. PMID: 33260902.
+
+318: Feldmann C, Yonchev D, Bajorath J. Analysis of Biological Screening
+Compounds with Single- or Multi-Target Activity via Diagnostic Machine Learning.
+Biomolecules. 2020 Nov 27;10(12):E1605. doi: 10.3390/biom10121605. PMID:
+33260876.
+
+319: Clari M, Conti A, Scacchi A, Scattaglia M, Dimonte V, Gianino MM.
+Prevalence of Workplace Sexual Violence against Healthcare Workers Providing
+Home Care: A Systematic Review and Meta-Analysis. Int J Environ Res Public
+Health. 2020 Nov 27;17(23):E8807. doi: 10.3390/ijerph17238807. PMID: 33260853.
+
+320: Radu-Iulian S, Adelaida A, Dan-Alexandru I, Monica I, Dragos S, Florentina
+TL, Cătălin C. Caudal Duplication Syndrome Systematic Review-A Need for Better
+Multidisciplinary Surgical Approach and Follow-Up. Medicina (Kaunas). 2020 Nov
+27;56(12):E650. doi: 10.3390/medicina56120650. PMID: 33260808.
+
+321: Sanz JL, Forner L, Llena C, Guerrero-Gironés J, Melo M, Rengo S, Spagnuolo
+G, Rodríguez-Lozano FJ. Cytocompatibility and Bioactive Properties of Hydraulic
+Calcium Silicate-Based Cements (HCSCs) on Stem Cells from Human Exfoliated
+Deciduous Teeth (SHEDs): A Systematic Review of In Vitro Studies. J Clin Med.
+2020 Nov 28;9(12):E3872. doi: 10.3390/jcm9123872. PMID: 33260782.
+
+322: Kan JY, Moi SH, Hung WC, Hou MF, Chen FM, Shih SL, Shiau JP, Li CL, Chiang
+CP. Comprehensive Transcriptomic Analysis Identifies <i>ST8SIA1</i> as a
+Survival-Related Sialyltransferase Gene in Breast Cancer. Genes (Basel). 2020
+Nov 28;11(12):E1436. doi: 10.3390/genes11121436. PMID: 33260650.
+
+323: Komolafe TE, Agbo J, Olaniyi EO, Komolafe K, Yang X. Prevalence of COVID-19
+Diagnostic Output with Chest Computed Tomography: A Systematic Review and Meta-
+Analysis. Diagnostics (Basel). 2020 Nov 28;10(12):E1023. doi:
+10.3390/diagnostics10121023. PMID: 33260639.
+
+324: Maitre Y, Micheneau P, Delpierre A, Mahalli R, Guerin M, Amador G, Denis F.
+Did the Brain and Oral Microbiota Talk to Each Other? A Review of the
+Literature. J Clin Med. 2020 Nov 28;9(12):E3876. doi: 10.3390/jcm9123876. PMID:
+33260581.
+
+325: Vecchio M, Chiaramonte R, Romano M, Pavone P, Musumeci G, Mauro GL. A
+Systematic Review of Pharmacologic and Rehabilitative Treatment of Small Fiber
+Neuropathies. Diagnostics (Basel). 2020 Nov 28;10(12):E1022. doi:
+10.3390/diagnostics10121022. PMID: 33260566.
+
+326: Alhumaid S, Mutair AA, Alawi ZA, Alhmeed N, Zaidi ARZ, Tobaiqy M. Efficacy
+and Safety of Lopinavir/Ritonavir for Treatment of COVID-19: A Systematic Review
+and Meta-Analysis. Trop Med Infect Dis. 2020 Nov 28;5(4):E180. doi:
+10.3390/tropicalmed5040180. PMID: 33260553.
+
+327: von Eyben FE, Bauman G, von Eyben R, Rahbar K, Soydal C, Haug AR, Virgolini
+I, Kulkarni H, Baum R, Paganelli G. Optimizing PSMA Radioligand Therapy for
+Patients with Metastatic Castration-Resistant Prostate Cancer. A Systematic
+Review and Meta-Analysis. Int J Mol Sci. 2020 Nov 28;21(23):E9054. doi:
+10.3390/ijms21239054. PMID: 33260535.
+
+328: Lecointre L, Lodi M, Faller É, Boisramé T, Agnus V, Baldauf JJ, Gallix B,
+Akladios C. Diagnostic Accuracy and Clinical Impact of Sentinel Lymph Node
+Sampling in Endometrial Cancer at High Risk of Recurrence: A Meta-Analysis. J
+Clin Med. 2020 Nov 28;9(12):E3874. doi: 10.3390/jcm9123874. PMID: 33260511.
+
+329: Sánchez-Díaz S, Yanci J, Castillo D, Scanlan AT, Raya-González J. Effects
+of Nutrition Education Interventions in Team Sport Players. A Systematic Review.
+Nutrients. 2020 Nov 28;12(12):E3664. doi: 10.3390/nu12123664. PMID: 33260504.
+
+330: Lieneck C, Garvey J, Collins C, Graham D, Loving C, Pearson R. Rapid
+Telehealth Implementation during the COVID-19 Global Pandemic: A Rapid Review.
+Healthcare (Basel). 2020 Nov 29;8(4):517. doi: 10.3390/healthcare8040517. PMID:
+33260457; PMCID: PMC7712147.
+
+331: Aquino A, Conte-Junior CA. A Systematic Review of Food Allergy:
+Nanobiosensor and Food Allergen Detection. Biosensors (Basel). 2020 Nov
+29;10(12):E194. doi: 10.3390/bios10120194. PMID: 33260424.
+
+332: Castellaro M, Tamanti A, Pisani AI, Pizzini FB, Crescenzo F, Calabrese M.
+The Use of the Central Vein Sign in the Diagnosis of Multiple Sclerosis: A
+Systematic Review and Meta-analysis. Diagnostics (Basel). 2020 Nov
+29;10(12):E1025. doi: 10.3390/diagnostics10121025. PMID: 33260401.
+
+333: Ofiteru AM, Becheru DF, Gharbia S, Balta C, Herman H, Mladin B, Ionita M,
+Hermenean A, Burns JS. Qualifying Osteogenic Potency Assay Metrics for Human
+Multipotent Stromal Cells: TGF-β2 a Telling Eligible Biomarker. Cells. 2020 Nov
+29;9(12):E2559. doi: 10.3390/cells9122559. PMID: 33260388.
+
+334: Taffese WZ, Nigussie E. Autonomous Corrosion Assessment of Reinforced
+Concrete Structures: Feasibility Study. Sensors (Basel). 2020 Nov
+29;20(23):E6825. doi: 10.3390/s20236825. PMID: 33260343.
+
+335: Radcliffe C, Oen-Hsiao J, Grant M. More than Garden Variety: Massive
+Vegetations from Infective Endocarditis. Pathogens. 2020 Nov 29;9(12):E998. doi:
+10.3390/pathogens9120998. PMID: 33260314.
+
+336: Boileau-Falardeau F, Turcotte JR, Lafleur PA, Corbière M. Dilemmes des
+médecins traitants lors du retour au travail de personnes aux prises avec un
+trouble mental courant : illustration par des vignettes cliniques [Dilemmas of
+Clinicians on the Return to Work of People with a Common Mental Disorder:
+Illustrated by Clinical Cases]. Sante Ment Que. 2019 Fall;44(2):219-237. French.
+PMID: 33270394.
+
+337: Thibault A. L’evidence-based medicine, un projet épistémologique et éthique
+en porte-à-faux avec la psychiatrie ? [Is evidence-based medicine killing
+psychiatry softly? A critical review of "evidence-based psychiatry" from an
+epistemological and ethical perspective]. Sante Ment Que. 2019
+Fall;44(2):145-161. French. PMID: 33270391.
+
+338: Lussier-Valade M, Tremblay-Jolicoeur C, Bertelli C, Blouin G, Brouillette
+P, Laurendeau D, Rodriguez JP, Leblanc J. L’Hôpital en santé mentale Albert-
+Prévost : cent ans d’histoire [L'Hôpital en Santé mentale Albert-Prévost:
+stories from the first 100 years]. Sante Ment Que. 2019 Fall;44(2):23-38.
+French. PMID: 33270384.
+
+339: de Divitiis N. Statistical Lyapunov Theory Based on Bifurcation Analysis of
+Energy Cascade in Isotropic Homogeneous Turbulence: A Physical-Mathematical
+Review. Entropy (Basel). 2019 May 23;21(5):520. doi: 10.3390/e21050520. PMID:
+33267233; PMCID: PMC7515010.
+
+340: Castañeda G, Romero-Padilla J. Subnational Analysis of Economic Fitness and
+Income Dynamic: The Case of Mexican States. Entropy (Basel). 2018 Nov
+2;20(11):841. doi: 10.3390/e20110841. PMID: 33266565; PMCID: PMC7512403.
+
+341: Sun S, Jin Y, Chen C, Sun B, Cao Z, Lo IL, Zhao Q, Zheng J, Shi Y, Zhang
+XD. Entropy Change of Biological Dynamics in Asthmatic Patients and Its
+Diagnostic Value in Individualized Treatment: A Systematic Review. Entropy
+(Basel). 2018 May 24;20(6):402. doi: 10.3390/e20060402. PMID: 33265493; PMCID:
+PMC7512921.
