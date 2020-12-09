@@ -9,6 +9,7 @@
 * The Replicated version produces a replicable set of records for a certain date. In other words, if the query still works, you will get a consistent set of records each time on whatever date you run the query. Notice: There is [evidence PubMed index is sometimes updated retrospectively](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/29c9a7cfba51dc06390672971eb69d248b91cf35); therefore, in these cases, count mismatches may still occur.
 * See a detailed account of development of the Replicated Systematic Review Subset and its testing reports in the [commit history of the Zheln methods repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query). While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
 * When run on Dec 8, 2020, this query returned a generic error. However, `(2020/12/04:2020/12/04[crdt] OR 2020/12/04:2020/12/04[dcom] OR 2020/12/04:2020/12/04[mhda])` was successful and produced 9,700 results.
+* When run once again late on Dec 8, 2020, this query returned [370 records](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/summary-systematic-set/summary-systematic-set_2020-12-04_370.txt).
 
 ```
 (
