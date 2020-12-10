@@ -5,7 +5,7 @@ date='2020-12-08'
 count=380
 
 coreutils=false
-rm_record_set=true
+rm_record_set=false
 
 summary_set='summary-systematic-set'
 summary_set="${summary_set}/${summary_set}_${date}_${count}.txt"
