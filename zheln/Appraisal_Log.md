@@ -1,4 +1,4 @@
-| Date | Total | Screening | % of Total | ❌ Fail | ✅ Pass | Pass Rate | Selected for Appraisal<br><s>Crowdfunded Crossed Out</s><br><i>Duplicate in Italics</i> | Number Needed to Enrol in Selection |
+| Date | Total | Screened | % of Total | ❌ Fail | ✅ Pass | Pass Rate | Selected for Appraisal<br><s>Crowdfunded Crossed Out</s><br><i>Duplicate in Italics</i> | Number Needed to Enrol in Selection |
 |------|:-----:|:-----------------:|:----------:|:-------:|:-------:|:---------:|:--------------:|:------------:|
 | Sep 1, 2020 | 578 | – | – | – | – | – | – | – |
 | Sep 2, 2020 | 409 | 6 | 1.4 | 1 | 5 | 83.3 | https://zheln.com/record/2020/09/02/1/ | 6 |
