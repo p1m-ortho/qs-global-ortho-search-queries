@@ -1,4 +1,4 @@
-| Date | Total | Primary Appraisal | % of Total | ❌ Fail | ✅ Pass | Pass Rate | Full Appraisal<br><s>Crowdfunded Crossed Out</s> | Number Needed to Appraise |
+| Date | Total | Primary Appraisal | % of Total | ❌ Fail | ✅ Pass | Pass Rate | Full Appraisal<br><s>Crowdfunded Crossed Out</s><br><i>Duplicate in Italics</i> | Number Needed to Appraise |
 |------|:-----:|:-----------------:|:----------:|:-------:|:-------:|:---------:|:--------------:|:------------:|
 | Sep 1, 2020 | 578 | – | – | – | – | – | – | – |
 | Sep 2, 2020 | 409 | 6 | 1.4 | 1 | 5 | 83.3 | https://zheln.com/record/2020/09/02/1/ | 6 |
@@ -99,4 +99,4 @@
 | Dec 6, 2020 | 132 | – | – | – | – | – | – | – |
 | Dec 7, 2020 | 221 | – | – | – | – | – | – | – |
 | Dec 8, 2020 | 380 | 380 | – | – | – | – | https://zheln.com/record/2020/12/08/21/<br>https://zheln.com/record/2020/12/08/21/<br>https://zheln.com/record/2020/12/08/31/<br>https://zheln.com/record/2020/12/08/62/<br>https://zheln.com/record/2020/12/08/78/<br>https://zheln.com/record/2020/12/08/92/<br>https://zheln.com/record/2020/12/08/120/<br>https://zheln.com/record/2020/12/08/175/<br>https://zheln.com/record/2020/12/08/208/<br>https://zheln.com/record/2020/12/08/224/<br>https://zheln.com/record/2020/12/08/250/<br>https://zheln.com/record/2020/12/08/336/<br>https://zheln.com/record/2020/12/08/367/<br>https://zheln.com/record/2020/12/08/369/ | 27 |
-| Dec 9, 2020 | 417 | – | – | – | – | – | – | – |
+| Dec 9, 2020 | 417 | 13 | 3.1 | 0 | 13 | 100.0 | <i>https://zheln.com/record/2020/12/09/275/</i> | 1 |
