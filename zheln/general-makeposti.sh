@@ -1,11 +1,11 @@
 #!/bin/bash
 v='3.1.1'
-edit=true
-date='2020-12-08'
-count=380
+edit=false
+date='2020-09-27'
+count=67
 
-coreutils=false
-rm_record_set=false
+coreutils=true
+rm_record_set=true
 
 summary_set='summary-systematic-set'
 summary_set="${summary_set}/${summary_set}_${date}_${count}.txt"

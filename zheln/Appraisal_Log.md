@@ -26,7 +26,7 @@
 | Sep 24, 2020 | 768 | – | – | – | – | – | – | – |
 | Sep 25, 2020 | 783 | – | – | – | – | – | – | – |
 | Sep 26, 2020 | 447 | – | – | – | – | – | – | – |
-| Sep 27, 2020 | 67 | 67 | 100.0 | 11 | 56 | 83.5 | https://zheln.com/record/2020/09/27/6/<br>https://zheln.com/record/2020/09/27/7/<br>https://zheln.com/record/2020/09/27/10/<br><s>https://zheln.com/record/2020/09/27/19/</s><br>https://zheln.com/record/2020/09/27/21/<br>https://zheln.com/record/2020/09/27/36/<br>https://zheln.com/record/2020/09/27/37/<br>https://zheln.com/record/2020/09/27/45/<br>https://zheln.com/record/2020/09/27/46/<br>https://zheln.com/record/2020/09/27/47/ | 7 |
+| Sep 27, 2020 | 67 | 67 | 100.0 | 10 | 57 | 85.0 | https://zheln.com/record/2020/09/27/6/<br>https://zheln.com/record/2020/09/27/7/<br>https://zheln.com/record/2020/09/27/10/<br><s>https://zheln.com/record/2020/09/27/19/</s><br>https://zheln.com/record/2020/09/27/21/<br>https://zheln.com/record/2020/09/27/36/<br>https://zheln.com/record/2020/09/27/37/<br>https://zheln.com/record/2020/09/27/45/<br>https://zheln.com/record/2020/09/27/46/<br>https://zheln.com/record/2020/09/27/47/ | 7 |
 | Sep 28, 2020 | 463 | – | – | – | – | – | – | – |
 | Sep 29, 2020 | 144 | 9 | 6.2 | 4 | 5 | 55.5 | – | 10+ |
 | Sep 30, 2020 | 784 | – | – | – | – | – | – | – |
