@@ -1,4 +1,4 @@
-| Date | Total | Screened | % of Total | ❌ Fail | ✅ Pass | Pass Rate | Selected for Appraisal<br><s>Crowdfunded Crossed Out</s><br><i>Duplicate in Italics</i> | Number Needed to Enrol in Selection |
+| Date | Total | Screened | % of Total | ❌ Fail | ✅ Pass | Pass Rate | Selected for Appraisal<br><s>Crowdfunded Crossed Out</s><br><b>Full Text Wanted in Bold</b><br><i>Duplicate in Italics</i> | Number Needed to Enrol in Selection |
 |------|:-----:|:-----------------:|:----------:|:-------:|:-------:|:---------:|:--------------:|:------------:|
 | Sep 1, 2020 | 578 | – | – | – | – | – | – | – |
 | Sep 2, 2020 | 409 | 6 | 1.4 | 1 | 5 | 83.3 | https://zheln.com/record/2020/09/02/1/ | 6 |
@@ -26,7 +26,7 @@
 | Sep 24, 2020 | 768 | – | – | – | – | – | – | – |
 | Sep 25, 2020 | 783 | – | – | – | – | – | – | – |
 | Sep 26, 2020 | 447 | – | – | – | – | – | – | – |
-| Sep 27, 2020 | 67 | 67 | 100.0 | 10 | 57 | 85.0 | https://zheln.com/record/2020/09/27/6/<br>https://zheln.com/record/2020/09/27/7/<br>https://zheln.com/record/2020/09/27/10/<br><s>https://zheln.com/record/2020/09/27/19/</s><br>https://zheln.com/record/2020/09/27/21/<br>https://zheln.com/record/2020/09/27/36/<br>https://zheln.com/record/2020/09/27/37/<br>https://zheln.com/record/2020/09/27/45/<br>https://zheln.com/record/2020/09/27/46/<br>https://zheln.com/record/2020/09/27/47/ | 7 |
+| Sep 27, 2020 | 67 | 67 | 100.0 | 10 | 57 | 85.0 | https://zheln.com/record/2020/09/27/6/<br><b>https://zheln.com/record/2020/09/27/7/</b><br>https://zheln.com/record/2020/09/27/10/<br><s>https://zheln.com/record/2020/09/27/19/</s><br>https://zheln.com/record/2020/09/27/21/<br>https://zheln.com/record/2020/09/27/36/<br>https://zheln.com/record/2020/09/27/37/<br>https://zheln.com/record/2020/09/27/45/<br>https://zheln.com/record/2020/09/27/46/<br><b>https://zheln.com/record/2020/09/27/47/</b> | 7 |
 | Sep 28, 2020 | 463 | – | – | – | – | – | – | – |
 | Sep 29, 2020 | 144 | 9 | 6.2 | 4 | 5 | 55.5 | – | 10+ |
 | Sep 30, 2020 | 784 | – | – | – | – | – | – | – |
@@ -43,12 +43,12 @@
 | Oct 11, 2020 | 177 | – | – | – | – | – | – | – |
 | Oct 12, 2020 | 247 | – | – | – | – | – | – | – |
 | Oct 13, 2020 | 682 | – | – | – | – | – | – | – |
-| Oct 14, 2020 | 157 | 16 | 10.1 | 6 | 10 | 62.5 | https://zheln.com/record/2020/10/14/28/<br>https://zheln.com/record/2020/10/14/87/<br>https://zheln.com/record/2020/10/14/116/ | 5 |
+| Oct 14, 2020 | 157 | 16 | 10.1 | 6 | 10 | 62.5 | https://zheln.com/record/2020/10/14/28/<br>https://zheln.com/record/2020/10/14/87/<br><b>https://zheln.com/record/2020/10/14/116/</b> | 5 |
 | Oct 15, 2020 | 452 | – | – | – | – | – | – | – |
-| Oct 16, 2020 | 479 | 12 | 2.5 | 1 | 11 | 91.6 | https://zheln.com/record/2020/10/16/49/<br>https://zheln.com/record/2020/10/16/357/<br>https://zheln.com/record/2020/10/16/425/ | 4 |
+| Oct 16, 2020 | 479 | 12 | 2.5 | 1 | 11 | 91.6 | <b>https://zheln.com/record/2020/10/16/49/</b><br>https://zheln.com/record/2020/10/16/357/<br>https://zheln.com/record/2020/10/16/425/ | 4 |
 | Oct 17, 2020 | 363 | – | – | – | – | – | – | – |
 | Oct 18, 2020 | 185 | – | – | – | – | – | – | – |
-| Oct 19, 2020 | 290 | 29 | 10.0 | 3 | 26 | 89.6 | https://zheln.com/record/2020/10/19/44/<br>https://zheln.com/record/2020/10/19/210/<br>https://zheln.com/record/2020/10/19/267/ | 9 |
+| Oct 19, 2020 | 290 | 29 | 10.0 | 3 | 26 | 89.6 | <b>https://zheln.com/record/2020/10/19/44/</b><br><b>https://zheln.com/record/2020/10/19/210/</b><br>https://zheln.com/record/2020/10/19/267/ | 9 |
 | Oct 20, 2020 | 468 | – | – | – | – | – | – | – |
 | Oct 21, 2020 | 1,658 | – | – | – | – | – | – | – |
 | Oct 22, 2020 | 661 | – | – | – | – | – | – | – |
@@ -80,12 +80,12 @@
 | Nov 17, 2020 | 561 | – | – | – | – | – | – | – |
 | Nov 18, 2020 | 932 | – | – | – | – | – | – | – |
 | Nov 19, 2020 | 490 | – | – | – | – | – | – | – |
-| Nov 20, 2020 | 655 | 66 | 10.0 | 9 | 57 | 86.3 | https://zheln.com/record/2020/11/20/72/<br>https://zheln.com/record/2020/11/20/202/<br>https://zheln.com/record/2020/11/20/207/<br>https://zheln.com/record/2020/11/20/213/<br>https://zheln.com/record/2020/11/20/349/<br>https://zheln.com/record/2020/11/20/351/<br>https://zheln.com/record/2020/11/20/429/<br>https://zheln.com/record/2020/11/20/514/<br>https://zheln.com/record/2020/11/20/604/<br>https://zheln.com/record/2020/11/20/624/<br>https://zheln.com/record/2020/11/20/632/<br>https://zheln.com/record/2020/11/20/650/ | 5 |
+| Nov 20, 2020 | 655 | 66 | 10.0 | 9 | 57 | 86.3 | https://zheln.com/record/2020/11/20/72/<br>https://zheln.com/record/2020/11/20/202/<br>https://zheln.com/record/2020/11/20/207/<br><b>https://zheln.com/record/2020/11/20/213/</b><br>https://zheln.com/record/2020/11/20/349/<br>https://zheln.com/record/2020/11/20/351/<br>https://zheln.com/record/2020/11/20/429/<br>https://zheln.com/record/2020/11/20/514/<br>https://zheln.com/record/2020/11/20/604/<br>https://zheln.com/record/2020/11/20/624/<br>https://zheln.com/record/2020/11/20/632/<br>https://zheln.com/record/2020/11/20/650/ | 5 |
 | Nov 21, 2020 | 344 | 35 | 10.1 | 3 | 32 | 91.4 | https://zheln.com/record/2020/11/21/100/<br>https://zheln.com/record/2020/11/21/204/<br>https://zheln.com/record/2020/11/21/304/<br>https://zheln.com/record/2020/11/21/307/<br>https://zheln.com/record/2020/11/21/341/ | 7 |
 | Nov 22, 2020 | 232 | 24 | 10.3 | 3 | 21 | 87.5 | https://zheln.com/record/2020/11/22/127/<br>https://zheln.com/record/2020/11/22/148/ | 12 |
 | Nov 23, 2020 | 541 | – | – | – | – | – | – | – |
 | Nov 24, 2020 | 785 | – | – | – | – | – | – | – |
-| Nov 25, 2020 | 648 | 65 | 10.0 | 8 | 57 | 87.6 | https://zheln.com/record/2020/11/25/45/<br>https://zheln.com/record/2020/11/25/67/<br>https://zheln.com/record/2020/11/25/139/ | 21 |
+| Nov 25, 2020 | 648 | 65 | 10.0 | 8 | 57 | 87.6 | <b>https://zheln.com/record/2020/11/25/45/</b><br>https://zheln.com/record/2020/11/25/67/<br>https://zheln.com/record/2020/11/25/139/ | 21 |
 | Nov 26, 2020 | 561 | – | – | – | – | – | – | – |
 | Nov 27, 2020 | 389 | 389 | 100.0 | 71 | 318 | 81.7 | https://zheln.com/record/2020/11/27/92/<br>https://zheln.com/record/2020/11/27/148/<br>https://zheln.com/record/2020/11/27/194/<br>https://zheln.com/record/2020/11/27/251/<br>https://zheln.com/record/2020/11/27/256/<br>https://zheln.com/record/2020/11/27/271/<br>https://zheln.com/record/2020/11/27/273/<br>https://zheln.com/record/2020/11/27/274/<br>https://zheln.com/record/2020/11/27/275/<br>https://zheln.com/record/2020/11/27/361/ | 38 |
 | Nov 28, 2020 | 211 | – | – | – | – | – | – | – |
@@ -98,5 +98,5 @@
 | Dec 5, 2020 | 257 | – | – | – | – | – | – | – |
 | Dec 6, 2020 | 132 | – | – | – | – | – | – | – |
 | Dec 7, 2020 | 221 | – | – | – | – | – | – | – |
-| Dec 8, 2020 | 380 | 380 | – | – | – | – | https://zheln.com/record/2020/12/08/21/<br>https://zheln.com/record/2020/12/08/21/<br>https://zheln.com/record/2020/12/08/31/<br>https://zheln.com/record/2020/12/08/62/<br>https://zheln.com/record/2020/12/08/78/<br>https://zheln.com/record/2020/12/08/92/<br>https://zheln.com/record/2020/12/08/120/<br>https://zheln.com/record/2020/12/08/175/<br>https://zheln.com/record/2020/12/08/208/<br>https://zheln.com/record/2020/12/08/224/<br>https://zheln.com/record/2020/12/08/250/<br>https://zheln.com/record/2020/12/08/336/<br>https://zheln.com/record/2020/12/08/367/<br>https://zheln.com/record/2020/12/08/369/ | 27 |
+| Dec 8, 2020 | 380 | 380 | – | – | – | – | https://zheln.com/record/2020/12/08/21/<br>https://zheln.com/record/2020/12/08/30/<br>https://zheln.com/record/2020/12/08/31/<br>https://zheln.com/record/2020/12/08/62/<br>https://zheln.com/record/2020/12/08/78/<br>https://zheln.com/record/2020/12/08/92/<br><b>https://zheln.com/record/2020/12/08/120/</b><br>https://zheln.com/record/2020/12/08/175/<br>https://zheln.com/record/2020/12/08/208/<br>https://zheln.com/record/2020/12/08/224/<br>https://zheln.com/record/2020/12/08/250/<br>https://zheln.com/record/2020/12/08/336/<br>https://zheln.com/record/2020/12/08/367/<br>https://zheln.com/record/2020/12/08/369/ | 27 |
 | Dec 9, 2020 | 417 | 13 | 3.1 | 0 | 13 | 100.0 | <i>https://zheln.com/record/2020/12/09/275/</i> | 1 |
