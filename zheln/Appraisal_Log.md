@@ -1,4 +1,4 @@
-| Date | Total | Screened | % of Total | ❌ Fail | ✅ Pass | Pass Rate | Selected for Appraisal<br><s>Crowdfunded Crossed Out</s><br><b>Full Text Wanted in Bold</b><br><i>Duplicate in Italics</i> | Number Needed to Enrol in Selection |
+| Date | Total | Screened | % of Total | ❌ Fail | ✅ Pass | Pass Rate | Selected for Appraisal<br><s>Crowdfunded Crossed Out</s><br><b>Reports Wanted in Bold</b><br><i>Duplicate in Italics</i> | Number Needed to Enrol in Selection |
 |------|:-----:|:-----------------:|:----------:|:-------:|:-------:|:---------:|:--------------:|:------------:|
 | Sep 1, 2020 | 578 | – | – | – | – | – | – | – |
 | Sep 2, 2020 | 409 | 6 | 1.4 | 1 | 5 | 83.3 | https://zheln.com/record/2020/09/02/1/ | 6 |
@@ -101,4 +101,4 @@
 | Dec 8, 2020 | 380 | 380 | – | – | – | – | https://zheln.com/record/2020/12/08/21/<br>https://zheln.com/record/2020/12/08/30/<br>https://zheln.com/record/2020/12/08/31/<br>https://zheln.com/record/2020/12/08/62/<br>https://zheln.com/record/2020/12/08/78/<br>https://zheln.com/record/2020/12/08/92/<br><b>https://zheln.com/record/2020/12/08/120/</b><br>https://zheln.com/record/2020/12/08/175/<br>https://zheln.com/record/2020/12/08/208/<br>https://zheln.com/record/2020/12/08/224/<br>https://zheln.com/record/2020/12/08/250/<br>https://zheln.com/record/2020/12/08/336/<br>https://zheln.com/record/2020/12/08/367/<br>https://zheln.com/record/2020/12/08/369/ | 27 |
 | Dec 9, 2020 | 417 | 13 | 3.1 | 0 | 13 | 100.0 | <i>https://zheln.com/record/2020/12/09/275/</i> | 13 |
 | Dec 10, 2020 | 383 | – | – | – | – | – | – | – |
-| Dec 11, 2020 | 375 | 15 | 4.0 | 3 | 12 | 80.0 | https://zheln.com/record/2020/12/11/26/ | 15 |
+| Dec 11, 2020 | 375 | 15 | 4.0 | 3 | 12 | 80.0 | <b>https://zheln.com/record/2020/12/11/26/</b> | 15 |
