@@ -1,8 +1,8 @@
 #!/bin/bash
 v='3.1.1'
 edit=true
-date='2020-12-15'
-count=2146
+date='2020-12-17'
+count=704
 
 coreutils=false
 rm_record_set=true
@@ -377,4 +377,4 @@ if [ "$edit" = 'true' ]; then
   if [ "$rm_record_set" = 'true' ]; then rm "$record_set"; fi
 fi
 
-echo '> So uncivilized.'; exit 0
+echo '> So uncivilized.'; exit 00
