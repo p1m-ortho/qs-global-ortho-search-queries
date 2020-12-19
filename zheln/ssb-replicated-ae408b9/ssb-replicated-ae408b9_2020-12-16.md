@@ -8,7 +8,7 @@
 * The February 2017 version is [based](https://wayback.archive-it.org/org-350/20180406175620/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_sources.html) on the study by [Shojania & Bero 2001](https://pubmed.gov/11525102). I don’t know what the December 2018 version is based on, it’s not been written there.
 * The Replicated version produces a replicable set of records for a certain date. In other words, if the query still works, you will get a consistent set of records each time on whatever date you run the query. Notice: There is [evidence PubMed index is sometimes updated retrospectively](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/29c9a7cfba51dc06390672971eb69d248b91cf35); therefore, in these cases, count mismatches may still occur.
 * See a detailed account of development of the Replicated Systematic Review Subset and its testing reports in the [commit history of the Zheln methods repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query). While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
-* When run on Dec 18, 2020, this query returned a 502 error. At the same time, `(2020/12/16:2020/12/16[crdt] OR 2020/12/16:2020/12/16[dcom] OR 2020/12/16:2020/12/16[mhda])` ran successfully and produced 17,455 results.
+* When run on Dec 18, 2020, and Dec 19, 2020, this query returned 502 errors. At the same time, `(2020/12/16:2020/12/16[crdt] OR 2020/12/16:2020/12/16[dcom] OR 2020/12/16:2020/12/16[mhda])` ran successfully and produced 17,455 and 17,377 results, respectively.
 
 ```
 (
