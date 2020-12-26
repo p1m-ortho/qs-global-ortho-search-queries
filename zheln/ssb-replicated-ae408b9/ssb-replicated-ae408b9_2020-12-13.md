@@ -8,7 +8,7 @@
 * The February 2017 version is [based](https://wayback.archive-it.org/org-350/20180406175620/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_sources.html) on the study by [Shojania & Bero 2001](https://pubmed.gov/11525102). I don’t know what the December 2018 version is based on, it’s not been written there.
 * The Replicated version produces a replicable set of records for a certain date. In other words, if the query still works, you will get a consistent set of records each time on whatever date you run the query. Notice: There is [evidence PubMed index is sometimes updated retrospectively](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/29c9a7cfba51dc06390672971eb69d248b91cf35); therefore, in these cases, count mismatches may still occur.
 * See a detailed account of development of the Replicated Systematic Review Subset and its testing reports in the [commit history of the Zheln methods repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query). While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
-* When run on Dec 14, Dec 16, and Dec 18, 2020, this query returned 502 errors. I did rerun the query using VPN once but got the same result. Also, `(2020/12/13:2020/12/13[crdt] OR 2020/12/13:2020/12/13[dcom] OR 2020/12/13:2020/12/13[mhda])` was unsuccessful and produced zero results (all three times).
+* When run on Dec 14, Dec 16, Dec 18, and Dec 26, 2020, this query returned 502 errors. I did rerun the query using VPN once but got the same result. Also, `(2020/12/13:2020/12/13[crdt] OR 2020/12/13:2020/12/13[dcom] OR 2020/12/13:2020/12/13[mhda])` was unsuccessful and produced zero results (all three times); on Dec 26, it returned 15 results.
 
 ```
 (
@@ -444,6 +444,12 @@
                 "letter"[pt] OR "newspaper article"[pt]
             )
             AND
+            1865/01/01:2020/12/13[dcom]
+        )
+    )
+) AND (2020/12/13:2020/12/13[crdt] OR 2020/12/13:2020/12/13[dcom] OR 2020/12/13:2020/12/13[mhda])
+```
+           AND
             1865/01/01:2020/12/13[dcom]
         )
     )
