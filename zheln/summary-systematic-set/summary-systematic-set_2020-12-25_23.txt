@@ -1,0 +1,123 @@
+1: Prendki V, Tau N, Avni T, Falcone M, Huttner A, Kaiser L, Paul M, Leibovici-
+Weissmann Y, Yahav D; ESCMID Study Group for Infections in the Elderly (ESGIE).
+A systematic review assessing the under-representation of elderly adults in
+COVID-19 trials. BMC Geriatr. 2020 Dec 20;20(1):538. doi:
+10.1186/s12877-020-01954-5. PMID: 33342426; PMCID: PMC7749979.
+
+2: Rocha APD, Atallah ÁN, Pinto ACPN, Rocha-Filho CR, Milby KM, Civile VT,
+Carvas Junior N, Reis FSA, Ferla LJ, Ramalho GS, Trevisani GFM, Puga MEDS,
+Trevisani VFM. COVID-19 and patients with immune-mediated inflammatory diseases
+undergoing pharmacological treatments: a rapid living systematic review. Sao
+Paulo Med J. 2020 Nov-Dec;138(6):515-520. doi:
+10.1590/1516-3180.2020.0421.R2.10092020. PMID: 33331606.
+
+3: Kengne-Nde C, Kenmoe S, Modiyinji AF, Njouom R. Prevalence of respiratory
+viruses using polymerase chain reaction in children with wheezing, a systematic
+review and meta-analysis. PLoS One. 2020 Dec 14;15(12):e0243735. doi:
+10.1371/journal.pone.0243735. PMID: 33315873; PMCID: PMC7735590.
+
+4: Carlo AD, Benson NM, Chu F, Busch AB. Association of Alternative Payment and
+Delivery Models With Outcomes for Mental Health and Substance Use Disorders: A
+Systematic Review. JAMA Netw Open. 2020 Jul 1;3(7):e207401. doi:
+10.1001/jamanetworkopen.2020.7401. PMID: 32701157; PMCID: PMC7378751.
+
+5: Turner JS, Bucca AW, Propst SL, Ellender TJ, Sarmiento EJ, Menard LM, Hunter
+BR. Association of Checklist Use in Endotracheal Intubation With Clinically
+Important Outcomes: A Systematic Review and Meta-analysis. JAMA Netw Open. 2020
+Jul 1;3(7):e209278. doi: 10.1001/jamanetworkopen.2020.9278. Erratum in: JAMA
+Netw Open. 2020 Jul 1;3(7):e2016899. PMID: 32614424; PMCID: PMC7333022.
+
+6: Choi SJ, Yoon HM, Hwang JS, Suh CH, Jung AY, Cho YA, Lee JS. Incidence of
+Occult Spinal Dysraphism Among Infants With Cutaneous Stigmata and Proportion
+Managed With Neurosurgery: A Systematic Review and Meta-analysis. JAMA Netw
+Open. 2020 Jul 1;3(7):e207221. doi: 10.1001/jamanetworkopen.2020.7221. PMID:
+32614421; PMCID: PMC7333023.
+
+7: Yu Y, Meng Q, Munot S, Nguyen TN, Redfern J, Chow CK. Assessment of Community
+Interventions for Bystander Cardiopulmonary Resuscitation in Out-of-Hospital
+Cardiac Arrest: A Systematic Review and Meta-analysis. JAMA Netw Open. 2020 Jul
+1;3(7):e209256. doi: 10.1001/jamanetworkopen.2020.9256. PMID: 32609351; PMCID:
+PMC7330721.
+
+8: Newgard CD, Cheney TP, Chou R, Fu R, Daya MR, O'Neil ME, Wasson N, Hart EL,
+Totten AM. Out-of-hospital Circulatory Measures to Identify Patients With
+Serious Injury: A Systematic Review. Acad Emerg Med. 2020 Dec;27(12):1323-1339.
+doi: 10.1111/acem.14056. Epub 2020 Jul 20. PMID: 32558073.
+
+9: El-Lababidi RM, Rizk JG. Cefiderocol: A Siderophore Cephalosporin. Ann
+Pharmacother. 2020 Dec;54(12):1215-1231. doi: 10.1177/1060028020929988. Epub
+2020 Jun 10. PMID: 32522005.
+
+10: Santevecchi BA, Miller S, Childs-Kean LM. Doing More With Less: Review of
+Dolutegravir-Lamivudine, a Novel Single-Tablet Regimen for Antiretroviral-Naïve
+Adults With HIV-1 Infection. Ann Pharmacother. 2020 Dec;54(12):1252-1259. doi:
+10.1177/1060028020933772. Epub 2020 Jun 9. PMID: 32517480.
+
+11: Lee BJ, Vu BN, Seddon AN, Hodgson HA, Wang SK. Treatment Considerations for
+CNS Infections Caused by Vancomycin-Resistant <i>Enterococcus faecium</i>: A
+Focused Review of Linezolid and Daptomycin. Ann Pharmacother. 2020
+Dec;54(12):1243-1251. doi: 10.1177/1060028020932513. Epub 2020 Jun 8. PMID:
+32506921.
+
+12: Lipari M, Kale-Pradhan PB, Wilhelm SM. Dual- Versus Mono-Bronchodilator
+Therapy in Moderate to Severe COPD: A Meta-analysis. Ann Pharmacother. 2020
+Dec;54(12):1232-1242. doi: 10.1177/1060028020932134. Epub 2020 Jun 4. PMID:
+32493039.
+
+13: Chahine EB, Sucher AJ. Lefamulin: The First Systemic Pleuromutilin
+Antibiotic. Ann Pharmacother. 2020 Dec;54(12):1203-1214. doi:
+10.1177/1060028020932521. Epub 2020 Jun 4. PMID: 32493034.
+
+14: Inglet S, Winter B, Yost SE, Entringer S, Lian A, Biksacky M, Pitt RD,
+Mortensen W. Clinical Data for the Use of Cannabis-Based Treatments: A
+Comprehensive Review of the Literature. Ann Pharmacother. 2020
+Nov;54(11):1109-1143. doi: 10.1177/1060028020930189. Epub 2020 Jun 2. PMID:
+32483988.
+
+15: Sebaaly J, Kelley D. Direct Oral Anticoagulants in Obesity: An Updated
+Literature Review. Ann Pharmacother. 2020 Nov;54(11):1144-1158. doi:
+10.1177/1060028020923584. Epub 2020 May 22. PMID: 32443941.
+
+16: Biondi BE, Zheng X, Frank CA, Petrakis I, Springer SA. A Literature Review
+Examining Primary Outcomes of Medication Treatment Studies for Opioid Use
+Disorder: What Outcome Should Be Used to Measure Opioid Treatment Success? Am J
+Addict. 2020 Jul;29(4):249-267. doi: 10.1111/ajad.13051. Epub 2020 Apr 29. PMID:
+32346932; PMCID: PMC7377168.
+
+17: Poorthuis MHF, Bulbulia R, Morris DR, Pan H, Rothwell PM, Algra A, Becquemin
+JP, Bonati LH, Brott TG, Brown MM, Calvet D, Eckstein HH, Fraedrich G, Gregson
+J, Greving JP, Hendrikse J, Howard G, Jansen O, Mas JL, Lewis SC, de Borst GJ,
+Halliday A; Carotid Stenosis Trialists' Collaboration. Timing of procedural
+stroke and death in asymptomatic patients undergoing carotid endarterectomy:
+individual patient analysis from four RCTs. Br J Surg. 2020 May;107(6):662-668.
+doi: 10.1002/bjs.11441. Epub 2020 Mar 12. PMID: 32162310.
+
+18: Wang YY, Yang Y, Rao WW, Zhang SF, Zeng LN, Zheng W, Ng CH, Ungvari GS,
+Zhang L, Xiang YT. Cognitive behavioural therapy monotherapy for insomnia: A
+meta-analysis of randomized controlled trials. Asian J Psychiatr. 2020
+Mar;49:101828. doi: 10.1016/j.ajp.2019.10.008. Epub 2019 Oct 13. PMID: 32115395.
+
+19: Cullis PS, Siminas S, Losty PD. Efficacy of antireflux surgery in children
+with or without neurological impairment: a systematic review. Br J Surg. 2020
+May;107(6):636-646. doi: 10.1002/bjs.11488. Epub 2020 Feb 21. PMID: 32083325.
+
+20: Kamarajah SK, Lin A, Tharmaraja T, Bharwada Y, Bundred JR, Nepogodiev D,
+Evans RPT, Singh P, Griffiths EA. Risk factors and outcomes associated with
+anastomotic leaks following esophagectomy: a systematic review and meta-
+analysis. Dis Esophagus. 2020 Mar 16;33(3):doz089. doi: 10.1093/dote/doz089.
+PMID: 31957798.
+
+21: McGrath S, Sohn H, Steele R, Benedetti A. Meta-analysis of the difference of
+medians. Biom J. 2020 Jan;62(1):69-98. doi: 10.1002/bimj.201900036. Epub 2019
+Sep 25. PMID: 31553488.
+
+22: Díaz-Arribas MJ, Martín-Casas P, Cano-de-la-Cuerda R, Plaza-Manzano G.
+Effectiveness of the Bobath concept in the treatment of stroke: a systematic
+review. Disabil Rehabil. 2020 Jun;42(12):1636-1649. doi:
+10.1080/09638288.2019.1590865. Epub 2019 Apr 24. PMID: 31017023.
+
+23: Lefeber N, De Buyzer S, Dassen N, De Keersmaecker E, Kerckhofs E, Swinnen E.
+Energy consumption and cost during walking with different modalities of
+assistance after stroke: a systematic review and meta-analysis. Disabil Rehabil.
+2020 Jun;42(12):1650-1666. doi: 10.1080/09638288.2018.1531943. Epub 2019 Jan 22.
+PMID: 30668170.
