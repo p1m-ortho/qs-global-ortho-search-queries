@@ -7,4 +7,6 @@
 | Wk 49, 2020 | 43h 2m | 48h |
 | Wk 50, 2020 | 15h 20m | 48h |
 | Wk 51, 2020 | 26h 26m | 48h |
-| Wk 52, 2020 | 6h 43m | 48h |
+| Wk 52, 2020 | 7h 0m | 48h |
+
+Starting Wk 53, 2020, see weekly [Wakatime](https://wakatime.com/) posts on my Twitter [@drzhelnov](https://twitter.com/drzhelnov).
