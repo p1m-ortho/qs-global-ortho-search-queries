@@ -1,8 +1,8 @@
 # RESCUER: a methodology for Rapid Electronic Scoping Updatable Extensible Reviews | «Рескьюэр»: методология быстрых электронных обновляемых расширяемых обзоров предметного поля
 
-**См. примеры реальных RESCUER-обзоров в [регистре RESCUER-обзоров](#регистр-rescuer-обзоров---a-rescuer-register) ниже.**
+**См. примеры реальных RESCUER-обзоров в [регистре RESCUER-обзоров](#регистр-rescuer-обзоров--a-rescuer-register) ниже.**
 
-> **See a [RESCUER Register](#регистр-rescuer-обзоров---a-rescuer-register) below for examples of actual RESCUERs.**
+> **See a [RESCUER Register](#регистр-rescuer-обзоров--a-rescuer-register) below for examples of actual RESCUERs.**
 
 ## Предисловие | Introduction
 
