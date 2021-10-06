@@ -1,5 +1,9 @@
 # RESCUER: a methodology for Rapid Electronic Scoping Updatable Extensible Reviews | «Рескьюэр»: методология быстрых электронных обновляемых расширяемых обзоров предметного поля
 
+**См. примеры реальных RESCUER-обзоров в [регистре RESCUER-обзоров](#регистр-rescuer-обзоров---a-rescuer-register) ниже.**
+
+> **See a [RESCUER Register](#регистр-rescuer-обзоров---a-rescuer-register) below for examples of actual RESCUERs.**
+
 ## Предисловие | Introduction
 
 Это ветка крупного репозитория, посвященного разработке запросов для поиска библиографических источников по ортопедии и не только по ней, освещающая нашу методологию быстрого проведения сжатых обзоров предметного поля по остро возникающим клиническим вопросам. Несколько подробнее см. ниже после раздела об обзоре.
@@ -99,3 +103,25 @@ _Популяция_ (лечение/диагностика/профилакти
 Некоторые авторы говорят о необходимости живых синтезов с ликвидацией бесконечного дерева третичных работ, что близко перекликается с нашей концепцией [СТМЗ](https://github.com/p1m-ortho/xs-stmz-methodology).
 
 > Some authors talk about the need for live syntheses with elimination of the infinite tree of tertiary research, which corresponds closely with our concept of [STMZ](https://github.com/p1m-ortho/xs-stmz-methodology).
+
+### Регистр RESCUER-обзоров | A RESCUER Register
+
+Перечень ниже включает все RESCUER-проекты, инициированные оригинальным автором, вне зависимости от их текущего статуса. Все из них являются работами в довольно ранней стадии, и ни один из них не дошел до публикации в рецензируемом журнале. Аналогичным образом, мы не слышали о каких-либо RESCUER-обзорах, предпринятых другими исследовательскими коллективами.
+
+> The list below includes all RESCUER projects initiated by the original author regardless of their current status. All of these have been a rather early-stage work, and none has made it to a peer-reviewed journal. Likewise, we did not hear of any RESCUERs undertaken by other research teams. 
+
+**Истинные RESCUER-обзоры | True RESCUERs**
+
+* **[Global researchers in need, and what there is to support them: a Rapid Electronic Scoping Updatable Extensible Review (RESCUER) (Preprint)](https://doi.org/10.31219/osf.io/4rxnm)**
+* [_Students in health_ (education): are _journal clubs_ compared to _no journal clubs_ more effective, judging from _formalized assessments of literature critical appraisal competence_?](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/rescuer-journal-clubs)
+* [_Information sources_ (screening): is _one search page limit_ compared to the _other search page limit_ no less effective, judging from the _number (of records) needed to read_?](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/rescuer-google)
+* [COVID-19 (prevention): are _interventions targeted at prevention of contact transmission_ compared to _the absence of such interventions_ more effective, judging from _symptomatic case rates_ (secondary outcomes: case fatality rate, positive testing rate)?](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/rescuer-covid19-transmission)
+* [_Health research_ (prognosis): is _APM (Agile Project Management)_ compared to _no formal project management_ more time-cost-effective, judging from _frequency of meeting hard endpoints on schedule_?](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/rescuer-apm-in-health-research)
+
+**Обзоры — предшественники RESCUER | Pre-RESCUERs**
+
+* [Дренировать псоас-абсцесс по сравнению с не дренировать псоас-абсцесс является более ли эффективным в лечении боли и ограничения жизнедеятельности в группе лиц со спондилодисцитом неуточненным, если судить по динамике ВАШ через 1 неделю и SF-36 через 4 недели после операции?](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/psoas-abscess-drainage)
+* [Зашить операционную рану с дренажами по сравнению с зашить операционную рану без дренажей является более ли эффективным в профилактике клинически значимых спинальных гематом в группе лиц, оперируемых на позвоночнике, если судить по частоте усиления неврологических нарушений через 7 дней после операции, частоте реоперации через 7 дней после операции?](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/postop-drains)
+* [Боль в спине (острая или хроническая — более 6 недель, нетравматическая или травматическая – ушиб спины в анамнезе): парацетамол эффективнее ли плацебо?](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/fast-paracetamol)
+* [Перелом н/3 бедра, уже стоит PFN: тактика?](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/fast-post-cmn-fx)
+* [Десмургия при травме опорно-двигательного аппарата: скопинг](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/fast-bandages)
