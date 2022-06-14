@@ -1,0 +1,2866 @@
+1: O'Grady HK, Edbrooke L, Farley C, Berney S, Denehy L, Puthucheary Z, Kho ME;
+International METRIC Critical Care Data Group. The sit-to-stand test as a
+patient-centered functional outcome for critical care research: a pooled
+analysis of five international rehabilitation studies. Crit Care. 2022 Jun
+13;26(1):175. doi: 10.1186/s13054-022-04048-3. PMID: 35698237.
+
+2: Chiappinotto S, Papastavrou E, Efstathiou G, Andreou P, Stemmer R, Ströhm C,
+Schubert M, de Wolf-Linder S, Longhini J, Palese A. Antecedents of unfinished
+nursing care: a systematic review of the literature. BMC Nurs. 2022 Jun
+14;21(1):137. doi: 10.1186/s12912-022-00890-6. PMID: 35698217.
+
+3: Elsman EBM, Butcher NJ, Mokkink LB, Terwee CB, Tricco A, Gagnier JJ,
+Aiyegbusi OL, Barnett C, Smith M, Moher D, Offringa M. Study protocol for
+developing, piloting and disseminating the PRISMA-COSMIN guideline: a new
+reporting guideline for systematic reviews of outcome measurement instruments.
+Syst Rev. 2022 Jun 13;11(1):121. doi: 10.1186/s13643-022-01994-5. PMID:
+35698213.
+
+4: Dorababu A. Pyrazolopyrimidines as attractive pharmacophores in efficient
+drug design: A recent update. Arch Pharm (Weinheim). 2022 Jun 13:e2200154. doi:
+10.1002/ardp.202200154. Epub ahead of print. PMID: 35698212.
+
+5: Cha C, Kim EY, Kim SY, Ryu JM, Park MH, Lee S, Suh YJ, Choi N, Hong H, Kim
+HS, Chung MS; Korean Breast Cancer Society. Impact of the ACOSOG Z0011 trial on
+surgical practice in Asian patients: trends in axillary surgery for breast
+cancer from a Korean Breast Cancer Registry analysis. World J Surg Oncol. 2022
+Jun 13;20(1):198. doi: 10.1186/s12957-022-02673-4. PMID: 35698188.
+
+6: Byun DJ, Kim YM, Hyun YM. Real-time observation of neutrophil extracellular
+trap formation in the inflamed mouse brain via two-photon intravital imaging.
+Lab Anim Res. 2022 Jun 13;38(1):16. doi: 10.1186/s42826-022-00126-3. PMID:
+35698178.
+
+7: Shafiee A, Teymouri Athar MM, Kohandel Gargari O, Jafarabady K, Siahvoshi S,
+Mozhgani SH. Ivermectin under scrutiny: a systematic review and meta-analysis of
+efficacy and possible sources of controversies in COVID-19 patients. Virol J.
+2022 Jun 13;19(1):102. doi: 10.1186/s12985-022-01829-8. PMID: 35698151.
+
+8: Chen R, Li R, Qing W, Zhang Y, Zhou Z, Hou Y, Shi Y, Zhou H, Chen M.
+Probiotics are a good choice for the treatment of bacterial vaginosis: a meta-
+analysis of randomized controlled trial. Reprod Health. 2022 Jun 13;19(1):137.
+doi: 10.1186/s12978-022-01449-z. PMID: 35698149.
+
+9: Yin WW, Huang CC, Chen YR, Yu DQ, Jin M, Feng C. The effect of medication on
+serum anti-müllerian hormone (AMH) levels in women of reproductive age: a meta-
+analysis. BMC Endocr Disord. 2022 Jun 14;22(1):158. doi:
+10.1186/s12902-022-01065-9. PMID: 35698127.
+
+10: Lohr AM, Raygoza Tapia JP, Valdez ES, Hassett LC, Gubrium AC, Fiddian-Green
+A, Larkey L, Sia IG, Wieland ML. The use of digital stories as a health
+promotion intervention: a scoping review. BMC Public Health. 2022 Jun
+14;22(1):1180. doi: 10.1186/s12889-022-13595-x. PMID: 35698097.
+
+11: Zhang Y, Chen Y, Niu M, Li Y, Zhang J, Zhang L, Wu F, Chen Q, Yu H, Tian J.
+Establishing a core outcome set for neurogenic bladder trials: study protocol
+for a scoping review and Delphi surveys. Trials. 2022 Jun 13;23(1):485. doi:
+10.1186/s13063-022-06419-1. PMID: 35698096.
+
+12: Guida AM, Sensi B, Formica V, D'Angelillo RM, Roselli M, Del Vecchio Blanco
+G, Rossi P, Capolupo GT, Caricato M, Sica GS. Total neoadjuvant therapy for the
+treatment of locally advanced rectal cancer: a systematic minireview. Biol
+Direct. 2022 Jun 13;17(1):16. doi: 10.1186/s13062-022-00329-7. PMID: 35698084.
+
+13: Galiatsatos P, Wilson C, O'Brien J, Gong AJ, Angiolillo D, Johnson J, Myers
+C, Strout S, Mathai S, Robinson G, Rowan NR, Weiss CR. A lack of race and
+ethnicity data in the treatment of hereditary hemorrhagic telangiectasia: a
+systematic review of intravenous bevacizumab efficacy. Orphanet J Rare Dis. 2022
+Jun 13;17(1):220. doi: 10.1186/s13023-022-02371-0. PMID: 35698080.
+
+14: Gao X, Zhao Y, Wang N, Yang L. Migration modulates the prevalence of ASD and
+ADHD: a systematic review and meta-analysis. BMC Psychiatry. 2022 Jun
+13;22(1):395. doi: 10.1186/s12888-022-04037-4. PMID: 35698047.
+
+15: Barajas-Ochoa A, Cisneros-Barrios A, Ramos-Remus C. Evaluation of the
+quality and subsequent performance of manuscripts rejected by Clinical
+Rheumatology: a research report. Clin Rheumatol. 2022 Jun 13. doi:
+10.1007/s10067-022-06238-4. Epub ahead of print. PMID: 35698009.
+
+16: Li L, Yue SW, Xu J, Qiao J, Redding SR, Ouyang YQ. Effectiveness of
+Internet-based psychological interventions for treating perinatal depression: A
+systematic review and meta-analysis. J Clin Nurs. 2022 Jun 13. doi:
+10.1111/jocn.16399. Epub ahead of print. PMID: 35697972.
+
+17: Guler OC, Onal C. Oncological outcomes of squamous cell carcinoma of the
+cervical esophagus treated with definitive (chemo‑)radiotherapy: a systematic
+review and meta‑analysis. In regard to De Virgilio et al. J Cancer Res Clin
+Oncol. 2022 Jun 13. doi: 10.1007/s00432-022-04118-7. Epub ahead of print. PMID:
+35697858.
+
+18: Burghgraef TA, Sikkenk DJ, Verheijen PM, Moumni ME, Hompes R, Consten ECJ.
+The learning curve of laparoscopic, robot-assisted and transanal total
+mesorectal excisions: a systematic review. Surg Endosc. 2022 Jun 13. doi:
+10.1007/s00464-022-09087-z. Epub ahead of print. PMID: 35697853.
+
+19: Tsuboi T, Satake Y, Hiraga K, Yokoi K, Hattori M, Suzuki M, Hara K, Ramirez-
+Zamora A, Okun MS, Katsuno M. Effects of MAO-B inhibitors on non-motor symptoms
+and quality of life in Parkinson's disease: A systematic review. NPJ Parkinsons
+Dis. 2022 Jun 13;8(1):75. doi: 10.1038/s41531-022-00339-2. PMID: 35697709.
+
+20: Afshari E, Dehghan F, Vakili MA, Abbasi M. Prevalence of Molar-incisor
+hypomineralization in Iranian children - A systematic review and narrative
+synthesis. BDJ Open. 2022 Jun 13;8(1):15. doi: 10.1038/s41405-022-00111-x. PMID:
+35697687.
+
+21: Antoniou GA, Bastos Gonçalves F, Björck M, Chakfé N, Coscas R, Dias NV, Dick
+F, Kakkos SK, Mees BME, Resch T, Trimarchi S, Tulamo R, Twine CP, Vermassen F,
+Wanhainen A, Kolh P. European Society for Vascular Surgery Clinical Practice
+Guideline Development Scheme: An Overview of Evidence Quality Assessment
+Methods, Evidence to Decision Frameworks, and Reporting Standards in Guideline
+Development. Eur J Vasc Endovasc Surg. 2022 Mar 22:S1078-5884(22)00188-5. doi:
+10.1016/j.ejvs.2022.03.014. Epub ahead of print. PMID: 35697645.
+
+22: Aziz MA, Islam MS. The role of ABCB1 gene polymorphisms in steroid-resistant
+nephrotic syndrome: evidence from a meta-analysis of steroid receiving patients.
+J Gene Med. 2022 Jun 13:e3436. doi: 10.1002/jgm.3436. Epub ahead of print. PMID:
+35697639.
+
+23: Wu X, Zhang Y, Zhang W, Liu G, Jiang H, Huang H, Zhang X. Erectile
+Dysfunction in Multiple Sclerosis: A Prevalence Meta-Analysis and Systematic
+Review. J Sex Med. 2022 Jun 10:S1743-6095(22)01318-2. doi:
+10.1016/j.jsxm.2022.05.002. Epub ahead of print. PMID: 35697636.
+
+24: Keikha M, Kelishadi R. Comment on "Determinants of malnutrition among
+children: A systematic review" by Katoch OR. Nutrition. 2022 May 6:111722. doi:
+10.1016/j.nut.2022.111722. Epub ahead of print. PMID: 35697632.
+
+25: Wang L, Wu C, Chen G, Jiang J. Ovarian clear cell borderline tumor: A
+systematic review. Asian J Surg. 2022 Jun 10:S1015-9584(22)00706-0. doi:
+10.1016/j.asjsur.2022.05.149. Epub ahead of print. PMID: 35697625.
+
+26: Kawada T. Letter re: Prognostic value of high-risk human papillomavirus DNA
+and p16INK4a immunohistochemistry in patients with anal cancer: An individual
+patient data meta-analysis. Eur J Cancer. 2022 Jun 10:S0959-8049(22)00270-2.
+doi: 10.1016/j.ejca.2022.03.045. Epub ahead of print. PMID: 35697591.
+
+27: Zwart ES, Yilmaz BS, Halimi A, Ahola R, Kurlinkus B, Laukkarinen J, Ceyhan
+GO. Venous resection for pancreatic cancer, a safe and feasible option? A
+systematic review and meta-analysis. Pancreatology. 2022 May
+29:S1424-3903(22)00168-5. doi: 10.1016/j.pan.2022.05.001. Epub ahead of print.
+PMID: 35697587.
+
+28: Sanuki T. Spasmodic dysphonia: An overview of clinical features and
+treatment options. Auris Nasus Larynx. 2022 Jun 11:S0385-8146(22)00153-5. doi:
+10.1016/j.anl.2022.05.012. Epub ahead of print. PMID: 35697560.
+
+29: Asghar A, Naaz S, Ansari S, Kumar A, Singh V. The cross-sectional morphology
+of median nerve in carpal tunnel of healthy, adult population: A systematic
+review and meta-analysis. Morphologie. 2022 Jun 10:S1286-0115(22)00059-5. doi:
+10.1016/j.morpho.2022.05.005. Epub ahead of print. PMID: 35697557.
+
+30: Nunez C, Eslick GD, Elliott EJ. Trampoline centre injuries in children and
+adolescents: a systematic review and meta-analysis. Inj Prev. 2022 Jun
+13:injuryprev-2022-044530. doi: 10.1136/injuryprev-2022-044530. Epub ahead of
+print. PMID: 35697515.
+
+31: Dong Y, Zhou G, Cao W, Xu X, Zhang Y, Ji Z, Yang J, Chen J, Liu M, Fan Y,
+Kong J, Wen S, Li B, Yue P, Liu A, Bao F. Global seroprevalence and
+sociodemographic characteristics of <i>Borrelia burgdorferi sensu lato</i> in
+human populations: a systematic review and meta-analysis. BMJ Glob Health. 2022
+Jun;7(6):e007744. doi: 10.1136/bmjgh-2021-007744. PMID: 35697507.
+
+32: Berg B, Urhausen AP, Øiestad BE, Whittaker JL, Culvenor AG, Roos EM,
+Crossley KM, Juhl CB, Risberg MA. What tests should be used to assess functional
+performance in youth and young adults following anterior cruciate ligament or
+meniscal injury? A systematic review of measurement properties for the OPTIKNEE
+consensus. Br J Sports Med. 2022 Jun 13:bjsports-2022-105510. doi:
+10.1136/bjsports-2022-105510. Epub ahead of print. PMID: 35697502.
+
+33: Bağriaçik E, Bayraktar N. Effectiveness of training in disease management
+for patients with type 2 diabetes mellitus: A systematic review. Endocrinol
+Diabetes Nutr (Engl Ed). 2022 May;69(5):362-378. doi:
+10.1016/j.endien.2022.05.005. PMID: 35697468.
+
+34: Kissler MJ, Kissler K, Porter SC, Keniston A, Jankousky K, Burden M.
+Concepts and metrics of clinician attention: a scoping review protocol. BMJ
+Open. 2022 Jun 13;12(6):e052334. doi: 10.1136/bmjopen-2021-052334. PMID:
+35697461.
+
+35: Wu H, Hu T, Xu M, Hao H, Hill MA, Xu C, Liu Z. Examining endothelial
+function and carotid artery disease in patients with inflammatory bowel disease:
+a systematic review protocol. BMJ Open. 2022 Jun 13;12(6):e059785. doi:
+10.1136/bmjopen-2021-059785. PMID: 35697459.
+
+36: Namsrai T, Desborough J, Chalmers A, Lowe C, Cook M, Phillips C, Parkinson
+A. Diagnostic delay of myositis: protocol for an integrated systematic review.
+BMJ Open. 2022 Jun 13;12(6):e060312. doi: 10.1136/bmjopen-2021-060312. PMID:
+35697457.
+
+37: Pang LL, Gan JD, Huang YH, Liao J, Lv Y, Ali WA, Zhang L, Fang WF.
+Investigation of the optimal platinum-based regimen in the postoperative
+adjuvant chemotherapy setting for early-stage resected non-small lung cancer: a
+Bayesian network meta-analysis. BMJ Open. 2022 Jun 13;12(6):e057098. doi:
+10.1136/bmjopen-2021-057098. PMID: 35697451.
+
+38: Pliszka SR, Pereira-Sanchez V, Robles-Ramamurthy B. A Review of Clinical
+Practice Guidelines in the Diagnosis and Treatment of Attention-
+Deficit/Hyperactivity Disorder. Child Adolesc Psychiatr Clin N Am. 2022
+Jul;31(3):569-581. doi: 10.1016/j.chc.2022.03.009. PMID: 35697402.
+
+39: Lee KK, Doudesis D, Anwar M, Astengo F, Chenevier-Gobeaux C, Claessens YE,
+Wussler D, Kozhuharov N, Strebel I, Sabti Z, deFilippi C, Seliger S, Moe G,
+Fernando C, Bayes-Genis A, van Kimmenade RRJ, Pinto Y, Gaggin HK, Wiemer JC,
+Möckel M, Rutten JHW, van den Meiracker AH, Gargani L, Pugliese NR, Pemberton C,
+Ibrahim I, Gegenhuber A, Mueller T, Neumaier M, Behnes M, Akin I, Bombelli M,
+Grassi G, Nazerian P, Albano G, Bahrmann P, Newby DE, Japp AG, Tsanas A, Shah
+ASV, Richards AM, McMurray JJV, Mueller C, Januzzi JL, Mills NL; CoDE-HF
+investigators. Development and validation of a decision support tool for the
+diagnosis of acute heart failure: systematic review, meta-analysis, and
+modelling study. BMJ. 2022 Jun 13;377:e068424. doi: 10.1136/bmj-2021-068424.
+PMID: 35697365.
+
+40: Guo C, Xie B, Guo D. Does pancreatic duct stent placement lead to decreased
+postoperative pancreatic fistula rates after pancreaticoduodenectomy? A meta-
+analysis. Int J Surg. 2022 Jun 10:106707. doi: 10.1016/j.ijsu.2022.106707. Epub
+ahead of print. PMID: 35697324.
+
+41: Santos C, García V, Gómez E, Velásquez C, Martino J. Visual mapping for
+tumor resection: A proof of concept of a new intraoperative task and a
+systematic review of the literature. World Neurosurg. 2022 Jun
+10:S1878-8750(22)00795-1. doi: 10.1016/j.wneu.2022.06.012. Epub ahead of print.
+PMID: 35697231.
+
+42: Alamer OB, Jimenez AE, Azad TD, Bettegowda C, Mukherjee D. H3K27M-Altered
+Diffuse Midline Gliomas Among Adult Patients: A Systematic Review of Clinical
+Features and Survival Analysis. World Neurosurg. 2022 Jun
+10:S1878-8750(22)00803-8. doi: 10.1016/j.wneu.2022.06.020. Epub ahead of print.
+PMID: 35697228.
+
+43: Chen JA, Mirshahi S, Jeelani Y, Bernstock JD, Stapleton C, Patel NJ. Delayed
+rupture of an anterior communicating artery aneurysm after elective Woven
+EndoBridge embolization, re-treated with microsurgical clipping: operative
+technique and systematic review. World Neurosurg. 2022 Jun
+10:S1878-8750(22)00804-X. doi: 10.1016/j.wneu.2022.06.021. Epub ahead of print.
+PMID: 35697227.
+
+44: Tiseo G, Brigante G, Giacobbe DR, Maraolo AE, Gona F, Falcone M, Giannella
+M, Grossi P, Pea F, Rossolini GM, Sanguinetti M, Sarti M, Scarparo C, Tumbarello
+M, Venditti M, Viale P, Bassetti M, Luzzaro F, Menichetti F, Stefani S, Tinelli
+M. A position paper for the diagnosis and management of infections caused by
+multidrug-resistant bacteria: Endorsed by the Italian Society of Infection and
+Tropical Diseases (SIMIT), the Italian Society of Anti-Infective Therapy (SITA),
+the Italian Group for Antimicrobial Stewardship (GISA), the Italian Association
+of Clinical Microbiologists (AMCLI), and the Italian Society of Microbiology
+(SIM). Int J Antimicrob Agents. 2022 Jun 10:106611. doi:
+10.1016/j.ijantimicag.2022.106611. Epub ahead of print. PMID: 35697179.
+
+45: de Vries LP, van de Weijer MP, Bartels M. The human physiology of well-
+being: A systematic review on the association between neurotransmitters,
+hormones, inflammatory markers, the microbiome and well-being. Neurosci Biobehav
+Rev. 2022 Jun 10:104733. doi: 10.1016/j.neubiorev.2022.104733. Epub ahead of
+print. PMID: 35697161.
+
+46: Vervullens S, Haenen V, Meert L, Meeus M, Smeets RJEM, Baert I, Mertens
+MGCAM. Personal influencing factors for pressure pain threshold in healthy
+people: a systematic review and meta-analysis. Neurosci Biobehav Rev. 2022 Jun
+10:104727. doi: 10.1016/j.neubiorev.2022.104727. Epub ahead of print. PMID:
+35697160.
+
+47: Bock PM, Martins AF, Ramalho R, Telo GH, Leivas G, Maraschin CK, Schaan BD.
+The impact of dietary, surgical, and pharmacological interventions on gut
+microbiota in individuals with diabetes mellitus: a systematic review. Diabetes
+Res Clin Pract. 2022 Jun 10:109944. doi: 10.1016/j.diabres.2022.109944. Epub
+ahead of print. PMID: 35697155.
+
+48: Doody P, Asamane EA, Aunger JA, Swales B, Lord JM, Greig CA, Whittaker AC.
+The Prevalence of Frailty and Pre-frailty Among Geriatric Hospital Inpatients
+and its Association With Economic Prosperity and Healthcare Expenditure: A
+Systematic Review and Meta-analysis of 467,779 Geriatric Hospital Inpatients.
+Ageing Res Rev. 2022 Jun 10:101666. doi: 10.1016/j.arr.2022.101666. Epub ahead
+of print. PMID: 35697143.
+
+49: Giri S, Ghimire A, Mishra A, Acharya K, Kuikel S, Tiwari A, Mishra SK.
+Prevalence of Methicillin-Resistant Staphylococcus aureus carriage among
+Healthcare Workers in South Asia in non-outbreak settings: a systematic review
+and meta-analysis. Am J Infect Control. 2022 Jun 10:S0196-6553(22)00474-6. doi:
+10.1016/j.ajic.2022.06.001. Epub ahead of print. PMID: 35697125.
+
+50: Liu C, Xu H, Chen L, Zhu M. Exercise and Nutritional Intervention for
+Physical Function of the Prefrail: A Systematic Review and Meta-Analysis. J Am
+Med Dir Assoc. 2022 Jun 10:S1525-8610(22)00399-1. doi:
+10.1016/j.jamda.2022.05.007. Epub ahead of print. PMID: 35697124.
+
+51: Qian MB, Patel C, Palmeirim MS, Wang X, Schindler C, Utzinger J, Zhou XN,
+Keiser J. Efficacy of drugs against clonorchiasis and opisthorchiasis: a
+systematic review and network meta-analysis. Lancet Microbe. 2022 Jun
+10:S2666-5247(22)00026-X. doi: 10.1016/S2666-5247(22)00026-X. Epub ahead of
+print. PMID: 35697047.
+
+52: Lin J, Cai C, Xie Y. Acute Glycemic Variability and Functional Outcome in
+Patients with Acute Ischemic Stroke: A Meta-Analysis. Horm Metab Res. 2022
+Jun;54(6):371-379. doi: 10.1055/a-1837-0141. Epub 2022 Jun 13. PMID: 35697046.
+
+53: Ma X, Han Y, Jiang L, Li M. Triglyceride-Glucose Index and the Prognosis of
+Patients with Acute Ischemic Stroke: A Meta-Analysis. Horm Metab Res. 2022
+Jun;54(6):361-370. doi: 10.1055/a-1853-9889. Epub 2022 Jun 13. PMID: 35697045.
+
+54: Pal A, Nath B, Paul S, Meena S. Evaluation of the effectiveness of yoga in
+management of premenstrual syndrome: a systematic review and meta-analysis. J
+Psychosom Obstet Gynaecol. 2022 Jun 13:1-9. doi: 10.1080/0167482X.2022.2086457.
+Epub ahead of print. PMID: 35697020.
+
+55: Naik PP. Adverse Effects of Anti-Interleukin-23 Agents Employed in Patients
+with Psoriasis: A Systematic Review. Dermatology. 2022 Jun 13:1-11. doi:
+10.1159/000524199. Epub ahead of print. PMID: 35697004.
+
+56: Ren S, Yao C, Liu Y, Feng G, Dong X, Gao B, Qian S. Antioxidants for
+Treatment of Duchenne Muscular Dystrophy: A Systematic Review and Meta-Analysis.
+Eur Neurol. 2022 Jun 13:1-12. doi: 10.1159/000525045. Epub ahead of print. PMID:
+35697003.
+
+57: Shih YC, Yeh MC, Yang FA, Chen HC. Efficacy and Safety of Multiple Dupilumab
+Dose Regimens in Patients with Moderate-To-Severe Atopic Dermatitis: A
+Systematic Review and Network Meta-Analysis of Randomized Controlled Trials.
+Dermatology. 2022 Jun 13:1-13. doi: 10.1159/000524608. Epub ahead of print.
+PMID: 35696987.
+
+58: de Freitas NPA, Carvalho TR, Gonçalves CCRA, da Silva PHA, de Melo Romão LG,
+Kwak-Kim J, Cavalcante MB. The Dietary Inflammatory Index as a predictor of
+pregnancy outcomes: Systematic review and meta-analysis. J Reprod Immunol. 2022
+Jun 3;152:103651. doi: 10.1016/j.jri.2022.103651. Epub ahead of print. PMID:
+35696840.
+
+59: Huntington LS, Talia A, Devitt BM, Batty L. Management and outcomes of
+proximal tibiofibular joint ganglion cysts: A systematic review. Knee. 2022 Jun
+10;37:60-70. doi: 10.1016/j.knee.2022.05.009. Epub ahead of print. PMID:
+35696835.
+
+60: Green O, Young EM, Oberman J, Stewart J, King Y, O'Donoghue K, Walker KF,
+Thornton JG. Recruitment of pregnant women to randomised trials of COVID 19
+treatments, and pharmaceutical treatments received outside such trials: A
+research article. Eur J Obstet Gynecol Reprod Biol. 2022 May 14;275:12-16. doi:
+10.1016/j.ejogrb.2022.05.009. Epub ahead of print. PMID: 35696831.
+
+61: Syed Nasser N, Rajan S, Venugopal VK, Lasič S, Mahajan V, Mahajan H. A
+review on investigation of the basic contrast mechanism underlying
+multidimensional diffusion MRI in assessment of neurological disorders. J Clin
+Neurosci. 2022 Jun 10;102:26-35. doi: 10.1016/j.jocn.2022.05.027. Epub ahead of
+print. PMID: 35696817.
+
+62: Ward LM, LaRosa AH, Prakash Y, Cohen MB, Levi JR. Internet and social media
+research by parents of pediatric otolaryngologic patients. Am J Otolaryngol.
+2022 Jun 3;43(5):103518. doi: 10.1016/j.amjoto.2022.103518. Epub ahead of print.
+PMID: 35696816.
+
+63: Thirsk LM, Panchuk JT, Stahlke S, Hagtvedt R. Cognitive and implicit biases
+in nurses' judgment and decision-making: A scoping review. Int J Nurs Stud. 2022
+May 24;133:104284. doi: 10.1016/j.ijnurstu.2022.104284. Epub ahead of print.
+PMID: 35696809.
+
+64: Goubet N, Rattaz C, Pierrat V. Comment on De Clifford-Faugere et al. (2020)
+'Systematic review and meta-analysis of olfactive stimulation interventions to
+manage procedural pain in preterm and full-term'. Int J Nurs Stud. 2022 May
+30;133:104299. doi: 10.1016/j.ijnurstu.2022.104299. Epub ahead of print. PMID:
+35696808.
+
+65: Dafni U, Soo RA, Peters S, Tsourti Z, Zygoura P, Vervita K, Han JY, De
+Castro J, Coate L, Früh M, Hashemi SMS, Nadal E, Carcereny E, Sala MA, Bernabé
+R, Provencio M, Cuffe S, Roschitzki-Voser H, Ruepp B, Rosell R, Stahel RA.
+Impact of smoking status on the relative efficacy of the EGFR TKI/angiogenesis
+inhibitor combination therapy in advanced NSCLC-a systematic review and meta-
+analysis. ESMO Open. 2022 Jun 10;7(3):100507. doi: 10.1016/j.esmoop.2022.100507.
+Epub ahead of print. PMID: 35696746.
+
+66: Gao Q, Hu K, Gao J, Shang Y, Mei F, Zhao L, Chen F, Ma B. Prevalence and
+prognostic value of sarcopenic obesity in patients with cancer: A systematic
+review and meta-analysis. Nutrition. 2022 Apr 22;101:111704. doi:
+10.1016/j.nut.2022.111704. Epub ahead of print. PMID: 35696740.
+
+67: Saygin D, Ghosh N, Reid P. Immune Checkpoint Inhibitor-Associated Myositis:
+A Distinct Form of Inflammatory Myopathy. J Clin Rheumatol. 2022 Jun 14. doi:
+10.1097/RHU.0000000000001874. Epub ahead of print. PMID: 35696731.
+
+68: Kitson SJ, Aurangzeb O, Parvaiz J, Lophatananon A, Muir KR, Crosbie EJ.
+Quantifying the Effect of Physical Activity on Endometrial Cancer Risk. Cancer
+Prev Res (Phila). 2022 Jun 13:canprevres.0129.2022-3-16 11:01:01.293. doi:
+10.1158/1940-6207.CAPR-22-0129. Epub ahead of print. PMID: 35696722.
+
+69: Sharif A. Interventions Against Posttransplantation Diabetes: A Scientific
+Rationale for Treatment Hierarchy Based on Literature Review. Transplantation.
+2022 Jun 9. doi: 10.1097/TP.0000000000004198. Epub ahead of print. PMID:
+35696695.
+
+70: Dal Buono A, Faita F, Peyrin-Biroulet L, Danese S, Allocca M. Ultrasound
+elastography in inflammatory bowel diseases a systematic review of accuracy
+compared to histopathological assessment. J Crohns Colitis. 2022 Jun 13:jjac082.
+doi: 10.1093/ecco-jcc/jjac082. Epub ahead of print. PMID: 35696668.
+
+71: Torkamani-Azar M, Lee A, Bednarik R. Methods and Measures for Mental Stress
+Assessment in Surgery: A Systematic Review of 20 Years of Literature. IEEE J
+Biomed Health Inform. 2022 Jun 13;PP. doi: 10.1109/JBHI.2022.3182869. Epub ahead
+of print. PMID: 35696473.
+
+72: Nisar YB, Aboubaker S, Arifeen SE, Ariff S, Arora N, Awasthi S, Ayede AI,
+Baqui AH, Bavdekar A, Berhane M, Chandola TR, Leul A, Sadruddin S, Tshefu A,
+Wammanda R, Nigussie A, Pyne-Mercier L, Pearson L, Brandes N, Wall S, Qazi SA,
+Bahl R. A multi-country implementation research initiative to jump-start scale-
+up of outpatient management of possible serious bacterial infections (PSBI) when
+a referral is not feasible: Summary findings and implications for programs. PLoS
+One. 2022 Jun 13;17(6):e0269524. doi: 10.1371/journal.pone.0269524. PMID:
+35696401.
+
+73: Salas-Gama K, Onakpoya IJ, Coronado Daza J, Perera R, Heneghan CJ.
+Recommendations of high-quality clinical practice guidelines related to the
+process of starting dialysis: A systematic review. PLoS One. 2022 Jun
+13;17(6):e0266202. doi: 10.1371/journal.pone.0266202. PMID: 35696388.
+
+74: Garniasih D, Susanah S, Sribudiani Y, Hilmanto D. The incidence and
+mortality of childhood acute lymphoblastic leukemia in Indonesia: A systematic
+review and meta-analysis. PLoS One. 2022 Jun 13;17(6):e0269706. doi:
+10.1371/journal.pone.0269706. PMID: 35696384.
+
+75: Wang J, Zhao Q, Chen B, Sun J, Huang J, Meng J, Li S, Yan W, Ren C, Hao L.
+Risk factors for metabolic bone disease of prematurity: A meta-analysis. PLoS
+One. 2022 Jun 13;17(6):e0269180. doi: 10.1371/journal.pone.0269180. PMID:
+35696368.
+
+76: Ramtahal MA, Amoako DG, Akebe ALK, Somboro AM, Bester LA, Essack SY. A
+Public Health Insight into <i>Salmonella</i> in Poultry in Africa: A Review of
+the Past Decade: 2010-2020. Microb Drug Resist. 2022 Jun;28(6):710-733. doi:
+10.1089/mdr.2021.0384. PMID: 35696336.
+
+77: Sak-Dankosky N, Sherwood P, Vehviläinen-Julkunen K, Kvist T. Interventions
+improving well-being of adult cancer patients' caregivers: A systematic review.
+J Adv Nurs. 2022 Jun 13. doi: 10.1111/jan.15320. Epub ahead of print. PMID:
+35696332.
+
+78: Lyu MM, Siah RC, Lam ASL, Cheng KKF. The effect of psychological
+interventions on fear of cancer recurrence in breast cancer survivors: A
+systematic review and meta-analysis. J Adv Nurs. 2022 Jun 13. doi:
+10.1111/jan.15321. Epub ahead of print. PMID: 35696315.
+
+79: Junarta J, Siddiqui MU, Riley JM, Dikdan SJ, Patel A, Frisch DR. Low-voltage
+area substrate modification for atrial fibrillation ablation: a systematic
+review and meta-analysis of clinical trials. Europace. 2022 Jun 13:euac089. doi:
+10.1093/europace/euac089. Epub ahead of print. PMID: 35696286.
+
+80: Yue X, Yue Z, Wang Y, Dong Z, Yang H, Yue S. The value of Copenhagen Index
+in the diagnosis of malignant adnexal tumors: a meta-analysis. Int J Gynaecol
+Obstet. 2022 Jun 13. doi: 10.1002/ijgo.14310. Epub ahead of print. PMID:
+35696160.
+
+81: Brown N, Margus C, Hart A, Sarin R, Hertelendy A, Ciottone G. Virtual
+Reality Training in Disaster Medicine: A Systematic Review of the Literature.
+Simul Healthc. 2022 Jun 14. doi: 10.1097/SIH.0000000000000675. Epub ahead of
+print. PMID: 35696131.
+
+82: Chazal C, Roux C, Kinouani S, Schuers M, Fortin F, Pereira B, Blanc O,
+Piñol-Domenech N, Brousse G, Vorilhon P, Laporte C. Effectiveness of brief
+interventions in primary care for cannabis users aged from 12 to 25 years old: a
+systematic review. Fam Pract. 2022 Jun 13:cmac050. doi: 10.1093/fampra/cmac050.
+Epub ahead of print. PMID: 35696124.
+
+83: Rostami A, Riahi SM, Mollalo A, Razavian I, Akbari N, Marhoommirzabak E,
+Mahjour S, Sartip B, Arshadi M, Razavian E, Ardekani A. Does latent Toxoplasma
+infection have a protective effect against developing multiple sclerosis?
+Evidence from an updated meta-analysis. Trans R Soc Trop Med Hyg. 2022 Jun
+13:trac053. doi: 10.1093/trstmh/trac053. Epub ahead of print. PMID: 35696089.
+
+84: Blea MN, Wallace IS. Analysis of Posttranslational Modifications in
+Arabidopsis Proteins and Metabolic Pathways Using the FAT-PTM Database. Methods
+Mol Biol. 2022;2499:145-154. doi: 10.1007/978-1-0716-2317-6_7. PMID: 35696079.
+
+85: Solimando L, Fasulo M, Cavallero S, Veronese N, Smith L, Vernuccio L,
+Bolzetta F, Dominguez LJ, Barbagallo M. Suicide risk in caregivers of people
+with dementia: a systematic review and meta-analysis. Aging Clin Exp Res. 2022
+Jun 13. doi: 10.1007/s40520-022-02160-6. Epub ahead of print. PMID: 35696056.
+
+86: Wichmann S, Barbateskovic M, Liang N, Itenov TS, Berthelsen RE, Lindschou J,
+Perner A, Gluud C, Bestle MH. Loop diuretics in adult intensive care patients
+with fluid overload: a systematic review of randomised clinical trials with
+meta-analysis and trial sequential analysis. Ann Intensive Care. 2022 Jun
+13;12(1):52. doi: 10.1186/s13613-022-01024-6. PMID: 35696008.
+
+87: Han X, Hou H, Xu J, Ren J, Li S, Wang Y, Yang H, Wang Y. Significant
+association between HIV infection and increased risk of COVID-19 mortality: a
+meta-analysis based on adjusted effect estimates. Clin Exp Med. 2022 Jun 13.
+doi: 10.1007/s10238-022-00840-1. Epub ahead of print. PMID: 35695974.
+
+88: El Hage Chehade N, Ghoneim S, Shah S, Chahine A, Issak A, Choi AY, Moosvi Z,
+Chang KJ, Samarasena JB. Combination Topical Epinephrine and Non-steroidal
+Inflammatory Drugs in the Prevention of Post-ERCP Pancreatitis: A Systematic
+Review. Dig Dis Sci. 2022 Jun 13. doi: 10.1007/s10620-022-07518-4. Epub ahead of
+print. PMID: 35695971.
+
+89: Stelljes R, Weber E, Roesner A. Physiotherapeutische Kenntnisse,
+Fertigkeiten und Kompetenzen in der Versorgung von Menschen mit chronischen
+Schmerzen [Physical therapy knowledge, skills, and competencies in the care of
+people with chronic pain]. Schmerz. 2022 Jun 13. German. doi:
+10.1007/s00482-022-00654-w. Epub ahead of print. PMID: 35695944.
+
+90: Falz R, Bischoff C, Thieme R, Lässing J, Mehdorn M, Stelzner S, Busse M,
+Gockel I. Effects and duration of exercise-based prehabilitation in surgical
+therapy of colon and rectal cancer: a systematic review and meta-analysis. J
+Cancer Res Clin Oncol. 2022 Jun 13. doi: 10.1007/s00432-022-04088-w. Epub ahead
+of print. PMID: 35695931.
+
+91: Liu SJ, Huang PD, Xu JM, Li Q, Xie JH, Wu WZ, Wang CT, Yang XB. Diet and
+gastric cancer risk: an umbrella review of systematic reviews and meta-analyses
+of prospective cohort studies. J Cancer Res Clin Oncol. 2022 Jun 13. doi:
+10.1007/s00432-022-04005-1. Epub ahead of print. PMID: 35695929.
+
+92: Turabi KS, Deshmukh A, Paul S, Swami D, Siddiqui S, Kumar U, Naikar S,
+Devarajan S, Basu S, Paul MK, Aich J. Drug repurposing-an emerging strategy in
+cancer therapeutics. Naunyn Schmiedebergs Arch Pharmacol. 2022 Jun 13. doi:
+10.1007/s00210-022-02263-x. Epub ahead of print. PMID: 35695911.
+
+93: Antoniou E, Colnot T, Zeegers M, Dekant W. Immunomodulation and exposure to
+per- and polyfluoroalkyl substances: an overview of the current evidence from
+animal and human studies. Arch Toxicol. 2022 Jun 13. doi:
+10.1007/s00204-022-03303-4. Epub ahead of print. PMID: 35695909.
+
+94: Zhao Z, Li R, Ma Y, Islam I, Rajper AMA, Song W, Ren H, Tse ZTH. Supporting
+Technologies for COVID-19 Prevention: Systemized Review. JMIRx Med. 2022 May
+24;3(2):e30344. doi: 10.2196/30344. PMID: 35695850; PMCID: PMC9168838.
+
+95: Battaglini D, Premraj L, Huth S, Fanning J, Whitman G, Arora RC, Bellapart
+J, Bastos Porto D, Taccone FS, Suen JY, Li Bassi G, Fraser JF, Cho SM, Robba C.
+The Use of Noninvasive Multimodal Neuromonitoring in Adult Critically Ill
+Patients With COVID-19 Infection. J Neurosurg Anesthesiol. 2022 Jun 8. doi:
+10.1097/ANA.0000000000000859. Epub ahead of print. PMID: 35695738.
+
+96: Estrin NE, Moraschini V, Zhang Y, Miron RJ. Use of Enamel Matrix Derivative
+in Minimally Invasive/Flapless Approaches: A Systematic Review with Meta-
+Analysis. Oral Health Prev Dent. 2022 Jun 13;20(1):233-242. doi:
+10.3290/j.ohpd.b3125655. PMID: 35695693.
+
+97: Lazzari C, McAleer S, Rabottini M. The assessment of interprofessional
+practice in mental health nursing with ethnographic observation and social
+network analysis: a confirmatory and bibliometric network study using VOSviewer.
+Riv Psichiatr. 2022 May-Jun;57(3):115-122. doi: 10.1708/3814.37989. PMID:
+35695681.
+
+98: Tian W, Tan N, Ke J, Zou J, Liu X, Pan Y, Zeng Y, Peng Y, Wu F. Adjuvant
+EGFR tyrosine kinase inhibitors for patients with resected <i>EGFR</i>-mutated
+non-small-cell lung cancer: a network meta-analysis. Future Oncol. 2022 Jun 13.
+doi: 10.2217/fon-2021-1614. Epub ahead of print. PMID: 35695676.
+
+99: Yang P, Pei X, Deng J, Li X. Comprehensive Analysis of Centromere Protein
+Family Member Genes in Lung Adenocarcinoma. Crit Rev Eukaryot Gene Expr.
+2022;32(4):57-72. doi: 10.1615/CritRevEukaryotGeneExpr.2022040641. PMID:
+35695666.
+
+100: Shahid A, Khan MM, Ahmad U, Haider MF, Ali A. Exploring Liposomes for Lung
+Cancer Therapy. Crit Rev Ther Drug Carrier Syst. 2022;39(4):1-47. doi:
+10.1615/CritRevTherDrugCarrierSyst.2021037912. PMID: 35695657.
+
+101: Kalogeropoulos P, Tsouknidas I, Tasis N, Papoutsis K, Athanasopoulos A,
+Livanos K, Piagkou M, Troupis T, Filippou DK. The Artery of Adamkiewicz: Anatomy
+and Considerations in Spine Surgery - A Review of the Literature. J Long Term
+Eff Med Implants. 2022;32(2):81-86. doi:
+10.1615/JLongTermEffMedImplants.2022038879. PMID: 35695630.
+
+102: Zhou H, Xian C, Zhang KJ, Yang Z, Li W, Tian J. The frequency of assessment
+tools in arthroscopic training: a systematic review. Ann Med. 2022
+Dec;54(1):1646-1656. doi: 10.1080/07853890.2022.2085317. PMID: 35695551.
+
+103: Li X, Gao Z, Yu H, Gu Y, Yang G. Effect of long-term exercise therapy on
+motor symptoms in Parkinson's disease patients: A systematic review and meta-
+analysis of randomized controlled trials. Am J Phys Med Rehabil. 2022 Jun 13.
+doi: 10.1097/PHM.0000000000002052. Epub ahead of print. PMID: 35695530.
+
+104: Mustapha MM, Srinivasa VR, Griffith MP, Cho ST, Evans DR, Waggle K,
+Ezeonwuka C, Snyder DJ, Marsh JW, Harrison LH, Cooper VS, Van Tyne D. Genomic
+Diversity of Hospital-Acquired Infections Revealed through Prospective Whole-
+Genome Sequencing-Based Surveillance. mSystems. 2022 Jun 13:e0138421. doi:
+10.1128/msystems.01384-21. Epub ahead of print. PMID: 35695507.
+
+105: Peterson B, Withers B, Hawke F, Spink M, Callister R, Chuter V. Outcomes of
+participation in parkrun, and factors influencing why and how often individuals
+participate: A systematic review of quantitative studies. J Sports Sci. 2022 Jun
+13:1-14. doi: 10.1080/02640414.2022.2086522. Epub ahead of print. PMID:
+35695484.
+
+106: Kaulback K, Pyne DB, Hull JH, Snyders C, Sewry N, Schwellnus M. The effects
+of acute respiratory illness on exercise and sports performance outcomes in
+athletes - a systematic review by a subgroup of the IOC consensus group on
+"Acute respiratory illness in the athlete". Eur J Sport Sci. 2022 Jun 13:1-57.
+doi: 10.1080/17461391.2022.2089914. Epub ahead of print. PMID: 35695464.
+
+107: Blackmore A, Howell B, Romme K, Gao Z, Nguyen H, Allwood Newhook LA, Twells
+L. The Effectiveness of Virtual Lactation Support: A Systematic Review and Meta-
+Analysis. J Hum Lact. 2022 Jun 13:8903344221099914. doi:
+10.1177/08903344221099914. Epub ahead of print. PMID: 35695423.
+
+108: Jerbaka M, Laganà AS, Petousis S, Mjaess G, Ayed A, Ghezzi F, Terzic S,
+Sleiman Z. Outcomes of robotic and laparoscopic surgery for benign
+gynaecological disease: a systematic review. J Obstet Gynaecol. 2022 Jun 13:1-7.
+doi: 10.1080/01443615.2022.2070732. Epub ahead of print. PMID: 35695416.
+
+109: Chiswell H. Psychological morbidity in the farming community: a literature
+review. J Agromedicine. 2022 Jun 13. doi: 10.1080/1059924X.2022.2089419. Epub
+ahead of print. PMID: 35695396.
+
+110: Baillot A, St-Pierre M, Bernard P, Burkhardt L, Chorfi W, Oppert JM,
+Bellicha A, Brunet J. Exercise and bariatric surgery: A systematic review and
+meta-analysis of the feasibility and acceptability of exercise and controlled
+trial methods. Obes Rev. 2022 Jun 13:e13480. doi: 10.1111/obr.13480. Epub ahead
+of print. PMID: 35695385.
+
+111: Mann C, Jun GT, Tyrer F, Kiani R, Lewin G, Gangadharan SK. A scoping review
+of clusters of multiple long-term conditions in people with intellectual
+disabilities and factors impacting on outcomes for this patient group. J
+Intellect Disabil. 2022 Jun 13:17446295221107275. doi:
+10.1177/17446295221107275. Epub ahead of print. PMID: 35695384.
+
+112: Huang Z, Xiao L, Xiao Y, Chen C. The modulatory role of growth hormone in
+inflammation and macrophage activation. Endocrinology. 2022 Jun 13:bqac088. doi:
+10.1210/endocr/bqac088. Epub ahead of print. PMID: 35695371.
+
+113: Sethi P, Singh A, Srinivas BH, Ganesh RN, Kayal S. Practical Approach in
+Management of Extraosseous Ewing's Sarcoma of Head and Neck: A Case Series and
+Review of literature. Gulf J Oncolog. 2022 May;1(39):79-88. PMID: 35695350.
+
+114: Evans AG, Morgan MD, Aiken BA, Assi PE, Joseph JT, Kesayan T, Mioton LM,
+Esteve IVM, Hill JB, Thayer WP, Al Kassis S. Can Diffusion Tensor Imaging
+Apparent Diffusion Coefficient Diagnose Carpal Tunnel Syndrome? A Systematic
+Review and Meta-Analysis. Hand (N Y). 2022 Jun 13:15589447221096706. doi:
+10.1177/15589447221096706. Epub ahead of print. PMID: 35695339.
+
+115: Kramer A, Prinz C, Fichtner F, Fischer AL, Thieme V, Grundeis F, Spagl M,
+Seeber C, Piechotta V, Metzendorf MI, Golinski M, Moerer O, Stephani C,
+Mikolajewska A, Kluge S, Stegemann M, Laudi S, Skoetz N. Janus kinase inhibitors
+for the treatment of COVID-19. Cochrane Database Syst Rev. 2022 Jun
+13;6(6):CD015209. doi: 10.1002/14651858.CD015209. PMID: 35695334; PMCID:
+PMC9190191.
+
+116: Lan SH, Hung SH, Chang SP, Lu LC, Lai CC, Lin WT. Pro-, pre- and synbiotics
+for the prevention of incidental ventilator-associated pneumonia among
+critically ill patients: a systematic review and meta-analysis of randomized
+controlled trials. Expert Rev Anti Infect Ther. 2022 Jun 13. doi:
+10.1080/14787210.2022.2089652. Epub ahead of print. PMID: 35695312.
+
+117: Tadic M, Gherbesi E, Faggiano A, Sala C, Carugo S, Cuspidi C. The impact of
+continuous positive airway pressure on cardiac mechanics: Findings from a meta-
+analysis of echocardiographic studies. J Clin Hypertens (Greenwich). 2022 Jun
+13. doi: 10.1111/jch.14488. Epub ahead of print. PMID: 35695237.
+
+118: Tsuchiya M, Saeteaw M, Subongkot S, Tharnpanich T, Konmun J, Nasu I,
+Shimanuki Y, Tsuchitani T, Ezura M, Hashiguchi K, Bryan JC, Kawazoe H. Using an
+online journal club to improve Asian speakers' comfort in using English to
+discuss and understand research papers written in English. J Oncol Pharm Pract.
+2022 Jun 12:10781552221107548. doi: 10.1177/10781552221107548. Epub ahead of
+print. PMID: 35695229.
+
+119: Matela H, Panchal P, Yadav SS, Muley A, Medithi S, Menon K. A critical
+comparison of the Indian school food and nutrition guidelines with the WHO-
+nutrition friendly school initiative and the review of existing implementation
+scenario. Nutr Health. 2022 Jun 12:2601060221105734. doi:
+10.1177/02601060221105734. Epub ahead of print. PMID: 35695228.
+
+120: Essibayi MA, Brinjikji W. Efficacy and safety of SOFIA aspiration catheter
+for mechanical thrombectomy via ADAPT and Solumbra echniques in acute ischemic
+stroke: A systematic review and meta-analysis. Interv Neuroradiol. 2022 Jun
+12:15910199221107438. doi: 10.1177/15910199221107438. Epub ahead of print. PMID:
+35695222.
+
+121: Warjri GB, Senthil S. Imaging of the Ciliary Body: A Major Review. Semin
+Ophthalmol. 2022 Jun 11:1-13. doi: 10.1080/08820538.2022.2085515. Epub ahead of
+print. PMID: 35695216.
+
+122: Kapur RP, Goldstein AM, Loeff DS, Myers CT, Paschal CR. Intestinal
+Pathology in Patients With Pathogenic <i>ACTG2</i>-Variant Visceral Myopathy: 16
+Patients From 12 Families and Review of the Literature. Pediatr Dev Pathol. 2022
+Jun 12:10935266221107449. doi: 10.1177/10935266221107449. Epub ahead of print.
+PMID: 35695198.
+
+123: Senanayake P, Wong E, McBride K, Singh N. Efficacy of Vidian Neurectomy and
+Posterior Nasal Neurectomy in the Management of Nonallergic Rhinitis: A
+Systematic Review. Am J Rhinol Allergy. 2022 Jun 12:19458924221105933. doi:
+10.1177/19458924221105933. Epub ahead of print. PMID: 35695191.
+
+124: Scquizzato T, Imbriaco G, Moro F, Losiggio R, Cabrini L, Consolo F, Landoni
+G, Zangrillo A. Non-invasive ventilation in the prehospital emergency setting: A
+systematic review and meta-analysis. Prehosp Emerg Care. 2022 Jun 12:1-14. doi:
+10.1080/10903127.2022.2086331. Epub ahead of print. PMID: 35695184.
+
+125: Pameijer EM, Heus P, Damen JAA, Spijker R, Hooft L, Ringens PJ, Imhof SM,
+van Leeuwen R. What did we learn in 35 years of research on nutrition and
+supplements for age-related macular degeneration: a systematic review. Acta
+Ophthalmol. 2022 Jun 13. doi: 10.1111/aos.15191. Epub ahead of print. PMID:
+35695158.
+
+126: Ai F, Wang Y, Wang J, Zhou L, Wang S. Effect of estrogen on vaginal
+complications of pessary use: a systematic review and meta-analysis.
+Climacteric. 2022 Jun 13:1-10. doi: 10.1080/13697137.2022.2079973. Epub ahead of
+print. PMID: 35695119.
+
+127: Okoli GN, Lam OL, Reddy VK, Askin N, Al-Yousif N, Wilhelm L, Gunderson J,
+Hayes A, Mansouri B, Abou-Setta AM. Self-management programs for chronic non-
+cancer pain: A rapid review of randomized trials. Can J Neurol Sci. 2022 Jun
+13:1-30. doi: 10.1017/cjn.2022.261. Epub ahead of print. PMID: 35695082.
+
+128: Freeley S, Broughan J, McCombe G, Casey M, Fitzpatrick P, Frawley T,
+Morrisey J, Treanor JT, Collins T, Cullen W. Promoting nurse-led behaviour
+change interventions to prevent cardiovascular disease in disadvantaged
+communities: A scoping review. Health Soc Care Community. 2022 Jun 13. doi:
+10.1111/hsc.13867. Epub ahead of print. PMID: 35695081.
+
+129: King G, Smart E, Bowman L, Pinto M. Social participation interventions
+targeting relational outcomes for young people with physical and developmental
+disabilities: an umbrella review and narrative synthesis. Disabil Rehabil. 2022
+Jun 12:1-14. doi: 10.1080/09638288.2022.2085332. Epub ahead of print. PMID:
+35695048.
+
+130: Marsden P, Sharma AA, Rotella JA. Review article: Clinical manifestations
+and outcomes of chronic nitrous oxide misuse: A systematic review. Emerg Med
+Australas. 2022 Jun 13. doi: 10.1111/1742-6723.13997. Epub ahead of print. PMID:
+35695047.
+
+131: Pei LX, Yi Y, Guo J, Chen L, Zhou JY, Wu XL, Sun JH, Chen H. The
+effectiveness and safety of acupuncture/electroacupuncture for chemotherapy-
+induced peripheral neuropathy: a systematic review and meta-analysis. Acupunct
+Med. 2022 Jun 12:9645284221076512. doi: 10.1177/09645284221076512. Epub ahead of
+print. PMID: 35695033.
+
+132: Jaubert M, Le Baron M, Jacquet C, Couvreur A, Fabre-Aubrespy M, Flecher X,
+Ollivier M, Argenson JN. Failure analysis of articulating polymethyl
+methacrylate spacers in two-stage revision total hip arthroplasty. Bone Jt Open.
+2022 Jun;3(6):485-494. doi: 10.1302/2633-1462.36.BJO-2022-0024.R1. PMID:
+35695030.
+
+133: Chua SKK, Saffari SE, Lee SJY, Tan EK. Association Between Parkinson's
+Disease and Coronary Artery Disease: A Systematic Review and Meta-Analysis. J
+Parkinsons Dis. 2022 Jun 4. doi: 10.3233/JPD-223291. Epub ahead of print. PMID:
+35694936.
+
+134: Aryafard H, Dehvan F, Albatineh AN, Dalvand S, Gheshlagh RG. Spiritual
+Health in Iranian Patients With Cardiovascular Diseases: A Systematic Review and
+Meta-analysis. Omega (Westport). 2022 Jun 12:302228221108293. doi:
+10.1177/00302228221108293. Epub ahead of print. PMID: 35694884.
+
+135: St Pierre C, Ver Ploeg M, Dietz WH, Pryor S, Jakazi CS, Layman E, Noymer D,
+Coughtrey-Davenport T, Sacheck JM. Food Insecurity and Childhood Obesity: A
+Systematic Review. Pediatrics. 2022 Jun 13:e2021055571. doi:
+10.1542/peds.2021-055571. Epub ahead of print. PMID: 35694873.
+
+136: Nowell L, Dhingra S, Carless-Kane S, McGuinness C, Paolucci A, Jacobsen M,
+Lorenzetti DL, Lorenzetti L, Oddone Paolucci E. A systematic review of online
+education initiatives to develop students remote caring skills and practices.
+Med Educ Online. 2022 Dec;27(1):2088049. doi: 10.1080/10872981.2022.2088049.
+PMID: 35694798.
+
+137: Hintz EA. "It's All in Your Head": A Meta-Synthesis of Qualitative Research
+About Disenfranchising Talk Experienced by Female Patients with Chronic
+Overlapping Pain Conditions. Health Commun. 2022 Jun 12:1-15. doi:
+10.1080/10410236.2022.2081046. Epub ahead of print. PMID: 35694781.
+
+138: Palmer E, Kavanagh E, Visram S, Bourke AM, Forrest I, Exley C. When should
+palliative care be introduced for people with progressive fibrotic interstitial
+lung disease? A meta-ethnography of the experiences of people with end-stage
+interstitial lung disease and their family carers. Palliat Med. 2022 Jun
+11:2692163221101753. doi: 10.1177/02692163221101753. Epub ahead of print. PMID:
+35694777.
+
+139: Husein-ElAhmed H, Steinhoff M. Bullous pemphigoid induced by biologic drugs
+in psoriasis: a systematic review. J Dermatolog Treat. 2022 Jun 11:1-13. doi:
+10.1080/09546634.2022.2089331. Epub ahead of print. PMID: 35694729.
+
+140: Watanabe A, So M, Iwagami M, Fukunaga K, Takagi H, Kabata H, Kuno T. One-
+year follow-up CT findings in COVID-19 patients: A systematic review and meta-
+analysis. Respirology. 2022 Jun 12. doi: 10.1111/resp.14311. Epub ahead of
+print. PMID: 35694728.
+
+141: Zheng X, Yang B, Hui H, Lu B, Feng Y. Alcohol Septal Ablation or Septal
+Myectomy? An Updated Systematic Review and Meta-Analysis of Septal Reduction
+Therapy for Hypertrophic Obstructive Cardiomyopathy. Front Cardiovasc Med. 2022
+May 25;9:900469. doi: 10.3389/fcvm.2022.900469. PMID: 35694661; PMCID:
+PMC9178179.
+
+142: Zhang J, Li X, Xu F, Chen Y, Li C. Pooled-Analysis of Association of
+Sievers Bicuspid Aortic Valve Morphology With New Permanent Pacemaker and
+Conduction Abnormalities After Transcatheter Aortic Valve Replacement. Front
+Cardiovasc Med. 2022 May 26;9:884911. doi: 10.3389/fcvm.2022.884911. PMID:
+35694658; PMCID: PMC9178076.
+
+143: Wright T, Mughal F, Babatunde OO, Dikomitis L, Mallen CD, Helliwell T.
+Burnout among primary health-care professionals in low- and middle-income
+countries: systematic review and meta-analysis. Bull World Health Organ. 2022
+Jun 1;100(6):385-401A. doi: 10.2471/BLT.22.288300. Epub 2022 Apr 29. PMID:
+35694622; PMCID: PMC9178426.
+
+144: Xiong HY, Zheng JJ, Wang XQ. Non-invasive Brain Stimulation for Chronic
+Pain: State of the Art and Future Directions. Front Mol Neurosci. 2022 May
+26;15:888716. doi: 10.3389/fnmol.2022.888716. PMID: 35694444; PMCID: PMC9179147.
+
+145: Kumar P, Singh RK, Shahgholian A. Learnings from COVID-19 for managing
+humanitarian supply chains: systematic literature review and future research
+directions. Ann Oper Res. 2022 Jun 8:1-37. doi: 10.1007/s10479-022-04753-w. Epub
+ahead of print. PMID: 35694371; PMCID: PMC9175170.
+
+146: Ding HZ, Dong YL, Zhang KY, Bai JY. Comparison of Dexmedetomidine Versus
+Propofol in Mechanically Ventilated Patients With Sepsis: A Meta-Analysis of
+Randomized Controlled Trials. Front Pharmacol. 2022 May 26;13:901898. doi:
+10.3389/fphar.2022.901898. PMID: 35694263; PMCID: PMC9178291.
+
+147: Xiang Z, Li J, Zhang Z, Cen C, Chen W, Jiang B, Meng Y, Wang Y, Berglund B,
+Zhai G, Wu J. Comprehensive Evaluation of Anti-PD-1, Anti-PD-L1, Anti-CTLA-4 and
+Their Combined Immunotherapy in Clinical Trials: A Systematic Review and Meta-
+analysis. Front Pharmacol. 2022 May 25;13:883655. doi:
+10.3389/fphar.2022.883655. PMID: 35694260; PMCID: PMC9174611.
+
+148: Rooks NB, Besier TF, Schneider MTY. A Parameter Sensitivity Analysis on
+Multiple Finite Element Knee Joint Models. Front Bioeng Biotechnol. 2022 May
+26;10:841882. doi: 10.3389/fbioe.2022.841882. PMID: 35694233; PMCID: PMC9178290.
+
+149: Becker LM, Teunissen AJW, Koopman JSHA. Prevention and Treatment of
+Neuraxial Morphine-Induced Pruritus: A Scoping Review. J Pain Res. 2022 Jun
+4;15:1633-1645. doi: 10.2147/JPR.S361225. PMID: 35694199; PMCID: PMC9176241.
+
+150: Guignet D, Heberling MT, Papenfus M, Griot O. Property values, water
+quality, and benefit transfer: A nationwide meta-analysis. Land Econ. 2022 Feb
+1;98(2):191-218. doi: 10.3368/le.98.2.050120-0062r1. PMID: 35694194; PMCID:
+PMC9179230.
+
+151: Wingrove K, Lawrence MA, McNaughton SA. A Systematic Review of the Methods
+Used to Assess and Report Dietary Patterns. Front Nutr. 2022 May 25;9:892351.
+doi: 10.3389/fnut.2022.892351. PMID: 35694166; PMCID: PMC9175067.
+
+152: MacPherson M, Bakker AM, Anderson K, Holtzman S. Do pain management apps
+use evidence-based psychological components? A systematic review of app content
+and quality. Can J Pain. 2022 Jun 3;6(1):33-44. doi:
+10.1080/24740527.2022.2030212. PMID: 35694141; PMCID: PMC9176230.
+
+153: Chen Y, Fu M, Huang G, Chen J. Effect of the enhanced recovery after
+surgery protocol on recovery after laparoscopic myomectomy: a systematic review
+and meta-analysis. Gland Surg. 2022 May;11(5):837-846. doi: 10.21037/gs-22-168.
+PMID: 35694088; PMCID: PMC9177272.
+
+154: Li H, Li J, Wang X, Lin S, Yang W, Cai H, Feng X. Systematic review and
+meta-analysis of the efficacy and safety of psychological intervention nursing
+on the quality of life of breast cancer patients. Gland Surg. 2022
+May;11(5):882-891. doi: 10.21037/gs-22-206. PMID: 35694086; PMCID: PMC9177275.
+
+155: Ariel de Lima D, Helito CP, de Lima LL, Clazzer R, Gonçalves RK, de Camargo
+OP. HOW TO PERFORM A META-ANALYSIS: A PRACTICAL STEP-BY-STEP GUIDE USING R
+SOFTWARE AND RSTUDIO. Acta Ortop Bras. 2022 May 23;30(3):e248775. doi:
+10.1590/1413-785220223003e248775. PMID: 35694025; PMCID: PMC9150877.
+
+156: Ormiston HE, Nygaard MA, Apgar S. A Systematic Review of Secondary
+Traumatic Stress and Compassion Fatigue in Teachers. School Ment Health. 2022
+Jun 4:1-16. doi: 10.1007/s12310-022-09525-2. Epub ahead of print. PMID:
+35694002; PMCID: PMC9166214.
+
+157: Efthymiadis A, Bourlaki M, Bastounis A. The effectiveness of psychological
+interventions on mental health and quality of life in people living with type 1
+diabetes: a systematic review and meta-analysis. Diabetol Int. 2022 Jan
+28;13(3):513-521. doi: 10.1007/s13340-021-00564-9. PMID: 35693990; PMCID:
+PMC9174393.
+
+158: Mutluer T, Aslan Genç H, Özcan Morey A, Yapici Eser H, Ertinmaz B, Can M,
+Munir K. Population-Based Psychiatric Comorbidity in Children and Adolescents
+With Autism Spectrum Disorder: A Meta-Analysis. Front Psychiatry. 2022 May
+23;13:856208. doi: 10.3389/fpsyt.2022.856208. PMID: 35693977; PMCID: PMC9186340.
+
+159: Li K, Zhou G, Xiao Y, Gu J, Chen Q, Xie S, Wu J. Risk of Suicidal Behaviors
+and Antidepressant Exposure Among Children and Adolescents: A Meta-Analysis of
+Observational Studies. Front Psychiatry. 2022 May 26;13:880496. doi:
+10.3389/fpsyt.2022.880496. PMID: 35693956; PMCID: PMC9178080.
+
+160: Li S, Zhang R, Hu S, Lai J. Plasma Orexin-A Levels in Patients With
+Schizophrenia: A Systematic Review and Meta-Analysis. Front Psychiatry. 2022 May
+25;13:879414. doi: 10.3389/fpsyt.2022.879414. PMID: 35693955; PMCID: PMC9174516.
+
+161: Yuan J, Lan H, Huang D, Guo X, Liu C, Liu S, Zhang P, Cheng Y, Xiao S.
+Multi-Omics Analysis of MCM2 as a Promising Biomarker in Pan-Cancer. Front Cell
+Dev Biol. 2022 May 25;10:852135. doi: 10.3389/fcell.2022.852135. PMID: 35693940;
+PMCID: PMC9174984.
+
+162: Richard Y, Tazi N, Frydecka D, Hamid MS, Moustafa AA. A systematic review
+of neural, cognitive, and clinical studies of anger and aggression. Curr
+Psychol. 2022 Jun 8:1-13. doi: 10.1007/s12144-022-03143-6. Epub ahead of print.
+PMID: 35693838; PMCID: PMC9174026.
+
+163: Li Y, Wang X, Yang H, Li Y, Gui J, Cui Y. Profiles of Proinflammatory
+Cytokines and T Cells in Patients With Tourette Syndrome: A Meta-Analysis. Front
+Immunol. 2022 May 26;13:843247. doi: 10.3389/fimmu.2022.843247. PMID: 35693824;
+PMCID: PMC9177955.
+
+164: Chu X, Niu L, Xiao G, Peng H, Deng F, Liu Z, Wu H, Yang L, Tan Z, Li Z,
+Zhou R. The Long-Term and Short-Term Efficacy of Immunotherapy in Non-Small Cell
+Lung Cancer Patients With Brain Metastases: A Systematic Review and Meta-
+Analysis. Front Immunol. 2022 May 25;13:875488. doi: 10.3389/fimmu.2022.875488.
+PMID: 35693805; PMCID: PMC9175180.
+
+165: Zhang G, Deng T, Deng R, Sun X, He Y, Liu Z. Baseline urine pH is related
+to effective urine alkalization by short-term alkaline water supplementation:
+data from a self-controlled study in healthy Chinese volunteers following a
+systematic review and meta-analysis of literature. Transl Androl Urol. 2022
+May;11(5):710-719. doi: 10.21037/tau-22-280. PMID: 35693715; PMCID: PMC9177264.
+
+166: Zhu J, Lu Z, Chen W, Ke M, Cai X. Systematic review and meta-analysis on
+laparoscopic cystectomy in bladder cancer: reply letter. Transl Androl Urol.
+2022 May;11(5):733-734. doi: 10.21037/tau-22-203. PMID: 35693708; PMCID:
+PMC9177261.
+
+167: Wang M, Zhang Y, Wang Z, Liu D, Mao S, Liang B. The effectiveness of SGLT2
+inhibitor in the incidence of atrial fibrillation/atrial flutter in patients
+with type 2 diabetes mellitus/heart failure: a systematic review and meta-
+analysis. J Thorac Dis. 2022 May;14(5):1620-1637. doi: 10.21037/jtd-22-550.
+PMID: 35693625; PMCID: PMC9186250.
+
+168: Kim S, Lim JU. Immune checkpoint inhibitor-related interstitial lung
+disease in patients with advanced non-small cell lung cancer: systematic review
+of characteristics, incidence, risk factors, and management. J Thorac Dis. 2022
+May;14(5):1684-1695. doi: 10.21037/jtd-22-93. PMID: 35693611; PMCID: PMC9186237.
+
+169: Cao B, Jing X, Liu Y, Wen R, Wang C. Comparison of laboratory parameters in
+mild <i>vs.</i> severe cases and died <i>vs.</i> survived patients with
+COVID-19: systematic review and meta-analysis. J Thorac Dis. 2022
+May;14(5):1478-1487. doi: 10.21037/jtd-22-345. PMID: 35693606; PMCID:
+PMC9186220.
+
+170: Knapp BJ, Devarakonda S, Govindan R. Bone metastases in non-small cell lung
+cancer: a narrative review. J Thorac Dis. 2022 May;14(5):1696-1712. doi:
+10.21037/jtd-21-1502. PMID: 35693589; PMCID: PMC9186248.
+
+171: Rahmani H, Maleki R, Ghanbari MK, Behzadifar M. Quality Assessment of
+Services in Primary Healthcare in Iran: A Systematic Review and Meta-analysis.
+Ethiop J Health Sci. 2022 Mar;32(2):453-462. doi: 10.4314/ejhs.v32i2.26. PMID:
+35693585; PMCID: PMC9175234.
+
+172: Gaekwad JS, Sal Moslehian A, Roös PB, Walker A. A Meta-Analysis of
+Emotional Evidence for the Biophilia Hypothesis and Implications for Biophilic
+Design. Front Psychol. 2022 May 27;13:750245. doi: 10.3389/fpsyg.2022.750245.
+PMID: 35693493; PMCID: PMC9186521.
+
+173: Vigdal JS, Brønnick KK. A Systematic Review of "Helicopter Parenting" and
+Its Relationship With Anxiety and Depression. Front Psychol. 2022 May
+25;13:872981. doi: 10.3389/fpsyg.2022.872981. PMID: 35693486; PMCID: PMC9176408.
+
+174: Watson C, Gadikota H, Barlev A, Beckerman R. A review of the risks of long-
+term consequences associated with components of the CHOP chemotherapy regimen. J
+Drug Assess. 2022 Jun 3;11(1):1-11. doi: 10.1080/21556660.2022.2073101. PMID:
+35693477; PMCID: PMC9176678.
+
+175: Harrison F, Furner-Pardoe J, Connelly E. An assessment of the evidence for
+antibacterial activity of stinging nettle (<i>Urtica dioica</i>) extracts.
+Access Microbiol. 2022 Mar 24;4(3):000336. doi: 10.1099/acmi.0.000336. PMID:
+35693473; PMCID: PMC9175978.
+
+176: Zhong Q, Kumar A, Deshmukh A, Bennett C. Dexmedetomidine Reduces Incidences
+of Ventricular Arrhythmias in Adult Patients: A Meta-Analysis. Cardiol Res
+Pract. 2022 Jun 1;2022:5158362. doi: 10.1155/2022/5158362. PMID: 35693451;
+PMCID: PMC9177331.
+
+177: Shoar S, Prada-Ruiz ACC, Patarroyo-Aponte G, Chaudhary A, Sadegh Asadi M.
+Immune Response to SARS-CoV-2 Vaccine among Heart Transplant Recipients: A
+Systematic Review. Clin Med Insights Circ Respir Pulm Med. 2022 Jun
+5;16:11795484221105327. doi: 10.1177/11795484221105327. PMID: 35693423; PMCID:
+PMC9174554.
+
+178: Murtha-Lemekhova A, Hoffmann K. Editorial on "Uncommon indications for
+associating liver partition and portal vein ligation for staged hepatectomy: a
+systematic review". Hepatobiliary Surg Nutr. 2022 Jun;11(3):467-469. doi:
+10.21037/hbsn-22-145. PMID: 35693395; PMCID: PMC9186193.
+
+179: Gupta K, Tappiti M, Nazir AM, Koganti B, Memon MS, Aslam Zahid MB, Shantha
+Kumar V, Mostafa JA. Fecal Microbiota Transplant in Recurrent Clostridium
+Difficile Infections: A Systematic Review. Cureus. 2022 May 5;14(5):e24754. doi:
+10.7759/cureus.24754. PMID: 35693372; PMCID: PMC9174020.
+
+180: Ahmed NR, Kulkarni VV, Pokhrel S, Akram H, Abdelgadir A, Chatterjee A, Khan
+S. Comparing the Efficacy and Safety of Obeticholic Acid and Semaglutide in
+Patients With Non-Alcoholic Fatty Liver Disease: A Systematic Review. Cureus.
+2022 May 8;14(5):e24829. doi: 10.7759/cureus.24829. PMID: 35693370; PMCID:
+PMC9173657.
+
+181: Zaki HA, Bashir K, Iftikhar H, Alhatemi M, Elmoheen A. Evaluating the
+Effectiveness of Pretreatment With Intravenous Fluid in Reducing the Risk of
+Developing Contrast-Induced Nephropathy: A Systematic Review and Meta-Analysis.
+Cureus. 2022 May 8;14(5):e24825. doi: 10.7759/cureus.24825. PMID: 35693368;
+PMCID: PMC9172963.
+
+182: Shoukrie SI, Venugopal S, Dhanoa RK, Selvaraj R, Selvamani TY, Zahra A,
+Malla J, Hamouda RK, Hamid PF. Safety and Efficacy of Injecting Mesenchymal Stem
+Cells Into a Human Knee Joint To Treat Osteoarthritis: A Systematic Review.
+Cureus. 2022 May 8;14(5):e24823. doi: 10.7759/cureus.24823. PMID: 35693367;
+PMCID: PMC9172807.
+
+183: Waingade M, Medikeri RS, Rathod P. Effectiveness of methylene blue
+photosensitizers compared to that of corticosteroids in the management of oral
+lichen planus: a systematic review and meta-analysis. J Dent Anesth Pain Med.
+2022 Jun;22(3):175-186. doi: 10.17245/jdapm.2022.22.3.175. Epub 2022 May 27.
+PMID: 35693351; PMCID: PMC9171335.
+
+184: Shobhana SS, Raviraj KG. Global trends of suicidal thought, suicidal
+ideation, and self-harm during COVID-19 pandemic: a systematic review. Egypt J
+Forensic Sci. 2022;12(1):28. doi: 10.1186/s41935-022-00286-2. Epub 2022 Jun 4.
+PMID: 35693349; PMCID: PMC9166149.
+
+185: Taha A, Enodien B, Frey DM, Taha-Mehlitz S. The Development of Artificial
+Intelligence in Hernia Surgery: A Scoping Review. Front Surg. 2022 May
+26;9:908014. doi: 10.3389/fsurg.2022.908014. PMID: 35693313; PMCID: PMC9178189.
+
+186: Xu Z, Hu H, Wu B, Huang C, Liu Q, Chen B. Efficacy of Platelet-Rich Plasma
+in the Treatment of Fractures: A Meta-Analysis. Comput Math Methods Med. 2022
+Jun 2;2022:5105725. doi: 10.1155/2022/5105725. PMID: 35693268; PMCID:
+PMC9184162.
+
+187: Chen N, Lu J. Meta-Analysis of the Correlation between Postoperative
+Cognitive Dysfunction and Intraoperative Cerebral Oxygen Saturation. Comput Math
+Methods Med. 2022 Jun 1;2022:3731959. doi: 10.1155/2022/3731959. PMID: 35693261;
+PMCID: PMC9177326.
+
+188: Sutar R, Chaudhary P. Prognostic disclosure in cancer care: a systematic
+literature review. Palliat Care Soc Pract. 2022 Jun 7;16:26323524221101077. doi:
+10.1177/26323524221101077. PMID: 35693193; PMCID: PMC9178750.
+
+189: Sileshi T, Mekonen G, Makonnen E, Aklillu E. Effect of Genetic Variations
+in Drug-Metabolizing Enzymes and Drug Transporters on the Pharmacokinetics of
+Rifamycins: A Systematic Review. Pharmgenomics Pers Med. 2022 Jun 4;15:561-571.
+doi: 10.2147/PGPM.S363058. PMID: 35693129; PMCID: PMC9176238.
+
+190: Atallah S, Marc M, Schernberg A, Huguet F, Wagner I, Mäkitie A, Baujat B.
+Beyond Surgical Treatment in Adenoid Cystic Carcinoma of the Head and Neck: A
+Literature Review. Cancer Manag Res. 2022 Jun 4;14:1879-1890. doi:
+10.2147/CMAR.S355663. PMID: 35693117; PMCID: PMC9176735.
+
+191: Meregildo-Rodriguez ED, Chunga-Chévez EV, Gianmarco RL, Vásquez-Tirado GA.
+Further insights into to the role of statins against active tuberculosis:
+systematic review and meta-analysis. Infez Med. 2022 Jun 1;30(2):194-203. doi:
+10.53854/liim-3002-4. PMID: 35693063; PMCID: PMC9177183.
+
+192: Belati A, Novara R, Bavaro DF, Procopio A, Fico C, Diella L, Romanelli F,
+Stolfa S, Mosca A, Di Gennaro F, Saracino A. Thoracic aorta graft infection by
+avibactam-resistant KPC-producing <i>K. pneumoniae</i> treated with
+meropenem/vaborbactam: a case report and literature review. Infez Med. 2022 Jun
+1;30(2):277-284. doi: 10.53854/liim-3002-14. PMID: 35693053; PMCID: PMC9177178.
+
+193: Motwani R, Deshmukh V, Kumar A, Kumari C, Raza K, Krishna H. Pathological
+involvement of placenta in COVID-19: a systematic review. Infez Med. 2022 Jun
+1;30(2):157-167. doi: 10.53854/liim-3002-1. PMID: 35693050; PMCID: PMC9177177.
+
+194: Lee MK, Cho SJ, Bae YJ, Kim JM. MRI-Based Demonstration of the Normal
+Glymphatic System in a Human Population: A Systematic Review. Front Neurol. 2022
+May 25;13:827398. doi: 10.3389/fneur.2022.827398. PMID: 35693018; PMCID:
+PMC9174517.
+
+195: Ma H, Lu X, Zhou A, Wang F, Zuo X, Zhan M, Zou Q, Gong S, Chen Y, Lyu J,
+Jia L, Jia J, Wei C. Clinical Practice Guidelines for the Management of
+Behavioral and Psychological Symptoms of Dementia: A Systematic Review With
+AGREE II. Front Neurol. 2022 May 25;13:799723. doi: 10.3389/fneur.2022.799723.
+PMID: 35693007; PMCID: PMC9174457.
+
+196: Nayyer N, Tripathi T, Ganesh G, Rai P. Impact of photobiomodulation on
+external root resorption during orthodontic tooth movement in humans - A
+systematic review and meta-analysis. J Oral Biol Craniofac Res. 2022 Jul-
+Aug;12(4):469-480. doi: 10.1016/j.jobcr.2022.05.014. Epub 2022 May 31. PMID:
+35692967; PMCID: PMC9178480.
+
+197: Jain K, Gupta P, Balodhi A, Deeba F, Salam N. Prevalence of Pregnancy
+Associated Malaria in India. Front Glob Womens Health. 2022 May 26;3:832880.
+doi: 10.3389/fgwh.2022.832880. PMID: 35692947; PMCID: PMC9178198.
+
+198: Chakrabarti BK, Rajak A, Sinha A. Stochastic Learning in Kolkata Paise
+Restaurant Problem: Classical and Quantum Strategies. Front Artif Intell. 2022
+May 26;5:874061. doi: 10.3389/frai.2022.874061. PMID: 35692940; PMCID:
+PMC9181993.
+
+199: Garg R, Mohammed A, Singh A, Schleicher M, Thota PN, Rustagi T, Sanaka MR.
+Anti-reflux mucosectomy for refractory gastroesophageal reflux disease: a
+systematic review and meta-analysis. Endosc Int Open. 2022 Jun
+10;10(6):E854-E864. doi: 10.1055/a-1802-0220. PMID: 35692929; PMCID: PMC9187426.
+
+200: Huang G, Tian FY, An W, Ai LS, Yu YB. Effects of antithrombotic therapy on
+bleeding after endoscopic sphincterotomy: A systematic review and meta-analysis.
+Endosc Int Open. 2022 Jun 10;10(6):E865-E873. doi: 10.1055/a-1793-9479. PMID:
+35692927; PMCID: PMC9187383.
+
+201: Krishnamoorthi R, Bomman S, Benias P, Kozarek RA, Peetermans JA, McMullen
+E, Gjata O, Irani SS. Efficacy and safety of endoscopic duodenal stent versus
+endoscopic or surgical gastrojejunostomy to treat malignant gastric outlet
+obstruction: systematic review and meta-analysis. Endosc Int Open. 2022 Jun
+10;10(6):E874-E897. doi: 10.1055/a-1794-0635. PMID: 35692924; PMCID: PMC9187371.
+
+202: Goyal H, Larsen S, Perisetti A, Larsen NB, Ockert LK, Adamsen S, Tharian B,
+Thosani N. Gastrointestinal endoscope contamination rates - elevators are not
+only to blame: a systematic review and meta-analysis. Endosc Int Open. 2022 Jun
+10;10(6):E840-E853. doi: 10.1055/a-1795-8883. PMID: 35692921; PMCID: PMC9187382.
+
+203: Weissman S, Aziz M, Baniqued MR, Taneja V, El-Dallal M, Lee-Smith W, Elias
+S, Feuerstein JD. Quality measures in endoscopy: A systematic analysis of the
+overall scientific level of evidence and conflicts of interest. Endosc Int Open.
+2022 Jun 10;10(6):E776-E786. doi: 10.1055/a-1809-4219. PMID: 35692919; PMCID:
+PMC9187391.
+
+204: Aziz M, Ahmed Z, Haghbin H, Pervez A, Goyal H, Kamal F, Kobeissy A, Nawras
+A, Adler DG. Does i-scan improve adenoma detection rate compared to high-
+definition colonoscopy? A systematic review and meta-analysis. Endosc Int Open.
+2022 Jun 10;10(6):E824-E831. doi: 10.1055/a-1794-0346. PMID: 35692917; PMCID:
+PMC9187364.
+
+205: Davies A, Selmi H, Sabharwal S, Vella-Baldacchino M, Liddle AD, Reilly P.
+Revision Shoulder Hemiarthroplasty and Total Shoulder Arthroplasty A Systematic
+Review and Meta-Analysis. J Shoulder Elb Arthroplast. 2022 Apr
+26;6:24715492221095991. doi: 10.1177/24715492221095991. PMID: 35692902; PMCID:
+PMC9174976.
+
+206: Tian H, Xu W, Wen L, Tang L, Zhang X, Song T, Yang C, Huang P. Association
+of PTPN22 SNP1858 (rs2476601) and Gene SNP1123 (rs2488457) Polymorphism With
+Primary Immune Thrombocytopenia Susceptibility: A Meta-Analysis of Case-Control
+Studies and Trial Sequential Analysis. Front Genet. 2022 May 25;13:893669. doi:
+10.3389/fgene.2022.893669. PMID: 35692826; PMCID: PMC9174638.
+
+207: Jang JK, Pyo J, Suh CH, Park HS, Chae YK, Kim KW. Safety and Efficacy of
+Chimeric Antigen Receptor T-Cell Therapy for Glioblastoma: A Systemic Review and
+Meta-Analysis. Front Oncol. 2022 May 26;12:851877. doi:
+10.3389/fonc.2022.851877. PMID: 35692797; PMCID: PMC9178287.
+
+208: Medici F, Bazzocchi A, Buwenge M, Zamagni A, Macchia G, Deodato F, Cilla S,
+De Iaco P, Perrone AM, Strigari L, Rizzo S, Morganti AG. Impact and Treatment of
+Sarcopenia in Patients Undergoing Radiotherapy: A Multidisciplinary, AMSTAR-2
+Compliant Review of Systematic Reviews and Metanalyses. Front Oncol. 2022 May
+26;12:887156. doi: 10.3389/fonc.2022.887156. PMID: 35692790; PMCID: PMC9177942.
+
+209: Liu H, Cai Q, Li J, Xue Y, Zhang Y, Li Z, Zhao T, Wu Y. Surgical Strategies
+and Outcomes for Intracranial Chondromas: A Retrospective Study of 17 Cases and
+Systematic Review. Front Oncol. 2022 May 26;12:865865. doi:
+10.3389/fonc.2022.865865. PMID: 35692788; PMCID: PMC9178658.
+
+210: Wang JF, Zhao LB, Bin YD, Zhang KL, Sun C, Wang YR, Feng X, Ji J, He LS,
+Chen FY, Li QL. Efficacy and Safety of Placebo During the Maintenance Therapy of
+Ovarian Cancer in Randomized Controlled Trials: A Systematic Review and Meta-
+analysis. Front Oncol. 2022 May 25;12:796983. doi: 10.3389/fonc.2022.796983.
+PMID: 35692766; PMCID: PMC9174428.
+
+211: Woody S, Hegde A, Arastu H, Peach MS, Sharma N, Walker P, Ju AW. Survival
+Is Worse in Patients Completing Immunotherapy Prior to SBRT/SRS Compared to
+Those Receiving It Concurrently or After. Front Oncol. 2022 May 27;12:785350.
+doi: 10.3389/fonc.2022.785350. PMID: 35692764; PMCID: PMC9184512.
+
+212: Liang Z, Song X, Hu J, Wu R, Li P, Dong Z, Liang L, Wang J. Fermented Dairy
+Food Intake and Risk of Colorectal Cancer: A Systematic Review and Meta-
+Analysis. Front Oncol. 2022 May 25;12:812679. doi: 10.3389/fonc.2022.812679.
+PMID: 35692761; PMCID: PMC9174999.
+
+213: Xu XY, Jiang XM, Xu Q, Xu H, Luo JH, Yao C, Ding LY, Zhu SQ. Skeletal
+Muscle Change During Neoadjuvant Therapy and Its Impact on Prognosis in Patients
+With Gastrointestinal Cancers: A Systematic Review and Meta-Analysis. Front
+Oncol. 2022 May 27;12:892935. doi: 10.3389/fonc.2022.892935. PMID: 35692760;
+PMCID: PMC9186070.
+
+214: Dong L, Liang WY, Ya L, Yang L, Qiang W. A Systematic Review and Meta-
+Analysis of Minimally Invasive Partial Nephrectomy Versus Focal Therapy for
+Small Renal Masses. Front Oncol. 2022 May 26;12:732714. doi:
+10.3389/fonc.2022.732714. PMID: 35692758; PMCID: PMC9178090.
+
+215: Hui F, Xu C, Xu X, Chen J, Geng H, Yang C, Zhang Y. What Is the Most
+Suitable Agent Combined With Apatinib for Transarterial Chemoembolization
+Treatment in Advanced Hepatocellular Carcinoma Patients? A Systematic Review and
+Network Meta-analysis. Front Oncol. 2022 May 25;12:887332. doi:
+10.3389/fonc.2022.887332. PMID: 35692745; PMCID: PMC9174538.
+
+216: Lin P, Xing W, Ren Q, Wang Q, Yan J, Mao G. LncRNAs as Theragnostic
+Biomarkers for Predicting Radioresistance in Cancer: A Systematic Review and
+Meta-Analysis. Front Oncol. 2022 May 25;12:767750. doi:
+10.3389/fonc.2022.767750. PMID: 35692742; PMCID: PMC9176206.
+
+217: De Simone P, Ghinolfi D. Hospital-Based Health Technology Assessment of
+Machine Perfusion Systems for Human Liver Transplantation. Transpl Int. 2022 May
+27;35:10405. doi: 10.3389/ti.2022.10405. PMID: 35692735; PMCID: PMC9184439.
+
+218: Xu B, Hu L, Cheng Q, K W So W. A systematic review of financial toxicity
+among cancer patients in China. Asia Pac J Oncol Nurs. 2022 Apr 27;9(8):100071.
+doi: 10.1016/j.apjon.2022.04.010. PMID: 35692729; PMCID: PMC9184292.
+
+219: Drumheller K, Fan CW. Unprecedented times and uncertain connections: A
+systematic review examining sleep problems and screentime during the COVID-19
+pandemic. Sleep Epidemiol. 2022 Dec;2:100029. doi: 10.1016/j.sleepe.2022.100029.
+Epub 2022 May 7. PMID: 35692715; PMCID: PMC9076584.
+
+220: La Barbera G, Nommesen KD, Cuparencu C, Stanstrup J, Dragsted LO. A
+Comprehensive Database for DNA Adductomics. Front Chem. 2022 May 27;10:908572.
+doi: 10.3389/fchem.2022.908572. PMID: 35692690; PMCID: PMC9184683.
+
+221: Zuñiga Martinez ML, López Mendoza CM, Tenorio Salazar J, García Carrancá
+AM, Cerbón Cervantes MA, Alcántara-Quintana LE. Establishment, authenticity, and
+characterization of cervical cancer cell lines. Mol Cell Oncol. 2022 Jun
+1;9(1):2078628. doi: 10.1080/23723556.2022.2078628. PMID: 35692560; PMCID:
+PMC9176225.
+
+222: Paravlic AH, Meulenberg CJ, Drole K. The Time Course of Quadriceps Strength
+Recovery After Total Knee Arthroplasty Is Influenced by Body Mass Index, Sex,
+and Age of Patients: Systematic Review and Meta-Analysis. Front Med (Lausanne).
+2022 May 25;9:865412. doi: 10.3389/fmed.2022.865412. PMID: 35692543; PMCID:
+PMC9174520.
+
+223: Du J, Feng Y, Yuan Q, Gong H, An J, Wu L, Dai Q, Xu B, Wang H, Luo J.
+Efficacy of Acupuncture Treatment for Postprandial Distress Syndrome: A
+Systematic Review and Meta-Analysis. J Immunol Res. 2022 Jun 2;2022:6969960.
+doi: 10.1155/2022/6969960. PMID: 35692506; PMCID: PMC9184157.
+
+224: Scheuffele H, Jutfelt F, Clark TD. Investigating the gill-oxygen limitation
+hypothesis in fishes: intraspecific scaling relationships of metabolic rate and
+gill surface area. Conserv Physiol. 2021 Jun 10;9(1):coab040. doi:
+10.1093/conphys/coab040. PMID: 35692494; PMCID: PMC8193116.
+
+225: Nasirian H. Detailed new insights about tick infestations in domestic
+ruminant groups: a global systematic review and meta-analysis. J Parasit Dis.
+2022 Jun;46(2):526-601. doi: 10.1007/s12639-021-01460-4. Epub 2022 Jan 16. PMID:
+35692485; PMCID: PMC9177937.
+
+226: You L, Zhou J, Xin Z, Hauck JS, Na F, Tang J, Zhou X, Lei Z, Ying B. Novel
+directions of precision oncology: circulating microbial DNA emerging in cancer-
+microbiome areas. Precis Clin Med. 2022 Feb 3;5(1):pbac005. doi:
+10.1093/pcmedi/pbac005. PMID: 35692444; PMCID: PMC9026200.
+
+227: Chen Y, Lv X, Lin S, Arshad M, Dai M. The Association Between Antidiabetic
+Agents and Clinical Outcomes of COVID-19 Patients With Diabetes: A Bayesian
+Network Meta-Analysis. Front Endocrinol (Lausanne). 2022 May 27;13:895458. doi:
+10.3389/fendo.2022.895458. PMID: 35692410; PMCID: PMC9186017.
+
+228: Xin C, Sun X, Li Z, Gao T. Relationship of Soluble Klotho and Early Stage
+of Diabetic Nephropathy: A Systematic Review and Meta-Analysis. Front Endocrinol
+(Lausanne). 2022 May 27;13:902765. doi: 10.3389/fendo.2022.902765. PMID:
+35692408; PMCID: PMC9186104.
+
+229: Zhou B, Shi Y, Fu R, Ni H, Gu L, Si Y, Zhang M, Jiang K, Shen J, Li X, Sun
+X. Relationship Between SGLT-2i and Ocular Diseases in Patients With Type 2
+Diabetes Mellitus: A Meta-Analysis of Randomized Controlled Trials. Front
+Endocrinol (Lausanne). 2022 May 26;13:907340. doi: 10.3389/fendo.2022.907340.
+PMID: 35692406; PMCID: PMC9178099.
+
+230: Zhou Y, Zhao Y, Ding X, Liang J, Xu H, Lin Y, Khan HH, Shi B. A New Way Out
+of the Predicament of Anaplastic Thyroid Carcinoma From Existing Data Analysis.
+Front Endocrinol (Lausanne). 2022 May 26;13:887906. doi:
+10.3389/fendo.2022.887906. PMID: 35692397; PMCID: PMC9178175.
+
+231: Lenouvel E, Lornsen F, Schüpbach B, Mattson J, Klöppel S, Pinilla S.
+Evidence-oriented teaching of geriatric psychiatry: a narrative literature
+synthesis and pilot evaluation of a clerkship seminar. GMS J Med Educ. 2022 Apr
+14;39(2):Doc20. doi: 10.3205/zma001541. PMID: 35692363; PMCID: PMC9174071.
+
+232: Javed F, Yusheng K, Iqbal N, Fareed Z, Shahzad F. A Systematic Review of
+Barriers in Adoption of Environmental Management Accounting in Chinese SMEs for
+Sustainable Performance. Front Public Health. 2022 May 25;10:832711. doi:
+10.3389/fpubh.2022.832711. PMID: 35692339; PMCID: PMC9174539.
+
+233: Dinh NTT, Cox IA, de Graaff B, Campbell JA, Stokes B, Palmer AJ. A
+Comprehensive Systematic Review of Data Linkage Publications on Diabetes in
+Australia. Front Public Health. 2022 May 25;10:757987. doi:
+10.3389/fpubh.2022.757987. PMID: 35692316; PMCID: PMC9174992.
+
+234: Mengistu DA, Dirirsa G, Mati E, Ayele DM, Bayu K, Deriba W, Alemu FK, Demmu
+YM, Asefa YA, Geremew A. Global Occupational Exposure to Blood and Body Fluids
+among Healthcare Workers: Systematic Review and Meta-Analysis. Can J Infect Dis
+Med Microbiol. 2022 Jun 3;2022:5732046. doi: 10.1155/2022/5732046. PMID:
+35692264; PMCID: PMC9187485.
+
+235: Asiri AF, Altuwalah AS. The role of neural artificial intelligence for
+diagnosis and treatment planning in endodontics: A qualitative review. Saudi
+Dent J. 2022 May;34(4):270-281. doi: 10.1016/j.sdentj.2022.04.004. Epub 2022 Apr
+25. PMID: 35692236; PMCID: PMC9177869.
+
+236: Ismail HS, Ali AI, Mehesen RE, Juloski J, Garcia-Godoy F, Mahmoud SH. Deep
+proximal margin rebuilding with direct esthetic restorations: a systematic
+review of marginal adaptation and bond strength. Restor Dent Endod. 2022 Mar
+4;47(2):e15. doi: 10.5395/rde.2022.47.e15. PMID: 35692223; PMCID: PMC9160765.
+
+237: Silva JC, Cetira Filho EL, Silva PGB, Costa FWG, Saboia VPA. Is dentin
+biomodification with collagen cross-linking agents effective for improving
+dentin adhesion? A systematic review and meta-analysis. Restor Dent Endod. 2022
+May 6;47(2):e23. doi: 10.5395/rde.2022.47.e23. PMID: 35692222; PMCID:
+PMC9160760.
+
+238: Simões LP, Dos Reis-Prado AH, Bueno CRE, Viana ACD, Duarte MAH, Cintra LTA,
+Lemos CAA, Benetti F. Effectiveness and safety of rotary and reciprocating
+kinematics for retreatment of curved root canals: a systematic review of <i>in
+vitro</i> studies. Restor Dent Endod. 2022 Apr 6;47(2):e22. doi:
+10.5395/rde.2022.47.e22. PMID: 35692221; PMCID: PMC9160764.
+
+239: Wang J, Liu T, Zhou M. [Research progress on the relationship between
+diquat poisoning and nuclear factor E2-related factor 2 signaling pathway].
+Zhonghua Wei Zhong Bing Ji Jiu Yi Xue. 2022 Apr;34(4):444-448. Chinese. doi:
+10.3760/cma.j.cn121430-20210816-01185. PMID: 35692215.
+
+240: Li Y, Hou L, Zhu J, Liu L, Li D. [Effect of neuromuscular electrical
+stimulation on muscle strength in patients with mechanical ventilation in
+intensive care unit: cumulative Meta-analysis and trial sequential analysis].
+Zhonghua Wei Zhong Bing Ji Jiu Yi Xue. 2022 Apr;34(4):416-420. Chinese. doi:
+10.3760/cma.j.cn121430-20210915-01375. PMID: 35692209.
+
+241: Cui H, Li Y, Li S, Liu G. Prognostic utility of preoperative inflammatory
+markers in patients with intrahepatic cholangiocarcinoma after hepatic
+resection: A systematic review and meta-analysis. Cancer Med. 2022 Jun 12. doi:
+10.1002/cam4.4935. Epub ahead of print. PMID: 35692190.
+
+242: Altınay S, Kural A, Özmen A, Tural D, Tutar Y. Pralatrexate for Peripheral
+T-cell lymphoma (PTCL): Chance only supports the prepared mind. Systematic
+review. Anticancer Agents Med Chem. 2022 Jun 10. doi:
+10.2174/1871520622666220610151603. Epub ahead of print. PMID: 35692151.
+
+243: Shamszadeh S, Shirvani A, Asgary S. The Role of Growth Factor Delivery
+Systems on Cellular Activities of Dental Stem Cells: A Systematic Review (Part
+II). Curr Stem Cell Res Ther. 2022 Jun 9. doi:
+10.2174/1574888X17666220609093939. Epub ahead of print. PMID: 35692144.
+
+244: Venkatas J, Singh M. Title: Localized Nano-mediated Interleukin-12 Gene
+Therapy: Promising candidate for Cancer Immunotherapeutics. Curr Cancer Drug
+Targets. 2022 Jun 9. doi: 10.2174/1568009622666220609115109. Epub ahead of
+print. PMID: 35692136.
+
+245: Bani Hani SH, Ahmad MM. Machine-learning Algorithms for Ischemic Heart
+Disease Prediction: A systematic Review. Curr Cardiol Rev. 2022 Jun 9. doi:
+10.2174/1573403X18666220609123053. Epub ahead of print. PMID: 35692135.
+
+246: Martinus Hauge A, Otto EI, Wadmann S. The sociology of rationing: Towards
+increased interdisciplinary dialogue - A critical interpretive literature
+review. Sociol Health Illn. 2022 Jun 12. doi: 10.1111/1467-9566.13507. Epub
+ahead of print. PMID: 35692110.
+
+247: Bugnon LA, Edera AA, Prochetto S, Gerard M, Raad J, Fenoy E, Rubiolo M,
+Chorostecki U, Gabaldón T, Ariel F, Di Persia LE, Milone DH, Stegmayer G.
+Secondary structure prediction of long noncoding RNA: review and experimental
+comparison of existing approaches. Brief Bioinform. 2022 Jun 12:bbac205. doi:
+10.1093/bib/bbac205. Epub ahead of print. PMID: 35692094.
+
+248: Wang S, Sun J, Yin X, Li H. Effect of virtual reality technology as
+intervention for people with kinesiophobia: A meta-analysis of randomised
+controlled trials. J Clin Nurs. 2022 Jun 12. doi: 10.1111/jocn.16397. Epub ahead
+of print. PMID: 35692077.
+
+249: The EZ, Lin NN, Chan CJ, Loon JCW, Tan BY, Seet CSR, Teoh HL, Vijayan J,
+Yeo LLL. Antiplatelets or anticoagulants? Secondary prevention in cervical
+artery dissection: an updated meta-analysis. Neurol Res Pract. 2022 Jun
+13;4(1):23. doi: 10.1186/s42466-022-00188-7. PMID: 35692052.
+
+250: Kohli S, Schwenck J, Barlow I. Failure rates and clinical outcomes of
+synthetic meniscal implants following partial meniscectomy: a systematic review.
+Knee Surg Relat Res. 2022 Jun 13;34(1):27. doi: 10.1186/s43019-022-00155-1.
+PMID: 35692048.
+
+251: Zhao S, Chen H, Zhao FH. [Global guidelines for cervical cancer and
+precancerous lesions treatment: a systematic review]. Zhonghua Yi Xue Za Zhi.
+2022 Jun 14;102(22):1666-1676. Chinese. doi:
+10.3760/cma.j.cn112137-20211106-02466. PMID: 35692019.
+
+252: Ogbuewu IP, Modisaojang-Mojanaga MMC, Mokolopi BG, Mbajiorgu CA. A Meta-
+analysis of Responses of Broiler Chickens to Dietary Zinc Supplementation: Feed
+Intake, Feed Conversion Ratio and Average Daily Gain. Biol Trace Elem Res. 2022
+Jun 13. doi: 10.1007/s12011-022-03320-5. Epub ahead of print. PMID: 35691994.
+
+253: Liu B, Fan Y, Xue B, Wang T, Chao Q. Feature extraction and classification
+of climate change risks: a bibliometric analysis. Environ Monit Assess. 2022 Jun
+12;194(7):495. doi: 10.1007/s10661-022-10074-z. PMID: 35691976.
+
+254: Sun W, Wang Q, Yang T, Feng C, Qu Y, Yang Y, Li C, Sun Z, Asakawa T. A
+meta-analysis evaluating effects of the rotigotine in Parkinson's disease,
+focusing on sleep disturbances and activities of daily living. Neurol Sci. 2022
+Jun 13. doi: 10.1007/s10072-022-06159-9. Epub ahead of print. PMID: 35691972.
+
+255: Rashid A. Authors' Reply: Mortality Following Appendicectomy in Patients
+with Liver Cirrhosis-A Systematic Review and Meta-Analysis. World J Surg. 2022
+Jun 12. doi: 10.1007/s00268-022-06618-6. Epub ahead of print. PMID: 35691966.
+
+256: Karri J, Marathe A, Smith TJ, Wang EJ. The Use of Scrambler Therapy in
+Treating Chronic Pain Syndromes: A Systematic Review. Neuromodulation. 2022 Jun
+9:S1094-7159(22)00681-X. doi: 10.1016/j.neurom.2022.04.045. Epub ahead of print.
+PMID: 35691908.
+
+257: Park KM, Gesbeck MM, Alseidi AA, Park YS, Sullivan ME, Salcedo ES, Blair
+PG, Liscum K, Sachdeva AK; ACS SRRA Research Group. Resident Readiness for
+Senior Level Decision Making: Identifying the Domains for Formative Assessment
+and Feedback. J Surg Educ. 2022 Jun 9:S1931-7204(22)00099-X. doi:
+10.1016/j.jsurg.2022.04.011. Epub ahead of print. PMID: 35691893.
+
+258: Ashrafizadeh M, Zarrabi A, Mostafavi E, Aref AR, Sethi G, Wang L,
+Tergaonkar V. Non-coding RNA-based regulation of inflammation. Semin Immunol.
+2022 Jun 10:101606. doi: 10.1016/j.smim.2022.101606. Epub ahead of print. PMID:
+35691882.
+
+259: Sheng-Kai K, Wang LT, Blatz MB. Efficacy of Adhesive Strategies for
+Restorative Dentistry: A Systematic Review and Network Meta-analysis of Double-
+blind Randomized Controlled Trials Over 12 Months of Follow-up. J Prosthodont
+Res. 2022 Jun 10. doi: 10.2186/jpr.JPR_D_21_00279. Epub ahead of print. PMID:
+35691823.
+
+260: Zhang M, Jin H, Liu X. Preeclampsia is associated with an increased risk of
+autism spectrum disorder (ASD): A systematic review and meta-analysis. Asian J
+Surg. 2022 Jun 9:S1015-9584(22)00690-X. doi: 10.1016/j.asjsur.2022.05.133. Epub
+ahead of print. PMID: 35691813.
+
+261: Wang X, Liu Y, Yan M, Gao M. Evaluating quality of guidelines for
+appendicitis in children: A systematic review. Asian J Surg. 2022 Jun
+9:S1015-9584(22)00688-1. doi: 10.1016/j.asjsur.2022.05.131. Epub ahead of print.
+PMID: 35691799.
+
+262: Thin SM, Chongmelaxme B, Watcharadamrongkun S, Kanjanarach T, Sorofman BA,
+Kittisopee T. A systematic review on pharmacists' turnover and turnover
+intention. Res Social Adm Pharm. 2022 May 29:S1551-7411(22)00178-4. doi:
+10.1016/j.sapharm.2022.05.014. Epub ahead of print. PMID: 35691797.
+
+263: Messova A, Pivina L, Muzdubayeva Z, Sanbayev D, Urazalina Z, Adams A.
+COVID-19 and New Onset IgA Vasculitis: A Systematic Review of Case Reports. J
+Emerg Nurs. 2022 May 13:S0099-1767(22)00122-2. doi: 10.1016/j.jen.2022.05.002.
+Epub ahead of print. PMID: 35691763.
+
+264: Wilson RD, O'Connor DL. Guideline No. 427: Folic Acid and Multivitamin
+Supplementation for Prevention of Folic Acid-Sensitive Congenital Anomalies. J
+Obstet Gynaecol Can. 2022 Jun;44(6):707-719.e1. doi: 10.1016/j.jogc.2022.04.004.
+PMID: 35691683.
+
+265: Chan A, De Simoni A, Wileman V, Holliday L, Chisari C, Newby CJ, Griffiths
+CJ, Ali S, Padakanti P, Zhu N, Ting V, Pinprachanan V. Digital interventions to
+improve adherence to maintenance medication in asthma. Cochrane Database Syst
+Rev. 2022 Jun 13;6:CD013030. doi: 10.1002/14651858.CD013030.pub2. PMID:
+35691614.
+
+266: Su Q, Wan X, Wang D, Zhou Z. A commentary on "The influence of prior
+arthroscopy on outcomes of primary total lower extremity arthroplasty: A
+systematic review and meta-analysis" (Int J Surg 2022;98:106218). Int J Surg.
+2022 Jun 9:106679. doi: 10.1016/j.ijsu.2022.106679. Epub ahead of print. PMID:
+35691610.
+
+267: Domingos EL, Vilhena RO, Santos JMMF, Fachi MM, Böger B, Adam LM, Tonin FS,
+Pontarolo R. Comparative efficacy and safety of systemic antifungal agents for
+candidemia: A systematic review with network meta-analysis and multicriteria
+acceptability analyses. Int J Antimicrob Agents. 2022 Jun 9:106614. doi:
+10.1016/j.ijantimicag.2022.106614. Epub ahead of print. PMID: 35691603.
+
+268: Madjedi KM, Stuart KV, Chua SYL, Foster PJ, Strouthidis NG, Luben RN,
+Warwick AN, Kang JH, Wiggs JL, Pasquale LR, Khawaja AP. The association of
+female reproductive factors with glaucoma and related traits: A systematic
+review. Ophthalmol Glaucoma. 2022 Jun 9:S2589-4196(22)00096-5. doi:
+10.1016/j.ogla.2022.06.003. Epub ahead of print. PMID: 35691565.
+
+269: Yong CW, Tan SHX, Teo GN, Tan TS, Ng WH. Should we stop dual anti-platelet
+therapy for dental extractions? An umbrella review for this dental dilemma. J
+Stomatol Oral Maxillofac Surg. 2022 Jun 9:S2468-7855(22)00164-1. doi:
+10.1016/j.jormas.2022.06.004. Epub ahead of print. PMID: 35691560.
+
+270: Villegas V, Shah A, Manson JE, Tobias DK. Prevention of type 2 diabetes
+through remotely-administered lifestyle programs: A systematic review. Contemp
+Clin Trials. 2022 Jun 9:106817. doi: 10.1016/j.cct.2022.106817. Epub ahead of
+print. PMID: 35691488.
+
+271: Salanitro M, Wrigley T, Ghabra H, de Haan E, Hill CM, Solmi M, Cortese S.
+Efficacy on sleep parameters and tolerability of melatonin in individuals with
+sleep or mental disorders: a systematic review and meta-analysis. Neurosci
+Biobehav Rev. 2022 Jun 9:104723. doi: 10.1016/j.neubiorev.2022.104723. Epub
+ahead of print. PMID: 35691474.
+
+272: Srisurapanont M, Suttajit S, Kosachunhanun N, Likhitsathian S, Suradom C,
+Maneeton B. Antidepressants for Depressed Patients with Type 2 Diabetes
+Mellitus: A Systematic Review and Network Meta-Analysis of Short-Term Randomized
+Controlled Trials. Neurosci Biobehav Rev. 2022 Jun 9:104731. doi:
+10.1016/j.neubiorev.2022.104731. Epub ahead of print. PMID: 35691471.
+
+273: Coray R, Quednow BB. The role of serotonin in declarative memory: a
+systematic review of animal and human research. Neurosci Biobehav Rev. 2022 Jun
+9:104729. doi: 10.1016/j.neubiorev.2022.104729. Epub ahead of print. PMID:
+35691469.
+
+274: Mheissen S, Khan H, Seehra J, Pandis N. Are longitudinal randomised
+controlled oral health trials properly analysed? A meta-epidemiological study. J
+Dent. 2022 Jun 9:104182. doi: 10.1016/j.jdent.2022.104182. Epub ahead of print.
+PMID: 35691454.
+
+275: Fan Y, Shu X, Leung KCM, Lo ECM. Associations of general health conditions
+with masticatory performance and maximum bite force in older adults: A
+systematic review of cross-sectional studies. J Dent. 2022 Jun 9:104186. doi:
+10.1016/j.jdent.2022.104186. Epub ahead of print. PMID: 35691453.
+
+276: Wang K, Yu KF, Liu P, Lee GHM, Wong MCM. Can mHealth promotion for parents
+help to improve their children's oral health? A Systematic Review. J Dent. 2022
+Jun 9:104185. doi: 10.1016/j.jdent.2022.104185. Epub ahead of print. PMID:
+35691452.
+
+277: Merz AE, Campus G, Abrahamsen R, Wolf TG. Hypnosis on acute dental and
+maxillofacial pain relief:A systematic review and meta-analysis. J Dent. 2022
+Jun 9:104184. doi: 10.1016/j.jdent.2022.104184. Epub ahead of print. PMID:
+35691451.
+
+278: Chuah LF, Mokhtar K, Bakar AA, Othman MR, Osman NH, Bokhari A, Mubashir M,
+Abdullah MA, Hasan M. Marine environment and maritime safety assessment using
+Port State Control database. Chemosphere. 2022 Jun 9:135245. doi:
+10.1016/j.chemosphere.2022.135245. Epub ahead of print. PMID: 35691404.
+
+279: Gowda A, Jie WWJ, Casson R, Chan WO. The safety of intracameral
+phenylephrine - A systematic review. Surv Ophthalmol. 2022 Jun
+9:S0039-6257(22)00086-8. doi: 10.1016/j.survophthal.2022.06.002. Epub ahead of
+print. PMID: 35691387.
+
+280: Yang H, Yang G, Xu M, Zhao Y, He S, Wang Q, Wen Y, Huang C, Wu J, Ren C,
+Yang Y, He S. Impact of high altitude on the incidence of postoperative venous
+thromboembolism and its genetic susceptibility: A meta-analysis and systematic
+review. Sci Total Environ. 2022 Jun 9:156632. doi:
+10.1016/j.scitotenv.2022.156632. Epub ahead of print. PMID: 35691358.
+
+281: Hao J, Feng Y, Wang X, Yu Q, Zhang F, Yang G, Ren G, Han X, Wang X, Ren C.
+Soil microbial nitrogen-cycling gene abundances in response to crop
+diversification: A meta-analysis. Sci Total Environ. 2022 Jun 9:156621. doi:
+10.1016/j.scitotenv.2022.156621. Epub ahead of print. PMID: 35691356.
+
+282: Pai VV, Noh CY, Dasani R, Vallandingham S, Manipon C, Haileselassie B,
+Profit J, Balasundaram M, Davis AS, Bhombal S. Implementation of a Bedside
+Point-of-Care Ultrasound Program in a Large Academic Neonatal Intensive Care
+Unit. Am J Perinatol. 2022 Jun 12. doi: 10.1055/s-0042-1750118. Epub ahead of
+print. PMID: 35691294.
+
+283: Chen TL, Feng YH, Kao SL, Lu JW, Loh CH. Impact of integrated health care
+on elderly population: A systematic review of Taiwan's experience. Arch Gerontol
+Geriatr. 2022 Jun 6;102:104746. doi: 10.1016/j.archger.2022.104746. Epub ahead
+of print. PMID: 35691276.
+
+284: Amorim E, Firme MS, Zheng WL, Shelton KT, Akeju O, Cudemus G, Yuval R,
+Westover MB. High incidence of epileptiform activity in adults undergoing
+extracorporeal membrane oxygenation. Clin Neurophysiol. 2022 May 6;140:4-11.
+doi: 10.1016/j.clinph.2022.04.018. Epub ahead of print. PMID: 35691268.
+
+285: Lee HW, Ang L, Lee MS. Using ginseng for menopausal women's health care: A
+systematic review of randomized placebo-controlled trials. Complement Ther Clin
+Pract. 2022 Jun 3;48:101615. doi: 10.1016/j.ctcp.2022.101615. Epub ahead of
+print. PMID: 35691259.
+
+286: Nameni G, Moradi Y, Zaroudi M, Jamshidi S. Effect of cardamom
+supplementation on a number of metabolic factors: A systematic review and meta-
+analysis. Diabetes Metab Syndr. 2022 May 25;16(6):102523. doi:
+10.1016/j.dsx.2022.102523. Epub ahead of print. PMID: 35691204.
+
+287: Khoodoruth MAS, Ouanes S, Khan YS. A systematic review of the use of
+atomoxetine for management of comorbid anxiety disorders in children and
+adolescents with attention-deficit hyperactivity disorder. Res Dev Disabil. 2022
+Jun 9;128:104275. doi: 10.1016/j.ridd.2022.104275. Epub ahead of print. PMID:
+35691145.
+
+288: Marcilla-Toribio I, Moratalla-Cebrián ML, Bartolomé-Guitierrez R, Cebada-
+Sánchez S, Galán-Moya EM, Martínez-Andrés M. Impact of Service-Learning
+educational interventions on nursing students: An integrative review. Nurse Educ
+Today. 2022 May 27;116:105417. doi: 10.1016/j.nedt.2022.105417. Epub ahead of
+print. PMID: 35691112.
+
+289: Long J, Qin K, Wu Y, Li L, Zhou J. Gray matter abnormalities and associated
+familial risk endophenotype in individuals with first-episode bipolar disorder:
+Evidence from whole-brain voxel-wise meta-analysis. Asian J Psychiatr. 2022 Jun
+2;74:103179. doi: 10.1016/j.ajp.2022.103179. Epub ahead of print. PMID:
+35691059.
+
+290: Meng X, Zhu K, Wang J, Liu P. Can SARS-CoV-2 positive pregnant women affect
+the hearing of their newborns: A systematic review. Am J Otolaryngol. 2022 Jun
+2;43(5):103523. doi: 10.1016/j.amjoto.2022.103523. Epub ahead of print. PMID:
+35691051.
+
+291: Yang Y, Kang J, Jiang T, Schmitz C, Weng C, Zhang L. Safety and efficacy of
+treating post-burn pathological scars with extracorporeal shock wave therapy: a
+meta-analysis of randomized controlled trials. Wound Repair Regen. 2022 Jun 12.
+doi: 10.1111/wrr.13037. Epub ahead of print. PMID: 35691021.
+
+292: Gansaonré RJ, Moore L, Bleau LP, Kobiané JF, Haddad S. Stunting, age at
+school entry and academic performance in developing countries: A systematic
+review and meta-analysis. Acta Paediatr. 2022 Jun 12. doi: 10.1111/apa.16449.
+Epub ahead of print. PMID: 35691004.
+
+293: Korytkowski MT, Muniyappa R, Antinori-Lent K, Donihi AC, Drincic AT, Hirsch
+IB, Luger A, McDonnell ME, Murad MH, Nielsen C, Pegg C, Rushakoff RJ, Santesso
+N, Umpierrez GE. Management of Hyperglycemia in Hospitalized Adult Patients in
+Non-Critical Care Settings: An Endocrine Society Clinical Practice Guideline. J
+Clin Endocrinol Metab. 2022 Jun 12:dgac278. doi: 10.1210/clinem/dgac278. Epub
+ahead of print. PMID: 35690958.
+
+294: Rodgers A, Berry H, O'Brien R, Davis JM. A Comparison of Complication Rates
+in Wise Pattern Versus Vertical Breast Reduction. Ann Plast Surg. 2022 Jun
+1;88(5 Suppl 5):S498-S500. doi: 10.1097/SAP.0000000000003158. PMID: 35690946.
+
+295: Fang HA, Soto E, Pigg R, Smith M, Boyd CJ, Ananthasekar S, Fix RJ, Kilic A,
+Denney B, Patcha P, Myers RP, de la Torre JI, Collawn S. The Safety of Fat
+Grafting: An Institutional Retrospective Review. Ann Plast Surg. 2022 Jun 1;88(5
+Suppl 5):S473-S477. doi: 10.1097/SAP.0000000000003234. PMID: 35690941.
+
+296: Nores GG, Carlson GW. The Impact of Tissue Expander Nipple Asymmetry on
+Final Implant Symmetry After Bilateral Nipple Sparing Mastectomy. Ann Plast
+Surg. 2022 Jun 1;88(5 Suppl 5):S427-S432. doi: 10.1097/SAP.0000000000003161.
+PMID: 35690938.
+
+297: Seisa MO, Saadi S, Nayfeh T, Muthusamy K, Shah SH, Firwana M, Hasan B,
+Jawaid T, Abd-Rabu R, Korytkowski MT, Muniyappa R, Antinori-Lent K, Donihi AC,
+Drincic AT, Luger A, Torres Roldan VD, Urtecho M, Wang Z, Murad MH. A Systematic
+Review Supporting the Endocrine Society Clinical Practice Guideline for the
+Management of Hyperglycemia in Adults Hospitalized for Noncritical Illness or
+Undergoing Elective Surgical Procedures. J Clin Endocrinol Metab. 2022 Jun
+12:dgac277. doi: 10.1210/clinem/dgac277. Epub ahead of print. PMID: 35690929.
+
+298: Chen D, Zhao X, Chou Y, Luo Y. Comparison of Visual Outcomes and Optical
+Quality of Femtosecond Laser-Assisted SMILE and Visian Implantable Collamer Lens
+(ICL V4c) Implantation for Moderate to High Myopia: A Meta-analysis. J Refract
+Surg. 2022 Jun;38(6):332-338. doi: 10.3928/1081597X-20220411-01. Epub 2022 Jun
+1. PMID: 35686713.
+
+299: Oh S, Purja S, Shin H, Kim M, Kim E. Hypoglycemic agents and glycemic
+variability in individuals with type 2 diabetes: A systematic review and network
+meta-analysis. Diab Vasc Dis Res. 2022 May-Jun;19(3):14791641221106866. doi:
+10.1177/14791641221106866. PMID: 35686694; PMCID: PMC9189550.
+
+300: Zhao X, Shen Z, Sun L, Cheng L, Wang M, Zhang X, Xu B, Tian L, Miao Y, Wu
+X, Zou K, Li J. A network meta-analysis of secondary attack rates of COVID-19 in
+different contact environments. Epidemiol Infect. 2021 Oct 5;149:e219. doi:
+10.1017/S0950268821002223. PMID: 35686655; PMCID: PMC8523971.
+
+301: Alaiti RK, Castro J, Lee H, Caneiro JP, Vlaeyen JWS, Kamper SJ, da Costa
+MF. What Are the Mechanisms of Action of Cognitive-Behavioral, Mind-Body, and
+Exercise-based Interventions for Pain and Disability in People With Chronic
+Primary Musculoskeletal Pain?: A Systematic Review of Mediation Studies From
+Randomized Controlled Trials. Clin J Pain. 2022 Jul 1;38(7):502-509. doi:
+10.1097/AJP.0000000000001047. PMID: 35686580.
+
+302: Xiao Y, Zhang B, Wu Y. Retraction Note to: Radiofrequency ablation versus
+hepatic resection for breast cancer liver metastasis: a systematic review and
+meta-analysis. J Zhejiang Univ Sci B. 2022 Jun 15;23(6):528. doi:
+10.1631/jzus.B17r0516. PMID: 35686530.
+
+303: Xue C, Dong H, Chen Y, Lu X, Zheng S, Cui H. Neoadjuvant Immune Checkpoint
+Inhibitors in Non-small Cell Lung Cancer. J Coll Physicians Surg Pak. 2022
+Jun;32(6):779-788. doi: 10.29271/jcpsp.2022.06.779. PMID: 35686412.
+
+304: Chen Y, Wang XK, Wang Y, Zong JW, Wang SY, Wan XY. Bioinformatics Analysis
+Screened and Identified Key Genes as Potential Biomarkers for Progression of
+Lung Cancer. J Coll Physicians Surg Pak. 2022 Jun;32(6):712-721. doi:
+10.29271/jcpsp.2022.06.712. PMID: 35686401.
+
+305: Wang M, Ishikawa T, Lai Y, Nallapothula D, Singh RR. Diverse Roles of
+NETosis in the Pathogenesis of Lupus. Front Immunol. 2022 May 24;13:895216. doi:
+10.3389/fimmu.2022.895216. PMID: 35686129; PMCID: PMC9170953.
+
+306: Lu M, Peng K, Song L, Luo L, Liang P, Liang Y. Association between Genetic
+Polymorphisms in Methylenetetrahydrofolate Reductase and Risk of Autoimmune
+Diseases: A Systematic Review and Meta-Analysis. Dis Markers. 2022 May
+31;2022:4568145. doi: 10.1155/2022/4568145. PMID: 35686035; PMCID: PMC9173919.
+
+307: Yu F, Pan XJ, Luo J. Identification and Verification of Key Tumor Genes
+Associated with Diagnosis and Prognosis of Breast Cancer Based on Bioinformatics
+Analysis. Dis Markers. 2022 May 31;2022:9041466. doi: 10.1155/2022/9041466.
+PMID: 35686034; PMCID: PMC9173900.
+
+308: Quinn J, Jones P, Randle R. A Reliable Surgical Approach to Revision Total
+Knee Arthroplasty. Clin Orthop Surg. 2022 Jun;14(2):213-219. doi:
+10.4055/cios20207. Epub 2021 Jun 3. PMID: 35685980; PMCID: PMC9152900.
+
+309: Deng X, Li D, Tang Q, Chen Y. ACEI and ARB Lower the Incidence of End-Stage
+Renal Disease among Patients with Diabetic Nephropathy: A Meta-analysis. Comput
+Math Methods Med. 2022 May 31;2022:6962654. doi: 10.1155/2022/6962654. PMID:
+35685896; PMCID: PMC9173958.
+
+310: Yang Y, Yu J, Xiong Y, Xiao J, Dai D, Zhang F. Prognostic Analysis of
+Differentially Expressed DNA Damage Repair Genes in Bladder Cancer. Pathol Oncol
+Res. 2022 May 24;28:1610267. doi: 10.3389/pore.2022.1610267. PMID: 35685866;
+PMCID: PMC9172279.
+
+311: Zhu Y, Huang J, Yue R, Shen T. Clinical Efficacy of Chinese and Western
+Medicine in the Treatment of Benign Thyroid Nodules: A Meta-Analysis. Contrast
+Media Mol Imaging. 2022 May 28;2022:3108485. doi: 10.1155/2022/3108485. PMID:
+35685672; PMCID: PMC9167100.
+
+312: Guo M, Shang X, Guo D. Metformin Use and Mortality in Women with Ovarian
+Cancer: An Updated Meta-Analysis. Int J Clin Pract. 2022 Feb 28;2022:9592969.
+doi: 10.1155/2022/9592969. PMID: 35685604; PMCID: PMC9159224.
+
+313: Gu W, Geng J, Zhao H, Li X, Song G. Effects of Resveratrol on Metabolic
+Indicators in Patients with Type 2 Diabetes: A Systematic Review and Meta-
+Analysis. Int J Clin Pract. 2022 Jan 31;2022:9734738. doi: 10.1155/2022/9734738.
+PMID: 35685602; PMCID: PMC9158797.
+
+314: Zhang X, Liu Y, Li J, Li B, Yang X, Sun Q, Yan J, Wang Z, Liu H. Prenatal
+Alcohol Exposure and the Risk of Depression in Offspring: a Meta-Analysis. Int J
+Clin Pract. 2022 Apr 30;2022:5458611. doi: 10.1155/2022/5458611. PMID: 35685596;
+PMCID: PMC9159193.
+
+315: Zhao K, Zhao Q, Zhou P, Liu B, Zhang Q, Yang M. Can Artificial Intelligence
+Be Applied to Diagnose Intracerebral Hemorrhage under the Background of the
+Fourth Industrial Revolution? A Novel Systemic Review and Meta-Analysis. Int J
+Clin Pract. 2022 Feb 24;2022:9430097. doi: 10.1155/2022/9430097. PMID: 35685590;
+PMCID: PMC9159188.
+
+316: Xu S, Jiang Z, Hu N. Association between Genetic Polymorphisms and Risk of
+Kidney Posttransplant Diabetes Mellitus: A Systematic Review and Meta-Analysis.
+Int J Clin Pract. 2022 Mar 8;2022:7140024. doi: 10.1155/2022/7140024. PMID:
+35685576; PMCID: PMC9159121.
+
+317: Mansouri M, Naghshi S, Parsaeian M, G Sepanlou S, Poustchi H, Momayez Sanat
+Z, Sadeghi O, Pourshams A. Opium Use and Cancer Risk: A Comprehensive Systematic
+Review and Meta-Analysis of Observational Studies. Int J Clin Pract. 2022 Feb
+18;2022:5397449. doi: 10.1155/2022/5397449. PMID: 35685572; PMCID: PMC9159125.
+
+318: Ghoshouni H, Bagherieh S, Parvizinia M, Askari M, Sadeghi M, Mirmosayyeb O.
+Unraveling the Mystery of COVID-19 Postvaccination Myocarditis: A Systematic
+Review of Current Cases. Int J Clin Pract. 2022 Jan 31;2022:2438913. doi:
+10.1155/2022/2438913. PMID: 35685560; PMCID: PMC9159134.
+
+319: Xu J, Chen D, Tian Y, Wang X, Peng B. Antiphospholipid Antibodies Increase
+the Risk of Fetal Growth Restriction: A Systematic Meta-Analysis. Int J Clin
+Pract. 2022 Jan 31;2022:4308470. doi: 10.1155/2022/4308470. PMID: 35685559;
+PMCID: PMC9159204.
+
+320: Song J, Bai H, Xu H, Xing Y, Chen S. HbA1c Variability and the Risk of
+Dementia in Patients with Diabetes: A Meta-Analysis. Int J Clin Pract. 2022 Jan
+31;2022:7706330. doi: 10.1155/2022/7706330. PMID: 35685543; PMCID: PMC9159112.
+
+321: Liu W, Hu C, Zhao S. Sarcopenia and Mortality Risk of Patients with Sepsis:
+A Meta-Analysis. Int J Clin Pract. 2022 Jan 31;2022:4974410. doi:
+10.1155/2022/4974410. PMID: 35685536; PMCID: PMC9159150.
+
+322: Mi J, Han X, Wang R, Ma R, Zhao D. Diagnostic Accuracy of Wireless Capsule
+Endoscopy in Polyp Recognition Using Deep Learning: A Meta-Analysis. Int J Clin
+Pract. 2022 Mar 19;2022:9338139. doi: 10.1155/2022/9338139. PMID: 35685533;
+PMCID: PMC9159236.
+
+323: Afifirad R, Darb Emamie A, Golmoradi Zadeh R, Asadollahi P, Ghanavati R,
+Darbandi A. Effects of Pro/Prebiotics Alone over Pro/Prebiotics Combined with
+Conventional Antibiotic Therapy to Treat Bacterial Vaginosis: A Systematic
+Review. Int J Clin Pract. 2022 Apr 21;2022:4774783. doi: 10.1155/2022/4774783.
+PMID: 35685517; PMCID: PMC9159122.
+
+324: Motamedi A, Askari M, Mozaffari H, Homayounfrar R, Nikparast A, Ghazi ML,
+Nejad MM, Alizadeh S. Dietary Inflammatory Index in relation to Type 2 Diabetes:
+A Meta-Analysis. Int J Clin Pract. 2022 Feb 17;2022:9953115. doi:
+10.1155/2022/9953115. PMID: 35685508; PMCID: PMC9159166.
+
+325: Xia J, Zhu J, Li L, Xu S. Concomitant Gastric Acid Suppressants on the
+Survival of Patients with Non-Small-Cell Lung Cancer Treated with Epidermal
+Growth Factor Receptor Tyrosine Kinase Inhibitors: A Meta-Analysis. Int J Clin
+Pract. 2022 Jan 31;2022:3102641. doi: 10.1155/2022/3102641. PMID: 35685507;
+PMCID: PMC9159195.
+
+326: Chen M, Liu J, Xiong Y, Xu G. Treatment of Idiopathic Membranous
+Nephropathy for Moderate or Severe Proteinuria: A Systematic Review and Network
+Meta-Analysis. Int J Clin Pract. 2022 Apr 23;2022:4996239. doi:
+10.1155/2022/4996239. PMID: 35685506; PMCID: PMC9159126.
+
+327: Cai D, Wei G, Wu P, Huang Y, Che X, Zhang Y, Zhou Z, Kong G. The Efficacy
+of Mirabegron in Medical Expulsive Therapy for Ureteral Stones: A Systematic
+Review and Meta-Analysis. Int J Clin Pract. 2022 Mar 24;2022:2293182. doi:
+10.1155/2022/2293182. PMID: 35685505; PMCID: PMC9159211.
+
+328: Yuan M, Han S, Jia Y, Feng J, Liu D, Su Z, Liu X. Statins Are Associated
+with Improved Survival of Patients with Gastric Cancer: A Systematic Review and
+Meta-Analysis. Int J Clin Pract. 2022 May 17;2022:4938539. doi:
+10.1155/2022/4938539. PMID: 35685487; PMCID: PMC9158792.
+
+329: Bai N, Niu Y, Ma Y, Shang YS, Zhong PY, Wang ZL. Evaluate Short-Term
+Outcomes of abciximab in ST-Segment Elevation Myocardial Infarction Patients
+Undergoing Percutaneous Coronary Intervention: A Meta-Analysis of Randomized
+Clinical Trials. J Interv Cardiol. 2022 May 29;2022:3911414. doi:
+10.1155/2022/3911414. PMID: 35685429; PMCID: PMC9168187.
+
+330: Kumar R, Rani S, Awadh MA. Exploring the Application Sphere of the Internet
+of Things in Industry 4.0: A Review, Bibliometric and Content Analysis. Sensors
+(Basel). 2022 Jun 3;22(11):4276. doi: 10.3390/s22114276. PMID: 35684897; PMCID:
+PMC9185372.
+
+331: Selvaraju V, Spicher N, Wang J, Ganapathy N, Warnecke JM, Leonhardt S,
+Swaminathan R, Deserno TM. Continuous Monitoring of Vital Signs Using Cameras: A
+Systematic Review. Sensors (Basel). 2022 May 28;22(11):4097. doi:
+10.3390/s22114097. PMID: 35684717; PMCID: PMC9185528.
+
+332: Pilares ICA, Azam S, Akbulut S, Jonkman M, Shanmugam B. Addressing the
+Challenges of Electronic Health Records Using Blockchain and IPFS. Sensors
+(Basel). 2022 May 26;22(11):4032. doi: 10.3390/s22114032. PMID: 35684652; PMCID:
+PMC9183171.
+
+333: Risoluti R, Gullifa G, Barone L, Papa E, Materazzi S. On-Line Thermally
+Induced Evolved Gas Analysis: An Update-Part 1: EGA-MS. Molecules. 2022 May
+30;27(11):3518. doi: 10.3390/molecules27113518. PMID: 35684458; PMCID:
+PMC9182359.
+
+334: Jannasch F, Nickel DV, Bergmann MM, Schulze MB. A New Evidence-Based Diet
+Score to Capture Associations of Food Consumption and Chronic Disease Risk.
+Nutrients. 2022 Jun 6;14(11):2359. doi: 10.3390/nu14112359. PMID: 35684159;
+PMCID: PMC9182661.
+
+335: Wang J, Wang F, Chen H, Liu L, Zhang S, Luo W, Wang G, Hu X. Comparison of
+the Effects of Intermittent Energy Restriction and Continuous Energy Restriction
+among Adults with Overweight or Obesity: An Overview of Systematic Reviews and
+Meta-Analyses. Nutrients. 2022 May 31;14(11):2315. doi: 10.3390/nu14112315.
+PMID: 35684119; PMCID: PMC9183159.
+
+336: Gould JF, Gibson RA, Green TJ, Makrides M. A Systematic Review of Vitamin D
+during Pregnancy and Postnatally and Symptoms of Depression in the Antenatal and
+Postpartum Period from Randomized Controlled Trials and Observational Studies.
+Nutrients. 2022 May 30;14(11):2300. doi: 10.3390/nu14112300. PMID: 35684101;
+PMCID: PMC9183028.
+
+337: Fong C, Alesi S, Mousa A, Moran LJ, Deed G, Grant S, Tapia K, Ee C.
+Efficacy and Safety of Nutrient Supplements for Glycaemic Control and Insulin
+Resistance in Type 2 Diabetes: An Umbrella Review and Hierarchical Evidence
+Synthesis. Nutrients. 2022 May 30;14(11):2295. doi: 10.3390/nu14112295. PMID:
+35684094; PMCID: PMC9182772.
+
+338: Chen F, Liu J, Hou D, Li T, Chen Y, Liao Z, Wu L. The Relationship between
+Fat Mass Percentage and Glucose Metabolism in Children and Adolescents: A
+Systematic Review and Meta-Analysis. Nutrients. 2022 May 28;14(11):2272. doi:
+10.3390/nu14112272. PMID: 35684072; PMCID: PMC9183098.
+
+339: Sweeney M, Burns G, Sturgeon N, Mears K, Stote K, Blanton C. The Effects of
+Berry Polyphenols on the Gut Microbiota and Blood Pressure: A Systematic Review
+of Randomized Clinical Trials in Humans. Nutrients. 2022 May 28;14(11):2263.
+doi: 10.3390/nu14112263. PMID: 35684063; PMCID: PMC9182664.
+
+340: Jones HE, Haskell-Ramsay CF, Briggs MA, Young J. The Effectiveness of
+Nutritional Education Interventions on Dietary Intake in Young Black Males: A
+Near-Empty Systematic Review. Nutrients. 2022 May 28;14(11):2264. doi:
+10.3390/nu14112264. PMID: 35684062; PMCID: PMC9182654.
+
+341: Assunção DGF, Silva LTPD, Camargo JDAS, Cobucci RN, Ribeiro KDDS. Vitamin E
+Levels in Preterm and Full-Term Infants: A Systematic Review. Nutrients. 2022
+May 28;14(11):2257. doi: 10.3390/nu14112257. PMID: 35684057; PMCID: PMC9183035.
+
+342: Ren Q, Li K, Sun H, Zheng C, Zhou Y, Lyu Y, Ye W, Shi H, Zhang W, Xu Y,
+Jiang S. The Association of Formula Protein Content and Growth in Early Infancy:
+A Systematic Review and Meta-Analysis. Nutrients. 2022 May 28;14(11):2255. doi:
+10.3390/nu14112255. PMID: 35684055; PMCID: PMC9183142.
+
+343: Cossa-Moiane I, Roucher C, Mac Quene T, Campos-Ponce M, de Deus N, Polman
+K, Doak C. Association between Intestinal Parasite Infections and Proxies for
+Body Composition: A Scoping Review. Nutrients. 2022 May 26;14(11):2229. doi:
+10.3390/nu14112229. PMID: 35684029; PMCID: PMC9182792.
+
+344: Evans JA, Mendonca P, Soliman KFA. Neuroprotective Effects and Therapeutic
+Potential of the Citrus Flavonoid Hesperetin in Neurodegenerative Diseases.
+Nutrients. 2022 May 26;14(11):2228. doi: 10.3390/nu14112228. PMID: 35684025;
+PMCID: PMC9183194.
+
+345: Cornish SM, Cordingley DM, Shaw KA, Forbes SC, Leonhardt T, Bristol A,
+Candow DG, Chilibeck PD. Effects of Omega-3 Supplementation Alone and Combined
+with Resistance Exercise on Skeletal Muscle in Older Adults: A Systematic Review
+and Meta-Analysis. Nutrients. 2022 May 26;14(11):2221. doi: 10.3390/nu14112221.
+PMID: 35684018; PMCID: PMC9182791.
+
+346: Xie D, Hu J, Yang Z, Wu T, Xu W, Meng Q, Cao K, Luo X. Vitamin
+Supplementation Protects against Nanomaterial-Induced Oxidative Stress and
+Inflammation Damages: A Meta-Analysis of In Vitro and In Vivo Studies.
+Nutrients. 2022 May 26;14(11):2214. doi: 10.3390/nu14112214. PMID: 35684016;
+PMCID: PMC9182933.
+
+347: Biddulph C, Holmes M, Kuballa A, Carter RJ, Maher J. Beyond the BMI:
+Validity and Practicality of Postpartum Body Composition Assessment Methods
+during Lactation: A Scoping Review. Nutrients. 2022 May 25;14(11):2197. doi:
+10.3390/nu14112197. PMID: 35683995; PMCID: PMC9182963.
+
+348: Balakrishna Y, Manda S, Mwambi H, van Graan A. Statistical Methods for the
+Analysis of Food Composition Databases: A Review. Nutrients. 2022 May
+25;14(11):2193. doi: 10.3390/nu14112193. PMID: 35683993; PMCID: PMC9182527.
+
+349: Li F, Aljahdali IAM, Ling X. Molecular Glues: Capable Protein-Binding Small
+Molecules That Can Change Protein-Protein Interactions and Interactomes for the
+Potential Treatment of Human Cancer and Neurodegenerative Diseases. Int J Mol
+Sci. 2022 Jun 1;23(11):6206. doi: 10.3390/ijms23116206. PMID: 35682885; PMCID:
+PMC9181451.
+
+350: Pizzo F, Maroccia Z, Hammarberg Ferri I, Fiorentini C. Role of the
+Microbiota in Lung Cancer: Insights on Prevention and Treatment. Int J Mol Sci.
+2022 May 30;23(11):6138. doi: 10.3390/ijms23116138. PMID: 35682816; PMCID:
+PMC9181592.
+
+351: Sauer AK, Hagmeyer S, Grabrucker AM. Prenatal Zinc Deficient Mice as a
+Model for Autism Spectrum Disorders. Int J Mol Sci. 2022 May 29;23(11):6082.
+doi: 10.3390/ijms23116082. PMID: 35682762; PMCID: PMC9181257.
+
+352: Zhang C, Yang M. Newly Emerged Antiviral Strategies for SARS-CoV-2: From
+Deciphering Viral Protein Structural Function to the Development of Vaccines,
+Antibodies, and Small Molecules. Int J Mol Sci. 2022 May 29;23(11):6083. doi:
+10.3390/ijms23116083. PMID: 35682761; PMCID: PMC9181103.
+
+353: Li Y, Ricardo SD, Samuel CS. Enhancing the Therapeutic Potential of
+Mesenchymal Stromal Cell-Based Therapies with an Anti-Fibrotic Agent for the
+Treatment of Chronic Kidney Disease. Int J Mol Sci. 2022 May 27;23(11):6035.
+doi: 10.3390/ijms23116035. PMID: 35682717; PMCID: PMC9181689.
+
+354: Smolskas E, Mikulskytė G, Sileika E, Suziedelis K, Dulskas A. Tissue-Based
+Markers as a Tool to Assess Response to Neoadjuvant Radiotherapy in Rectal
+Cancer-Systematic Review. Int J Mol Sci. 2022 May 27;23(11):6040. doi:
+10.3390/ijms23116040. PMID: 35682714; PMCID: PMC9181431.
+
+355: Taldaev A, Terekhov R, Nikitin I, Zhevlakova A, Selivanova I. Insights into
+the Pharmacological Effects of Flavonoids: The Systematic Review of Computer
+Modeling. Int J Mol Sci. 2022 May 27;23(11):6023. doi: 10.3390/ijms23116023.
+PMID: 35682702; PMCID: PMC9181432.
+
+356: Faldini C, Manzetti M, Neri S, Barile F, Viroli G, Geraci G, Ursini F,
+Ruffilli A. Epigenetic and Genetic Factors Related to Curve Progression in
+Adolescent Idiopathic Scoliosis: A Systematic Scoping Review of the Current
+Literature. Int J Mol Sci. 2022 May 25;23(11):5914. doi: 10.3390/ijms23115914.
+PMID: 35682604; PMCID: PMC9180299.
+
+357: García-Gutiérrez MS, Navarrete F, Gasparyan A, Navarro D, Morcuende Á,
+Femenía T, Manzanares J. Role of Cannabinoid CB2 Receptor in Alcohol Use
+Disorders: From Animal to Human Studies. Int J Mol Sci. 2022 May 25;23(11):5908.
+doi: 10.3390/ijms23115908. PMID: 35682586; PMCID: PMC9180470.
+
+358: Hernández-Díaz Y, Genis-Mendoza AD, Ramos-Méndez MÁ, Juárez-Rojop IE,
+Tovilla-Zárate CA, González-Castro TB, López-Narváez ML, Nicolini H. Mental
+Health Impact of the COVID-19 Pandemic on Mexican Population: A Systematic
+Review. Int J Environ Res Public Health. 2022 Jun 6;19(11):6953. doi:
+10.3390/ijerph19116953. PMID: 35682536; PMCID: PMC9180045.
+
+359: Gorini F, Sabatino L, Coi A, Iervasi G, Vassalle C. Thyroid Dysfunction and
+COVID-19: The Emerging Role of Selenium in This Intermingled Relationship. Int J
+Environ Res Public Health. 2022 Jun 5;19(11):6912. doi: 10.3390/ijerph19116912.
+PMID: 35682497; PMCID: PMC9180529.
+
+360: Blessin M, Lehmann S, Kunzler AM, van Dick R, Lieb K. Resilience
+Interventions Conducted in Western and Eastern Countries-A Systematic Review.
+Int J Environ Res Public Health. 2022 Jun 5;19(11):6913. doi:
+10.3390/ijerph19116913. PMID: 35682495; PMCID: PMC9180776.
+
+361: Vergadi E, Rouva G, Angeli M, Galanakis E. Infectious Diseases Associated
+with Desert Dust Outbreaks: A Systematic Review. Int J Environ Res Public
+Health. 2022 Jun 5;19(11):6907. doi: 10.3390/ijerph19116907. PMID: 35682493;
+PMCID: PMC9180817.
+
+362: Slobodin O, Plochotnikov I, Cohen IC, Elyashar A, Cohen O, Puzis R. Global
+and Local Trends Affecting the Experience of US and UK Healthcare Professionals
+during COVID-19: Twitter Text Analysis. Int J Environ Res Public Health. 2022
+Jun 4;19(11):6895. doi: 10.3390/ijerph19116895. PMID: 35682477; PMCID:
+PMC9180346.
+
+363: Zhang M, Sit JWH, Chan DNS, Akingbade O, Chan CWH. Educational
+Interventions to Promote Cervical Cancer Screening among Rural Populations: A
+Systematic Review. Int J Environ Res Public Health. 2022 Jun 4;19(11):6874. doi:
+10.3390/ijerph19116874. PMID: 35682457; PMCID: PMC9180749.
+
+364: Teja KV, Janani K, Alqahtani AA, Robaian A, Alhalabi F, Merdad KA, Alam MK,
+Shrivastava D, Jose J, Srivastava KC. Herbal Agents versus Ethylene Diamine
+Tetra Acetic Acid on Removal of the Smear Layer-A Systematic Review of In Vitro
+Studies. Int J Environ Res Public Health. 2022 Jun 3;19(11):6870. doi:
+10.3390/ijerph19116870. PMID: 35682452; PMCID: PMC9180677.
+
+365: Ma Y, Deng J, Liu Q, Du M, Liu M, Liu J. Long-Term Consequences of COVID-19
+at 6 Months and Above: A Systematic Review and Meta-Analysis. Int J Environ Res
+Public Health. 2022 Jun 3;19(11):6865. doi: 10.3390/ijerph19116865. PMID:
+35682448; PMCID: PMC9180091.
+
+366: Tian J, Kang Y, Liu P, Yu H. Effect of Physical Activity on Depression in
+Patients with Parkinson's Disease: A Systematic Review and Meta-Analysis. Int J
+Environ Res Public Health. 2022 Jun 3;19(11):6849. doi: 10.3390/ijerph19116849.
+PMID: 35682432; PMCID: PMC9180645.
+
+367: Pickard O, Burton P, Yamada H, Schram B, Canetti EFD, Orr R.
+Musculoskeletal Disorders Associated with Occupational Driving: A Systematic
+Review Spanning 2006-2021. Int J Environ Res Public Health. 2022 Jun
+2;19(11):6837. doi: 10.3390/ijerph19116837. PMID: 35682420; PMCID: PMC9180502.
+
+368: Wang J, Dai Y, Ji T, Guo W, Wang Z, Wang J. Bone Metastases of Endometrial
+Carcinoma Treated by Surgery: A Report on 13 Patients and a Review of the
+Medical Literature. Int J Environ Res Public Health. 2022 Jun 2;19(11):6823.
+doi: 10.3390/ijerph19116823. PMID: 35682407; PMCID: PMC9180500.
+
+369: Zebrak K, Yount N, Sorra J, Famolaro T, Gray L, Carpenter D, Caporaso A.
+Development, Pilot Study, and Psychometric Analysis of the AHRQ Surveys on
+Patient Safety Culture™ (SOPS<sup>®</sup>) Workplace Safety Supplemental Items
+for Hospitals. Int J Environ Res Public Health. 2022 Jun 2;19(11):6815. doi:
+10.3390/ijerph19116815. PMID: 35682402; PMCID: PMC9179961.
+
+370: Ferrer-Torres A, Giménez-Llort L. Misophonia: A Systematic Review of
+Current and Future Trends in This Emerging Clinical Field. Int J Environ Res
+Public Health. 2022 Jun 1;19(11):6790. doi: 10.3390/ijerph19116790. PMID:
+35682372; PMCID: PMC9180704.
+
+371: Nyberg A, Rajaleid K, Demmelmaier I. The Work Environment during
+Coronavirus Epidemics and Pandemics: A Systematic Review of Studies Using
+Quantitative, Qualitative, and Mixed-Methods Designs. Int J Environ Res Public
+Health. 2022 Jun 1;19(11):6783. doi: 10.3390/ijerph19116783. PMID: 35682365;
+PMCID: PMC9180570.
+
+372: Herbawi F, Lozano-Lozano M, Lopez-Garzon M, Postigo-Martin P, Ortiz-Comino
+L, Martin-Alguacil JL, Arroyo-Morales M, Fernandez-Lao C. A Systematic Review
+and Meta-Analysis of Strength Recovery Measured by Isokinetic Dynamometer
+Technology after Anterior Cruciate Ligament Reconstruction Using Quadriceps
+Tendon Autografts vs. Hamstring Tendon Autografts or Patellar Tendon Autografts.
+Int J Environ Res Public Health. 2022 Jun 1;19(11):6764. doi:
+10.3390/ijerph19116764. PMID: 35682357; PMCID: PMC9180841.
+
+373: Oyegoke OO, Akoniyon OP, Ogunsakin RE, Ogunlana MO, Adeleke MA, Maharaj R,
+Okpeku M. A Systematic Review and Meta-Analysis of Malaria Test Positivity
+Outcomes and Programme Interventions in Low Transmission Settings in Southern
+Africa, 2000-2021. Int J Environ Res Public Health. 2022 Jun 1;19(11):6776. doi:
+10.3390/ijerph19116776. PMID: 35682356; PMCID: PMC9180605.
+
+374: Zhang T, Tian G, Wang X. Effects of Low-Load Blood Flow Restriction
+Training on Hemodynamic Responses and Vascular Function in Older Adults: A Meta-
+Analysis. Int J Environ Res Public Health. 2022 May 31;19(11):6750. doi:
+10.3390/ijerph19116750. PMID: 35682336; PMCID: PMC9180641.
+
+375: Mucherino S, Casula M, Galimberti F, Guarino I, Olmastroni E, Tragni E,
+Orlando V, Menditto E, On Behalf Of The Edu Re Drug Group. The Effectiveness of
+Interventions to Evaluate and Reduce Healthcare Costs of Potentially
+Inappropriate Prescriptions among the Older Adults: A Systematic Review. Int J
+Environ Res Public Health. 2022 May 31;19(11):6724. doi: 10.3390/ijerph19116724.
+PMID: 35682331; PMCID: PMC9180095.
+
+376: Santos CJ, Paciência I, Ribeiro AI. Neighbourhood Socioeconomic Processes
+and Dynamics and Healthy Ageing: A Scoping Review. Int J Environ Res Public
+Health. 2022 May 31;19(11):6745. doi: 10.3390/ijerph19116745. PMID: 35682327;
+PMCID: PMC9180257.
+
+377: Acito M, Fatigoni C, Villarini M, Moretti M. Cytogenetic Effects in
+Children Exposed to Air Pollutants: A Systematic Review and Meta-Analysis. Int J
+Environ Res Public Health. 2022 May 31;19(11):6736. doi: 10.3390/ijerph19116736.
+PMID: 35682315; PMCID: PMC9180689.
+
+378: Tian H, Liu X. Pro-Environmental Behavior Research: Theoretical Progress
+and Future Directions. Int J Environ Res Public Health. 2022 May 31;19(11):6721.
+doi: 10.3390/ijerph19116721. PMID: 35682302; PMCID: PMC9180624.
+
+379: Zhang X, Li W, Wang J. Effects of Exercise Intervention on Students' Test
+Anxiety: A Systematic Review with a Meta-Analysis. Int J Environ Res Public
+Health. 2022 May 31;19(11):6709. doi: 10.3390/ijerph19116709. PMID: 35682293;
+PMCID: PMC9180005.
+
+380: Cuevas-Cervera M, Perez-Montilla JJ, Gonzalez-Muñoz A, Garcia-Rios MC,
+Navarro-Ledesma S. The Effectiveness of Intermittent Fasting, Time Restricted
+Feeding, Caloric Restriction, a Ketogenic Diet and the Mediterranean Diet as
+Part of the Treatment Plan to Improve Health and Chronic Musculoskeletal Pain: A
+Systematic Review. Int J Environ Res Public Health. 2022 May 30;19(11):6698.
+doi: 10.3390/ijerph19116698. PMID: 35682282; PMCID: PMC9180920.
+
+381: Dawson J, Laccos-Barrett K, Hammond C, Rumbold A. Reflexive Practice as an
+Approach to Improve Healthcare Delivery for Indigenous Peoples: A Systematic
+Critical Synthesis and Exploration of the Cultural Safety Education Literature.
+Int J Environ Res Public Health. 2022 May 30;19(11):6691. doi:
+10.3390/ijerph19116691. PMID: 35682275; PMCID: PMC9180854.
+
+382: Fauk NK, Mwanri L, Hawke K, Mohammadi L, Ward PR. Psychological and Social
+Impact of HIV on Women Living with HIV and Their Families in Low- and Middle-
+Income Asian Countries: A Systematic Search and Critical Review. Int J Environ
+Res Public Health. 2022 May 30;19(11):6668. doi: 10.3390/ijerph19116668. PMID:
+35682255; PMCID: PMC9180788.
+
+383: Płaszewski M. No Recommendation Is (at Least Presently) the Best
+Recommendation: An Updating Quality Appraisal of Recommendations on Screening
+for Scoliosis. Int J Environ Res Public Health. 2022 May 30;19(11):6659. doi:
+10.3390/ijerph19116659. PMID: 35682242; PMCID: PMC9180347.
+
+384: Thielmann B, Schnell J, Böckelmann I, Schumann H. Analysis of Work Related
+Factors, Behavior, Well-Being Outcome, and Job Satisfaction of Workers of
+Emergency Medical Service: A Systematic Review. Int J Environ Res Public Health.
+2022 May 30;19(11):6660. doi: 10.3390/ijerph19116660. PMID: 35682241; PMCID:
+PMC9180048.
+
+385: Mengesha Z, Alloun E, Weber D, Smith M, Harris P. "Lived the Pandemic
+Twice": A Scoping Review of the Unequal Impact of the COVID-19 Pandemic on
+Asylum Seekers and Undocumented Migrants. Int J Environ Res Public Health. 2022
+May 29;19(11):6624. doi: 10.3390/ijerph19116624. PMID: 35682211; PMCID:
+PMC9180209.
+
+386: Armstrong-Mensah EA, Tetteh AK, Ofori E, Ekhosuehi O. Voluntary Counseling
+and Testing, Antiretroviral Therapy Access, and HIV-Related Stigma: Global
+Progress and Challenges. Int J Environ Res Public Health. 2022 May
+28;19(11):6597. doi: 10.3390/ijerph19116597. PMID: 35682181; PMCID: PMC9179955.
+
+387: Li M, Wang Q, Shen J. The Impact of Physical Activity on Mental Health
+during COVID-19 Pandemic in China: A Systematic Review. Int J Environ Res Public
+Health. 2022 May 28;19(11):6584. doi: 10.3390/ijerph19116584. PMID: 35682172;
+PMCID: PMC9180501.
+
+388: Sánchez-Alcaraz BJ, Courel-Ibáñez J. The Role of Padel in Improving
+Physical Fitness and Health Promotion: Progress, Limitations, and Future
+Perspectives-A Narrative Review. Int J Environ Res Public Health. 2022 May
+28;19(11):6582. doi: 10.3390/ijerph19116582. PMID: 35682167; PMCID: PMC9180804.
+
+389: Corley AG, Sprockett A, Montagu D, Chakraborty NM. Exploring and Monitoring
+Privacy, Confidentiality, and Provider Bias in Sexual and Reproductive Health
+Service Provision to Young People: A Narrative Review. Int J Environ Res Public
+Health. 2022 May 27;19(11):6576. doi: 10.3390/ijerph19116576. PMID: 35682160;
+PMCID: PMC9180733.
+
+390: Yuan Z, Wen B, He C, Zhou J, Zhou Z, Xu F. Application of Multi-Criteria
+Decision-Making Analysis to Rural Spatial Sustainability Evaluation: A
+Systematic Review. Int J Environ Res Public Health. 2022 May 27;19(11):6572.
+doi: 10.3390/ijerph19116572. PMID: 35682157; PMCID: PMC9180611.
+
+391: Kristiana IF, Karyanta NA, Simanjuntak E, Prihatsanti U, Ingarianti TM,
+Shohib M. Social Support and Acculturative Stress of International Students. Int
+J Environ Res Public Health. 2022 May 27;19(11):6568. doi:
+10.3390/ijerph19116568. PMID: 35682152; PMCID: PMC9180523.
+
+392: Lee SJ, Kim BH. Development of Core Educational Content for Heart Failure
+Patients in Transition from Hospital to Home Care: A Delphi Study. Int J Environ
+Res Public Health. 2022 May 27;19(11):6550. doi: 10.3390/ijerph19116550. PMID:
+35682133; PMCID: PMC9180106.
+
+393: Taing L, Bhatia H, Kaiser RA, Qadir M, Mehmood H. A Rapid Review of
+Environmental Health Gaps in Antimicrobial Resistance and Water-Related Research
+from 1990-2020. Int J Environ Res Public Health. 2022 May 27;19(11):6549. doi:
+10.3390/ijerph19116549. PMID: 35682132; PMCID: PMC9180282.
+
+394: Castañeda-Babarro A, Etayo-Urtasun P, León-Guereño P. Effects of Strength
+Training on Cross-Country Skiing Performance: A Systematic Review. Int J Environ
+Res Public Health. 2022 May 27;19(11):6522. doi: 10.3390/ijerph19116522. PMID:
+35682103; PMCID: PMC9179959.
+
+395: Gianfredi V, Ferrara P, Pennisi F, Casu G, Amerio A, Odone A, Nucci D, Dinu
+M. Association between Daily Pattern of Physical Activity and Depression: A
+Systematic Review. Int J Environ Res Public Health. 2022 May 26;19(11):6505.
+doi: 10.3390/ijerph19116505. PMID: 35682090; PMCID: PMC9180107.
+
+396: Toledano-Osorio M, Vallecillo C, Toledano R, Aguilera FS, Osorio MT, Muñoz-
+Soto E, García-Godoy F, Vallecillo-Rivas M. A Systematic Review and Meta-
+Analysis of Systemic Antibiotic Therapy in the Treatment of Peri-Implantitis.
+Int J Environ Res Public Health. 2022 May 26;19(11):6502. doi:
+10.3390/ijerph19116502. PMID: 35682086; PMCID: PMC9180155.
+
+397: Li J, Shao W. Influence of Sports Activities on Prosocial Behavior of
+Children and Adolescents: A Systematic Literature Review. Int J Environ Res
+Public Health. 2022 May 26;19(11):6484. doi: 10.3390/ijerph19116484. PMID:
+35682069; PMCID: PMC9180162.
+
+398: Peric R, Nikolovski Z, Meucci M, Tadger P, Ferri Marini C, Amaro-Gahete FJ.
+A Systematic Review and Meta-Analysis on the Association and Differences between
+Aerobic Threshold and Point of Optimal Fat Oxidation. Int J Environ Res Public
+Health. 2022 May 26;19(11):6479. doi: 10.3390/ijerph19116479. PMID: 35682065;
+PMCID: PMC9180269.
+
+399: Piotrowicz K, Klich-Rączka A, Skalska A, Gryglewska B, Grodzicki T,
+Gąsowski J. Pulse Wave Velocity and Sarcopenia in Older Persons-A Systematic
+Review and Meta-Analysis. Int J Environ Res Public Health. 2022 May
+26;19(11):6477. doi: 10.3390/ijerph19116477. PMID: 35682063; PMCID: PMC9180900.
+
+400: Kapała J, Lewandowska J, Placek W, Owczarczyk-Saczonek A. Adverse Events in
+Isotretinoin Therapy: A Single-Arm Meta-Analysis. Int J Environ Res Public
+Health. 2022 May 26;19(11):6463. doi: 10.3390/ijerph19116463. PMID: 35682048;
+PMCID: PMC9180136.
+
+401: Sterniczuk B, Rossouw PE, Michelogiannakis D, Javed F. Effectiveness of
+Curcumin in Reducing Self-Rated Pain-Levels in the Orofacial Region: A
+Systematic Review of Randomized-Controlled Trials. Int J Environ Res Public
+Health. 2022 May 25;19(11):6443. doi: 10.3390/ijerph19116443. PMID: 35682028;
+PMCID: PMC9180889.
+
+402: Devnath L, Summons P, Luo S, Wang D, Shaukat K, Hameed IA, Aljuaid H.
+Computer-Aided Diagnosis of Coal Workers' Pneumoconiosis in Chest X-ray
+Radiographs Using Machine Learning: A Systematic Literature Review. Int J
+Environ Res Public Health. 2022 May 25;19(11):6439. doi: 10.3390/ijerph19116439.
+PMID: 35682023; PMCID: PMC9180284.
+
+403: Movia M, Macher S, Antony G, Zeuschner V, Wamprechtsamer G, Delle Grazie J,
+Simi H, Fuchs-Neuhold B. Health Impact Assessment (HIA) of a Daily Physical
+Activity Unit in Schools: Focus on Children and Adolescents in Austria Up to the
+8th Grade. Int J Environ Res Public Health. 2022 May 25;19(11):6428. doi:
+10.3390/ijerph19116428. PMID: 35682014; PMCID: PMC9180436.
+
+404: Burley J, Samir N, Price A, Parker A, Zhu A, Eapen V, Contreras-Suarez D,
+Schreurs N, Lawson K, Lingam R, Grace R, Raman S, Kemp L, Bishop R, Goldfeld S,
+Woolfenden S. Connecting Healthcare with Income Maximisation Services: A
+Systematic Review on the Health, Wellbeing and Financial Impacts for Families
+with Young Children. Int J Environ Res Public Health. 2022 May 25;19(11):6425.
+doi: 10.3390/ijerph19116425. PMID: 35682010; PMCID: PMC9180526.
+
+405: Wieczorek E, Kocot E, Evers S, Sowada C, Pavlova M. Key Care Provision
+Aspects That Affect Care Transition in the Long-Term Care Systems: Preliminary
+Review Findings. Int J Environ Res Public Health. 2022 May 24;19(11):6402. doi:
+10.3390/ijerph19116402. PMID: 35681987; PMCID: PMC9180334.
+
+406: Mrljak R, Arnsteg Danielsson A, Hedov G, Garmy P. Effects of Infant
+Massage: A Systematic Review. Int J Environ Res Public Health. 2022 May
+24;19(11):6378. doi: 10.3390/ijerph19116378. PMID: 35681968; PMCID: PMC9179989.
+
+407: Lochbaum M, Sherburn M, Sisneros C, Cooper S, Lane AM, Terry PC. Revisiting
+the Self-Confidence and Sport Performance Relationship: A Systematic Review with
+Meta-Analysis. Int J Environ Res Public Health. 2022 May 24;19(11):6381. doi:
+10.3390/ijerph19116381. PMID: 35681963; PMCID: PMC9180271.
+
+408: Francisco-Garcés X, Salvador-Garcia C, Maravé-Vivas M, Chiva-Bartoll O,
+Santos-Pastor ML. Research on Service-Learning in Physical Activity and Sport:
+Where We Have Been, Where We Are, Where We Are Going. Int J Environ Res Public
+Health. 2022 May 24;19(11):6362. doi: 10.3390/ijerph19116362. PMID: 35681948;
+PMCID: PMC9180878.
+
+409: Bloomfield J, Sabbah M, Castela M, Mehats C, Uzan C, Canlorbe G. Clinical
+Value and Molecular Function of Circulating MicroRNAs in Endometrial Cancer
+Regulation: A Systematic Review. Cells. 2022 Jun 3;11(11):1836. doi:
+10.3390/cells11111836. PMID: 35681531; PMCID: PMC9180151.
+
+410: Calzetta L, Aiello M, Frizzelli A, Camardelli F, Cazzola M, Rogliani P,
+Chetta A. Stem Cell-Based Regenerative Therapy and Derived Products in COPD: A
+Systematic Review and Meta-Analysis. Cells. 2022 May 30;11(11):1797. doi:
+10.3390/cells11111797. PMID: 35681492; PMCID: PMC9180461.
+
+411: Koh BJ, Lee Q, Wee IJ, Syn N, Lee KS, Jie Ng J, Wong A, Soong JT, Mtl
+Choong A. Frailty scoring in vascular and endovascular surgery: A systematic
+review. Vasc Med. 2022 Jun;27(3):302-307. doi: 10.1177/1358863X221093400. PMID:
+35681271.
+
+412: Salo PM, Mendy A, Wilkerson J, Molsberry SA, Feinstein L, London SJ,
+Fessler MB, Thorne PS, Zeldin DC. Serum antioxidant vitamins and respiratory
+morbidity and mortality: a pooled analysis. Respir Res. 2022 Jun 9;23(1):150.
+doi: 10.1186/s12931-022-02059-w. PMID: 35681205; PMCID: PMC9178544.
+
+413: Williams M, Coulson J. Isolated paracetamol-induced acute kidney injury: a
+systematic review. Acute Med. 2022;21(2):96-103. doi: 10.52964/AMJA.0904. PMID:
+35681183.
+
+414: Terhune EA, Heyn PC, Piper CR, Hadley-Miller N. Genetic variants associated
+with the occurrence and progression of adolescent idiopathic scoliosis: a
+systematic review protocol. Syst Rev. 2022 Jun 9;11(1):118. doi:
+10.1186/s13643-022-01991-8. PMID: 35681176; PMCID: PMC9178937.
+
+415: Evans WD, Gerard R, Symington L, Shaikh H, Agha S. Implementation practice
+models for development in low- and middle-income countries: systematic review of
+peer-reviewed literature. BMC Public Health. 2022 Jun 9;22(1):1157. doi:
+10.1186/s12889-022-13530-0. PMID: 35681165; PMCID: PMC9181891.
+
+416: Lin M, Li YR, Lan QW, Long LJ, Liu JQ, Chen YW, Cao XJ, Wu GY, Li YP, Guo
+XG. Evaluation of GeneXpert EV assay for the rapid diagnosis of enteroviral
+meningitis: a systematic review and meta-analysis. Ann Clin Microbiol
+Antimicrob. 2022 Jun 9;21(1):25. doi: 10.1186/s12941-022-00517-3. PMID:
+35681153; PMCID: PMC9185958.
+
+417: Sehovic E, Urru S, Chiorino G, Doebler P. Meta-analysis of diagnostic cell-
+free circulating microRNAs for breast cancer detection. BMC Cancer. 2022 Jun
+9;22(1):634. doi: 10.1186/s12885-022-09698-8. PMID: 35681127; PMCID: PMC9178880.
+
+418: Attar A, Hosseinpour A, Hosseinpour H, Kazemi A. Major cardiovascular
+events after bone marrow mononuclear cell transplantation following acute
+myocardial infarction: an updated post-BAMI meta-analysis of randomized
+controlled trials. BMC Cardiovasc Disord. 2022 Jun 9;22(1):259. doi:
+10.1186/s12872-022-02701-x. PMID: 35681123; PMCID: PMC9185901.
+
+419: Holla R, Unnikrishnan B, Vijayamma R, T V B, Sinha A, Bb D, T R, Mithra P
+P, Kumar N, Kulkarni V, N R, Johnson K R. Incentives for pregnant mothers during
+antenatal care for better maternal and neonatal health outcomes in low and
+middle income countries: A systematic review protocol. F1000Res. 2022 Apr
+5;11:393. doi: 10.12688/f1000research.109726.2. PMID: 35677173; PMCID:
+PMC9160705.
+
+420: Zhang L, Tan SW, Shao J, Shi YP, Su KW, Shan XY, Ye HP. [Meta-analysis on
+the contents of trace elements in workers with occupational exposure to lead].
+Zhonghua Lao Dong Wei Sheng Zhi Ye Bing Za Zhi. 2022 May 20;40(5):347-353.
+Chinese. doi: 10.3760/cma.j.cn121094-20210207-00085. PMID: 35680577.
+
+421: Kyler AM, Charron-Chénier R. Taking up the tiki torch: Understanding alt-
+right interest using internet search data. Soc Sci Res. 2022 Aug;106:102729.
+doi: 10.1016/j.ssresearch.2022.102729. Epub 2022 Apr 6. PMID: 35680363.
+
+422: Proulx K, Lenzi-Weisbecker R, Hatch R, Hackett K, Omoeva C, Cavallera V,
+Daelmans B, Dua T. Nurturing care during COVID-19: a rapid review of early
+evidence. BMJ Open. 2022 Jun 9;12(6):e050417. doi: 10.1136/bmjopen-2021-050417.
+PMID: 35680273; PMCID: PMC9184993.
+
+423: Lyons J, Campese S, Learmonth YC, Metse A, Kermode AG, Karahalios A, Marck
+CH. Comparing the effectiveness, safety and tolerability of interventions for
+depressive symptoms in people with multiple sclerosis: a systematic review and
+network meta-analysis protocol. BMJ Open. 2022 Jun 9;12(6):e055796. doi:
+10.1136/bmjopen-2021-055796. PMID: 35680262.
+
+424: Davies BM, Yanez Touzet A, Mowforth OD, Lee KS, Khan D, Furlan JC, Fehlings
+MG, Harrop JS, Zipser CM, Rodrigues-Pinto R, Milligan J, Sarewitz E, Curt A,
+Rahimi-Movaghar V, Aarabi B, Boerger TF, Tetreault L, Chen R, Guest JD, Kalsi-
+Ryan S, Sadler I, Widdop S, McNair AGK, Kwon BK, Kotter MRN; AO Spine RECODE-DCM
+Steering Committee. Development of a core measurement set for research in
+degenerative cervical myelopathy: a study protocol (AO Spine RECODE-DCM CMS).
+BMJ Open. 2022 Jun 9;12(6):e060436. doi: 10.1136/bmjopen-2021-060436. PMID:
+35680260.
+
+425: Elden OE, Uleberg O, Lysne M, Haugdahl HS. Community paramedicine: cost-
+benefit analysis and safety evaluation in paramedical emergency services in
+rural areas - a scoping review. BMJ Open. 2022 Jun 9;12(6):e057752. doi:
+10.1136/bmjopen-2021-057752. PMID: 35680256.
+
+426: Ma J, Liu X, Lu H, Zhang D, Zhao T, Wang J, Jin S. Effects of
+proprioceptive training in the recovery of patients submitted to meniscus
+surgery: systematic review and meta-analysis. BMJ Open. 2022 Jun
+9;12(6):e055810. doi: 10.1136/bmjopen-2021-055810. PMID: 35680251.
+
+427: Luke J, Verbunt E, Zhang A, Bamblett M, Johnson G, Salamone C, Thomas D,
+Eades S, Gubhaju L, Kelaher M, Jones A. Questioning the ethics of evidence-based
+practice for Indigenous health and social settings in Australia. BMJ Glob
+Health. 2022 Jun;7(6):e009167. doi: 10.1136/bmjgh-2022-009167. PMID: 35680132.
+
+428: Soff GA, Ray-Coquard I, Rivera LJM, Fryzek J, Mullins M, Bylsma LC, Park
+JK. Systematic literature review and meta-analysis on use of Thrombopoietic
+agents for chemotherapy-induced thrombocytopenia. PLoS One. 2022 Jun
+9;17(6):e0257673. doi: 10.1371/journal.pone.0257673. PMID: 35679540; PMCID:
+PMC9183450.
+
+429: Gallegos M, Landry A, Alvarez A, Davenport D, Caldwell MT, Parsons M,
+Gottlieb M, Natesan S. Holistic Review, Mitigating Bias, and Other Strategies in
+Residency Recruitment for Diversity, Equity, and Inclusion: An Evidence-based
+Guide to Best Practices from the Council of Residency Directors in Emergency
+Medicine. West J Emerg Med. 2022 May 10;23(3):345-352. doi:
+10.5811/westjem.2022.3.54419. PMID: 35679505; PMCID: PMC9183777.
+
+430: Brown T, Ashworth H, Bass M, Rittenberg E, Levy-Carrick N, Grossman S,
+Lewis-O'Connor A, Stoklosa H. Trauma-informed Care Interventions in Emergency
+Medicine: A Systematic Review. West J Emerg Med. 2022 Apr 13;23(3):334-344. doi:
+10.5811/westjem.2022.1.53674. PMID: 35679503; PMCID: PMC9183774.
+
+431: Pilz PM, Ward JE, Chang WT, Kiss A, Bateh E, Jha A, Fisch S, Podesser BK,
+Liao R. Large and Small Animal Models of Heart Failure With Reduced Ejection
+Fraction. Circ Res. 2022 Jun 10;130(12):1888-1905. doi:
+10.1161/CIRCRESAHA.122.320246. Epub 2022 Jun 9. PMID: 35679365.
+
+432: Bhagat PR, Naz F, Magda R. Artificial intelligence solutions enabling
+sustainable agriculture: A bibliometric analysis. PLoS One. 2022 Jun
+9;17(6):e0268989. doi: 10.1371/journal.pone.0268989. PMID: 35679287; PMCID:
+PMC9182339.
+
+433: Meaza A, Tola HH, Eshetu K, Mindaye T, Medhin G, Gumi B. Tuberculosis among
+refugees and migrant populations: Systematic review. PLoS One. 2022 Jun
+9;17(6):e0268696. doi: 10.1371/journal.pone.0268696. PMID: 35679258; PMCID:
+PMC9182295.
+
+434: Jaguga F, Kiburi SK, Temet E, Barasa J, Karanja S, Kinyua L, Kwobah EK. A
+systematic review of substance use and substance use disorder research in Kenya.
+PLoS One. 2022 Jun 9;17(6):e0269340. doi: 10.1371/journal.pone.0269340. PMID:
+35679248; PMCID: PMC9186181.
+
+435: Alnawmasi MM, Mani R, Khuu SK. Changes in the components of visual
+attention following traumatic brain injury: A systematic review and meta-
+analysis. PLoS One. 2022 Jun 9;17(6):e0268951. doi:
+10.1371/journal.pone.0268951. PMID: 35679230; PMCID: PMC9182329.
+
+436: Levoy K, Rivera E, McHugh M, Hanlon A, Hirschman KB, Naylor MD. Caregiver
+Engagement Enhances Outcomes Among Randomized Control Trials of Transitional
+Care Interventions: A Systematic Review and Meta-analysis. Med Care. 2022 Jul
+1;60(7):519-529. doi: 10.1097/MLR.0000000000001728. Epub 2022 May 16. PMID:
+35679175.
+
+437: Buder K, Zirngibl M, Bapistella S, Meerpohl JJ, Strahm B, Bassler D, Weitz
+M. Extracorporeal photopheresis versus alternative treatment for chronic graft-
+versus-host disease after haematopoietic stem cell transplantation in children
+and adolescents. Cochrane Database Syst Rev. 2022 Jun 9;6(6):CD009898. doi:
+10.1002/14651858.CD009898.pub4. PMID: 35679154; PMCID: PMC9181448.
+
+438: Schmidt-Hansen M, Bennett MI, Arnold S, Bromham N, Hilgart JS, Page AJ, Chi
+Y. Oxycodone for cancer-related pain. Cochrane Database Syst Rev. 2022 Jun
+9;6(6):CD003870. doi: 10.1002/14651858.CD003870.pub7. PMID: 35679121; PMCID:
+PMC9180760.
+
+439: Bhatt P, Liu J, Gong Y, Wang J, Guo Y. Emerging Artificial Intelligence-
+Empowered mHealth: Scoping Review. JMIR Mhealth Uhealth. 2022 Jun
+9;10(6):e35053. doi: 10.2196/35053. PMID: 35679107.
+
+440: Giurgiu M, Timm I, Becker M, Schmidt S, Wunsch K, Nissen R, Davidovski D,
+Bussmann JBJ, Nigg CR, Reichert M, Ebner-Priemer UW, Woll A, von Haaren-Mack B.
+Quality Evaluation of Free-living Validation Studies for the Assessment of
+24-Hour Physical Behavior in Adults via Wearables: Systematic Review. JMIR
+Mhealth Uhealth. 2022 Jun 9;10(6):e36377. doi: 10.2196/36377. PMID: 35679106.
+
+441: Rivas Velarde M, Jagoe C, Cuculick J. Video Relay Interpretation and
+Overcoming Barriers in Health Care for Deaf Users: Scoping Review. J Med
+Internet Res. 2022 Jun 9;24(6):e32439. doi: 10.2196/32439. PMID: 35679099.
+
+442: Araújo NJS, Macêdo MJF, de Morais LP, da Cunha FAB, de Matos YMLS, de
+Almeida RS, Braga MFBM, Coutinho HDM. Control of arboviruses vectors using
+biological control by Wolbachia pipientis: a short review. Arch Microbiol. 2022
+Jun 9;204(7):376. doi: 10.1007/s00203-022-02983-x. PMID: 35678877.
+
+443: Bu Z, Ye X, Huang B, Liu R, Peng L. Bifidobacteria Was Decreased in Adult
+Patients With Irritable Bowel Syndrome Based on PCR and Bacterial Culture: A
+Systematic Review and Meta-Analysis. Turk J Gastroenterol. 2022
+May;33(5):368-376. doi: 10.5152/tjg.2022.21543. PMID: 35678794.
+
+444: Tayyib N. Use of topical haemoglobin spray in hard-to-heal wound
+management: a systematic review. J Wound Care. 2022 Jun 2;31(6):520-531. doi:
+10.12968/jowc.2022.31.6.520. PMID: 35678786.
+
+445: Ong Y, Huey CWT, Shelat VG. Paraneoplastic syndromes in hepatocellular
+carcinoma: a review. Expert Rev Gastroenterol Hepatol. 2022 May;16(5):449-471.
+doi: 10.1080/17474124.2022.2085556. Epub 2022 Jun 8. PMID: 35649187.
+
+446: Zou L, Zhang M, Fu W, Liu Y, Wen J, Lu Z. Meta-analysis on the association
+between the frequency of tooth brushing and hypertension risk. J Clin Hypertens
+(Greenwich). 2022 Jun;24(6):689-697. doi: 10.1111/jch.14498. Epub 2022 May 31.
+PMID: 35641122; PMCID: PMC9180317.
+
+447: Holmqvist J, Brynolf A, Zhao J, Halmin M, Hollenberg J, Mårtensson J, Bell
+M, Block L, Edgren G. Patterns and determinants of blood transfusion in
+intensive care in Sweden between 2010 and 2018: A nationwide, retrospective
+cohort study. Transfusion. 2022 Jun;62(6):1188-1198. doi: 10.1111/trf.16942.
+Epub 2022 May 31. PMID: 35638740.
+
+448: Liu T, Cheng H, Tian L, Zhang Y, Wang S, Lin L. Aromatherapy with
+inhalation can effectively improve the anxiety and depression of cancer
+patients: A meta-analysis. Gen Hosp Psychiatry. 2022 Jul-Aug;77:118-127. doi:
+10.1016/j.genhosppsych.2022.05.004. Epub 2022 May 18. PMID: 35617792.
+
+449: Kaur T, Ranjan P, Sarkar S, Kaloiya GS, Khan M, Aakansha, Bhatia H.
+Psychological interventions for medically unexplained physical symptoms: A
+systematic review and meta-analysis. Gen Hosp Psychiatry. 2022 Jul-
+Aug;77:92-101. doi: 10.1016/j.genhosppsych.2022.04.006. Epub 2022 Apr 18. PMID:
+35580397.
+
+450: Minelli A, Barlati S, Baune BT; European College of Neuropsychopharmacology
+(ECNP) Pharmacogenomics & Transcriptomics Network. Evaluating study designs and
+treatment outcomes of antidepressant pharmacogenetic clinical trials -
+Challenges and future perspectives. A critical review. Eur Neuropsychopharmacol.
+2022 Jun;59:68-81. doi: 10.1016/j.euroneuro.2022.04.007. Epub 2022 May 10. PMID:
+35561539.
+
+451: Hadi Z, Goodarzi F, Dalir A, Sholeh M. Comments on the published meta-
+analysis of antibiotic resistance in hospital-acquired ESKAPE-E infections in
+low- and lower-middle-income countries. Emerg Microbes Infect. 2022
+Dec;11(1):1602-1603. doi: 10.1080/22221751.2022.2073829. PMID: 35546285.
+
+452: Wu H, Ding X, Zhang Y, Li W, Chen J. Incidence and risk of hypertension
+with lenvatinib in treatment of solid tumors: An updated systematic review and
+meta-analysis. J Clin Hypertens (Greenwich). 2022 Jun;24(6):667-676. doi:
+10.1111/jch.14463. Epub 2022 May 10. PMID: 35538636; PMCID: PMC9180318.
+
+453: Eakley R, Lyndon A. Antidepressant use During Pregnancy: Knowledge,
+Attitudes, and Decision-Making of Patients and Providers. J Midwifery Womens
+Health. 2022 May;67(3):332-353. doi: 10.1111/jmwh.13366. Epub 2022 May 10. PMID:
+35536040.
+
+454: Tasleem A, Wang Y, Li K, Jiang X, Krishnan A, He C, Sun Y, Wu Y, Fan S,
+Boruff JT, Markham S, Rice DB, Bonardi O, Santo TD, Li L, Thombs-Vite I, Agic B,
+Fahim C, Martin MS, Sockalingam S, Benedetti A, Thombs BD. Effects of mental
+health interventions among people hospitalized with COVID-19 infection: A
+systematic review of randomized controlled trials. Gen Hosp Psychiatry. 2022
+Jul-Aug;77:40-68. doi: 10.1016/j.genhosppsych.2022.04.002. Epub 2022 Apr 9.
+PMID: 35533528; PMCID: PMC8993417.
+
+455: Sayed A, Abdelfattah OM, Munir M, Shazly O, Awad AK, Ghaith HS, Moustafa K,
+Gerew M, Guha A, Barac A, Fradley MG, Abela GS, Addison D. Long-term
+effectiveness of empiric cardio-protection in patients receiving cardiotoxic
+chemotherapies: A systematic review & bayesian network meta-analysis. Eur J
+Cancer. 2022 Jul;169:82-92. doi: 10.1016/j.ejca.2022.03.024. Epub 2022 May 4.
+PMID: 35524992.
+
+456: Gallois Y, Strelnikov K, Barker G. The Hyperbaric Oxygen Therapy for Sudden
+Sensorineural Hearing Loss Meta-analysis Might Have a Weight Problem. JAMA
+Otolaryngol Head Neck Surg. 2022 Jun 1;148(6):583-584. doi:
+10.1001/jamaoto.2022.0737. PMID: 35511207.
+
+457: Ayub A, Nunez DA. The Hyperbaric Oxygen Therapy for Sudden Sensorineural
+Hearing Loss Meta-Analysis Might Have a Weight Problem-Reply. JAMA Otolaryngol
+Head Neck Surg. 2022 Jun 1;148(6):584. doi: 10.1001/jamaoto.2022.0740. PMID:
+35511162.
+
+458: Hsiao V, Light TJ, Adil AA, Tao M, Chiu AS, Hitchcock M, Arroyo N,
+Fernandes-Taylor S, Francis DO. Complication Rates of Total Thyroidectomy vs
+Hemithyroidectomy for Treatment of Papillary Thyroid Microcarcinoma: A
+Systematic Review and Meta-analysis. JAMA Otolaryngol Head Neck Surg. 2022 Jun
+1;148(6):531-539. doi: 10.1001/jamaoto.2022.0621. PMID: 35511129; PMCID:
+PMC9073663.
+
+459: Ajiji P, Cottin J, Picot C, Uzunali A, Ripoche E, Cucherat M, Maison P.
+Feasibility study and evaluation of expert opinion on the semi-automated meta-
+analysis and the conventional meta-analysis. Eur J Clin Pharmacol. 2022
+Jul;78(7):1177-1184. doi: 10.1007/s00228-022-03329-8. Epub 2022 May 3. PMID:
+35501476.
+
+460: Miao H, Yang S, Zhang Y. Differences of blood pressure measured at clinic
+versus at home in the morning and in the evening in Europe and Asia: A
+systematic review and meta-analysis. J Clin Hypertens (Greenwich). 2022
+Jun;24(6):677-688. doi: 10.1111/jch.14487. Epub 2022 Apr 29. PMID: 35488438;
+PMCID: PMC9180344.
+
+461: Moncion K, Allison EY, Al-Khazraji BK, MacDonald MJ, Roig M, Tang A. What
+are the effects of acute exercise and exercise training on cerebrovascular
+hemodynamics following stroke? A systematic review and meta-analysis. J Appl
+Physiol (1985). 2022 Jun 1;132(6):1379-1393. doi:
+10.1152/japplphysiol.00872.2021. Epub 2022 Apr 28. PMID: 35482325.
+
+462: Merlo AC, Benenati S, Masoero G, Zingarelli A, Ameri P, Porto I. Direct
+oral anticoagulants versus vitamin-K antagonists in patients with left
+ventricular thrombus: A systematic review and meta-analysis. Vascul Pharmacol.
+2022 Jun;144:106996. doi: 10.1016/j.vph.2022.106996. Epub 2022 Apr 25. PMID:
+35472458.
+
+463: Liao X, Liu Y, Liang S, Li K. Effects of hydrophilic coated catheters on
+urethral trauma, microtrauma and adverse events with intermittent
+catheterization in patients with bladder dysfunction: a systematic review and
+meta-analysis. Int Urol Nephrol. 2022 Jul;54(7):1461-1470. doi:
+10.1007/s11255-022-03172-x. Epub 2022 Apr 21. PMID: 35449382; PMCID: PMC9184422.
+
+464: Vanstone M, Panday J, Popoola A, Taneja S, Greyson D, McDonald SD, Pack R,
+Black M, Murray-Davis B, Darling E. Pregnant People's Perspectives On Cannabis
+Use During Pregnancy: A Systematic Review and Integrative Mixed-Methods Research
+Synthesis. J Midwifery Womens Health. 2022 May;67(3):354-372. doi:
+10.1111/jmwh.13363. Epub 2022 Apr 20. PMID: 35445514.
+
+465: Cao P, Zhang F, Zhang J, Zheng X, Sun Z, Yu B, Wang W. CYP3a5 Genetic
+Polymorphism in Chinese Population With Renal Transplantation: A Meta-Analysis
+Review. Transplant Proc. 2022 Apr;54(3):638-644. doi:
+10.1016/j.transproceed.2021.10.031. Epub 2022 Apr 13. PMID: 35428510.
+
+466: Cooley Coleman JA, Sarasua SM, Moore HW, Boccuto L, Cowan CW, Skinner SA,
+DeLuca JM. Clinical findings from the landmark MEF2C-related disorders natural
+history study. Mol Genet Genomic Med. 2022 Jun;10(6):e1919. doi:
+10.1002/mgg3.1919. Epub 2022 Apr 13. PMID: 35416405.
+
+467: Sari Motlagh R, Yanagisawa T, Kawada T, Laukhtina E, Rajwa P, Aydh A, König
+F, Pallauf M, Huebner NA, Baltzer PA, Karakiewicz PI, Heidenreich A, Shariat SF.
+Accuracy of SelectMDx compared to mpMRI in the diagnosis of prostate cancer: a
+systematic review and diagnostic meta-analysis. Prostate Cancer Prostatic Dis.
+2022 Feb;25(2):187-198. doi: 10.1038/s41391-022-00538-1. Epub 2022 Apr 12. PMID:
+35414118.
+
+468: Kneebone II, Van Zanden BE, Dorstyn DS, Roberts RM, Lord SR, Querstret D,
+Theadom A, Kennedy DS, Raman J, Nair RD. Relaxation and related therapies for
+people with multiple sclerosis (MS): A systematic review. Clin Rehabil. 2022
+Jul;36(7):883-899. doi: 10.1177/02692155221091509. Epub 2022 Apr 12. PMID:
+35410503.
+
+469: Osman KT, Mehta N, Spencer C, Qamar AA. Spontaneous bacterial empyema: a
+tertiary care center experience and a systematic review. Expert Rev
+Gastroenterol Hepatol. 2022 May;16(5):487-492. doi:
+10.1080/17474124.2022.2064274. Epub 2022 Apr 18. PMID: 35392755.
+
+470: Sarter L, Heider J, Witthöft M, Rief W, Kleinstäuber M. Using clinical
+patient characteristics to predict treatment outcome of cognitive behavior
+therapies for individuals with medically unexplained symptoms: A systematic
+review and meta-analysis. Gen Hosp Psychiatry. 2022 Jul-Aug;77:11-20. doi:
+10.1016/j.genhosppsych.2022.03.001. Epub 2022 Mar 7. PMID: 35390568.
+
+471: Schleyer W, Zona K, Quigley D, Spottswood M. Group therapy in primary care
+settings for the treatment of posttraumatic stress disorder: A systematic
+literature review. Gen Hosp Psychiatry. 2022 Jul-Aug;77:1-10. doi:
+10.1016/j.genhosppsych.2022.03.010. Epub 2022 Mar 31. PMID: 35390567.
+
+472: Bouget J, Balusson F, Kerbrat S, Roy PM, Viglino D, Lacut K, Pavageau L,
+Oger E. Clinical use of low-dose parenteral anticoagulation, incidence of major
+bleeding and mortality: a multi-centre cohort study using the French national
+health data system. Eur J Clin Pharmacol. 2022 Jul;78(7):1137-1144. doi:
+10.1007/s00228-022-03318-x. Epub 2022 Apr 6. PMID: 35385975.
+
+473: Yang X, Liu H, Chen S, Dong P, Zhao D. Intravascular Renal Denervation
+Reduces Ambulatory and Office Blood Pressure in Patients with Essential
+Hypertension: A Meta-Analysis of Randomized Sham-Controlled Trials. Kidney Blood
+Press Res. 2022;47(6):363-374. doi: 10.1159/000524171. Epub 2022 Apr 6. PMID:
+35385842.
+
+474: Martin E, Maher H, McKeon G, Patterson S, Blake J, Chen KY. Long-acting
+injectable buprenorphine for opioid use disorder: A systematic review of impact
+of use on social determinants of health. J Subst Abuse Treat. 2022
+Aug;139:108776. doi: 10.1016/j.jsat.2022.108776. Epub 2022 Mar 25. PMID:
+35365366.
+
+475: Li X, Gong S, Lu T, Tian H, Miao C, Liu L, Jiang Z, Hao J, Jing K, Yang K,
+Guo T. Proximal Gastrectomy Versus Total Gastrectomy for Siewert II/III
+Adenocarcinoma of the Gastroesophageal Junction: a Systematic Review and Meta-
+analysis. J Gastrointest Surg. 2022 Jun;26(6):1321-1335. doi:
+10.1007/s11605-022-05304-1. Epub 2022 Mar 30. PMID: 35355172.
+
+476: Zeng J, Wang Z, Yang XJ. Factors predicting clinical and endoscopic
+remission with placebo therapy in East Asian patients with ulcerative colitis: a
+systematic review and meta-analysis. Eur J Clin Pharmacol. 2022
+Jul;78(7):1069-1077. doi: 10.1007/s00228-022-03312-3. Epub 2022 Mar 26. PMID:
+35347342.
+
+477: Conner BC, Remec NM, Lerner ZF. Is robotic gait training effective for
+individuals with cerebral palsy? A systematic review and meta-analysis of
+randomized controlled trials. Clin Rehabil. 2022 Jul;36(7):873-882. doi:
+10.1177/02692155221087084. Epub 2022 Mar 25. PMID: 35331027.
+
+478: Alvarez-Silvares E, Bermúdez-González M, Vilouta-Romero M, García-
+Lavandeira S, Seoane-Pillado T. Prediction of insulin therapy in women with
+gestational diabetes: a systematic review and meta-analysis of observational
+studies. J Perinat Med. 2022 Mar 22;50(5):608-619. doi: 10.1515/jpm-2021-0247.
+PMID: 35313096.
+
+479: Hu W, Cai H, Zhang J. Direct oral anticoagulants versus warfarin in
+nonvalvular atrial fibrillation patients with prior gastrointestinal bleeding: a
+network meta-analysis of real-world data. Eur J Clin Pharmacol. 2022
+Jul;78(7):1057-1067. doi: 10.1007/s00228-022-03300-7. Epub 2022 Mar 16. PMID:
+35296907.
+
+480: Khamees D, Peterson W, Patricio M, Pawlikowska T, Commissaris C, Austin A,
+Davis M, Spadafore M, Griffith M, Hider A, Pawlik C, Stojan J, Grafton-Clarke C,
+Uraiby H, Thammasitboon S, Gordon M, Daniel M. Remote learning developments in
+postgraduate medical education in response to the COVID-19 pandemic - A BEME
+systematic review: BEME Guide No. 71. Med Teach. 2022 May;44(5):466-485. doi:
+10.1080/0142159X.2022.2040732. Epub 2022 Mar 15. PMID: 35289242.
+
+481: Bhagavathula AS, Woolf B, Rahmani J, Vidyasagar K, Tesfaye W. Selective
+serotonin reuptake inhibitors use and the risk of hepatocellular carcinoma: a
+systematic review and dose-response analysis of cohort studies with one million
+participants. Eur J Clin Pharmacol. 2022 Jul;78(7):1199-1200. doi:
+10.1007/s00228-022-03309-y. Epub 2022 Mar 11. PMID: 35274148.
+
+482: Phan D, Furtado R, Laurence JM, Pleass H. Splenic Artery Aneurysm
+Management in the Cirrhotic Patient Listed for Liver Transplantation: A
+Systematic Review. Transplant Proc. 2022 Apr;54(3):706-714. doi:
+10.1016/j.transproceed.2022.01.031. Epub 2022 Mar 8. PMID: 35272877.
+
+483: Mustafa HJ, Javinani A, Goetzinger K, Aghajani F, Harman C, Shamshirsaz AA,
+Sanz Cortes M, Donepudi RV, Krispin E, Nassr AA, Espinoza J, Belfort MA, Turan
+OM. Single fetal demise following fetoscopic ablation for twin-to-twin
+transfusion syndrome-cohort study, systematic review, and meta-analysis. Am J
+Obstet Gynecol. 2022 Jun;226(6):843.e1-843.e28. doi: 10.1016/j.ajog.2022.02.035.
+Epub 2022 Mar 4. PMID: 35257668.
+
+484: Abou L, Fliflet A, Zhao L, Du Y, Rice L. The Effectiveness of Exercise
+Interventions to Improve Gait and Balance in Individuals with Lower Limb
+Amputations: A Systematic Review and Meta-analysis. Clin Rehabil. 2022
+Jul;36(7):857-872. doi: 10.1177/02692155221086204. Epub 2022 Mar 7. PMID:
+35254152.
+
+485: Lin LY, Lin LH, Tzeng GL, Huang YH, Tai JF, Chen YL, Wu CJ, Chen PH, Lin
+PC, Hung PL. Effects of Mindfulness-Based Therapy for Cancer Patients: A
+Systematic Review and Meta-analysis. J Clin Psychol Med Settings. 2022
+Jun;29(2):432-445. doi: 10.1007/s10880-022-09862-z. Epub 2022 Mar 6. PMID:
+35249176.
+
+486: Phillips JM, Sakamoto S, Buffie A, Su S, Waters JH. How do I perform cell
+salvage during vaginal obstetric hemorrhage? Transfusion. 2022
+Jun;62(6):1159-1165. doi: 10.1111/trf.16846. Epub 2022 Mar 5. PMID: 35247224.
+
+487: Chen Y, Dong B, Jiang Z, Cai Q, Huang L, Huang H. SuperSonic shear imaging
+for the differentiation between benign and malignant thyroid nodules: a meta-
+analysis. J Endocrinol Invest. 2022 Jul;45(7):1327-1339. doi:
+10.1007/s40618-022-01765-y. Epub 2022 Mar 1. PMID: 35229278.
+
+488: Rodrigues YE, Fanton M, Novossat RS, Canuto R. Perceived racial
+discrimination and eating habits: a systematic review and conceptual models.
+Nutr Rev. 2022 Jun 9;80(7):1769-1786. doi: 10.1093/nutrit/nuac001. PMID:
+35182155.
+
+489: Li Y, Li C, Wu G, Yang W, Wang X, Duan L, Niu L, Chen J, Zhang Y, Zhou W,
+Liu J, Hong L, Fan D. The obesity paradox in patients with colorectal cancer: a
+systematic review and meta-analysis. Nutr Rev. 2022 Jun 9;80(7):1755-1768. doi:
+10.1093/nutrit/nuac005. PMID: 35182150.
+
+490: Tienforti D, Di Giulio F, Spagnolo L, Castellini C, Totaro M, Muselli M,
+Francavilla S, Baroni MG, Barbonetti A. Chronic urticaria and thyroid
+autoimmunity: a meta-analysis of case-control studies. J Endocrinol Invest. 2022
+Jul;45(7):1317-1326. doi: 10.1007/s40618-022-01761-2. Epub 2022 Feb 18. PMID:
+35181847; PMCID: PMC9184403.
+
+491: Yang PF, Wang CR, Hao FB, Peng Y, Wu JJ, Sun WP, Hu JJ, Zhong GC.
+Egg consumption and risks of all-cause and cause-specific mortality: a dose-
+response meta-analysis of prospective cohort studies. Nutr Rev. 2022 Jun
+9;80(7):1739-1754. doi: 10.1093/nutrit/nuac002. PMID: 35178575.
+
+492: Akhter F, Manrique-Bedoya S, Moreau C, Smith AL, Feng Y, Mayer KM, Hood RL.
+Characterization of thermal and optical properties in porcine pancreas tissue.
+Lasers Surg Med. 2022 Jul;54(5):702-715. doi: 10.1002/lsm.23523. Epub 2022 Feb
+16. PMID: 35170764.
+
+493: He Z, Wang H, Lin F, Ding W, Chen K, Zhang Z. The safety and efficacy of
+different endovascular treatments for in-stent restenosis of the femoropopliteal
+artery: A network meta-analysis. Vasc Med. 2022 Jun;27(3):239-250. doi:
+10.1177/1358863X211070327. Epub 2022 Feb 15. PMID: 35164613.
+
+494: Bellinato F, Gisondi P, Mantovani A, Girolomoni G, Targher G. Risk of non-
+alcoholic fatty liver disease in patients with chronic plaque psoriasis: an
+updated systematic review and meta-analysis of observational studies. J
+Endocrinol Invest. 2022 Jul;45(7):1277-1288. doi: 10.1007/s40618-022-01755-0.
+Epub 2022 Feb 11. PMID: 35147926; PMCID: PMC9184411.
+
+495: Dervenis N, Dervenis P, Sandinha T, Murphy DC, Steel DH. Intraocular
+Tamponade Choice with Vitrectomy and Internal Limiting Membrane Peeling for
+Idiopathic Macular Hole: A Systematic Review and Meta-analysis. Ophthalmol
+Retina. 2022 Jun;6(6):457-468. doi: 10.1016/j.oret.2022.01.023. Epub 2022 Feb 7.
+PMID: 35144020.
+
+496: Bonavolontà V, Cianferotti L, Iolascon G, Moretti A, Brandi ML, Fischetti
+F, Lenzi A, Baldari C, Migliaccio S. Which physical activity in patients
+affected by hypoparathyroidism? A review of the literature and practical
+recommendations. J Endocrinol Invest. 2022 Jul;45(7):1289-1295. doi:
+10.1007/s40618-022-01756-z. Epub 2022 Feb 5. PMID: 35122630.
+
+497: Fonteh CN, Patnaik JL, Grove NC, Lynch AM, Christopher KL. Predictors of
+Pseudophakic Retinal Tears at a Tertiary Care Academic Medical Center.
+Ophthalmol Retina. 2022 Jun;6(6):450-456. doi: 10.1016/j.oret.2022.01.010. Epub
+2022 Jan 31. PMID: 35093584.
+
+498: Wagner SM, Mendez-Figueroa H, Chauhan SP. Interventions to decrease
+complications after shoulder dystocia: a systematic review and Bayesian meta-
+analysis: a response. Am J Obstet Gynecol. 2022 Jun;226(6):875-876. doi:
+10.1016/j.ajog.2022.01.011. Epub 2022 Jan 20. PMID: 35065021.
+
+499: Allen RH, Gurewitsch Allen E. Interventions to decrease complications after
+shoulder dystocia: a systematic review and Bayesian meta-analysis: a reply. Am J
+Obstet Gynecol. 2022 Jun;226(6):874-875. doi: 10.1016/j.ajog.2022.01.013. Epub
+2022 Jan 20. PMID: 35065015.
+
+500: Szewczyk AK, Jamroz-Wiśniewska A, Haratym N, Rejdak K. Neuropathic pain and
+chronic pain as an underestimated interdisciplinary problem. Int J Occup Med
+Environ Health. 2022 Jun 8;35(3):249-264. doi: 10.13075/ijomeh.1896.01676. Epub
+2022 Jan 4. PMID: 35040826.
+
+501: Khan PS, Rajesh P, Rajendra P, Chaskar MG, Rohidas A, Jaiprakash S. Recent
+advances in B-RAF inhibitors as anticancer agents. Bioorg Chem. 2022
+Mar;120:105597. doi: 10.1016/j.bioorg.2022.105597. Epub 2022 Jan 7. PMID:
+35033817.
+
+502: Zhang M, Fan Y, Nie L, Wang G, Sun K, Cheng Y. Clinical Outcomes of Immune
+Checkpoint Inhibitor Therapy in Patients With Advanced Non-small Cell Lung
+Cancer and Preexisting Interstitial Lung Diseases: A Systematic Review and Meta-
+analysis. Chest. 2022 Jun;161(6):1675-1686. doi: 10.1016/j.chest.2021.12.656.
+Epub 2022 Jan 11. PMID: 35026298.
+
+503: Ajluni SC Jr, Mously H, Chami T, Hajjari J, Stout A, Zacharias M, ElAmm C,
+Wilson D, Janus SE, Al-Kindi SG. Non-invasive Imaging in the Evaluation of
+Cardiac Allograft Vasculopathy in Heart Transplantation: A Systematic Review.
+Curr Probl Cardiol. 2022 Aug;47(8):101103. doi: 10.1016/j.cpcardiol.2022.101103.
+Epub 2022 Jan 10. PMID: 35016989.
+
+504: Jauniaux E, Hecht JL, Elbarmelgy RA, Elbarmelgy RM, Thabet MM, Hussein AM.
+Searching for placenta percreta: a prospective cohort and systematic review of
+case reports. Am J Obstet Gynecol. 2022 Jun;226(6):837.e1-837.e13. doi:
+10.1016/j.ajog.2021.12.030. Epub 2021 Dec 29. PMID: 34973177.
+
+505: Seaman RD, Kopkin RH, Turrentine MA. Erythromycin vs azithromycin for
+treatment of preterm prelabor rupture of membranes: a systematic review and
+meta-analysis. Am J Obstet Gynecol. 2022 Jun;226(6):794-801.e1. doi:
+10.1016/j.ajog.2021.12.262. Epub 2021 Dec 29. PMID: 34973176.
+
+506: Robertson N, Gunn S, Piper R. The Experience of Self-conscious Emotions in
+Inflammatory Bowel Disease: A Thematic Analysis. J Clin Psychol Med Settings.
+2022 Jun;29(2):344-356. doi: 10.1007/s10880-021-09778-0. Epub 2021 Dec 23. PMID:
+34950988; PMCID: PMC9184437.
+
+507: Shirasu T, Takagi H, Yasuhara J, Kuno T, Kent KC, Clouse WD. Smaller size
+is more suitable for pharmacotherapy among undersized abdominal aortic aneurysm:
+A systematic review and meta-analysis. Vasc Med. 2022 Jun;27(3):261-268. doi:
+10.1177/1358863X211061603. Epub 2021 Dec 20. PMID: 34930052.
+
+508: Alkhaifi M, Clayton A, Kangasjarvi E, Kishibe T, Simpson JS. Visual art-
+based training in undergraduate medical education: A systematic review. Med
+Teach. 2022 May;44(5):500-509. doi: 10.1080/0142159X.2021.2004304. Epub 2021 Nov
+22. PMID: 34807802.
+
+509: Bertholdt C, Morel O, Zuily S, Ambroise-Grandjean G. Manual rotation of
+occiput posterior or transverse positions: a systematic review and meta-analysis
+of randomized controlled trials. Am J Obstet Gynecol. 2022 Jun;226(6):781-793.
+doi: 10.1016/j.ajog.2021.11.033. Epub 2021 Nov 17. PMID: 34800396.
+
+510: Guillen AG, Reddy M, Saadat S, Chakravarthy B. Utilization of Telehealth
+Solutions for Patients with Opioid Use Disorder Using Buprenorphine: A Scoping
+Review. Telemed J E Health. 2022 Jun;28(6):761-767. doi: 10.1089/tmj.2021.0308.
+Epub 2021 Oct 29. PMID: 34714172.
+
+511: Oakley-Girvan I, Yunis R, Longmire M, Ouillon JS. What Works Best to Engage
+Participants in Mobile App Interventions and e-Health: A Scoping Review. Telemed
+J E Health. 2022 Jun;28(6):768-780. doi: 10.1089/tmj.2021.0176. Epub 2021 Oct
+11. PMID: 34637651.
+
+512: Margolis E, Brown G, Partin A, Carter B, McKiernan J, Tutrone R, Torkler P,
+Fischer C, Tadigotla V, Noerholm M, Donovan MJ, Skog J. Predicting high-grade
+prostate cancer at initial biopsy: clinical performance of the ExoDx (EPI)
+Prostate Intelliscore test in three independent prospective studies. Prostate
+Cancer Prostatic Dis. 2022 Feb;25(2):296-301. doi: 10.1038/s41391-021-00456-8.
+Epub 2021 Sep 30. PMID: 34593984; PMCID: PMC9184274.
+
+513: Haehner P, Kritzler S, Fassbender I, Luhmann M. Stability and change of
+perceived characteristics of major life events. J Pers Soc Psychol. 2022
+Jun;122(6):1098-1116. doi: 10.1037/pspp0000394. Epub 2021 Sep 30. PMID:
+34591539.
+
+514: van der Mierden S, Hooijmans CR, Tillema AH, Rehn S, Bleich A, Leenaars CH.
+Laboratory animals search filter for different literature databases: PubMed,
+Embase, Web of Science and PsycINFO. Lab Anim. 2022 Jun;56(3):279-286. doi:
+10.1177/00236772211045485. Epub 2021 Sep 24. PMID: 34559023.
+
+515: Bass EJ, Pantovic A, Connor MJ, Loeb S, Rastinehad AR, Winkler M, Gabe R,
+Ahmed HU. Diagnostic accuracy of magnetic resonance imaging targeted biopsy
+techniques compared to transrectal ultrasound guided biopsy of the prostate: a
+systematic review and meta-analysis. Prostate Cancer Prostatic Dis. 2022
+Feb;25(2):174-179. doi: 10.1038/s41391-021-00449-7. Epub 2021 Sep 21. PMID:
+34548624; PMCID: PMC9184263.
+
+516: Fernández-Rodríguez R, Álvarez-Bueno C, Martínez-Ortega IA, Martínez-
+Vizcaíno V, Mesas AE, Notario-Pacheco B. Immediate effect of high-intensity
+exercise on brain-derived neurotrophic factor in healthy young adults: A
+systematic review and meta-analysis. J Sport Health Sci. 2022 May;11(3):367-375.
+doi: 10.1016/j.jshs.2021.08.004. Epub 2021 Sep 1. PMID: 34481089.
+
+517: Marshall AN, Root HJ, Valovich McLeod TC, Lam KC. Patient-Reported Outcome
+Measures for Pediatric Patients With Sport-Related Injuries: A Systematic
+Review. J Athl Train. 2022 Apr 1;57(4):371-384. doi: 10.4085/1062-6050-0598.20.
+PMID: 34478555; PMCID: PMC9020602.
+
+518: Edwards T, Michelsen AS, Fakolade AO, Dalgas U, Pilutti LA. Exercise
+training improves participation in persons with multiple sclerosis: A systematic
+review and meta-analysis. J Sport Health Sci. 2022 May;11(3):393-402. doi:
+10.1016/j.jshs.2021.07.007. Epub 2021 Jul 27. PMID: 34325022.
+
+519: Khoddam H, Emerson ND, Bursch B. Psychological Outcomes in Fathers of
+Critically Ill Children in the Pediatric Intensive Care Unit: A Systematic
+Review. J Clin Psychol Med Settings. 2022 Jun;29(2):249-261. doi:
+10.1007/s10880-021-09800-5. Epub 2021 Jul 16. PMID: 34272639.
+
+520: Vigneswaran HT, Mittelstaedt L, Crippa A, Eklund M, Vidal A, Freedland SJ,
+Abern MR. Progression on active surveillance for prostate cancer in Black men: a
+systematic review and meta-analysis. Prostate Cancer Prostatic Dis. 2022
+Feb;25(2):165-173. doi: 10.1038/s41391-021-00425-1. Epub 2021 Jul 8. PMID:
+34239046.
+
+521: Oerther B, Engel H, Bamberg F, Sigle A, Gratzke C, Benndorf M. Cancer
+detection rates of the PI-RADSv2.1 assessment categories: systematic review and
+meta-analysis on lesion level and patient level. Prostate Cancer Prostatic Dis.
+2022 Feb;25(2):256-263. doi: 10.1038/s41391-021-00417-1. Epub 2021 Jul 6. PMID:
+34230616; PMCID: PMC9184264.
+
+522: Umlauff L, Weber M, Freitag N, Fairman CM, Heidenreich A, Bloch W, Schumann
+M. Dietary interventions to improve body composition in men treated with
+androgen deprivation therapy for prostate cancer: a solution for the growing
+problem? Prostate Cancer Prostatic Dis. 2022 Feb;25(2):149-158. doi:
+10.1038/s41391-021-00411-7. Epub 2021 Jun 30. PMID: 34193946; PMCID: PMC9184277.
+
+523: D'Ascenzi F, Valentini F, Pistoresi S, Frascaro F, Piu P, Cavigli L,
+Valente S, Focardi M, Cameli M, Bonifazi M, Metra M, Mondillo S. Causes of
+sudden cardiac death in young athletes and non-athletes: systematic review and
+meta-analysis: Sudden cardiac death in the young. Trends Cardiovasc Med. 2022
+Jul;32(5):299-308. doi: 10.1016/j.tcm.2021.06.001. Epub 2021 Jun 22. PMID:
+34166791.
+
+524: Wenzel M, Nocera L, Collà Ruvolo C, Würnschimmel C, Tian Z, Shariat SF,
+Saad F, Tilki D, Graefen M, Kluth LA, Briganti A, Mandel P, Montorsi F, Chun
+FKH, Karakiewicz PI. Overall survival and adverse events after treatment with
+darolutamide vs. apalutamide vs. enzalutamide for high-risk non-metastatic
+castration-resistant prostate cancer: a systematic review and network meta-
+analysis. Prostate Cancer Prostatic Dis. 2022 Feb;25(2):139-148. doi:
+10.1038/s41391-021-00395-4. Epub 2021 May 30. PMID: 34054128; PMCID: PMC9184262.
+
+525: Cerqueira MS, Maciel DG, Barboza JAM, Centner C, Lira M, Pereira R, De
+Brito Vieira WH. Low-Load Blood-Flow Restriction Exercise to Failure and
+Nonfailure and Myoelectric Activity: A Meta-Analysis. J Athl Train. 2022 Apr
+1;57(4):402-417. doi: 10.4085/1062-6050-0603.20. PMID: 34038945; PMCID:
+PMC9020604.
+
+526: Haghpanah S, Hosseini-Bensenjan M, Sayadi M, Karimi M. Incidence Rate of
+COVID-19 Infection in Hemoglobinopathies: A Systematic Review and Meta-analysis.
+Hemoglobin. 2021 Nov;45(6):371-379. doi: 10.1080/03630269.2021.1927751. Epub
+2021 May 24. PMID: 34027786.
+
+527: Iversen S, Robertson N. Prevalence and predictors of secondary trauma in
+the legal profession: a systematic review. Psychiatr Psychol Law. 2021 Mar
+5;28(6):802-822. doi: 10.1080/13218719.2020.1855270. PMID: 35694647; PMCID:
+PMC9176334.
+
+528: O'Donnell S, Lohan M, Oliffe JL, Grant D, Galway K. The acceptability,
+effectiveness and gender responsiveness of participatory arts interventions in
+promoting mental health and Wellbeing: a systematic review. Arts Health. 2022
+Jun;14(2):186-203. doi: 10.1080/17533015.2021.1894463. Epub 2021 Mar 4. PMID:
+33661710.
+
+529: Milasan LH, Bingley AF, Fisher NR. The big picture of recovery: a
+systematic review on the evidence of photography-based methods in researching
+recovery from mental distress. Arts Health. 2022 Jun;14(2):165-185. doi:
+10.1080/17533015.2020.1855453. Epub 2020 Nov 30. PMID: 33252304.
+
+530: Marasingha-Arachchige SU, Rubio-Arias JÁ, Alcaraz PE, Chung LH. Factors
+that affect heart rate variability following acute resistance exercise: A
+systematic review and meta-analysis. J Sport Health Sci. 2022 May;11(3):376-392.
+doi: 10.1016/j.jshs.2020.11.008. Epub 2020 Nov 24. PMID: 33246163.
+
+531: Enkema MC, McClain L, Bird ER, Halvorson MA, Larimer ME. Associations
+between mindfulness and mental health outcomes: A systematic review of
+ecological momentary assessment research. Mindfulness (N Y). 2020
+Nov;11(11):2455-2469. doi: 10.1007/s12671-020-01442-2. Epub 2020 Jul 15. PMID:
+35694042; PMCID: PMC9187214.
+
+532: Field A, Naughton RJ, Haines M, Lui S, Corr LD, Russell M, Page RM, Harper
+LD. The demands of the extra-time period of soccer: A systematic review. J Sport
+Health Sci. 2022 May;11(3):403-414. doi: 10.1016/j.jshs.2020.03.008. Epub 2020
+May 20. PMID: 32445903.
+
+533: Zou B, Schuster JP, Niu K, Huang Q, Rühle A, Huber PE. Radiotherapy-induced
+heart disease: a review of the literature. Precis Clin Med. 2019
+Dec;2(4):270-282. doi: 10.1093/pcmedi/pbz025. Epub 2019 Nov 29. PMID: 35693876;
+PMCID: PMC8985808.
+
+534: Yang X, Qin D, Zhang Y, Li X, Liu N, Zhou Y, Feng M, Wang Y. An elderly
+female patient with ROS1 rearrangement primary lung adenocarcinoma and breast
+carcinoma: a rare case report and review of the literature. Precis Clin Med.
+2019 Oct;2(3):197-203. doi: 10.1093/pcmedi/pbz013. Epub 2019 Aug 28. PMID:
+35694436; PMCID: PMC8982593.
+
+535: Sharma-Oates A, Shaaban AM, Tomlinson I, Wynne L, Cazier JB, Sundar S.
+Heterogeneity of germline variants in high risk breast and ovarian cancer
+susceptibility genes in India. Precis Clin Med. 2018 Sep;1(2):75-87. doi:
+10.1093/pcmedi/pby010. Epub 2018 Sep 22. Erratum in: Precis Clin Med. 2018
+Dec;1(3):134. PMID: 35693198; PMCID: PMC8985795.
