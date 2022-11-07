@@ -303,7 +303,7 @@ Each step is also marked with an appraisal status icon:
 >
 > * Replace all the upper limit dates with the date needed using any text editor.
 > * If you need to filter just the records indexed _on_ that date (instead of all the records indexed _by_ that date), then add the following fragment to the query (either before the first or after the last parenthesis): `(2020/09/09:2020/09/09[crdt] OR 2020/09/09:2020/09/09[dcom] OR 2020/09/09:2020/09/09[mhda])`, where the date is your required date (should be the same as the upper limit date).
-> * If everything done correctly & the query itself still works, you will get a consistent set of records each time on whatever date you run the query.
+> * If everything done correctly & the query itself still works, you will get a consistent set of records each time on whatever date you run the query. **Notice 2: Replicated Systematic Review Subset appears to have stopped producing replicable record sets on PubMed’s side as of June 2022.** I initiated an [investigation](zheln/Replicated_Systematic_Subset_Query.md) to find out more.
 
 ```
 (
