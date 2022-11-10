@@ -458,7 +458,8 @@
 
 **Nov 6, 2022**
 
-I am finally going to investigate the reasons behind the query not being replicable anymore, as I have [first noticed in June 2022](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/0da3c163f9da1ac98e38c03fb0ff367ea0286d47).
+* I am finally going to investigate the reasons behind the query not being replicable anymore, as I have [first noticed in June 2022](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/0da3c163f9da1ac98e38c03fb0ff367ea0286d47).
+* So let’s take the last one I did, and this the one [Oct 18 through 25, 2022](zheln/ssb-replicated-ae408b9/ssb-replicated-ae408b9_2022-10-18_thru_2022-10-25.md). It used to produce **2,941** on Oct 26, 2022. Now that I’ve copied, pasted, and run it through [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov), it’s **2,921**.
 
 **Before November 2022**
 
