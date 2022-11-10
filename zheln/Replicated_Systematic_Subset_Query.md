@@ -456,6 +456,22 @@
 
 ## Development Log
 
+**Nov 10, 2022**
+
+Doing more as a table to try and find a clue or at least figure out the extent of the problem (or if it changes with time):
+
+| Query # | Original Date | Original Total | Replication Date | Replication Total | Difference (%) |
+|---------|---------------|:--------------:|:----------------:|:-----------------:|:--------------:|
+| 1 | Sep 1, 2020 | 578 | Nov 10, 2022 | 587 | +9 (+1.6%) |
+| 2 | Sep 2, 2020 | 409 | Nov 10, 2022 | 407 | -2 (-0.5%) |
+| … | … | … | … | … | … |
+| 3 | Oct 26, 2022 | 2,941 | Nov 6, 2022<br>Nov 10, 2022 | 2,921<br>2,917 | -20 (-0.7%)<br>-24 (-0.8%) |
+| 4 | Nov 6, 2022 | 3,237 | Nov 10, 2022 | 3,233 | -4 (-0.1%) |
+
+So the difference is not _that_ big; it is not uniform in terms of its direction; and it tends to accumulate over time. We are keeping in mind that between 2020 and 2022 there were major changes in NLM’s procedures for PubMed, so there may be heterogeneity in the difference.
+
+Anyway, let’s look at the structural changes next to identify and inspect the records that differ.
+
 **Nov 6, 2022**
 
 * I am finally going to investigate the reasons behind the query not being replicable anymore, as I have [first noticed in June 2022](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/0da3c163f9da1ac98e38c03fb0ff367ea0286d47).
