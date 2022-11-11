@@ -460,15 +460,15 @@
 
 Doing more as a table to try and find a clue or at least figure out the extent of the problem (or if it changes with time):
 
-| Query # | Original Date | Original Total | Replication Date | Replication Total | Difference (%) |
-|---------|---------------|:--------------:|:----------------:|:-----------------:|:--------------:|
-| 1 | Sep 1, 2020 | 578 | Nov 10, 2022 | 587 | +9 (+1.6%) |
-| 2 | Sep 2, 2020 | 409 | Nov 10, 2022 | 407 | -2 (-0.5%) |
+| Period of Coverage | Original Query Date | Original Total | Replication Date | Replication Total | Difference (%) |
+|--------------------|---------------|:--------------:|------------------|:-----------------:|:--------------:|
+| [Nov 7, 2020](ssb-replicated-ae408b9/ssb-replicated-ae408b9_2020-11-07.md) | Nov 9, 2020 | 290 | Nov 10, 2022 | 145 | -145 (-50%) |
+| [Nov 8, 2020](ssb-replicated-ae408b9/ssb-replicated-ae408b9_2020-11-08.md) | Nov 10, 2020 | 180 | Nov 10, 2022 | 63 | -117 (-65%) |
 | … | … | … | … | … | … |
-| 3 | Oct 26, 2022 | 2,941 | Nov 6, 2022<br>Nov 10, 2022 | 2,921<br>2,917 | -20 (-0.7%)<br>-24 (-0.8%) |
-| 4 | Nov 6, 2022 | 3,237 | Nov 10, 2022 | 3,233 | -4 (-0.1%) |
+| [October 18&ndash;25, 2022](ssb-replicated-ae408b9/ssb-replicated-ae408b9_2022-10-18_thru_2022-10-25.md) | Oct 26, 2022 | 2,941 | Nov 6, 2022<br>Nov 10, 2022 | 2,921<br>2,917 | -20 (-0.7%)<br>-24 (-0.8%) |
+| [October 26 &ndash; November 5, 2022](ssb-replicated-ae408b9/ssb-replicated-ae408b9_2022-10-26_thru_2022-11-05.md) | Nov 6, 2022 | 3,237 | Nov 10, 2022 | 3,233 | -4 (-0.1%) |
 
-So the difference is not _that_ big; it is not uniform in terms of its direction; and it tends to accumulate over time. We are keeping in mind that between 2020 and 2022 there were major changes in NLM’s procedures for PubMed, so there may be heterogeneity in the difference.
+So the difference is, <s>not _that_ big</s> at times, _substantial_ (more than a twofold reduction for one date!); it is not uniform in terms of its direction; and it tends to accumulate over time. We are keeping in mind that between 2020 and 2022 there were major changes in NLM’s procedures for PubMed, so there may be heterogeneity in the difference.
 
 Anyway, let’s look at the structural changes next to identify and inspect the records that differ.
 
