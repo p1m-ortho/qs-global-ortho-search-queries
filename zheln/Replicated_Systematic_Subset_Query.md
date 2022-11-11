@@ -460,7 +460,9 @@
 
 This day the [October 18&ndash;25, 2022](ssb-replicated-ae408b9/ssb-replicated-ae408b9_2022-10-18_thru_2022-10-25.md) query also produced **2,917** records, the [Nov 7, 2020](ssb-replicated-ae408b9/ssb-replicated-ae408b9_2020-11-07.md) query also produced **145** records, and the [Nov 8, 2020](ssb-replicated-ae408b9/ssb-replicated-ae408b9_2020-11-08.md) query also produced **63** records.
 
-Now that I have all the new query results exported, I can identify and inspect the records.
+Now that I have all the new query results exported, I can identify and inspect the records. And even simply looking at the sorted PMID lists (see [diffs](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query/zheln/rssb-debug)), I am noticing that for the 2020 records, the bulk of the records with lesser PMIDs went missing over time, whereas for the recent late Oct and Nov, 2022, records, record additions and deletions seem random.
+
+So, time to look at the individual records.
 
 **Nov 10, 2022**
 
