@@ -12,9 +12,22 @@
 
 This day the [October 18&ndash;25, 2022](ssb-replicated-ae408b9/ssb-replicated-ae408b9_2022-10-18_thru_2022-10-25.md) query also produced **2,917** records, the [Nov 7, 2020](ssb-replicated-ae408b9/ssb-replicated-ae408b9_2020-11-07.md) query also produced **145** records, and the [Nov 8, 2020](ssb-replicated-ae408b9/ssb-replicated-ae408b9_2020-11-08.md) query also produced **63** records.
 
-Now that I have all the new query results exported, I can identify and inspect the records. And even simply looking at the sorted PMID lists (see [diffs](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query/zheln/rssb-debug)), I am noticing that for the 2020 records, the bulk of the records with lesser PMIDs went missing over time, whereas for the recent late Oct and Nov, 2022, records, record additions and deletions seem random.
+Now that I have all the new query results [exported](rssb-debug), I can identify and inspect the records. And even simply looking at the sorted PMID lists (see [this diff](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/db17f9ffd79b41f964a3b4d606a8886c0c4dcb30)), I am noticing that for the 2020 records, the bulk of the records with lesser PMIDs went missing over time, whereas for the recent late Oct and Nov, 2022, records, record additions and deletions seem random.
 
 So, time to look at the individual records.
+
+* Now, after inspecting the Nov 7, 2020, records only (namely, the [33152950](https://pubmed.ncbi.nlm.nih.gov/33152950/?format=pubmed) and [33157545](https://pubmed.ncbi.nlm.nih.gov/33157545/?format=pubmed) missing upon replication, and the [33157522](https://pubmed.ncbi.nlm.nih.gov/33157522/?format=pubmed) not missing ­– selected those by just staring at the [diff](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/db17f9ffd79b41f964a3b4d606a8886c0c4dcb30#diff-f7eb700517d6e700692c282c73baddee7e8479f50d18600d4a09b776499ea9c6)), I could easily see that the missing ones had their CRDT set to the previous day (for whatever reason), which is why they got left out of capture. However, their EDAT is still Nov 7, 2020, so simply unioning `2020/11/07:2020/11/07[edat]` to that last query fragment got me **289** records, which is just one record fewer than the original. Whoa!
+* This low-effort trick also worked on the Nov 8, 2020, records, getting me **180** records upon replication, which is exactly the same number as the original. Still need to verify if all the records are the same, though, but this would probably make a difference smaller than one percent, which would be, like, a **50 times** better replication than before the fix.
+
+  > **⚠ Spoiler Alert!** No, upon diff the records are the same except for the missing one record among the Nov 7, 2020, records ([PMID 33156898](https://pubmed.ncbi.nlm.nih.gov/33156898), which is a _duplicate_ of 33951149 as you are told in the Redirection Notice shown when opening the link), and the Nov 8, 2020, set of 180 records is identical at replication after **two full fucking years.**
+
+* Applying the EDAT fix to the October 18&ndash;25, 2022, records provided me with **2,924** records in place of the original 2,941, which is not much better than before the fix.
+* For the October 26 &ndash; November 5, 2022, records, the fix gave me **3,232**, which is also not very much better than before the fix. But the difference here is still of several records only, so it would be quite easy to look at these and try to find out what’s wrong.
+
+So, the next debug steps are:
+
+1. **What are the structural changes remaining after applying the EDAT fix?** None, from the query’s part ­– see the _spoiler_ above. However, we have learned that if a duplicate is spotted by the PubMed team, they remove the duplicate record and put up a Redirection Notice whilst redirecting the user to the ‘original’ one. How they choose which one is the original and which one a duplicate is unclear at this point, though. But we do know that they remove the duplicates from query results, and the `PubMed` display format is also unavailable for them (from which I should basically infer they are not existent anymore). And this definitely turns problematic for query replicability, as in our Nov 7, 2020, case where the [PMID 33156898](https://pubmed.ncbi.nlm.nih.gov/33156898) is no longer shown in the query results because it was removed as duplicate, whereas the ‘original’ [PMID 33951149](https://pubmed.ncbi.nlm.nih.gov/33951149) is **still** not shown in the query results thus sending this record totally missing.
+2. **What is wrong with the recent, late Oct and Nov, 2022, records if the EDAT fix does not quite work for them?** We will look into this shortly.
 
 **Nov 10, 2022**
 
