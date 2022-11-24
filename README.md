@@ -110,7 +110,7 @@ Each step is also marked with an appraisal status icon:
 * This _PubMed Systematic Review Subset Query, Zheln Edition,_ ultimately represents the [Search Strategy Used to Create the Systematic Reviews Subset on PubMed](https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) as joined from the two versions: [February 2017](http://web.archive.org/web/20181023065423/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) and [December 2018](http://web.archive.org/web/20190711085949/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html).
 * The February 2017 version is [based](https://wayback.archive-it.org/org-350/20180406175620/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_sources.html) on the study by [Shojania & Bero 2001](https://pubmed.gov/11525102).
 * I don’t know what the December 2018 version is based on, it’s not been written there.
-* The _Zheln Edition_ exists in two versions: [Live](#live-version) & [Replicated](#replicated-version). The former is a regular search query that would produce all records available by the time of search, whereas the latter produces a consistent, replicable set of records for a certain date.
+* The _Zheln Edition_ exists in two versions: [Live](#live-version) & [Reproducible](#reproducible-version). The former is a regular search query that would produce all records available by the time of search, whereas the latter produces a consistent, replicable set of records for a certain date.
 * See a detailed account of the development of the _Zheln Edition_ and its testing reports in the [commit history of the repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query). Further testing from November 2022 onward is available from a [dedicated page](zheln/Replicated_Systematic_Subset_Query.md).
 * While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
 * On [Zheln](https://zheln.com), records that are at the Step 1 of the appraisal process are automatically (since the [version 2.2.1](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/af6d75fa635c2d62169e9ec36505b9657a127ed9#diff-d556e85617be04293b0ad953ad7028b3) of the record-maker script) assigned the `awaiting appraisal` status tag. Also, the [corresponding footer](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/footer-1-true.txt) is attached and the records are sorted [at random](https://www.random.org/sequences/?mode=advanced) within their date.
@@ -294,7 +294,7 @@ Each step is also marked with an appraisal status icon:
 )
 ```
 
-### Replicated Version
+### Reproducible Version
 
 Please see the [dedicated file](zheln/Replicated_Systematic_Subset_Query.md).
 
@@ -308,7 +308,7 @@ Please see the [dedicated file](zheln/Replicated_Systematic_Subset_Query.md).
 
 ### _Editable Version_
 
-1. Go to [PubMed](https://pubmed.gov); copy, paste, and run the [replicated version](#replicated-version) of the Zheln search query.
+1. Go to [PubMed](https://pubmed.gov); copy, paste, and run the [reproducible version](#reproducible-version) of the Zheln search query.
 2. Press `Display options` and ensure the following values are set:
     
     * Format `Summary`
@@ -323,10 +323,10 @@ Please see the [dedicated file](zheln/Replicated_Systematic_Subset_Query.md).
 5. Wait until the file is generated and downloaded. Afterwards, a `summary-systematic-set.txt` file will appear on your device.
 6. Create a `summary-systematic-set` directory on your device and put this file there. Then rename the file to follow the `summary-systematic-set_%Y-%m-%d_%count.txt` convention, where:
 
-    * `%Y` is the year used in the replicated search
-    * `%m` is the month used in the replicated search
-    * `%d` is the day used in the replicated search
-    * `%count` is the number of _results_ retrieved when running the replicated search
+    * `%Y` is the year used in the reproducible search
+    * `%m` is the month used in the reproducible search
+    * `%d` is the day used in the reproducible search
+    * `%count` is the number of _results_ retrieved when running the reproducible search
 
     See examples of how these look like in the [summary-systematic-set](https://github.com/p1m-ortho/qs-global-ortho-search-queries/tree/global-sr-query/zheln/summary-systematic-set) directory in this repository.
 
@@ -340,8 +340,8 @@ Please see the [dedicated file](zheln/Replicated_Systematic_Subset_Query.md).
 8. Open the `general-makeposti.sh` file with any plain-text editor. Then look at the first 10 lines and procure the following:
 
     * `edit=true`
-    * Set `date` to the date you used in the replicated search in the `yyyy-mm-dd` format
-    * Set `count` to the number of _results_ retrieved when running the replicated search
+    * Set `date` to the date you used in the reproducible search in the `yyyy-mm-dd` format
+    * Set `count` to the number of _results_ retrieved when running the reproducible search
     * Set `coreutils` to `false` if you are using the native GNU Bash; otherwise, set it to `true` if you are using the [CoreUtils](https://www.gnu.org/software/coreutils/) package
     * Other variables are irrelevant to successful compilation
 
@@ -377,7 +377,7 @@ Please see the [dedicated file](zheln/Replicated_Systematic_Subset_Query.md).
 
     * `edit=false`
     * Set `date` to the date of your editable records in the `yyyy-mm-dd` format
-    * Set `count` to the number of your editable records (should equal the number of records retrieved by the replicated search on the date of your editable records)
+    * Set `count` to the number of your editable records (should equal the number of records retrieved by the reproducible search on the date of your editable records)
     * Set `coreutils` to `false` if you are using the native GNU Bash; otherwise, set it to `true` if you are using the [CoreUtils](https://www.gnu.org/software/coreutils/) package
     * Other variables are irrelevant to successful compilation
 

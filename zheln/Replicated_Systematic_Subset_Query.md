@@ -1,10 +1,10 @@
-# Zheln Search – Replicated Systematic Review Subset
+# Zheln Search – Reproducible Systematic Review Subset
 
 ## Background
 
 * This query ultimately represents the [Search Strategy Used to Create the Systematic Reviews Subset on PubMed](https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) as joined from the two versions: [February 2017](http://web.archive.org/web/20181023065423/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html) and [December 2018](http://web.archive.org/web/20190711085949/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html).
 * The February 2017 version is [based](https://wayback.archive-it.org/org-350/20180406175620/https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_sources.html) on the study by [Shojania & Bero 2001](https://pubmed.gov/11525102). I don’t know what the December 2018 version is based on, it’s not been written there.
-* The Replicated version produces a replicable set of records for a certain date or date period. In other words, if the query still works, you will get a consistent set of records each time on whatever date you run the query. Notice: There is [evidence PubMed index is sometimes updated retrospectively](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/29c9a7cfba51dc06390672971eb69d248b91cf35); therefore, in these cases, count mismatches may still occur. **Notice 2: Replicated Systematic Review Subset appears to have stopped producing replicable record sets on PubMed’s side as of June 2022.** I initiated an investigation to find out more – please see the [Development Log](#development-log) down below.
+* The Reproducible version produces a replicable set of records for a certain date or date period. In other words, if the query still works, you will get a consistent set of records each time on whatever date you run the query. Notice: There is [evidence PubMed index is sometimes updated retrospectively](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/29c9a7cfba51dc06390672971eb69d248b91cf35); therefore, in these cases, count mismatches may still occur. **Notice 2: Reproducible Systematic Review Subset appears to have stopped producing replicable record sets on PubMed’s side as of June 2022.** I initiated an investigation to find out more – please see the [Development Log](#development-log) down below.
 
 ## Development Log
 
@@ -52,11 +52,11 @@ Anyway, let’s look at the structural changes next to identify and inspect the 
 
 **Before November 2022**
 
-See a detailed account of development of the Replicated Systematic Review Subset and its testing reports in the [commit history of the Zheln methods repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query). While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository). Further testing from November 2022 onward is available in this section.
+See a detailed account of development of the Reproducible Systematic Review Subset and its testing reports in the [commit history of the Zheln methods repository](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commits/global-sr-query). While lurking through the commit history, be sure to inspect [both the diff _and_ the body of the commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository). Further testing from November 2022 onward is available in this section.
 
 ## Current Version
 
-_With the [EDAT fix](#development-log) applied._
+_With the [EDAT fix](#development-log) applied (version [8ac8866](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/8ac886686c3b481e6fe20d622d128687087cf4f5))._
 
 **Usage Notes**
 
