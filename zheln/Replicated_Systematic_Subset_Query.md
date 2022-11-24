@@ -56,11 +56,13 @@ See a detailed account of development of the Replicated Systematic Review Subset
 
 ## Current Version
 
+_With the [EDAT fix](#development-log) applied._
+
 **Usage Notes**
 
 * Intended to cover records from Oct 26, 2022, to Nov 5, 2022.
-* Run on Nov 6, 2022, to retrieve 3,237 records.
-* To change the date interval, one would need to replace all the upper limit dates with the latest date needed, and the lower limit dates from the final `(2022/10/26:2022/11/05[crdt] OR 2022/10/26:2022/11/05[dcom] OR 2022/10/26:2022/11/05[mhda])` fragment with the earliest date needed (not touching the `1865/01/01` fragments throughout the query, though), using any text editor. If one is to filter just the records indexed _on_ the date or _by_ the date, one needs to edit this final fragment accordingly.
+* Run on Nov 24, 2022, to retrieve 3,228 records.
+* To change the date interval, one would need to replace all the upper limit dates with the latest date needed, and the lower limit dates from the final `(2022/10/26:2022/11/05[crdt] OR 2022/10/26:2022/11/05[dcom] OR 2022/10/26:2022/11/05[mhda] OR 2022/10/26:2022/11/05[edat])` fragment with the earliest date needed (not touching the `1865/01/01` fragments throughout the query, though), using any text editor. If one is to filter just the records indexed _on_ the date or _by_ the date, one needs to edit this final fragment accordingly.
 
 ```
 (
@@ -499,5 +501,5 @@ See a detailed account of development of the Replicated Systematic Review Subset
             1865/01/01:2022/11/05[dcom]
         )
     )
-) AND (2022/10/26:2022/11/05[crdt] OR 2022/10/26:2022/11/05[dcom] OR 2022/10/26:2022/11/05[mhda])
+) AND (2022/10/26:2022/11/05[crdt] OR 2022/10/26:2022/11/05[dcom] OR 2022/10/26:2022/11/05[mhda] OR 2022/10/26:2022/11/05[edat])
 ```
