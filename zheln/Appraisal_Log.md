@@ -157,3 +157,5 @@
 | October 12&ndash;17, 2022 | 2,532 | – | – | – | – | – | – | – |
 | October 18&ndash;25, 2022 | 2,941 | – | – | – | – | – | – | – |
 | October 26 &ndash; November 5, 2022 | 3,237 | – | – | – | – | – | – | – |
+| The [EDAT fix](/zheln/Replicated_Systematic_Subset_Query.md#development-log) introduced (RSSB version [8ac8866](https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/8ac886686c3b481e6fe20d622d128687087cf4f5)) | • | • | • | • | • | • | • | • |
+| November 6&ndash;23, 2022 | 5,471 | – | – | – | – | – | – | – |
