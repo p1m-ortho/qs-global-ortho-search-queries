@@ -161,3 +161,4 @@
 | November 6&ndash;23, 2022 | 5,471 | – | – | – | – | – | – | – |
 | November 24 &ndash; December 2, 2022 | 3,098 | – | – | – | – | – | – | – |
 | December 3, 2022 &ndash; January 3, 2023 | 8,189 | – | – | – | – | – | – | – |
+| January 3&ndash;27, 2023 | 7,341 | – | – | – | – | – | – | – |
