@@ -8,6 +8,12 @@
 
 ## Development Log
 
+**Jan 28, 2023**
+
+When I run the routine strategy on January 28, 2023, the query returned 7,341 records. **But while I was exporting the results, it became 7,383 records in the exported files.** When I noticed it and reran the query, it did give [7,383 records](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/summary-systematic-set/summary-systematic-set_2023-01-03_thru_2023-01-27_7383.txt). There could be no error on my side when I wrote down 7,341 records because I copied and pasted.
+
+So, now we know that this can happen! Not event the fact that I am only including the records for the last day that ended in UTC-12 does help. It will require further exploration.
+
 **Nov 11, 2022**
 
 This day the [October 18&ndash;25, 2022](ssb-replicated-ae408b9/ssb-replicated-ae408b9_2022-10-18_thru_2022-10-25.md) query also produced **2,917** records, the [Nov 7, 2020](ssb-replicated-ae408b9/ssb-replicated-ae408b9_2020-11-07.md) query also produced **145** records, and the [Nov 8, 2020](ssb-replicated-ae408b9/ssb-replicated-ae408b9_2020-11-08.md) query also produced **63** records.
