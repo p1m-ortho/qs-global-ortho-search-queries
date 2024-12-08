@@ -244,3 +244,5 @@
 | August 11 &ndash; September 14, 2024 | 9,824 | – | – | – | – | – | – | – |
 | September 15&ndash;30, 2024 | 4,779 | – | – | – | – | – | – | – |
 | October 1&ndash;27, 2024 | 7,497 | – | – | – | – | – | – | – |
+| October 28 &ndash; November 25, 2024 | 8,679 | – | – | – | – | – | – | – |
+| November 26 &ndash; December 7, 2024 | 4,478 | – | – | – | – | – | – | – |
