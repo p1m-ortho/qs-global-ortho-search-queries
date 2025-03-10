@@ -247,3 +247,7 @@
 | October 28 &ndash; November 25, 2024 | 8,679 | – | – | – | – | – | – | – |
 | November 26 &ndash; December 7, 2024 | 4,478 | – | – | – | – | – | – | – |
 | December 8&ndash;21, 2024 | 4,590 | – | – | – | – | – | – | – |
+| December 22, 2024 &ndash; January 20, 2025 | 7,761 | – | – | – | – | – | – | – |
+| <b>2025</b> | • | • | • | • | • | • | • | • |
+| January 21 &ndash; February 15, 2025 | 8,821 | – | – | – | – | – | – | – |
+| February 16 &ndash; March 8, 2025 | 7,318 | – | – | – | – | – | – | – |
